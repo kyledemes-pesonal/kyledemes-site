@@ -1,0 +1,39 @@
+- when: 2023 to present
+  what: Chief Operating Officer
+  where: OpenAlex (OurResearch)
+  text: Operations, partnerships and sustainability for OpenAlex, a free and open index of the world's research used by universities, funders and governments worldwide.
+- when: 2023 to present
+  what: Principal
+  where: Demes Strategic Consulting
+  text: Strategy, development and assessment work for universities, funders and governments.
+- when: 2020 to 2023
+  what: Research Intelligence Consultant
+  where: Elsevier Canada
+  text: Trusted advisor to 40+ Canadian universities and federal science departments on using analytics in research strategy, development and evaluation.
+- when: 2018 to 2020
+  what: Director, Institutional Strategic Awards
+  where: Simon Fraser University
+  text: Led the team developing and managing large-scale, multi-institutional research programs.
+- when: 2016 to 2018
+  what: Senior Advisor, Strategic Initiatives
+  where: University of British Columbia
+  text: Worked with the VP and AVP Research to put strategic priorities into practice, including new research support programs.
+- when: 2015 to 2016
+  what: Strategic Partnerships & Research Administration
+  where: Tula Foundation | Hakai Institute
+  text: Helped the foundation move from funding universities to building a world-class research institute.
+- when: 2013 to 2015
+  what: Hakai Postdoctoral Fellow
+  where: Simon Fraser University
+  text: Marine resource management, sea otter recovery and protected area efficacy.
+  past: true
+- when: 2009 to 2013
+  what: PhD, Zoology
+  where: University of British Columbia
+  text: How physical forces from waves drive the evolution of seaweeds.
+  past: true
+- when: 2007 to 2009
+  what: MSc, Marine Science
+  where: Moss Landing Marine Labs
+  text: Climate change and reproductive strategies in kelp. Student Body President.
+  past: true

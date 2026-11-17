@@ -1,0 +1,12 @@
+title: Kyle Demes
+description: Notes on research funding, open science, metadata and policy.
+url: https://kyledemes.com
+author: Kyle Demes
+email: kyle@demes.ca
+markdown: kramdown
+permalink: /writing/:year/:title/
+plugins:
+  - jekyll-feed
+exclude:
+  - README.md
+github_repo: https://github.com/kyledemes-pesonal/kyledemes-site

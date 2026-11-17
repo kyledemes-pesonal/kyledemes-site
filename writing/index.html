@@ -1,0 +1,10 @@
+---
+layout: default
+title: Writing
+---
+<h1>Writing</h1>
+<ul class="posts">
+{% for post in site.posts %}
+  <li><span class="date">{{ post.date | date: "%-d %B %Y" }}</span><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>

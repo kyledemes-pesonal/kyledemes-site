@@ -1,0 +1,68 @@
+---
+layout: default
+hero: true
+---
+<section class="hero">
+  <div class="wrap">
+    <img class="photo" src="{{ '/assets/img/headshot.jpg' | relative_url }}" alt="Kyle Demes">
+    <div>
+      <p class="eyebrow">Research ecosystem · open data · policy</p>
+      <h1>Kyle Demes</h1>
+      <p class="lead">Chief Operating Officer of <a href="https://openalex.org" style="color:#fff">OpenAlex</a>. Marine ecologist turned research strategist, working where funders, universities, publishers and governments meet.</p>
+      <a class="btn" href="{{ '/writing/' | relative_url }}">Read my writing</a>
+      <a class="btn ghost" href="mailto:{{ site.email }}">Get in touch</a>
+    </div>
+  </div>
+</section>
+
+<section class="band alt">
+  <div class="wrap">
+    <p class="eyebrow">What I do</p>
+    <h2>Data and strategy for research that matters</h2>
+    <div class="cards">
+      <div class="card"><div class="dots"><i></i><i></i><i></i></div>
+        <h3>Research intelligence</h3>
+        Open research data and analytics that show who funds research, who does it, and what comes of it.
+        <ul><li>Collaboration and bibliometric analysis</li><li>Funding and outcome tracking</li><li>Open metadata and infrastructure</li></ul></div>
+      <div class="card"><div class="dots"><i></i><i></i><i></i></div>
+        <h3>Research development</h3>
+        Proposal development, collaboration building and project management for big-ticket funding opportunities.
+        <ul><li>CERC, CFREF, CFI, NFRF, CRC</li><li>SSHRC Partnership, NSERC CREATE</li></ul></div>
+      <div class="card"><div class="dots"><i></i><i></i><i></i></div>
+        <h3>Strategy and evaluation</h3>
+        Strategic research plans and evaluation frameworks that help institutions and funders focus support and measure impact.
+        <ul><li>Strategic research plans</li><li>Program and policy evaluation</li></ul></div>
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap grid2">
+    <div>
+      <p class="eyebrow">Career at a glance</p>
+      <h2>From kelp forests to research systems</h2>
+      <div class="tl">
+      {% for c in site.data.career limit:6 %}
+        <div class="item{% if c.past %} past{% endif %}"><div class="when">{{ c.when }}</div><div class="what">{{ c.what }}</div><div class="where">{{ c.where }}</div></div>
+      {% endfor %}
+      </div>
+      <p><a href="{{ '/about/' | relative_url }}">Full career</a></p>
+    </div>
+    <div>
+      <p class="eyebrow">Latest writing</p>
+      <h2>Notes</h2>
+      <ul class="posts">
+      {% for post in site.posts limit:5 %}
+        <li><span class="date">{{ post.date | date: "%-d %B %Y" }}</span><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+      {% endfor %}
+      </ul>
+      <p class="eyebrow" style="margin-top:36px">Recognition</p>
+      <ul class="plain">
+        <li>Innovation Award, CARA (2021)</li>
+        <li>Research Management Excellence Award, CARA (2020)</li>
+        <li>Best Paper of the Year, SRAI (2017)</li>
+        <li>Haldane Young Investigator's Prize, British Ecological Society (2013)</li>
+      </ul>
+    </div>
+  </div>
+</section>

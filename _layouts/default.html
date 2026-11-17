@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="icon" href="{{ '/assets/img/favicon.png' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% feed_meta %}
+</head>
+<body>
+  <header class="site">
+    <div class="wrap">
+      <a class="brand" href="{{ '/' | relative_url }}"><img src="{{ '/assets/img/brand/mark.png' | relative_url }}" alt=""><span>Kyle Demes</span></a>
+      <nav>
+        <a href="{{ '/writing/' | relative_url }}">Writing</a>
+        <a href="{{ '/about/' | relative_url }}">Career</a>
+        <a href="{{ '/publications/' | relative_url }}">Publications</a>
+        <a href="{{ '/service/' | relative_url }}">Service</a>
+      </nav>
+    </div>
+  </header>
+  {% if page.hero %}{{ content }}{% else %}<main class="wrap narrow">{{ content }}</main>{% endif %}
+  <footer class="site">
+    <div class="wrap">
+      <img src="{{ '/assets/img/brand/mark.png' | relative_url }}" alt="">
+      <span><a href="mailto:{{ site.email }}">{{ site.email }}</a> · <a href="https://www.linkedin.com/in/kyledemes">LinkedIn</a> · <a href="https://openalex.org/A5086928770">OpenAlex profile</a> · <a href="{{ '/feed.xml' | relative_url }}">RSS</a></span>
+    </div>
+  </footer>
+</body>
+</html>
