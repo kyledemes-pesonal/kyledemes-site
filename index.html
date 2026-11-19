@@ -9,7 +9,7 @@ hero: true
       <p class="eyebrow">Research ecosystem · open data · policy</p>
       <h1>Kyle Demes</h1>
       <p class="lead">Chief Operating Officer of <a href="https://openalex.org" style="color:#fff">OpenAlex</a>. Marine ecologist turned research strategist, working where funders, universities, publishers and governments meet.</p>
-      <a class="btn" href="{{ '/writing/' | relative_url }}">Read my writing</a>
+      <a class="btn" href="{{ '/notes/' | relative_url }}">Read my field notes</a>
       <a class="btn ghost" href="mailto:{{ site.email }}">Get in touch</a>
     </div>
   </div>
@@ -49,8 +49,8 @@ hero: true
       <p><a href="{{ '/about/' | relative_url }}">Full career</a></p>
     </div>
     <div>
-      <p class="eyebrow">Latest writing</p>
-      <h2>Notes</h2>
+      <p class="eyebrow">Field notes</p>
+      <h2>Latest notes</h2>
       <ul class="posts">
       {% for post in site.posts limit:5 %}
         <li><span class="date">{{ post.date | date: "%-d %B %Y" }}</span><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>

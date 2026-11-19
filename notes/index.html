@@ -1,0 +1,14 @@
+---
+layout: default
+title: Field notes
+redirect_from:
+  - /writing/
+  - /thoughts/
+---
+<h1>Field notes</h1>
+<p class="intro">Working notes on research funding, open science, metadata and policy. These are unpolished: I'm thinking out loud, and I may change my mind.</p>
+<ul class="posts">
+{% for post in site.posts %}
+  <li><span class="date">{{ post.date | date: "%-d %B %Y" }}</span><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>

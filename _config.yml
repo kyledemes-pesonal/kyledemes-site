@@ -4,9 +4,10 @@ url: https://kyledemes.com
 author: Kyle Demes
 email: kyle@demes.ca
 markdown: kramdown
-permalink: /writing/:year/:title/
+permalink: /notes/:year/:title/
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 exclude:
   - README.md
 github_repo: https://github.com/kyledemes-pesonal/kyledemes-site

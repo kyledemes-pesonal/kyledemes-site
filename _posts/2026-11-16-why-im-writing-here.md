@@ -2,6 +2,7 @@
 layout: post
 title: "Why I'm writing here"
 date: 2026-11-16 09:00:00 -0800
+redirect_from: /writing/2026/why-im-writing-here/
 ---
 
 I've started this space to organize my thinking. Most of what I learn at work goes into emails, slide decks and calls, and then disappears. Writing it down helps me figure out what I actually think, and it gives me something to point to when people ask.
