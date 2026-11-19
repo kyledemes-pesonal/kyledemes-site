@@ -67,3 +67,14 @@ footer.site img { width:28px; height:28px; }
 footer.site a { color:var(--sky); }
 @media (max-width:820px){ .cards{grid-template-columns:1fr;} .grid2{grid-template-columns:1fr;} .hero .wrap{flex-direction:column; align-items:flex-start; gap:28px;} .hero .photo{width:160px;height:160px;} .hero h1{font-size:34px;} nav a{margin-left:14px; font-size:12px; letter-spacing:.8px;} header.site .wrap{height:auto; padding-top:12px; padding-bottom:12px; flex-direction:column; align-items:flex-start; gap:6px;} nav a:first-child{margin-left:0;} }
 .intro { color:var(--muted); font-size:19px; margin:0 0 28px; }
+/* email sign-up */
+.subscribe { margin:40px 0 0; padding:24px; background:var(--bg); border-radius:10px; border-top:4px solid var(--teal); }
+.subscribe .eyebrow { margin-bottom:4px; }
+.subscribe .hint { font-size:16px; line-height:1.5; color:var(--muted); margin:0 0 14px; }
+.subscribe .row { display:flex; flex-wrap:wrap; gap:10px; }
+.subscribe input[type=email] { flex:1 1 220px; min-width:0; padding:10px 16px; font:16px "Avenir Next", Avenir, Arial, sans-serif; color:var(--text); background:#fff; border:1px solid #c9d6de; border-radius:24px; }
+.subscribe input[type=email]:focus { outline:2px solid var(--teal); outline-offset:1px; }
+.subscribe .btn { border:0; cursor:pointer; margin:0; }
+.subscribe .btn:disabled { opacity:.6; cursor:default; }
+.subscribe .thanks { margin:0; font-weight:600; color:var(--navy); font-family:"Avenir Next", Avenir, Arial, sans-serif; }
+.subscribe .hp, .sr { position:absolute; left:-9999px; width:1px; height:1px; overflow:hidden; }

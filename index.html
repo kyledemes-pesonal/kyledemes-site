@@ -56,6 +56,7 @@ hero: true
         <li><span class="date">{{ post.date | date: "%-d %B %Y" }}</span><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
       {% endfor %}
       </ul>
+      {% include subscribe.html %}
       <p class="eyebrow" style="margin-top:36px">Recognition</p>
       <ul class="plain">
         <li>Innovation Award, CARA (2021)</li>

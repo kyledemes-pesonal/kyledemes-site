@@ -1,0 +1,36 @@
+{%- comment -%}
+Email sign-up. Submissions go to the "Field notes sign-ups" Google Form
+(kyle@demes.ca Drive), which writes each one to the "Field notes subscribers" Sheet.
+entry.1045046103 is the form's Email question.
+{%- endcomment -%}
+<form class="subscribe" action="https://docs.google.com/forms/d/e/1FAIpQLSfPf4cejkQp235g6RBhjdvV-6hIu6mjFinkptG0bdEraU7ASA/formResponse" method="POST" target="_blank">
+  <p class="eyebrow">Get new field notes by email</p>
+  <p class="hint">I'll send a short email when I post a new note. Nothing else, and you can unsubscribe anytime.</p>
+  <div class="row">
+    <label class="sr" for="sub-email">Email address</label>
+    <input id="sub-email" type="email" name="entry.1045046103" placeholder="you@example.org" autocomplete="email" required>
+    <input class="hp" type="text" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <button class="btn" type="submit">Sign up</button>
+  </div>
+  <p class="thanks" role="status" hidden>Thanks, you're on the list.</p>
+</form>
+<script>
+document.querySelectorAll('form.subscribe').forEach(function (f) {
+  f.addEventListener('submit', function (e) {
+    e.preventDefault();
+    var email = f.querySelector('input[type=email]');
+    var btn = f.querySelector('button');
+    var done = function () {
+      f.querySelector('.row').style.display = 'none';
+      f.querySelector('.thanks').hidden = false;
+    };
+    if (f.querySelector('.hp').value) { done(); return; }
+    var body = new URLSearchParams();
+    body.append(email.name, email.value.trim());
+    btn.disabled = true;
+    fetch(f.action, { method: 'POST', mode: 'no-cors', body: body })
+      .then(done)
+      .catch(function () { btn.disabled = false; f.submit(); });
+  });
+});
+</script>
