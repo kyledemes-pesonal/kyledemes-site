@@ -1,0 +1,867 @@
+{
+ "date_modified": "2024-04-18",
+ "entries": [
+  {
+   "list_name": "A.A. Kharkevich Institute for Information Transmission Problems, IITP, Russian Academy of Sciences",
+   "country": "RU",
+   "aliases": []
+  },
+  {
+   "list_name": "Academy of Military Medical Sciences",
+   "country": "CN",
+   "aliases": [
+    "AMMS"
+   ]
+  },
+  {
+   "list_name": "Academy of Military Science",
+   "country": "CN",
+   "aliases": [
+    "AMS"
+   ]
+  },
+  {
+   "list_name": "Aerospace Research Institute",
+   "country": "IR",
+   "aliases": [
+    "ARI"
+   ]
+  },
+  {
+   "list_name": "Air Force Medical University",
+   "country": "CN",
+   "aliases": [
+    "Air Force Medical University",
+    "Air Force Military Medical University",
+    "Fourth Military Medical University",
+    "Fourth Medical University"
+   ]
+  },
+  {
+   "list_name": "Air Force Research Institute",
+   "country": "CN",
+   "aliases": [
+    "Air Force Equipment Academy",
+    "Key Laboratory of Complex Aviation System Simulation"
+   ]
+  },
+  {
+   "list_name": "Air Force Xi’an Flight Academy",
+   "country": "CN",
+   "aliases": [
+    "PLA Air Force Xi'an Flight Academy",
+    "Air Force Xi'an Flight Academy",
+    "Xi'an Flying College of PLA Air Force"
+   ]
+  },
+  {
+   "list_name": "Airforce Command College",
+   "country": "CN",
+   "aliases": [
+    "PLA Air Force Command College",
+    "Air Force Command College",
+    "AFCC",
+    "PLA Air Force Command Academy"
+   ]
+  },
+  {
+   "list_name": "Airforce Communication NCO Academy",
+   "country": "CN",
+   "aliases": [
+    "Dalian Communications NCO Academy"
+   ]
+  },
+  {
+   "list_name": "Airforce Early Warning Academy",
+   "country": "CN",
+   "aliases": [
+    "Wuhan Radar Institute"
+   ]
+  },
+  {
+   "list_name": "Airforce Engineering University",
+   "country": "CN",
+   "aliases": [
+    "AFEU"
+   ]
+  },
+  {
+   "list_name": "Airforce Flight Academy Shijiazhuang",
+   "country": "CN",
+   "aliases": [
+    "PLA Air Force Shijiazhuang Flight Academy",
+    "Shijiazhuang Flying College of the PLA Airforce",
+    "Shijiazhuang Flight College of Air Force"
+   ]
+  },
+  {
+   "list_name": "Airforce Harbin Flight Academy",
+   "country": "CN",
+   "aliases": [
+    "Harbin Flight College of Air Force"
+   ]
+  },
+  {
+   "list_name": "Airforce Logistics University",
+   "country": "CN",
+   "aliases": []
+  },
+  {
+   "list_name": "Army Academy of Armored Forces",
+   "country": "CN",
+   "aliases": [
+    "Army Armored Forces Academy",
+    "Armored Forces Engineering Academy"
+   ]
+  },
+  {
+   "list_name": "Army Academy of Artillery and Air Defense",
+   "country": "CN",
+   "aliases": []
+  },
+  {
+   "list_name": "Army Academy of Border and Coastal Defense",
+   "country": "CN",
+   "aliases": []
+  },
+  {
+   "list_name": "Army Aviation College",
+   "country": "CN",
+   "aliases": [
+    "Army Aviation School"
+   ]
+  },
+  {
+   "list_name": "Army Engineering University",
+   "country": "CN",
+   "aliases": [
+    "Army Engineering University of the PLA"
+   ]
+  },
+  {
+   "list_name": "Army Infantry Academy",
+   "country": "CN",
+   "aliases": [
+    "Army Infantry Academy of PLA",
+    "PLA Army Infantry Academy",
+    "Nachang Army Academy"
+   ]
+  },
+  {
+   "list_name": "Army Medical University",
+   "country": "CN",
+   "aliases": [
+    "Third Military Medical University"
+   ]
+  },
+  {
+   "list_name": "Army Military Transportation Academy",
+   "country": "CN",
+   "aliases": [
+    "Academy of Military Transportation"
+   ]
+  },
+  {
+   "list_name": "Army Research Institute",
+   "country": "CN",
+   "aliases": []
+  },
+  {
+   "list_name": "Army Service Academy",
+   "country": "CN",
+   "aliases": [
+    "PLA Army Service Academy"
+   ]
+  },
+  {
+   "list_name": "Army Special Operations Academy",
+   "country": "CN",
+   "aliases": [
+    "Army Special Operations College"
+   ]
+  },
+  {
+   "list_name": "Autonomous Noncommercial Organization Professional Association of Designers of Data Processing Systems",
+   "country": "RU",
+   "aliases": [
+    "ANO PO KSI"
+   ]
+  },
+  {
+   "list_name": "Aviation University of Air Force",
+   "country": "CN",
+   "aliases": [
+    "PLA Air Force Aviation University",
+    "Aviation University Air Force",
+    "Air Force Aviation University",
+    "AUAF",
+    "Aviation University of PLA Air Force"
+   ]
+  },
+  {
+   "list_name": "Baghyatollah Medical Sciences University",
+   "country": "IR",
+   "aliases": [
+    "BMSU",
+    "Bagiatollah Medical Sciences University",
+    "Baghiatollah Medical Sciences University",
+    "Baqyatollah Medical Sciences University",
+    "Baqiyatallah Medical Sciences University",
+    "Baqiyatallah University of Medical Sciences",
+    "Baqiatollah Medical Sciences University"
+   ]
+  },
+  {
+   "list_name": "Beihang University",
+   "country": "CN",
+   "aliases": [
+    "Beijing University of Aeronautics and Astronautics",
+    "BUAA"
+   ]
+  },
+  {
+   "list_name": "Beijing Computational Science Research Centre",
+   "country": "CN",
+   "aliases": [
+    "BCSRC",
+    "Beijing Computing Science Research Centre",
+    "CSRC"
+   ]
+  },
+  {
+   "list_name": "Beijing Electronic Science and Technology Institute",
+   "country": "CN",
+   "aliases": [
+    "BESTI"
+   ]
+  },
+  {
+   "list_name": "Beijing Institute of Technology",
+   "country": "CN",
+   "aliases": [
+    "BIT"
+   ]
+  },
+  {
+   "list_name": "Beijing University of Posts and Telecommunications",
+   "country": "CN",
+   "aliases": [
+    "BUPT"
+   ]
+  },
+  {
+   "list_name": "Center for High Pressure Science and Technology Advanced Research",
+   "country": "CN",
+   "aliases": [
+    "HPSTAR",
+    "Beijing High Voltage Science Research Center"
+   ]
+  },
+  {
+   "list_name": "Chengdu Fine Optical Engineering Research Center",
+   "country": "CN",
+   "aliases": []
+  },
+  {
+   "list_name": "China Academy of Electronics and Information Technology",
+   "country": "CN",
+   "aliases": [
+    "CAEIT",
+    "CETC CAEIT"
+   ]
+  },
+  {
+   "list_name": "China Academy of Science – Shenyang Institute of Automation",
+   "country": "CN",
+   "aliases": []
+  },
+  {
+   "list_name": "China Aerodynamics Research and Development Center",
+   "country": "CN",
+   "aliases": [
+    "CARDC",
+    "Unit 63820",
+    "29th Testing and Training Base",
+    "Academy of Military Science Aerodynamics Testing Base"
+   ]
+  },
+  {
+   "list_name": "China Coast Guard Academy",
+   "country": "CN",
+   "aliases": [
+    "China Maritime Police Academy",
+    "People's Armed Police China Coast Guard Academy",
+    "PAP China Coast Guard Academy"
+   ]
+  },
+  {
+   "list_name": "China People’s Police University",
+   "country": "CN",
+   "aliases": [
+    "CPPU",
+    "Ministry of Public Security China People's Police University",
+    "MPS China People's Police University"
+   ]
+  },
+  {
+   "list_name": "Chinese Academy of Engineering Physics",
+   "country": "CN",
+   "aliases": [
+    "China Academy of Engineering Physics",
+    "CAEP, Beijing Computational Science Research Center, Ninth Academy",
+    "Southwest Computing Center",
+    "Southwest Institute of Applied Electronics",
+    "Southwest Institute of Chemical Materials",
+    "Southwest Institute of Electronic Engineering",
+    "Southwest Institute of Environmental Testing",
+    "Southwest Institute of Explosives and Chemical Engineering",
+    "Southwest Institute of Fluid Physics",
+    "Southwest Institute of General Designing and Assembly",
+    "Southwest Institute of Machining Technology",
+    "Southwest Institute of Materials",
+    "Southwest Institute of Nuclear Physics and Chemistry",
+    "Southwest Institute of Research and Applications of Special Materials Factory",
+    "Southwest Institute of Structural Mechanics",
+    "The High Power Laser Laboratory",
+    "The Institute of Applied Physics and Computational Mathematics",
+    "901 Institute",
+    "Center for High Pressure Science & Technology Advanced Research",
+    "HPSTAR",
+    "China Jiuyuan Trading Corporation",
+    "Peac Institute of Multiscale Science",
+    "Sichuan Dingcheng Material Trade Co. Ltd.",
+    "Sichuan Haitian New Technology Group Co. Ltd.",
+    "Sichuan Zhonghe Import and Export Trade Co. Ltd.",
+    "Skyeye Laser Technology Limited",
+    "Chengdu Fine Optical Engineering Research Center",
+    "Beijing Jincheng Huanyu Electronics Co. Ltd."
+   ]
+  },
+  {
+   "list_name": "Chinese Academy of Sciences Institute of Computing Technology",
+   "country": "CN",
+   "aliases": [
+    "Institute of Computing Technology Chinese Academy of Sciences",
+    "Institute of Computing Technology",
+    "CAS ICT",
+    "ICT CAS"
+   ]
+  },
+  {
+   "list_name": "Criminal Investigation Police University of China",
+   "country": "CN",
+   "aliases": [
+    "CIPUC"
+   ]
+  },
+  {
+   "list_name": "Dalian Naval Academy",
+   "country": "CN",
+   "aliases": [
+    "PLA Dalian Naval Academy"
+   ]
+  },
+  {
+   "list_name": "Defence Industries Organization Training and Research Institute",
+   "country": "IR",
+   "aliases": [
+    "Defence Industry's Training and Research Institute",
+    "Defence Industry's Training and Education Institute",
+    "Defence Industries Training and Research Institute",
+    "Defensive Research Training Institute",
+    "DRTI",
+    "Defence Ministry's Institute for Defence Education and Research",
+    "Institution for Research and Training of the Defence Industries",
+    "Organization for Defence Education and Research"
+   ]
+  },
+  {
+   "list_name": "Engineering University of the CAPF",
+   "country": "CN",
+   "aliases": [
+    "PAP Engineering University"
+   ]
+  },
+  {
+   "list_name": "Explosion and Impact Technology Research Centre",
+   "country": "IR",
+   "aliases": [
+    "Research Centre for Explosion and Impact",
+    "METFAZ"
+   ]
+  },
+  {
+   "list_name": "Harbin Engineering University",
+   "country": "CN",
+   "aliases": [
+    "HEU"
+   ]
+  },
+  {
+   "list_name": "Harbin Institute of Technology",
+   "country": "CN",
+   "aliases": [
+    "HIT"
+   ]
+  },
+  {
+   "list_name": "Hefei National Laboratory for Physical Sciences at Microscale",
+   "country": "CN",
+   "aliases": [
+    "National Research Center for Microscale",
+    "Microscale National Research Center"
+   ]
+  },
+  {
+   "list_name": "Hunan University",
+   "country": "CN",
+   "aliases": [
+    "HNU"
+   ]
+  },
+  {
+   "list_name": "Imam Hossein University",
+   "country": "IR",
+   "aliases": [
+    "Imam Hussein University",
+    "IHU",
+    "Imam Hossein University of the Revolutionary Guards"
+   ]
+  },
+  {
+   "list_name": "Information Engineering University",
+   "country": "CN",
+   "aliases": [
+    "PLAIEU",
+    "IEU",
+    "Luoyang Foreign Languages University",
+    "PLA Foreign Languages University",
+    "Luoyang Foreign Language Institute",
+    "Luoyang University",
+    "Zhengzhou Institute of Surveying and Mapping",
+    "Zhengzhou Information Science and Technology Institute",
+    "National Digital Switching System Engineering and Technology Research Center",
+    "State Key Laboratory of Mathematical Engineering and Advanced Computing"
+   ]
+  },
+  {
+   "list_name": "Institute of Applied Physics",
+   "country": "IR",
+   "aliases": [
+    "IAP",
+    "Applied Physics Institute",
+    "Institute for Applied Physics"
+   ]
+  },
+  {
+   "list_name": "Institute of NBC Defense",
+   "country": "CN",
+   "aliases": []
+  },
+  {
+   "list_name": "Iranian Research Organization for Science and Technology",
+   "country": "IR",
+   "aliases": [
+    "IROST"
+   ]
+  },
+  {
+   "list_name": "Jiangnan Social University",
+   "country": "CN",
+   "aliases": [
+    "Institute of Cadre Management",
+    "Institute of International Relations Suzhou Campus",
+    "Jiangnan Institute of Social Studies",
+    "Ministry of State Security Administrative Institute"
+   ]
+  },
+  {
+   "list_name": "Key Laboratory of Information Systems Engineering",
+   "country": "CN",
+   "aliases": [
+    "KLISE"
+   ]
+  },
+  {
+   "list_name": "Logistics University of the People's Armed Police Force",
+   "country": "CN",
+   "aliases": [
+    "PAP Logistics University"
+   ]
+  },
+  {
+   "list_name": "Ministry of Public Security's Institute of Forensic Science of China",
+   "country": "CN",
+   "aliases": [
+    "Forensic Identification Center of the Ministry of Public Security of the People's Republic of China",
+    "Material Identification Center of the Ministry of Public Security of the People's Republic of China"
+   ]
+  },
+  {
+   "list_name": "Nanjing Army Command College",
+   "country": "CN",
+   "aliases": [
+    "PLA Nanjing Army Command College"
+   ]
+  },
+  {
+   "list_name": "Nanjing Institute of Information Technology",
+   "country": "CN",
+   "aliases": [
+    "Nanjing 841 Institute",
+    "Nanjing Research Institute of Information Technology",
+    "Nanjing Information Technology Institute"
+   ]
+  },
+  {
+   "list_name": "Nanjing University of Aeronautics and Astronautics",
+   "country": "CN",
+   "aliases": [
+    "Nanhang University",
+    "NUAA"
+   ]
+  },
+  {
+   "list_name": "Nanjing University of Science and Technology",
+   "country": "CN",
+   "aliases": [
+    "NJUST"
+   ]
+  },
+  {
+   "list_name": "National Defense University",
+   "country": "CN",
+   "aliases": [
+    "NDU"
+   ]
+  },
+  {
+   "list_name": "National University of Defense Technology",
+   "country": "CN",
+   "aliases": [
+    "NUDT",
+    "Changsha Institute of Technology",
+    "National Key Laboratory for Parallel and Distributed Processing",
+    "Hunan Guofang Kei University"
+   ]
+  },
+  {
+   "list_name": "Naval Command College",
+   "country": "CN",
+   "aliases": [
+    "PLA Navy Command College",
+    "Navy Command College",
+    "Naval Command Academy"
+   ]
+  },
+  {
+   "list_name": "Naval Petty Officer Academy",
+   "country": "CN",
+   "aliases": [
+    "PLA Navy Bengbu Petty Officer Academy",
+    "Naval Petty Officer Academy"
+   ]
+  },
+  {
+   "list_name": "Naval Research Academy",
+   "country": "CN",
+   "aliases": [
+    "PLA Navy Research Academy",
+    "PLA Navy Equipment Academy",
+    "Naval Equipment Academy",
+    "Naval Academy"
+   ]
+  },
+  {
+   "list_name": "Naval University of Engineering",
+   "country": "CN",
+   "aliases": [
+    "Naval Engineering University",
+    "NUE"
+   ]
+  },
+  {
+   "list_name": "Navy Aviation University",
+   "country": "CN",
+   "aliases": [
+    "Naval Aviation University",
+    "Naval Aeronautics and Astronautics University"
+   ]
+  },
+  {
+   "list_name": "Navy Logistics Academy",
+   "country": "CN",
+   "aliases": []
+  },
+  {
+   "list_name": "Navy Medical University",
+   "country": "CN",
+   "aliases": [
+    "Second Military Medical University"
+   ]
+  },
+  {
+   "list_name": "Navy Submarine Academy",
+   "country": "CN",
+   "aliases": [
+    "PLA Navy Submarine Academy"
+   ]
+  },
+  {
+   "list_name": "North China Institute of Aerospace Engineering",
+   "country": "CN",
+   "aliases": [
+    "NCIAE"
+   ]
+  },
+  {
+   "list_name": "North University of China",
+   "country": "CN",
+   "aliases": [
+    "NUC"
+   ]
+  },
+  {
+   "list_name": "Northwest Institute of Nuclear Technology",
+   "country": "CN",
+   "aliases": [
+    "NINT",
+    "Institute of Northwest Nuclear Technology",
+    "Northwest Nuclear Technology"
+   ]
+  },
+  {
+   "list_name": "Northwestern Polytechnical University",
+   "country": "CN",
+   "aliases": [
+    "NWPU",
+    "NPU",
+    "Northwest Polytechnic University",
+    "Northwest Polytechnical University",
+    "Northwestern Polytechnical University"
+   ]
+  },
+  {
+   "list_name": "Officers College of the PAP",
+   "country": "CN",
+   "aliases": [
+    "PAP Officers' College",
+    "People's Armed Police Officers' College"
+   ]
+  },
+  {
+   "list_name": "PAP NCO College",
+   "country": "CN",
+   "aliases": [
+    "People's Armed Police NCO College"
+   ]
+  },
+  {
+   "list_name": "Pasteur Institute of Iran",
+   "country": "IR",
+   "aliases": [
+    "Iranian Pasteur Institute",
+    "Pasteur Institute",
+    "Institute Pasteur of Iran",
+    "Institute Pasteur",
+    "Institute de l'Iran"
+   ]
+  },
+  {
+   "list_name": "Peac Institute of Multiscale Science",
+   "country": "CN",
+   "aliases": [
+    "Peak Multiscale Science Institute",
+    "Peak Multi-Scale Scientific Research Institute"
+   ]
+  },
+  {
+   "list_name": "People's Armed Police Command College",
+   "country": "CN",
+   "aliases": [
+    "PAP Command College",
+    "The People's Armed Police College China",
+    "The Chinese People's Armed Police Forces Academy"
+   ]
+  },
+  {
+   "list_name": "People's Public Security University of China",
+   "country": "CN",
+   "aliases": [
+    "Chinese People Public Security University",
+    "PPUSC"
+   ]
+  },
+  {
+   "list_name": "Physics Research Center",
+   "country": "IR",
+   "aliases": [
+    "PHRC",
+    "Physics Research Centre",
+    "Physic Research Center"
+   ]
+  },
+  {
+   "list_name": "Railway Police College",
+   "country": "CN",
+   "aliases": [
+    "Ministry of Public Security Railway Police College",
+    "MPS Railway Police College"
+   ]
+  },
+  {
+   "list_name": "Rocket Force Command College",
+   "country": "CN",
+   "aliases": [
+    "SMF Command College",
+    "Strategic Missile Force Command College"
+   ]
+  },
+  {
+   "list_name": "Rocket Force Research Institute",
+   "country": "CN",
+   "aliases": [
+    "Second Artillery Equipment Academy",
+    "Rocket Force Equipment Academy"
+   ]
+  },
+  {
+   "list_name": "Rocket Force Sergeant School",
+   "country": "CN",
+   "aliases": [
+    "PLA Rocket Force NCO College",
+    "Rocket Force Sergeancy School",
+    "Rocket Force Sergeant School of the PLA",
+    "PLA Rocket Force Academy",
+    "Rocket Force NCO College",
+    "Rocket Sergeant School"
+   ]
+  },
+  {
+   "list_name": "Rocket Force University of Engineering",
+   "country": "CN",
+   "aliases": [
+    "Rocket Force Engineering University",
+    "RFUE",
+    "RFEU",
+    "Xi'an Research Institute of High Technology",
+    "Xi'an Research Institute of High-Tech"
+   ]
+  },
+  {
+   "list_name": "Shahid Beheshti University",
+   "country": "IR",
+   "aliases": [
+    "SBU",
+    "Martyr Baheshti University",
+    "University of Shahid Beheshti",
+    "Shahid Behashti University",
+    "Shaheed Beheshti University",
+    "Beheshti University",
+    "Shahid Martyr Beheshti University",
+    "National (Shahid Beheshti) University"
+   ]
+  },
+  {
+   "list_name": "Shahid Sattari Air Force University",
+   "country": "IR",
+   "aliases": [
+    "Shahid Sattari Air Academy",
+    "Shahid Sattari Academy for Air Sciences and Technology"
+   ]
+  },
+  {
+   "list_name": "Sharif University of Technology",
+   "country": "IR",
+   "aliases": [
+    "Arya-Mehr University of Technology",
+    "SHFT",
+    "SUT: Sharif Technical University"
+   ]
+  },
+  {
+   "list_name": "Sichuan University",
+   "country": "CN",
+   "aliases": [
+    "SCU"
+   ]
+  },
+  {
+   "list_name": "Space Engineering University",
+   "country": "CN",
+   "aliases": [
+    "PLA Equipment Academy",
+    "Aerospace Engineering University",
+    "A/SEU",
+    "PLA Equipment Command and Technology Academy"
+   ]
+  },
+  {
+   "list_name": "Tianjin University",
+   "country": "CN",
+   "aliases": [
+    "TJU"
+   ]
+  },
+  {
+   "list_name": "University of Electronic Science and Technology of China",
+   "country": "CN",
+   "aliases": [
+    "UESTC"
+   ]
+  },
+  {
+   "list_name": "University of International Relations",
+   "country": "CN",
+   "aliases": [
+    "UIR",
+    "Institute of International Politics"
+   ]
+  },
+  {
+   "list_name": "Xi'an Technological University",
+   "country": "CN",
+   "aliases": [
+    "XATU"
+   ]
+  },
+  {
+   "list_name": "27th Scientific Center of the Russian Ministry of Defense",
+   "country": "RU",
+   "aliases": [
+    "27th NTs"
+   ]
+  },
+  {
+   "list_name": "33rd Scientific Research and Testing Institute",
+   "country": "RU",
+   "aliases": [
+    "33rd TsNII"
+   ]
+  },
+  {
+   "list_name": "46th TSNII Central Scientific Research Institute",
+   "country": "RU",
+   "aliases": [
+    "48 TsNII",
+    "46 TsNII MO RF"
+   ]
+  },
+  {
+   "list_name": "48th Central Scientific Research Institute",
+   "country": "RU",
+   "aliases": [
+    "48th TsNII Sergiev Posad",
+    "Zargorsk Institute",
+    "Scientific Research Institute of Medicine",
+    "the Virology Center",
+    "48th TsNII Yekaterinburg",
+    "Military Technical Scientific Research Institute",
+    "Center for Military Technical Problems of Biological Defense",
+    "48th TsNII Kirov",
+    "Scientific Research Institute of Microbiology",
+    "Scientific Research Institute of Epidemiology and Hygiene"
+   ]
+  }
+ ]
+}

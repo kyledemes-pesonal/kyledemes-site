@@ -1,0 +1,26 @@
+{
+ "CA-CN 2018-20": {
+  "n": 27470,
+  "field_tri": 6318,
+  "field_tri_rate": 0.2299963596650892,
+  "first_cn_only": 14922
+ },
+ "CA-CN 2023-25": {
+  "n": 31052,
+  "field_tri": 4818,
+  "field_tri_rate": 0.15515908798145048,
+  "first_cn_only": 19032
+ },
+ "CA-US 2018-20": {
+  "n": 61146,
+  "field_tri": 12442,
+  "field_tri_rate": 0.2034801949432506,
+  "first_cn_only": 0
+ },
+ "CA-US 2023-25": {
+  "n": 69199,
+  "field_tri": 13750,
+  "field_tri_rate": 0.19870229338574258,
+  "first_cn_only": 0
+ }
+}

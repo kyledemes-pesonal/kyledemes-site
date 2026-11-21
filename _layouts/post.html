@@ -4,6 +4,8 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
   <p class="meta">{{ page.date | date: "%-d %B %Y" }}</p>
+  {% include tag-chips.html tags=page.tags %}
+  {% if page.image and page.image_in_post != false %}<figure class="lead"><img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title | escape }}"{% if page.image_position %} style="object-position:{{ page.image_position }}"{% endif %}>{% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}</figure>{% endif %}
   {{ content }}
 </article>
 {% include subscribe.html %}

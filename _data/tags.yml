@@ -1,0 +1,8 @@
+# Field notes tags. Each tag needs an entry here AND a stub page at notes/tags/<slug>/index.html
+# (copy an existing stub and change `tag:` and `title:`). Posts list their tags by slug: tags: [open-access, funding-data]
+funding-data:
+  name: Funding data
+  description: Who funds research, how grants show up in papers, and what that metadata can and can't tell us.
+research-security:
+  name: Research security
+  description: Canada's research security policies and what the data say about who Canadian researchers work with.

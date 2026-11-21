@@ -1,0 +1,60 @@
+{
+ "grant_years_by_fy": {
+  "2012": 6,
+  "2013": 10,
+  "2014": 20,
+  "2015": 21,
+  "2016": 22,
+  "2017": 26,
+  "2018": 30,
+  "2019": 51,
+  "2020": 61,
+  "2021": 30,
+  "2022": 19,
+  "2023": 3
+ },
+ "grant_years_by_institution": {
+  "?": 5,
+  "Carleton University": 11,
+  "Concordia University": 1,
+  "Institut national de la recherche scientifique": 12,
+  "McGill University": 21,
+  "McMaster University": 2,
+  "Simon Fraser University": 3,
+  "University of Alberta": 13,
+  "University of British Columbia": 27,
+  "University of Calgary": 1,
+  "University of Manitoba": 3,
+  "University of Ottawa": 9,
+  "University of Toronto": 75,
+  "University of Waterloo": 72,
+  "University of Western Ontario": 1,
+  "Universit\u00e9 Laval": 23,
+  "Universit\u00e9 du Qu\u00e9bec \u00e0 Montr\u00e9al": 1,
+  "Universit\u00e9 du Qu\u00e9bec \u00e0 Trois-Rivi\u00e8res": 1,
+  "\u00c9cole Polytechnique de Montr\u00e9al": 17,
+  "\u00c9cole de technologie sup\u00e9rieure": 1
+ },
+ "grant_years_by_program": {
+  "Alliance Grants": 48,
+  "Collaborative Research and Development Grants": 164,
+  "Engage Grants Program": 27,
+  "Industrial Research Chairs": 17,
+  "None": 5,
+  "Strategic Network Grants Program": 11,
+  "Strategic Projects - Group": 27
+ },
+ "new_applications_by_first_fy": {
+  "2012": 6,
+  "2013": 9,
+  "2014": 16,
+  "2015": 12,
+  "2016": 12,
+  "2017": 11,
+  "2018": 17,
+  "2019": 33,
+  "2020": 16
+ },
+ "applications": 132,
+ "note": "Aggregated from NSERC open awards and partner files FY2012-2024 (fiscal years start 1 April). Grant-level rows (with applicant names and titles) are in NSERC open data, not republished here."
+}

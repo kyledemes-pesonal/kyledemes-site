@@ -1,0 +1,1378 @@
+{
+ "built": "2026-11-20 16:17",
+ "funders_CA": "F4320334593|F4320334506|F4320334617|F4320319952|F4320320995",
+ "peer_funders": {
+  "CA": "F4320334593|F4320334506|F4320334617|F4320319952|F4320320995",
+  "GB": "F4320334627|F4320334626|F4320334629|F4320314731|F4320334631",
+  "AU": "F4320334704|F4320334705",
+  "DE": "F4320320879",
+  "JP": "F4320334764",
+  "NL": "F4320321800",
+  "FR": "F4320320883",
+  "US": "F4320306076|F4320332161",
+  "CH": "F4320320924"
+ },
+ "note": "ft = has_fulltext:true; all = every work. Changes from pooled counts. Ratio = funded share / other share.",
+ "step1_canada_china": {
+  "by_year": {
+   "ft": [
+    {
+     "y": 2015,
+     "funded_N": 10073,
+     "funded_CN": 601,
+     "other_N": 24396,
+     "other_CN": 1244,
+     "all_N": 34469,
+     "all_CN": 1845,
+     "funded_share": 5.97,
+     "other_share": 5.1,
+     "all_share": 5.35,
+     "ratio": 1.17
+    },
+    {
+     "y": 2016,
+     "funded_N": 10616,
+     "funded_CN": 671,
+     "other_N": 25213,
+     "other_CN": 1474,
+     "all_N": 35829,
+     "all_CN": 2145,
+     "funded_share": 6.32,
+     "other_share": 5.85,
+     "all_share": 5.99,
+     "ratio": 1.081
+    },
+    {
+     "y": 2017,
+     "funded_N": 11106,
+     "funded_CN": 760,
+     "other_N": 27852,
+     "other_CN": 1663,
+     "all_N": 38958,
+     "all_CN": 2423,
+     "funded_share": 6.84,
+     "other_share": 5.97,
+     "all_share": 6.22,
+     "ratio": 1.146
+    },
+    {
+     "y": 2018,
+     "funded_N": 11709,
+     "funded_CN": 857,
+     "other_N": 29557,
+     "other_CN": 2069,
+     "all_N": 41266,
+     "all_CN": 2926,
+     "funded_share": 7.32,
+     "other_share": 7.0,
+     "all_share": 7.09,
+     "ratio": 1.046
+    },
+    {
+     "y": 2019,
+     "funded_N": 12417,
+     "funded_CN": 949,
+     "other_N": 32215,
+     "other_CN": 2556,
+     "all_N": 44632,
+     "all_CN": 3505,
+     "funded_share": 7.64,
+     "other_share": 7.93,
+     "all_share": 7.85,
+     "ratio": 0.963
+    },
+    {
+     "y": 2020,
+     "funded_N": 14019,
+     "funded_CN": 1017,
+     "other_N": 37773,
+     "other_CN": 3093,
+     "all_N": 51792,
+     "all_CN": 4110,
+     "funded_share": 7.25,
+     "other_share": 8.19,
+     "all_share": 7.94,
+     "ratio": 0.886
+    },
+    {
+     "y": 2021,
+     "funded_N": 15734,
+     "funded_CN": 1045,
+     "other_N": 41541,
+     "other_CN": 3202,
+     "all_N": 57275,
+     "all_CN": 4247,
+     "funded_share": 6.64,
+     "other_share": 7.71,
+     "all_share": 7.42,
+     "ratio": 0.862
+    },
+    {
+     "y": 2022,
+     "funded_N": 16013,
+     "funded_CN": 1023,
+     "other_N": 42386,
+     "other_CN": 3576,
+     "all_N": 58399,
+     "all_CN": 4599,
+     "funded_share": 6.39,
+     "other_share": 8.44,
+     "all_share": 7.88,
+     "ratio": 0.757
+    },
+    {
+     "y": 2023,
+     "funded_N": 17082,
+     "funded_CN": 1029,
+     "other_N": 46773,
+     "other_CN": 3498,
+     "all_N": 63855,
+     "all_CN": 4527,
+     "funded_share": 6.02,
+     "other_share": 7.48,
+     "all_share": 7.09,
+     "ratio": 0.805
+    },
+    {
+     "y": 2024,
+     "funded_N": 16677,
+     "funded_CN": 959,
+     "other_N": 45023,
+     "other_CN": 3349,
+     "all_N": 61700,
+     "all_CN": 4308,
+     "funded_share": 5.75,
+     "other_share": 7.44,
+     "all_share": 6.98,
+     "ratio": 0.773
+    },
+    {
+     "y": 2025,
+     "funded_N": 16562,
+     "funded_CN": 894,
+     "other_N": 44690,
+     "other_CN": 3590,
+     "all_N": 61252,
+     "all_CN": 4484,
+     "funded_share": 5.4,
+     "other_share": 8.03,
+     "all_share": 7.32,
+     "ratio": 0.672
+    }
+   ],
+   "all": [
+    {
+     "y": 2015,
+     "funded_N": 22235,
+     "funded_CN": 1300,
+     "other_N": 66530,
+     "other_CN": 4168,
+     "all_N": 88765,
+     "all_CN": 5468,
+     "funded_share": 5.85,
+     "other_share": 6.26,
+     "all_share": 6.16,
+     "ratio": 0.933
+    },
+    {
+     "y": 2016,
+     "funded_N": 23098,
+     "funded_CN": 1518,
+     "other_N": 67306,
+     "other_CN": 4566,
+     "all_N": 90404,
+     "all_CN": 6084,
+     "funded_share": 6.57,
+     "other_share": 6.78,
+     "all_share": 6.73,
+     "ratio": 0.969
+    },
+    {
+     "y": 2017,
+     "funded_N": 23678,
+     "funded_CN": 1753,
+     "other_N": 70402,
+     "other_CN": 5089,
+     "all_N": 94080,
+     "all_CN": 6842,
+     "funded_share": 7.4,
+     "other_share": 7.23,
+     "all_share": 7.27,
+     "ratio": 1.024
+    },
+    {
+     "y": 2018,
+     "funded_N": 25134,
+     "funded_CN": 2032,
+     "other_N": 71310,
+     "other_CN": 6131,
+     "all_N": 96444,
+     "all_CN": 8163,
+     "funded_share": 8.08,
+     "other_share": 8.6,
+     "all_share": 8.46,
+     "ratio": 0.94
+    },
+    {
+     "y": 2019,
+     "funded_N": 25732,
+     "funded_CN": 2220,
+     "other_N": 75007,
+     "other_CN": 7163,
+     "all_N": 100739,
+     "all_CN": 9383,
+     "funded_share": 8.63,
+     "other_share": 9.55,
+     "all_share": 9.31,
+     "ratio": 0.903
+    },
+    {
+     "y": 2020,
+     "funded_N": 27537,
+     "funded_CN": 2466,
+     "other_N": 81887,
+     "other_CN": 8297,
+     "all_N": 109424,
+     "all_CN": 10763,
+     "funded_share": 8.96,
+     "other_share": 10.13,
+     "all_share": 9.84,
+     "ratio": 0.884
+    },
+    {
+     "y": 2021,
+     "funded_N": 28050,
+     "funded_CN": 2280,
+     "other_N": 84281,
+     "other_CN": 8317,
+     "all_N": 112331,
+     "all_CN": 10597,
+     "funded_share": 8.13,
+     "other_share": 9.87,
+     "all_share": 9.43,
+     "ratio": 0.824
+    },
+    {
+     "y": 2022,
+     "funded_N": 26095,
+     "funded_CN": 1967,
+     "other_N": 80305,
+     "other_CN": 8854,
+     "all_N": 106400,
+     "all_CN": 10821,
+     "funded_share": 7.54,
+     "other_share": 11.03,
+     "all_share": 10.17,
+     "ratio": 0.684
+    },
+    {
+     "y": 2023,
+     "funded_N": 25831,
+     "funded_CN": 1875,
+     "other_N": 78454,
+     "other_CN": 8493,
+     "all_N": 104285,
+     "all_CN": 10368,
+     "funded_share": 7.26,
+     "other_share": 10.83,
+     "all_share": 9.94,
+     "ratio": 0.671
+    },
+    {
+     "y": 2024,
+     "funded_N": 26125,
+     "funded_CN": 1770,
+     "other_N": 80182,
+     "other_CN": 8950,
+     "all_N": 106307,
+     "all_CN": 10720,
+     "funded_share": 6.78,
+     "other_share": 11.16,
+     "all_share": 10.08,
+     "ratio": 0.607
+    },
+    {
+     "y": 2025,
+     "funded_N": 27874,
+     "funded_CN": 1714,
+     "other_N": 84685,
+     "other_CN": 9594,
+     "all_N": 112559,
+     "all_CN": 11308,
+     "funded_share": 6.15,
+     "other_share": 11.33,
+     "all_share": 10.05,
+     "ratio": 0.543
+    }
+   ]
+  },
+  "changes": {
+   "ft": {
+    "ratio_1920_to_2425": -21.8,
+    "ratio_1820_to_2325": -21.5,
+    "ratio_2020_to_2025": -24.2,
+    "pooled_ratio_1920": 0.921,
+    "pooled_ratio_2425": 0.721,
+    "funded_share_1920_2425": [
+     7.44,
+     5.57
+    ],
+    "other_share_1920_2425": [
+     8.07,
+     7.73
+    ],
+    "funded_share_change_2020_2025": -25.6
+   },
+   "all": {
+    "ratio_1920_to_2425": -35.7,
+    "ratio_1820_to_2325": -33.3,
+    "ratio_2020_to_2025": -38.6,
+    "pooled_ratio_1920": 0.893,
+    "pooled_ratio_2425": 0.574,
+    "funded_share_1920_2425": [
+     8.8,
+     6.45
+    ],
+    "other_share_1920_2425": [
+     9.85,
+     11.25
+    ],
+    "funded_share_change_2020_2025": -31.3
+   }
+  }
+ },
+ "step2_partners19": {
+  "rows": [
+   {
+    "p": "RU",
+    "name": "Russia",
+    "after_ft": -48.5,
+    "before_ft": -32.8,
+    "after_all": -43.6,
+    "before_all": -38.5
+   },
+   {
+    "p": "TR",
+    "name": "T\u00fcrkiye",
+    "after_ft": -43.3,
+    "before_ft": -37.4,
+    "after_all": -42.0,
+    "before_all": -35.0
+   },
+   {
+    "p": "CN",
+    "name": "China",
+    "after_ft": -21.8,
+    "before_ft": -17.9,
+    "after_all": -35.7,
+    "before_all": -6.3
+   },
+   {
+    "p": "IR",
+    "name": "Iran",
+    "after_ft": -24.2,
+    "before_ft": -11.0,
+    "after_all": -28.9,
+    "before_all": 13.2
+   },
+   {
+    "p": "KR",
+    "name": "South Korea",
+    "after_ft": -22.5,
+    "before_ft": -9.9,
+    "after_all": -26.7,
+    "before_all": -0.1
+   },
+   {
+    "p": "HK",
+    "name": "Hong Kong",
+    "after_ft": -37.0,
+    "before_ft": -39.2,
+    "after_all": -22.3,
+    "before_all": -31.9
+   },
+   {
+    "p": "JP",
+    "name": "Japan",
+    "after_ft": -17.2,
+    "before_ft": -9.4,
+    "after_all": -18.0,
+    "before_all": -12.6
+   },
+   {
+    "p": "ES",
+    "name": "Spain",
+    "after_ft": -20.6,
+    "before_ft": -18.7,
+    "after_all": -16.5,
+    "before_all": -18.1
+   },
+   {
+    "p": "IN",
+    "name": "India",
+    "after_ft": -16.3,
+    "before_ft": 7.9,
+    "after_all": -12.5,
+    "before_all": -10.5
+   },
+   {
+    "p": "BR",
+    "name": "Brazil",
+    "after_ft": -6.0,
+    "before_ft": -21.8,
+    "after_all": -12.0,
+    "before_all": -22.6
+   },
+   {
+    "p": "DE",
+    "name": "Germany",
+    "after_ft": -6.9,
+    "before_ft": -15.4,
+    "after_all": -9.5,
+    "before_all": -9.3
+   },
+   {
+    "p": "AU",
+    "name": "Australia",
+    "after_ft": -13.5,
+    "before_ft": -19.9,
+    "after_all": -8.4,
+    "before_all": -19.5
+   },
+   {
+    "p": "IT",
+    "name": "Italy",
+    "after_ft": -12.1,
+    "before_ft": -24.7,
+    "after_all": -8.5,
+    "before_all": -25.7
+   },
+   {
+    "p": "GB",
+    "name": "United Kingdom",
+    "after_ft": -7.4,
+    "before_ft": -9.1,
+    "after_all": -4.7,
+    "before_all": -8.4
+   },
+   {
+    "p": "US",
+    "name": "United States",
+    "after_ft": -7.8,
+    "before_ft": -8.5,
+    "after_all": -2.2,
+    "before_all": -10.1
+   },
+   {
+    "p": "NL",
+    "name": "Netherlands",
+    "after_ft": -9.5,
+    "before_ft": -17.9,
+    "after_all": -3.7,
+    "before_all": -18.2
+   },
+   {
+    "p": "SE",
+    "name": "Sweden",
+    "after_ft": -0.8,
+    "before_ft": -23.4,
+    "after_all": -1.5,
+    "before_all": -17.8
+   },
+   {
+    "p": "FR",
+    "name": "France",
+    "after_ft": 4.0,
+    "before_ft": -6.9,
+    "after_all": -0.5,
+    "before_all": -6.2
+   },
+   {
+    "p": "CH",
+    "name": "Switzerland",
+    "after_ft": 4.0,
+    "before_ft": -29.0,
+    "after_all": 4.2,
+    "before_all": -24.6
+   }
+  ],
+  "median_after": {
+   "ft": -13.5,
+   "all": -12.0
+  },
+  "median_before": {
+   "ft": -17.9,
+   "all": -17.8
+  },
+  "median_after_15_comparators": {
+   "ft": -9.5,
+   "all": -8.5
+  }
+ },
+ "step3_peers_cn": {
+  "ft": {
+   "2015-16": {
+    "change": {
+     "JP": -47.0,
+     "NL": -46.2,
+     "CH": -40.7,
+     "CA": -35.8,
+     "US": -33.5,
+     "AU": -23.1,
+     "DE": -15.1,
+     "FR": -14.1,
+     "GB": -7.8
+    },
+    "canada_rank_of_9": 4,
+    "peer_median": -28.3,
+    "canada_minus_median_pts": -7.5,
+    "canada_vs_median_relative": -10.4
+   },
+   "2017-18": {
+    "change": {
+     "JP": -35.7,
+     "CA": -33.9,
+     "NL": -33.2,
+     "FR": -30.2,
+     "CH": -26.7,
+     "US": -26.0,
+     "AU": -16.1,
+     "DE": -10.4,
+     "GB": -10.3
+    },
+    "canada_rank_of_9": 2,
+    "peer_median": -26.4,
+    "canada_minus_median_pts": -7.5,
+    "canada_vs_median_relative": -10.2
+   },
+   "2019-20": {
+    "change": {
+     "JP": -28.1,
+     "FR": -26.2,
+     "CA": -21.8,
+     "US": -17.2,
+     "NL": -17.1,
+     "AU": -15.1,
+     "GB": -8.2,
+     "CH": -3.4,
+     "DE": -1.9
+    },
+    "canada_rank_of_9": 3,
+    "peer_median": -16.1,
+    "canada_minus_median_pts": -5.7,
+    "canada_vs_median_relative": -6.8
+   },
+   "ci95_2019-20": {
+    "canada_change": [
+     -27.1,
+     -16.0
+    ],
+    "canada_minus_median_pts": [
+     -12.9,
+     -0.0
+    ],
+    "canada_vs_median_relative": [
+     -15.0,
+     -0.0
+    ],
+    "share_of_draws_canada_below_median": 0.975,
+    "method": "parametric Poisson bootstrap (10,000) on the 4 cells (funded/other x CN/not) per period per country"
+   },
+   "counts_2019-20_2024-25": {
+    "CA": {
+     "pre": [
+      1966,
+      26436,
+      7615,
+      96424
+     ],
+     "post": [
+      1853,
+      33239,
+      8792,
+      122952
+     ]
+    },
+    "GB": {
+     "pre": [
+      4253,
+      54774,
+      19564,
+      239959
+     ],
+     "post": [
+      4117,
+      49856,
+      26377,
+      282353
+     ]
+    },
+    "AU": {
+     "pre": [
+      2279,
+      19510,
+      10827,
+      90028
+     ],
+     "post": [
+      1969,
+      19982,
+      13520,
+      115897
+     ]
+    },
+    "DE": {
+     "pre": [
+      2848,
+      43727,
+      10513,
+      175599
+     ],
+     "post": [
+      3550,
+      50150,
+      14096,
+      213900
+     ]
+    },
+    "JP": {
+     "pre": [
+      3330,
+      62010,
+      7488,
+      163263
+     ],
+     "post": [
+      3375,
+      62071,
+      9718,
+      171698
+     ]
+    },
+    "NL": {
+     "pre": [
+      1036,
+      13579,
+      5295,
+      86524
+     ],
+     "post": [
+      944,
+      12665,
+      6477,
+      93046
+     ]
+    },
+    "FR": {
+     "pre": [
+      1501,
+      27746,
+      7228,
+      150032
+     ],
+     "post": [
+      1457,
+      27507,
+      8637,
+      143008
+     ]
+    },
+    "US": {
+     "pre": [
+      11983,
+      137528,
+      45820,
+      534720
+     ],
+     "post": [
+      9750,
+      179600,
+      43678,
+      708955
+     ]
+    },
+    "CH": {
+     "pre": [
+      859,
+      13428,
+      3237,
+      57753
+     ],
+     "post": [
+      1160,
+      15242,
+      4785,
+      70132
+     ]
+    }
+   }
+  },
+  "all": {
+   "2015-16": {
+    "change": {
+     "NL": -46.6,
+     "JP": -41.0,
+     "US": -41.0,
+     "CA": -39.8,
+     "CH": -38.8,
+     "AU": -30.3,
+     "GB": -29.7,
+     "DE": -28.9,
+     "FR": -22.2
+    },
+    "canada_rank_of_9": 4,
+    "peer_median": -34.6,
+    "canada_minus_median_pts": -5.2,
+    "canada_vs_median_relative": -8.0
+   },
+   "2017-18": {
+    "change": {
+     "CA": -41.4,
+     "US": -37.6,
+     "NL": -36.6,
+     "JP": -33.6,
+     "GB": -31.3,
+     "AU": -30.1,
+     "FR": -30.1,
+     "CH": -22.5,
+     "DE": -21.3
+    },
+    "canada_rank_of_9": 1,
+    "peer_median": -30.7,
+    "canada_minus_median_pts": -10.7,
+    "canada_vs_median_relative": -15.5
+   },
+   "2019-20": {
+    "change": {
+     "CA": -35.7,
+     "AU": -28.8,
+     "FR": -28.3,
+     "JP": -28.0,
+     "GB": -26.5,
+     "US": -25.4,
+     "NL": -23.4,
+     "DE": -14.5,
+     "CH": -11.6
+    },
+    "canada_rank_of_9": 1,
+    "peer_median": -26.0,
+    "canada_minus_median_pts": -9.8,
+    "canada_vs_median_relative": -13.2
+   },
+   "ci95_2019-20": {
+    "canada_change": [
+     -38.7,
+     -32.7
+    ],
+    "canada_minus_median_pts": [
+     -13.4,
+     -6.4
+    ],
+    "canada_vs_median_relative": [
+     -17.8,
+     -8.7
+    ],
+    "share_of_draws_canada_below_median": 1.0,
+    "method": "parametric Poisson bootstrap (10,000) on the 4 cells (funded/other x CN/not) per period per country"
+   },
+   "counts_2019-20_2024-25": {
+    "CA": {
+     "pre": [
+      4686,
+      53269,
+      20146,
+      210163
+     ],
+     "post": [
+      3484,
+      53999,
+      22028,
+      218866
+     ]
+    },
+    "GB": {
+     "pre": [
+      6055,
+      67243,
+      33680,
+      380625
+     ],
+     "post": [
+      5410,
+      58077,
+      48571,
+      405955
+     ]
+    },
+    "AU": {
+     "pre": [
+      5195,
+      34163,
+      28660,
+      194861
+     ],
+     "post": [
+      4019,
+      30225,
+      34361,
+      199341
+     ]
+    },
+    "DE": {
+     "pre": [
+      3931,
+      60712,
+      18855,
+      310220
+     ],
+     "post": [
+      4489,
+      62566,
+      24996,
+      327075
+     ]
+    },
+    "JP": {
+     "pre": [
+      6155,
+      108390,
+      16586,
+      292017
+     ],
+     "post": [
+      5741,
+      96229,
+      21669,
+      288483
+     ]
+    },
+    "NL": {
+     "pre": [
+      1104,
+      14700,
+      7175,
+      115477
+     ],
+     "post": [
+      1034,
+      14340,
+      9171,
+      122086
+     ]
+    },
+    "FR": {
+     "pre": [
+      1936,
+      37372,
+      11856,
+      269203
+     ],
+     "post": [
+      1808,
+      34245,
+      14484,
+      242611
+     ]
+    },
+    "US": {
+     "pre": [
+      19313,
+      222268,
+      110277,
+      1244565
+     ],
+     "post": [
+      12343,
+      224472,
+      90618,
+      1260905
+     ]
+    },
+    "CH": {
+     "pre": [
+      1026,
+      17051,
+      4660,
+      89786
+     ],
+     "post": [
+      1305,
+      17552,
+      6845,
+      96899
+     ]
+    }
+   }
+  }
+ },
+ "step4_sensitive": {
+  "ft": {
+   "sens": {
+    "ratio_2020": 0.557,
+    "ratio_2025": 0.401,
+    "ratio_1920": 0.553,
+    "ratio_2425": 0.419,
+    "change_2020_2025": -28.0,
+    "change_1920_2425": -24.1,
+    "comp_mean_ratio_1920": 0.657,
+    "comp_mean_ratio_2425": 0.674,
+    "cn_share_of_class_2025": 12.51
+   },
+   "nonsens": {
+    "ratio_2020": 0.74,
+    "ratio_2025": 0.524,
+    "ratio_1920": 0.746,
+    "ratio_2425": 0.551,
+    "change_2020_2025": -29.2,
+    "change_1920_2425": -26.1,
+    "comp_mean_ratio_1920": 0.681,
+    "comp_mean_ratio_2425": 0.624,
+    "cn_share_of_class_2025": 5.58
+   }
+  },
+  "all": {
+   "sens": {
+    "ratio_2020": 0.565,
+    "ratio_2025": 0.289,
+    "ratio_1920": 0.547,
+    "ratio_2425": 0.305,
+    "change_2020_2025": -48.9,
+    "change_1920_2425": -44.3,
+    "comp_mean_ratio_1920": 0.63,
+    "comp_mean_ratio_2425": 0.671,
+    "cn_share_of_class_2025": 21.27
+   },
+   "nonsens": {
+    "ratio_2020": 0.782,
+    "ratio_2025": 0.484,
+    "ratio_1920": 0.809,
+    "ratio_2425": 0.53,
+    "change_2020_2025": -38.2,
+    "change_1920_2425": -34.5,
+    "comp_mean_ratio_1920": 0.668,
+    "comp_mean_ratio_2425": 0.595,
+    "cn_share_of_class_2025": 6.7
+   }
+  }
+ },
+ "step7_selection": {
+  "by_year": [
+   {
+    "y": 2015,
+    "cn_funded": 46.2,
+    "cn_other": 29.8,
+    "noncn_funded": 45.2,
+    "noncn_other": 37.1,
+    "all_ca": 38.8,
+    "cn_all": 33.7,
+    "noncn_all": 39.2,
+    "cn_share_ft": 5.4,
+    "cn_share_all": 6.2,
+    "funded_share_ft": 29.2,
+    "funded_share_all": 25.0
+   },
+   {
+    "y": 2016,
+    "cn_funded": 44.2,
+    "cn_other": 32.3,
+    "noncn_funded": 46.1,
+    "noncn_other": 37.8,
+    "all_ca": 39.6,
+    "cn_all": 35.3,
+    "noncn_all": 39.9,
+    "cn_share_ft": 6.0,
+    "cn_share_all": 6.7,
+    "funded_share_ft": 29.6,
+    "funded_share_all": 25.5
+   },
+   {
+    "y": 2017,
+    "cn_funded": 43.4,
+    "cn_other": 32.7,
+    "noncn_funded": 47.2,
+    "noncn_other": 40.1,
+    "all_ca": 41.4,
+    "cn_all": 35.4,
+    "noncn_all": 41.9,
+    "cn_share_ft": 6.2,
+    "cn_share_all": 7.3,
+    "funded_share_ft": 28.5,
+    "funded_share_all": 25.2
+   },
+   {
+    "y": 2018,
+    "cn_funded": 42.2,
+    "cn_other": 33.7,
+    "noncn_funded": 47.0,
+    "noncn_other": 42.2,
+    "all_ca": 42.8,
+    "cn_all": 35.8,
+    "noncn_all": 43.4,
+    "cn_share_ft": 7.1,
+    "cn_share_all": 8.5,
+    "funded_share_ft": 28.4,
+    "funded_share_all": 26.1
+   },
+   {
+    "y": 2019,
+    "cn_funded": 42.7,
+    "cn_other": 35.7,
+    "noncn_funded": 48.8,
+    "noncn_other": 43.7,
+    "all_ca": 44.3,
+    "cn_all": 37.4,
+    "noncn_all": 45.0,
+    "cn_share_ft": 7.9,
+    "cn_share_all": 9.3,
+    "funded_share_ft": 27.8,
+    "funded_share_all": 25.5
+   },
+   {
+    "y": 2020,
+    "cn_funded": 41.2,
+    "cn_other": 37.3,
+    "noncn_funded": 51.9,
+    "noncn_other": 47.1,
+    "all_ca": 47.3,
+    "cn_all": 38.2,
+    "noncn_all": 48.3,
+    "cn_share_ft": 7.9,
+    "cn_share_all": 9.8,
+    "funded_share_ft": 27.1,
+    "funded_share_all": 25.2
+   },
+   {
+    "y": 2021,
+    "cn_funded": 45.8,
+    "cn_other": 38.5,
+    "noncn_funded": 57.0,
+    "noncn_other": 50.5,
+    "all_ca": 51.0,
+    "cn_all": 40.1,
+    "noncn_all": 52.1,
+    "cn_share_ft": 7.4,
+    "cn_share_all": 9.4,
+    "funded_share_ft": 27.5,
+    "funded_share_all": 25.0
+   },
+   {
+    "y": 2022,
+    "cn_funded": 52.0,
+    "cn_other": 40.4,
+    "noncn_funded": 62.1,
+    "noncn_other": 54.3,
+    "all_ca": 54.9,
+    "cn_all": 42.5,
+    "noncn_all": 56.3,
+    "cn_share_ft": 7.9,
+    "cn_share_all": 10.2,
+    "funded_share_ft": 27.4,
+    "funded_share_all": 24.5
+   },
+   {
+    "y": 2023,
+    "cn_funded": 54.9,
+    "cn_other": 41.2,
+    "noncn_funded": 67.0,
+    "noncn_other": 61.9,
+    "all_ca": 61.2,
+    "cn_all": 43.7,
+    "noncn_all": 63.2,
+    "cn_share_ft": 7.1,
+    "cn_share_all": 9.9,
+    "funded_share_ft": 26.8,
+    "funded_share_all": 24.8
+   },
+   {
+    "y": 2024,
+    "cn_funded": 54.2,
+    "cn_other": 37.4,
+    "noncn_funded": 64.5,
+    "noncn_other": 58.5,
+    "all_ca": 58.0,
+    "cn_all": 40.2,
+    "noncn_all": 60.0,
+    "cn_share_ft": 7.0,
+    "cn_share_all": 10.1,
+    "funded_share_ft": 27.0,
+    "funded_share_all": 24.6
+   },
+   {
+    "y": 2025,
+    "cn_funded": 52.2,
+    "cn_other": 37.4,
+    "noncn_funded": 59.9,
+    "noncn_other": 54.7,
+    "all_ca": 54.4,
+    "cn_all": 39.7,
+    "noncn_all": 56.1,
+    "cn_share_ft": 7.3,
+    "cn_share_all": 10.0,
+    "funded_share_ft": 27.0,
+    "funded_share_all": 24.8
+   }
+  ],
+  "pooled": {
+   "2019-20": {
+    "cn_funded": 42.0,
+    "cn_other": 36.5,
+    "noncn_funded": 50.4,
+    "noncn_other": 45.5,
+    "all_ca": 45.9,
+    "cn_all": 37.8,
+    "noncn_all": 46.7,
+    "cn_share_ft": 7.9,
+    "cn_share_all": 9.6,
+    "funded_share_ft": 27.4,
+    "funded_share_all": 25.3
+   },
+   "2024-25": {
+    "cn_funded": 53.2,
+    "cn_other": 37.4,
+    "noncn_funded": 62.1,
+    "noncn_other": 56.6,
+    "all_ca": 56.2,
+    "cn_all": 39.9,
+    "noncn_all": 58.0,
+    "cn_share_ft": 7.2,
+    "cn_share_all": 10.1,
+    "funded_share_ft": 27.0,
+    "funded_share_all": 24.7
+   },
+   "2018-20": {
+    "cn_funded": 42.0,
+    "cn_other": 35.7,
+    "noncn_funded": 49.3,
+    "noncn_other": 44.4,
+    "all_ca": 44.9,
+    "cn_all": 37.2,
+    "noncn_all": 45.7,
+    "cn_share_ft": 7.7,
+    "cn_share_all": 9.2,
+    "funded_share_ft": 27.7,
+    "funded_share_all": 25.6
+   },
+   "2023-25": {
+    "cn_funded": 53.8,
+    "cn_other": 38.6,
+    "noncn_funded": 63.7,
+    "noncn_other": 58.3,
+    "all_ca": 57.8,
+    "cn_all": 41.1,
+    "noncn_all": 59.7,
+    "cn_share_ft": 7.1,
+    "cn_share_all": 10.0,
+    "funded_share_ft": 26.9,
+    "funded_share_all": 24.7
+   }
+  },
+  "sensitive_share_of_CA_articles": {
+   "ft": {
+    "2020": 12.7,
+    "2025": 12.0
+   },
+   "all": {
+    "2020": 15.7,
+    "2025": 15.1
+   }
+  }
+ },
+ "step7b_field_rate_by_flag": {
+  "allsizes 2018-2020 has_fulltext": {
+   "cn_n": 10541,
+   "cn_funded": 2823,
+   "cn_field_rate": 26.8,
+   "noncn_n": 127149,
+   "noncn_field_rate": 27.8
+  },
+  "allsizes 2018-2020 not_has_fulltext": {
+   "cn_n": 17768,
+   "cn_funded": 3895,
+   "cn_field_rate": 21.9,
+   "noncn_n": 151149,
+   "noncn_field_rate": 24.1
+  },
+  "allsizes 2018-2020 grobid": {
+   "cn_n": 10574,
+   "cn_funded": 2854,
+   "cn_field_rate": 27.0,
+   "noncn_n": 127727,
+   "noncn_field_rate": 28.2
+  },
+  "allsizes 2018-2020 not_grobid": {
+   "cn_n": 17735,
+   "cn_funded": 3864,
+   "cn_field_rate": 21.8,
+   "noncn_n": 150571,
+   "noncn_field_rate": 23.7
+  },
+  "allsizes 2018-2020 fulltext_not_grobid": {
+   "cn_n": 137,
+   "cn_funded": 24,
+   "cn_field_rate": 17.5,
+   "noncn_n": 2146,
+   "noncn_field_rate": 20.5
+  },
+  "allsizes 2018-2020 none": {
+   "cn_n": 28309,
+   "cn_funded": 6718,
+   "cn_field_rate": 23.7,
+   "noncn_n": 278298,
+   "noncn_field_rate": 25.8
+  },
+  "allsizes 2023-2025 has_fulltext": {
+   "cn_n": 13319,
+   "cn_funded": 2882,
+   "cn_field_rate": 21.6,
+   "noncn_n": 173488,
+   "noncn_field_rate": 27.3
+  },
+  "allsizes 2023-2025 not_has_fulltext": {
+   "cn_n": 19077,
+   "cn_funded": 2477,
+   "cn_field_rate": 13.0,
+   "noncn_n": 117267,
+   "noncn_field_rate": 23.1
+  },
+  "allsizes 2023-2025 grobid": {
+   "cn_n": 13507,
+   "cn_funded": 2952,
+   "cn_field_rate": 21.9,
+   "noncn_n": 176023,
+   "noncn_field_rate": 28.0
+  },
+  "allsizes 2023-2025 not_grobid": {
+   "cn_n": 18889,
+   "cn_funded": 2407,
+   "cn_field_rate": 12.7,
+   "noncn_n": 114732,
+   "noncn_field_rate": 22.0
+  },
+  "allsizes 2023-2025 fulltext_not_grobid": {
+   "cn_n": 150,
+   "cn_funded": 19,
+   "cn_field_rate": 12.7,
+   "noncn_n": 1859,
+   "noncn_field_rate": 14.0
+  },
+  "allsizes 2023-2025 none": {
+   "cn_n": 32396,
+   "cn_funded": 5359,
+   "cn_field_rate": 16.5,
+   "noncn_n": 290755,
+   "noncn_field_rate": 25.6
+  },
+  "lt51 2018-2020 has_fulltext": {
+   "cn_n": 9708,
+   "cn_funded": 2423,
+   "cn_field_rate": 25.0,
+   "noncn_n": 125863,
+   "noncn_field_rate": 27.7
+  },
+  "lt51 2018-2020 not_has_fulltext": {
+   "cn_n": 17711,
+   "cn_funded": 3893,
+   "cn_field_rate": 22.0,
+   "noncn_n": 150898,
+   "noncn_field_rate": 24.1
+  },
+  "lt51 2018-2020 grobid": {
+   "cn_n": 9748,
+   "cn_funded": 2457,
+   "cn_field_rate": 25.2,
+   "noncn_n": 126452,
+   "noncn_field_rate": 28.1
+  },
+  "lt51 2018-2020 not_grobid": {
+   "cn_n": 17671,
+   "cn_funded": 3859,
+   "cn_field_rate": 21.8,
+   "noncn_n": 150309,
+   "noncn_field_rate": 23.7
+  },
+  "lt51 2018-2020 fulltext_not_grobid": {
+   "cn_n": 126,
+   "cn_funded": 20,
+   "cn_field_rate": 15.9,
+   "noncn_n": 2121,
+   "noncn_field_rate": 20.7
+  },
+  "lt51 2018-2020 none": {
+   "cn_n": 27419,
+   "cn_funded": 6316,
+   "cn_field_rate": 23.0,
+   "noncn_n": 276761,
+   "noncn_field_rate": 25.7
+  },
+  "lt51 2023-2025 has_fulltext": {
+   "cn_n": 12051,
+   "cn_funded": 2379,
+   "cn_field_rate": 19.7,
+   "noncn_n": 171460,
+   "noncn_field_rate": 27.4
+  },
+  "lt51 2023-2025 not_has_fulltext": {
+   "cn_n": 18987,
+   "cn_funded": 2470,
+   "cn_field_rate": 13.0,
+   "noncn_n": 116993,
+   "noncn_field_rate": 23.1
+  },
+  "lt51 2023-2025 grobid": {
+   "cn_n": 12248,
+   "cn_funded": 2447,
+   "cn_field_rate": 20.0,
+   "noncn_n": 174015,
+   "noncn_field_rate": 28.0
+  },
+  "lt51 2023-2025 not_grobid": {
+   "cn_n": 18790,
+   "cn_funded": 2402,
+   "cn_field_rate": 12.8,
+   "noncn_n": 114438,
+   "noncn_field_rate": 22.0
+  },
+  "lt51 2023-2025 fulltext_not_grobid": {
+   "cn_n": 135,
+   "cn_funded": 19,
+   "cn_field_rate": 14.1,
+   "noncn_n": 1825,
+   "noncn_field_rate": 13.9
+  },
+  "lt51 2023-2025 none": {
+   "cn_n": 31038,
+   "cn_funded": 4849,
+   "cn_field_rate": 15.6,
+   "noncn_n": 288453,
+   "noncn_field_rate": 25.6
+  }
+ },
+ "step7c_recall_corrected_all_papers": {
+  "cells_2019-20": {
+   "cnf_ft": 1966,
+   "cnf_nft": 2720,
+   "cn_ft": 7615,
+   "cn_nft": 12531,
+   "nf_ft": 24470,
+   "nf_nft": 24113,
+   "n_ft": 88809,
+   "n_nft": 101208
+  },
+  "cells_2024-25": {
+   "cnf_ft": 1853,
+   "cnf_nft": 1631,
+   "cn_ft": 8792,
+   "cn_nft": 13236,
+   "nf_ft": 31386,
+   "nf_nft": 19129,
+   "n_ft": 114160,
+   "n_nft": 82678
+  },
+  "ratio_change_1920_2425": {
+   "field as recorded": -35.7,
+   "non-full-text recall = full-text recall": -30.5,
+   "non-full-text recall = Crossref pooled 0.60": -35.9,
+   "non-full-text recall = Crossref by stratum (CN .61 -> .66; non-CN as CA-US .53 -> .63)": -29.6
+  }
+ }
+}

@@ -1,0 +1,499 @@
+{
+"ids": [
+[
+"University of British Columbia",
+"I141945490",
+"University of British Columbia"
+],
+[
+"University of Alberta",
+"I154425047",
+"University of Alberta"
+],
+[
+"University of Calgary",
+"I168635309",
+"University of Calgary"
+],
+[
+"University of Saskatchewan",
+"I32625721",
+"University of Saskatchewan"
+],
+[
+"University of Manitoba",
+"I46247651",
+"University of Manitoba"
+],
+[
+"University of Waterloo",
+"I151746483",
+"University of Waterloo"
+],
+[
+"Western University",
+"I125749732",
+"Western University"
+],
+[
+"McMaster University",
+"I98251732",
+"McMaster University"
+],
+[
+"University of Toronto",
+"I185261750",
+"University of Toronto"
+],
+[
+"Queen's University",
+"I204722609",
+"Queen's University"
+],
+[
+"University of Ottawa",
+"I153718931",
+"University of Ottawa"
+],
+[
+"McGill University",
+"I5023651",
+"McGill University"
+],
+[
+"Universit\u00e9 de Montr\u00e9al",
+"I70931966",
+"Universit\u00e9 de Montr\u00e9al"
+],
+[
+"Universit\u00e9 Laval",
+"I43406934",
+"Universit\u00e9 Laval"
+],
+[
+"Dalhousie University",
+"I129902397",
+"Dalhousie University"
+]
+],
+"inst": {
+"I141945490": {
+"pre": {
+"ALL": 28693,
+"CN": 2675,
+"HK": 523,
+"IR": 563,
+"RU": 520,
+"US": 8201,
+"GB": 3170
+},
+"post": {
+"ALL": 32252,
+"CN": 3365,
+"HK": 774,
+"IR": 557,
+"RU": 246,
+"US": 9733,
+"GB": 3873
+}
+},
+"I154425047": {
+"pre": {
+"ALL": 22533,
+"CN": 3233,
+"HK": 408,
+"IR": 461,
+"RU": 411,
+"US": 5028,
+"GB": 1845
+},
+"post": {
+"ALL": 23661,
+"CN": 4108,
+"HK": 542,
+"IR": 392,
+"RU": 202,
+"US": 5391,
+"GB": 2241
+}
+},
+"I168635309": {
+"pre": {
+"ALL": 17332,
+"CN": 1399,
+"HK": 174,
+"IR": 264,
+"RU": 149,
+"US": 4224,
+"GB": 1389
+},
+"post": {
+"ALL": 18954,
+"CN": 1721,
+"HK": 262,
+"IR": 352,
+"RU": 104,
+"US": 5112,
+"GB": 1900
+}
+},
+"I32625721": {
+"pre": {
+"ALL": 8426,
+"CN": 1000,
+"HK": 60,
+"IR": 204,
+"RU": 89,
+"US": 1618,
+"GB": 390
+},
+"post": {
+"ALL": 8368,
+"CN": 964,
+"HK": 87,
+"IR": 203,
+"RU": 37,
+"US": 1735,
+"GB": 446
+}
+},
+"I46247651": {
+"pre": {
+"ALL": 9195,
+"CN": 666,
+"HK": 81,
+"IR": 167,
+"RU": 81,
+"US": 2013,
+"GB": 638
+},
+"post": {
+"ALL": 9879,
+"CN": 851,
+"HK": 132,
+"IR": 140,
+"RU": 77,
+"US": 2428,
+"GB": 881
+}
+},
+"I151746483": {
+"pre": {
+"ALL": 12081,
+"CN": 2015,
+"HK": 109,
+"IR": 388,
+"RU": 84,
+"US": 2425,
+"GB": 772
+},
+"post": {
+"ALL": 12790,
+"CN": 2111,
+"HK": 252,
+"IR": 321,
+"RU": 50,
+"US": 2893,
+"GB": 1232
+}
+},
+"I125749732": {
+"pre": {
+"ALL": 13935,
+"CN": 1233,
+"HK": 78,
+"IR": 174,
+"RU": 92,
+"US": 2917,
+"GB": 1111
+},
+"post": {
+"ALL": 15653,
+"CN": 1447,
+"HK": 180,
+"IR": 226,
+"RU": 90,
+"US": 3829,
+"GB": 1593
+}
+},
+"I98251732": {
+"pre": {
+"ALL": 14498,
+"CN": 1013,
+"HK": 140,
+"IR": 195,
+"RU": 163,
+"US": 3625,
+"GB": 1421
+},
+"post": {
+"ALL": 16404,
+"CN": 1192,
+"HK": 201,
+"IR": 251,
+"RU": 159,
+"US": 4473,
+"GB": 1916
+}
+},
+"I185261750": {
+"pre": {
+"ALL": 45762,
+"CN": 3369,
+"HK": 740,
+"IR": 427,
+"RU": 735,
+"US": 13207,
+"GB": 5077
+},
+"post": {
+"ALL": 51683,
+"CN": 4019,
+"HK": 1043,
+"IR": 497,
+"RU": 315,
+"US": 16640,
+"GB": 6355
+}
+},
+"I204722609": {
+"pre": {
+"ALL": 8474,
+"CN": 507,
+"HK": 58,
+"IR": 111,
+"RU": 78,
+"US": 1766,
+"GB": 724
+},
+"post": {
+"ALL": 9948,
+"CN": 638,
+"HK": 106,
+"IR": 154,
+"RU": 101,
+"US": 2484,
+"GB": 1115
+}
+},
+"I153718931": {
+"pre": {
+"ALL": 16060,
+"CN": 1013,
+"HK": 96,
+"IR": 210,
+"RU": 144,
+"US": 3126,
+"GB": 1291
+},
+"post": {
+"ALL": 17130,
+"CN": 1073,
+"HK": 166,
+"IR": 225,
+"RU": 85,
+"US": 3731,
+"GB": 1664
+}
+},
+"I5023651": {
+"pre": {
+"ALL": 23160,
+"CN": 1884,
+"HK": 391,
+"IR": 355,
+"RU": 493,
+"US": 6378,
+"GB": 2465
+},
+"post": {
+"ALL": 25536,
+"CN": 2321,
+"HK": 562,
+"IR": 336,
+"RU": 175,
+"US": 7499,
+"GB": 3058
+}
+},
+"I70931966": {
+"pre": {
+"ALL": 15235,
+"CN": 702,
+"HK": 323,
+"IR": 111,
+"RU": 479,
+"US": 3467,
+"GB": 1354
+},
+"post": {
+"ALL": 16810,
+"CN": 845,
+"HK": 418,
+"IR": 185,
+"RU": 132,
+"US": 4295,
+"GB": 1899
+}
+},
+"I43406934": {
+"pre": {
+"ALL": 10812,
+"CN": 404,
+"HK": 40,
+"IR": 143,
+"RU": 147,
+"US": 1609,
+"GB": 725
+},
+"post": {
+"ALL": 12210,
+"CN": 410,
+"HK": 70,
+"IR": 144,
+"RU": 63,
+"US": 1797,
+"GB": 770
+}
+},
+"I129902397": {
+"pre": {
+"ALL": 8802,
+"CN": 592,
+"HK": 66,
+"IR": 115,
+"RU": 53,
+"US": 1987,
+"GB": 819
+},
+"post": {
+"ALL": 10078,
+"CN": 633,
+"HK": 82,
+"IR": 210,
+"RU": 47,
+"US": 2238,
+"GB": 980
+}
+}
+},
+"fields": {
+"pre": {
+"ALL": {
+"Medicine": 81360,
+"Social Sciences": 32583,
+"Engineering": 28416,
+"Environmental Science": 18076,
+"Biochemistry, Genetics and Molecular Biology": 15862,
+"Agricultural and Biological Sciences": 13993,
+"Psychology": 11990,
+"Physics and Astronomy": 11497,
+"Computer Science": 10631,
+"Arts and Humanities": 9842,
+"Earth and Planetary Sciences": 9734,
+"Neuroscience": 8465,
+"Materials Science": 8092,
+"Mathematics": 6149,
+"Health Professions": 6103,
+"Chemistry": 5344,
+"Business, Management and Accounting": 5298,
+"Economics, Econometrics and Finance": 5202,
+"Immunology and Microbiology": 4180,
+"Energy": 4123,
+"Decision Sciences": 2963,
+"Nursing": 2654,
+"Chemical Engineering": 1793,
+"Dentistry": 1143,
+"Pharmacology, Toxicology and Pharmaceutics": 980,
+"Veterinary": 668
+},
+"CN": {
+"Engineering": 6127,
+"Medicine": 2934,
+"Environmental Science": 2347,
+"Computer Science": 2330,
+"Agricultural and Biological Sciences": 1790,
+"Materials Science": 1773,
+"Physics and Astronomy": 1739,
+"Earth and Planetary Sciences": 1674,
+"Biochemistry, Genetics and Molecular Biology": 1652,
+"Energy": 1119,
+"Chemistry": 751,
+"Mathematics": 745,
+"Social Sciences": 583,
+"Neuroscience": 423,
+"Decision Sciences": 422,
+"Economics, Econometrics and Finance": 403,
+"Chemical Engineering": 354,
+"Business, Management and Accounting": 316,
+"Psychology": 303,
+"Immunology and Microbiology": 256,
+"Nursing": 112,
+"Pharmacology, Toxicology and Pharmaceutics": 91,
+"Health Professions": 78,
+"Arts and Humanities": 63,
+"Dentistry": 63,
+"Veterinary": 4
+}
+},
+"post": {
+"ALL": {
+"Medicine": 88323,
+"Social Sciences": 36706,
+"Engineering": 30409,
+"Environmental Science": 19328,
+"Biochemistry, Genetics and Molecular Biology": 14256,
+"Psychology": 14106,
+"Agricultural and Biological Sciences": 13605,
+"Computer Science": 13412,
+"Physics and Astronomy": 11726,
+"Arts and Humanities": 9118,
+"Earth and Planetary Sciences": 8642,
+"Neuroscience": 8288,
+"Materials Science": 8186,
+"Health Professions": 6671,
+"Mathematics": 6532,
+"Business, Management and Accounting": 5818,
+"Energy": 5309,
+"Economics, Econometrics and Finance": 4996,
+"Chemistry": 4343,
+"Immunology and Microbiology": 4205,
+"Decision Sciences": 3141,
+"Nursing": 2439,
+"Chemical Engineering": 1729,
+"Dentistry": 1471,
+"Pharmacology, Toxicology and Pharmaceutics": 1195,
+"Veterinary": 681
+},
+"CN": {
+"Engineering": 6908,
+"Medicine": 3847,
+"Computer Science": 2920,
+"Environmental Science": 2847,
+"Agricultural and Biological Sciences": 1877,
+"Physics and Astronomy": 1815,
+"Materials Science": 1719,
+"Earth and Planetary Sciences": 1647,
+"Energy": 1336,
+"Biochemistry, Genetics and Molecular Biology": 1279,
+"Social Sciences": 899,
+"Mathematics": 873,
+"Chemistry": 632,
+"Psychology": 578,
+"Neuroscience": 562,
+"Business, Management and Accounting": 560,
+"Economics, Econometrics and Finance": 499,
+"Decision Sciences": 484,
+"Chemical Engineering": 373,
+"Immunology and Microbiology": 281,
+"Nursing": 118,
+"Health Professions": 113,
+"Pharmacology, Toxicology and Pharmaceutics": 108,
+"Arts and Humanities": 82,
+"Dentistry": 60,
+"Veterinary": 3
+}
+}
+}
+}

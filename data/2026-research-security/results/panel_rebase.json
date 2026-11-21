@@ -1,0 +1,31 @@
+{
+ "definitions": "Author panel without selection on the outcome (review concern 5).\nCohorts are defined on 2015-2017 activity; outcomes are measured in 2018-2020 (pre) and 2023-2025 (post), so the\nselection window does not overlap the base.\n- A': Canadian authors with a Canadian authorship on a (verified) NRO work in 2015-17.\n- B': Canadian authors with a Canadian authorship on a control-institution work in 2015-17 and no NRO work 2015-17.\nOutcome: pooled share of the cohort's Canadian papers (funded / other) with an NRO (A') or a control institution (B').\nEffect = change in log share for A' minus change for B', funded and other separately; 95% CI by author bootstrap\n(1,000 draws). Run with VERIFIED=1. Output ../data/panel_rebase.json",
+ "n_A": 2587,
+ "n_B": 10994,
+ "funded": {
+  "A_pre": 0.11876339149066421,
+  "A_post": 0.0410288582183187,
+  "B_pre": 0.15330931281851526,
+  "B_post": 0.09556374616990097,
+  "A_change": -0.6545327840225588,
+  "B_change": -0.3766605275765108,
+  "effect_pct": -0.44577997822872495,
+  "ci95": [
+   -0.5432392860981246,
+   -0.3328079790839019
+  ]
+ },
+ "other": {
+  "A_pre": 0.1260627561318735,
+  "A_post": 0.10012515644555695,
+  "B_pre": 0.20606101210415828,
+  "B_post": 0.18677770224337187,
+  "A_change": -0.2057514882443423,
+  "B_change": -0.09358058404099856,
+  "effect_pct": -0.12375165649410291,
+  "ci95": [
+   -0.26459339622089695,
+   0.016812836888482785
+  ]
+ }
+}

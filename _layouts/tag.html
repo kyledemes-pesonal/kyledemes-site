@@ -1,0 +1,17 @@
+---
+layout: default
+---
+{% assign info = site.data.tags[page.tag] %}
+<p class="eyebrow"><a href="{{ '/notes/tags/' | relative_url }}">Field notes by theme</a></p>
+<h1>{{ info.name | default: page.tag }}</h1>
+{% if info.description %}<p class="intro">{{ info.description }}</p>{% endif %}
+{% assign tagged = site.tags[page.tag] %}
+{% if tagged and tagged.size > 0 %}
+<div class="note-cards">
+{% for post in tagged %}{% include note-card.html post=post %}{% endfor %}
+</div>
+{% else %}
+<p>No field notes on this yet.</p>
+{% endif %}
+<p class="back"><a href="{{ '/notes/' | relative_url }}">All field notes</a></p>
+{% include subscribe.html %}

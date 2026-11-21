@@ -1,0 +1,115 @@
+{
+ "by_source_type": {
+  "all": {
+   "2020": {
+    "CA": {
+     "journal": 107622,
+     "repository": 1256,
+     "conference": 152,
+     "book%20series": 19
+    },
+    "CN": {
+     "journal": 10717,
+     "repository": 29,
+     "conference": 7,
+     "book%20series": 3
+    }
+   },
+   "2025": {
+    "CA": {
+     "journal": 110825,
+     "repository": 1380,
+     "conference": 161,
+     "book%20series": 17
+    },
+    "CN": {
+     "journal": 11283,
+     "repository": 29,
+     "conference": 4,
+     "book%20series": 1
+    }
+   }
+  },
+  "sens": {
+   "2020": {
+    "CA": {
+     "journal": 16886,
+     "repository": 161,
+     "conference": 49,
+     "book%20series": 8
+    },
+    "CN": {
+     "journal": 3939,
+     "conference": 5,
+     "repository": 4,
+     "book%20series": 3
+    }
+   },
+   "2025": {
+    "CA": {
+     "journal": 16822,
+     "repository": 174,
+     "conference": 29,
+     "book%20series": 6
+    },
+    "CN": {
+     "journal": 3608,
+     "repository": 6,
+     "conference": 4
+    }
+   }
+  },
+  "nonsens": {
+   "2020": {
+    "CA": {
+     "journal": 73874,
+     "repository": 911,
+     "conference": 88,
+     "book%20series": 5
+    },
+    "CN": {
+     "journal": 4402,
+     "repository": 17,
+     "conference": 1
+    }
+   },
+   "2025": {
+    "CA": {
+     "journal": 77992,
+     "repository": 1014,
+     "conference": 126,
+     "book%20series": 8
+    },
+    "CN": {
+     "journal": 5296,
+     "repository": 20,
+     "book%20series": 1
+    }
+   }
+  }
+ },
+ "funded": {
+  "2020": {
+   "CA": 27566,
+   "CA_journal": 27472,
+   "CN": 2471,
+   "CN_journal": 2471
+  },
+  "2025": {
+   "CA": 27846,
+   "CA_journal": 27697,
+   "CN": 1712,
+   "CN_journal": 1708
+  }
+ },
+ "journal_totals": {
+  "2020": {
+   "CA": 107622,
+   "CN": 10717
+  },
+  "2025": {
+   "CA": 110825,
+   "CN": 11283
+  }
+ }
+}

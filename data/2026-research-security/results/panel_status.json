@@ -1,0 +1,112 @@
+{
+ "status": {
+  "A": {
+   "cohort": 3620,
+   "active_ca": 2066,
+   "inactive_ca": 1554,
+   "active_share": 0.571
+  },
+  "B": {
+   "cohort": 14359,
+   "active_ca": 7593,
+   "inactive_ca": 6766,
+   "active_share": 0.529
+  }
+ },
+ "A": {
+  "checked": 1554,
+  "publishing_ca_other": 125,
+  "moved_abroad": 1091,
+  "stopped_publishing": 338,
+  "abroad_where": [
+   [
+    "CN",
+    882
+   ],
+   [
+    "US",
+    133
+   ],
+   [
+    "HK",
+    28
+   ],
+   [
+    "GB",
+    26
+   ],
+   [
+    "DE",
+    21
+   ],
+   [
+    "AU",
+    18
+   ],
+   [
+    "IN",
+    12
+   ],
+   [
+    "SG",
+    11
+   ],
+   [
+    "JP",
+    9
+   ],
+   [
+    "TW",
+    8
+   ]
+  ]
+ },
+ "B": {
+  "checked": 1600,
+  "moved_abroad": 1008,
+  "stopped_publishing": 468,
+  "publishing_ca_other": 124,
+  "abroad_where": [
+   [
+    "CN",
+    772
+   ],
+   [
+    "US",
+    153
+   ],
+   [
+    "GB",
+    23
+   ],
+   [
+    "AU",
+    23
+   ],
+   [
+    "HK",
+    16
+   ],
+   [
+    "IT",
+    15
+   ],
+   [
+    "DE",
+    12
+   ],
+   [
+    "IN",
+    10
+   ],
+   [
+    "JP",
+    10
+   ],
+   [
+    "KR",
+    9
+   ]
+  ]
+ }
+}

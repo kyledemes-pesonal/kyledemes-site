@@ -1,0 +1,11 @@
+---
+layout: default
+title: Field notes by theme
+---
+<h1>Field notes by theme</h1>
+<ul class="tag-list">
+{% for entry in site.data.tags %}{% assign slug = entry[0] %}{% assign info = entry[1] %}{% assign n = site.tags[slug].size | default: 0 %}
+  <li><a href="{{ '/notes/tags/' | append: slug | append: '/' | relative_url }}">{{ info.name }}</a> <span class="count">{{ n }} {% if n == 1 %}note{% else %}notes{% endif %}</span><br><span class="desc">{{ info.description }}</span></li>
+{% endfor %}
+</ul>
+<p class="back"><a href="{{ '/notes/' | relative_url }}">All field notes</a></p>

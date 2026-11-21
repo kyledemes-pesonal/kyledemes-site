@@ -1,0 +1,16 @@
+work_id,verdict,check_a,check_b,check_c,nro_ids,reason
+W4310918707,false_positive,,,fail,,"meeting-abstract compilation, not one paper"
+W2895811679,false_positive,,,fail,,"erratum-style notice, not a research article"
+W4390114628,false_positive,pass,fail,fail,,secondary publication (translation); Canadian string is an editorial note
+W2289604917,unverifiable,pass,unverifiable,pass,,Canadian-linked string does not show a Canadian site
+W2336551982,verified,pass,pass,pass,,"hand check: real paper, author list repeated or combined affiliation string; both affiliations present"
+W4301188028,verified,pass,pass,pass,,"hand check: real paper, author list repeated or combined affiliation string; both affiliations present"
+W4396575973,verified,pass,pass,pass,,"hand check: real paper, author list repeated or combined affiliation string; both affiliations present"
+W2381270640,verified,pass,pass,pass,,"hand check: real paper, author list repeated or combined affiliation string; both affiliations present"
+W2992571333,verified,pass,pass,pass,,"hand check: real paper, author list repeated or combined affiliation string; both affiliations present"
+W3081718940,verified,pass,pass,pass,,"hand check: real paper, author list repeated or combined affiliation string; both affiliations present"
+W3128947369,verified,pass,pass,pass,,"hand check: real paper, author list repeated or combined affiliation string; both affiliations present"
+W3173223243,verified,pass,pass,pass,,"hand check: real paper, author list repeated or combined affiliation string; both affiliations present"
+W4290793582,verified,pass,pass,pass,,"hand check: real paper, author list repeated or combined affiliation string; both affiliations present"
+W4411022811,verified,pass,pass,pass,,"hand check: real paper, author list repeated or combined affiliation string; both affiliations present"
+W4360985264,verified,pass,pass,pass,,"hand check: real paper, author list repeated or combined affiliation string; both affiliations present"

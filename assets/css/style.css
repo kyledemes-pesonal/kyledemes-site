@@ -78,3 +78,35 @@ footer.site a { color:var(--sky); }
 .subscribe .btn:disabled { opacity:.6; cursor:default; }
 .subscribe .thanks { margin:0; font-weight:600; color:var(--navy); font-family:"Avenir Next", Avenir, Arial, sans-serif; }
 .subscribe .hp, .sr { position:absolute; left:-9999px; width:1px; height:1px; overflow:hidden; }
+/* field notes cards and post images */
+.note-cards { display:grid; grid-template-columns:repeat(2, minmax(0,1fr)); gap:36px 28px; margin:8px 0 0; }
+.note-card { display:flex; flex-direction:column; gap:6px; color:var(--text); }
+.note-card .img { display:block; }
+.note-card img, .note-card .ph { width:100%; aspect-ratio:3/2; object-fit:cover; border-radius:8px; background:var(--bg); border:1px solid var(--rule); margin-bottom:6px; display:block; }
+.note-card .ph { background:linear-gradient(120deg, var(--navy), var(--deep)); }
+.note-card .date { color:var(--muted); font-size:13px; letter-spacing:1px; text-transform:uppercase; font-family:"Avenir Next", Arial, sans-serif; }
+.note-card .title { font-family:"Avenir Next", Arial, sans-serif; font-weight:600; font-size:22px; line-height:1.25; color:var(--navy); text-decoration:none; }
+.note-card .title:hover { color:var(--deep); }
+.note-card .excerpt { font-size:16px; line-height:1.55; color:var(--muted); }
+.note-card .more { font-family:"Avenir Next", Arial, sans-serif; font-size:14px; color:var(--deep); text-underline-offset:3px; }
+.note-card .tags { margin:2px 0 0; }
+/* tags */
+.tags { margin:-2px 0 18px; display:flex; flex-wrap:wrap; gap:6px; }
+.tag { display:inline-block; font:600 12px/1 "Avenir Next", Arial, sans-serif; letter-spacing:.6px; text-transform:uppercase; text-decoration:none; color:var(--navy); background:#e4f6f5; border:1px solid #bfe9e6; border-radius:999px; padding:6px 10px; }
+.tag:hover { background:#cdeff0; }
+.tag-nav { display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin:0 0 24px; font:14px "Avenir Next", Arial, sans-serif; color:var(--muted); }
+.tag-list { list-style:none; padding:0; margin:12px 0 0; }
+.tag-list li { padding:14px 0; border-bottom:1px solid var(--rule); }
+.tag-list a { font:600 21px "Avenir Next", Arial, sans-serif; color:var(--navy); text-decoration:none; }
+.tag-list .count { font:13px "Avenir Next", Arial, sans-serif; color:var(--muted); letter-spacing:.6px; text-transform:uppercase; margin-left:8px; }
+.tag-list .desc { color:var(--muted); font-size:16px; }
+.posts li.thumb { display:flex; gap:14px; align-items:center; }
+.posts li.thumb img { width:72px; height:72px; object-fit:cover; border-radius:6px; flex:none; border:1px solid var(--rule); }
+figure.lead { float:right; width:46%; margin:6px 0 16px 28px; }
+figure.lead img { display:block; width:100%; border-radius:8px; margin:0; }
+figure.lead figcaption { font-size:14px; color:var(--muted); margin-top:6px; font-family:"Avenir Next", Arial, sans-serif; }
+article.post::after { content:""; display:block; clear:both; }
+article figure { margin:28px 0; }
+article figure img { margin:0 auto; }
+article figure figcaption { font-size:14px; color:var(--muted); margin-top:8px; font-family:"Avenir Next", Arial, sans-serif; }
+@media (max-width:640px){ .note-cards{grid-template-columns:1fr;} figure.lead{float:none; width:100%; margin:8px 0 20px;} }

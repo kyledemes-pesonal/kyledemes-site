@@ -1,0 +1,104 @@
+{
+ "orcid_only": {
+  "n_A": 2155,
+  "n_B": 8622,
+  "funded": -44.4,
+  "other": -12.1
+ },
+ "cluster_bootstrap": {
+  "clusters": 399,
+  "draws": 300,
+  "funded": {
+   "effect": -44.6,
+   "ci95": [
+    -58.0,
+    -28.0
+   ]
+  },
+  "other": {
+   "effect": -12.4,
+   "ci95": [
+    -23.9,
+    0.2
+   ]
+  }
+ },
+ "yearly": {
+  "2015": {
+   "A_funded": 0.1487,
+   "B_funded": 0.2015
+  },
+  "2016": {
+   "A_funded": 0.1709,
+   "B_funded": 0.2141
+  },
+  "2017": {
+   "A_funded": 0.213,
+   "B_funded": 0.2372
+  },
+  "2018": {
+   "A_funded": 0.1339,
+   "B_funded": 0.1595
+  },
+  "2019": {
+   "A_funded": 0.1071,
+   "B_funded": 0.1559
+  },
+  "2020": {
+   "A_funded": 0.1146,
+   "B_funded": 0.1447
+  },
+  "2021": {
+   "A_funded": 0.0894,
+   "B_funded": 0.1325
+  },
+  "2022": {
+   "A_funded": 0.0644,
+   "B_funded": 0.111
+  },
+  "2023": {
+   "A_funded": 0.0608,
+   "B_funded": 0.1092
+  },
+  "2024": {
+   "A_funded": 0.0339,
+   "B_funded": 0.095
+  },
+  "2025": {
+   "A_funded": 0.026,
+   "B_funded": 0.0817
+  }
+ },
+ "windows": {
+  "placebo coh15 pre16-17 post19-20": {
+   "n_A": 1064,
+   "n_B": 4442,
+   "funded": -24.0,
+   "other": 5.8
+  },
+  "placebo coh15 pre16 post18": {
+   "n_A": 1064,
+   "n_B": 4442,
+   "funded": -3.0,
+   "other": -6.2
+  },
+  "placebo coh15-16 pre17-18 post20-21": {
+   "n_A": 1839,
+   "n_B": 7815,
+   "funded": -21.5,
+   "other": 6.9
+  },
+  "midpoint coh15-17 pre18-20 post21-22": {
+   "n_A": 2587,
+   "n_B": 10994,
+   "funded": -17.8,
+   "other": -4.6
+  },
+  "later coh18-20 pre21-22 post24-25": {
+   "n_A": 3620,
+   "n_B": 14711,
+   "funded": -52.5,
+   "other": -14.6
+  }
+ }
+}

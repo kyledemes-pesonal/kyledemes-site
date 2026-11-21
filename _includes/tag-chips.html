@@ -1,0 +1,3 @@
+{%- if include.tags and include.tags.size > 0 -%}
+<p class="tags">{% for t in include.tags %}{% assign info = site.data.tags[t] %}<a class="tag" href="{{ '/notes/tags/' | append: t | append: '/' | relative_url }}">{{ info.name | default: t }}</a>{% endfor %}</p>
+{%- endif -%}
