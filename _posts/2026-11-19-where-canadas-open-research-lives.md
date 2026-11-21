@@ -46,7 +46,7 @@ The agencies published two baselines in October:
 - 68.6% of Canadian-authored articles open in 2025;
 - 73.0% of NSERC-funded, 72.4% of SSHRC-funded and 85.3% of CIHR-funded articles.
 
-The monitor's figures run higher. For Canada as a whole, most of the gap closes if you leave out "bronze" papers, which are free on a publisher's site but carry no licence: that gives 70.4%, against their 68.6%. For funded papers, the rest likely comes from how funding is detected. The agencies say they'll track their numbers using open data sources, and OpenAlex is one, so I'd expect the figures to line up as the methods are compared. Both measure papers that are free to read anywhere, which isn't the same as meeting the new policy. The gap between those two things is the story.
+The monitor's figures run higher: about 6 points for Canada as a whole and 5 to 10 points for each agency's funded papers. The agencies say they used open data sources, but I couldn't find their method. For funded papers, the likely reason is how funding is detected. For closed papers, funding information comes mostly from what publishers deposit with Crossref. OpenAlex can also find funders in a paper's full text, which it mostly has for open papers, so open papers are more likely to be counted as funded. I'd expect the numbers to line up as the methods are compared. Both measure papers that are free to read anywhere, which isn't the same as meeting the new policy, and that gap is the story.
 
 ### How Canada compares
 
