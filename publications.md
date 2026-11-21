@@ -10,10 +10,6 @@ My full record is on [OpenAlex](https://openalex.org/A5086928770).
 
 ## Research information and open science
 
-- **Demes, K**. 2026. The past, present, and future of OpenAlex. *Zenodo*. [Link](https://doi.org/10.5281/zenodo.19733289)
-- Matthias, L, **K Demes**, K Shearer. 2025. Integration of institutional open access repositories into the broader open science landscape. Pro OAR DE Virtual Networking Forum. [Link](https://doi.org/10.5281/zenodo.17582060)
-- Gould, M, **K Demes**. 2025. Exploring DataCite metadata in OpenAlex. *Zenodo*. [Link](https://doi.org/10.5281/zenodo.17549989)
-- **Demes, K**. 2025. OpenAlex for journal editors. *Zenodo*. [Link](https://doi.org/10.5281/zenodo.18493207)
 - Buehler, DM, M Daley, **K Demes**. 2024. Assessing the impacts of convening experts: a bibliometric analysis of a research program spanning four decades. *arXiv*. [Link](https://doi.org/10.48550/arxiv.2410.07608)
 - Alperin, JP, J Portenoy, **K Demes**, V Larivière, S Haustein. 2024. An analysis of the suitability of OpenAlex for bibliometric analyses. *arXiv*. [Link](https://doi.org/10.48550/arxiv.2404.17663)
 - Waltman, L, et al. (incl. **K Demes**). 2024. Introducing the Leiden Ranking Open Edition. [Link](https://doi.org/10.59350/89wpz-hpz32)
