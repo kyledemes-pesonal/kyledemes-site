@@ -12,7 +12,7 @@ python3 scripts/build_trends.py  # the two trend charts (trends.html): every Can
 python3 scripts/universities.py  # optional: the university policy tests, not used in the post (about 60 requests)
 ```
 
-Standard library only. It rewrites `results/` and rebuilds `monitor.html` from `scripts/monitor_template.html`. A run takes about 90 seconds. The "data as of" date on the dashboard is the day you run it.
+Standard library only (`make_figure.py` also needs matplotlib). The scripts rewrite `results/` and rebuild `monitor.html` and `trends.html` from the templates in `scripts/`. All four take about two minutes. The "data as of" date on both pages is the day you run them. `MANIFEST.md` maps every number and chart in the post to its script and file.
 
 ## What's in `results/`
 
@@ -31,7 +31,7 @@ Standard library only. It rewrites `results/` and rebuilds `monitor.html` from `
 | `oa_by_country.csv` | The same for each country with at least 5,000 papers since 2010, and for the world (every paper with an author affiliation) |
 | `trends_data.json` | Everything above in the form `trends.html` reads |
 | `university_oa_by_year.csv` | Input to the policy tests (not used in the post): journal articles (2010-2025) for Canada and 30 universities (the U15 and 15 more) by year and OA route, plus copies in a Canadian repository |
-| `policy_timeline.csv` | Not used in the post. About 270 university and national events (policies, APC funds, repositories, CRKN agreements, federal policy), each with its source and a `verified` flag (yes, partial or UNVERIFIED). Rows with `tested` set are the ones tested |
+| `policy_timeline.csv` | Not used in the post. 252 university and national events (policies, APC funds, repositories, CRKN agreements, federal policy), each with its source and a `verified` flag: `yes` means a page we opened states the event (and its date, where one is given); `partial` means the page confirms the event but the date is inferred (a first Wayback capture, earliest deposit, registry date, fiscal-year report or "since" wording) or only the year is stated. Rows we couldn't confirm at a source were removed on 20 Nov 2026. Rows with `tested` set are the ones tested |
 | `policy_event_tests.csv` | Not used in the post. Each tested event: the change in the three years after against the three years before, net of Canada's change, and its rank against the other 29 universities in the same years (1 = largest gain) |
 
 ## Check the headline numbers in a browser
@@ -62,5 +62,9 @@ CIHR papers carrying a CIHR grant number:
 - **University tests** (set aside: none showed a clear signal) use the share open only through a repository (green) for institution-wide policies and the gold share for APC funds, with the overall open share alongside. A university counts if any author lists it (or a unit inside it). Events need two years on each side inside 2010-2025, so Ottawa's 2009 and Concordia's 2010 policies aren't tested. With ten policies tested, about one would rank in the top three of 30 by chance.
 - **Known harvesting artefacts in the university data:** repository copies at SFU, Victoria, Carleton and York all jump in 2017 and fall back in 2018 (SFU's policy is also from 2017, so read that year with care); Windsor's copies swing by 13 to 20 points a year since 2020; INRS, UQAM, Concordia (2011-2013) and Laurier swing by 5 to 13 points; Western falls from 21% in 2019 to 4% in 2025, much faster than the country. Recent years are low everywhere because deposits lag publication.
 - **Publisher policies** were read from the publishers' public pages on 18 Nov 2026.
+
+## Reproduction check (20 Nov 2026)
+
+All four scripts were re-run in a clean copy of this folder on 20 Nov 2026. Every file in `results/`, `monitor.html` and `trends.html` came out byte-identical to the published copies. `figure.png` was redrawn from the same results: the earlier copy had been drawn from the 19 Nov pull, and its labels (84%, 8%) didn't change. Removing the unconfirmed timeline rows changed no policy test. OpenAlex updates daily, so a later run will differ a little.
 
 Corrections: kyle@demes.ca.
