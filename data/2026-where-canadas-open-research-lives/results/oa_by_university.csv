@@ -1,0 +1,1140 @@
+university,openalex_id,province,u15,year,papers,free_to_read
+University of Toronto,I185261750,Ontario,True,2010,10529,4403
+University of Toronto,I185261750,Ontario,True,2011,10987,4817
+University of Toronto,I185261750,Ontario,True,2012,11601,5534
+University of Toronto,I185261750,Ontario,True,2013,12779,6249
+University of Toronto,I185261750,Ontario,True,2014,13337,6845
+University of Toronto,I185261750,Ontario,True,2015,13879,7325
+University of Toronto,I185261750,Ontario,True,2016,14546,7837
+University of Toronto,I185261750,Ontario,True,2017,15070,8291
+University of Toronto,I185261750,Ontario,True,2018,15830,9117
+University of Toronto,I185261750,Ontario,True,2019,16667,9864
+University of Toronto,I185261750,Ontario,True,2020,18717,11633
+University of Toronto,I185261750,Ontario,True,2021,19638,13015
+University of Toronto,I185261750,Ontario,True,2022,18563,12874
+University of Toronto,I185261750,Ontario,True,2023,18666,13979
+University of Toronto,I185261750,Ontario,True,2024,18968,14530
+University of Toronto,I185261750,Ontario,True,2025,21146,15765
+University of Toronto,I185261750,Ontario,True,2026,18927,13700
+University of British Columbia,I141945490,British Columbia,True,2010,7507,3391
+University of British Columbia,I141945490,British Columbia,True,2011,7567,3499
+University of British Columbia,I141945490,British Columbia,True,2012,7681,3681
+University of British Columbia,I141945490,British Columbia,True,2013,8100,3933
+University of British Columbia,I141945490,British Columbia,True,2014,8739,4605
+University of British Columbia,I141945490,British Columbia,True,2015,9035,4921
+University of British Columbia,I141945490,British Columbia,True,2016,8933,5106
+University of British Columbia,I141945490,British Columbia,True,2017,9325,5327
+University of British Columbia,I141945490,British Columbia,True,2018,9765,5702
+University of British Columbia,I141945490,British Columbia,True,2019,10332,6162
+University of British Columbia,I141945490,British Columbia,True,2020,11397,7249
+University of British Columbia,I141945490,British Columbia,True,2021,12264,8213
+University of British Columbia,I141945490,British Columbia,True,2022,11708,8181
+University of British Columbia,I141945490,British Columbia,True,2023,11554,8556
+University of British Columbia,I141945490,British Columbia,True,2024,11612,8992
+University of British Columbia,I141945490,British Columbia,True,2025,12557,9621
+University of British Columbia,I141945490,British Columbia,True,2026,11709,8684
+McGill University,I5023651,Quebec,True,2010,5548,2519
+McGill University,I5023651,Quebec,True,2011,5852,2731
+McGill University,I5023651,Quebec,True,2012,6408,3206
+McGill University,I5023651,Quebec,True,2013,6769,3564
+McGill University,I5023651,Quebec,True,2014,7190,3762
+McGill University,I5023651,Quebec,True,2015,7404,4075
+McGill University,I5023651,Quebec,True,2016,7589,4295
+McGill University,I5023651,Quebec,True,2017,7705,4536
+McGill University,I5023651,Quebec,True,2018,7874,4682
+McGill University,I5023651,Quebec,True,2019,8219,5055
+McGill University,I5023651,Quebec,True,2020,9096,5931
+McGill University,I5023651,Quebec,True,2021,9414,6440
+McGill University,I5023651,Quebec,True,2022,9349,6619
+McGill University,I5023651,Quebec,True,2023,9142,7025
+McGill University,I5023651,Quebec,True,2024,9323,7379
+McGill University,I5023651,Quebec,True,2025,9959,7818
+McGill University,I5023651,Quebec,True,2026,8822,6716
+University of Alberta,I154425047,Alberta,True,2010,5186,1868
+University of Alberta,I154425047,Alberta,True,2011,5520,2050
+University of Alberta,I154425047,Alberta,True,2012,5815,2301
+University of Alberta,I154425047,Alberta,True,2013,6046,2573
+University of Alberta,I154425047,Alberta,True,2014,6512,2903
+University of Alberta,I154425047,Alberta,True,2015,6604,3163
+University of Alberta,I154425047,Alberta,True,2016,6940,3312
+University of Alberta,I154425047,Alberta,True,2017,7100,3581
+University of Alberta,I154425047,Alberta,True,2018,7793,4102
+University of Alberta,I154425047,Alberta,True,2019,7781,4176
+University of Alberta,I154425047,Alberta,True,2020,8738,4898
+University of Alberta,I154425047,Alberta,True,2021,8991,5442
+University of Alberta,I154425047,Alberta,True,2022,8477,5389
+University of Alberta,I154425047,Alberta,True,2023,8264,5661
+University of Alberta,I154425047,Alberta,True,2024,8739,6249
+University of Alberta,I154425047,Alberta,True,2025,9038,6507
+University of Alberta,I154425047,Alberta,True,2026,8347,5980
+University of Calgary,I168635309,Alberta,True,2010,3607,1441
+University of Calgary,I168635309,Alberta,True,2011,3810,1488
+University of Calgary,I168635309,Alberta,True,2012,4011,1739
+University of Calgary,I168635309,Alberta,True,2013,4357,1953
+University of Calgary,I168635309,Alberta,True,2014,4487,2205
+University of Calgary,I168635309,Alberta,True,2015,4692,2419
+University of Calgary,I168635309,Alberta,True,2016,4925,2566
+University of Calgary,I168635309,Alberta,True,2017,5474,3002
+University of Calgary,I168635309,Alberta,True,2018,5888,3275
+University of Calgary,I168635309,Alberta,True,2019,6227,3628
+University of Calgary,I168635309,Alberta,True,2020,6885,4238
+University of Calgary,I168635309,Alberta,True,2021,7283,4803
+University of Calgary,I168635309,Alberta,True,2022,6965,4769
+University of Calgary,I168635309,Alberta,True,2023,6800,4886
+University of Calgary,I168635309,Alberta,True,2024,6877,5095
+University of Calgary,I168635309,Alberta,True,2025,7559,5606
+University of Calgary,I168635309,Alberta,True,2026,7196,5267
+Université de Montréal,I70931966,Quebec,True,2010,3937,1838
+Université de Montréal,I70931966,Quebec,True,2011,3987,1912
+Université de Montréal,I70931966,Quebec,True,2012,4207,2144
+Université de Montréal,I70931966,Quebec,True,2013,4398,2357
+Université de Montréal,I70931966,Quebec,True,2014,4680,2556
+Université de Montréal,I70931966,Quebec,True,2015,4951,3022
+Université de Montréal,I70931966,Quebec,True,2016,4863,3041
+Université de Montréal,I70931966,Quebec,True,2017,5201,3221
+Université de Montréal,I70931966,Quebec,True,2018,5123,3247
+Université de Montréal,I70931966,Quebec,True,2019,5456,3569
+Université de Montréal,I70931966,Quebec,True,2020,5870,3937
+Université de Montréal,I70931966,Quebec,True,2021,6208,4399
+Université de Montréal,I70931966,Quebec,True,2022,6008,4499
+Université de Montréal,I70931966,Quebec,True,2023,6004,4649
+Université de Montréal,I70931966,Quebec,True,2024,6172,4914
+Université de Montréal,I70931966,Quebec,True,2025,6497,5113
+Université de Montréal,I70931966,Quebec,True,2026,5678,4386
+McMaster University,I98251732,Ontario,True,2010,3577,1397
+McMaster University,I98251732,Ontario,True,2011,3691,1409
+McMaster University,I98251732,Ontario,True,2012,4121,1828
+McMaster University,I98251732,Ontario,True,2013,4242,2013
+McMaster University,I98251732,Ontario,True,2014,4472,2159
+McMaster University,I98251732,Ontario,True,2015,4682,2408
+McMaster University,I98251732,Ontario,True,2016,4733,2450
+McMaster University,I98251732,Ontario,True,2017,4913,2698
+McMaster University,I98251732,Ontario,True,2018,5069,2837
+McMaster University,I98251732,Ontario,True,2019,5419,3090
+McMaster University,I98251732,Ontario,True,2020,6245,3937
+McMaster University,I98251732,Ontario,True,2021,6598,4289
+McMaster University,I98251732,Ontario,True,2022,6372,4372
+McMaster University,I98251732,Ontario,True,2023,6220,4515
+McMaster University,I98251732,Ontario,True,2024,6448,4935
+McMaster University,I98251732,Ontario,True,2025,6793,5064
+McMaster University,I98251732,Ontario,True,2026,6229,4677
+University of Ottawa,I153718931,Ontario,True,2010,3135,1129
+University of Ottawa,I153718931,Ontario,True,2011,3288,1337
+University of Ottawa,I153718931,Ontario,True,2012,3594,1545
+University of Ottawa,I153718931,Ontario,True,2013,4021,1901
+University of Ottawa,I153718931,Ontario,True,2014,4548,2325
+University of Ottawa,I153718931,Ontario,True,2015,4652,2433
+University of Ottawa,I153718931,Ontario,True,2016,5050,2672
+University of Ottawa,I153718931,Ontario,True,2017,5185,2888
+University of Ottawa,I153718931,Ontario,True,2018,5668,3196
+University of Ottawa,I153718931,Ontario,True,2019,5781,3388
+University of Ottawa,I153718931,Ontario,True,2020,6323,3850
+University of Ottawa,I153718931,Ontario,True,2021,6716,4454
+University of Ottawa,I153718931,Ontario,True,2022,6258,4429
+University of Ottawa,I153718931,Ontario,True,2023,6346,4791
+University of Ottawa,I153718931,Ontario,True,2024,6395,4861
+University of Ottawa,I153718931,Ontario,True,2025,6857,5245
+University of Ottawa,I153718931,Ontario,True,2026,6195,4547
+Western University,I125749732,Ontario,True,2010,3409,1247
+Western University,I125749732,Ontario,True,2011,3628,1436
+Western University,I125749732,Ontario,True,2012,3614,1456
+Western University,I125749732,Ontario,True,2013,3688,1581
+Western University,I125749732,Ontario,True,2014,4079,1811
+Western University,I125749732,Ontario,True,2015,4029,1972
+Western University,I125749732,Ontario,True,2016,4293,2164
+Western University,I125749732,Ontario,True,2017,4545,2349
+Western University,I125749732,Ontario,True,2018,4702,2453
+Western University,I125749732,Ontario,True,2019,4838,2693
+Western University,I125749732,Ontario,True,2020,5571,3242
+Western University,I125749732,Ontario,True,2021,5795,3662
+Western University,I125749732,Ontario,True,2022,5454,3582
+Western University,I125749732,Ontario,True,2023,5492,3975
+Western University,I125749732,Ontario,True,2024,5752,4269
+Western University,I125749732,Ontario,True,2025,6341,4727
+Western University,I125749732,Ontario,True,2026,5589,4055
+University of Waterloo,I151746483,Ontario,True,2010,2560,811
+University of Waterloo,I151746483,Ontario,True,2011,2704,892
+University of Waterloo,I151746483,Ontario,True,2012,2887,949
+University of Waterloo,I151746483,Ontario,True,2013,2990,1151
+University of Waterloo,I151746483,Ontario,True,2014,3333,1322
+University of Waterloo,I151746483,Ontario,True,2015,3483,1502
+University of Waterloo,I151746483,Ontario,True,2016,3421,1522
+University of Waterloo,I151746483,Ontario,True,2017,3582,1816
+University of Waterloo,I151746483,Ontario,True,2018,3793,2036
+University of Waterloo,I151746483,Ontario,True,2019,4240,2227
+University of Waterloo,I151746483,Ontario,True,2020,4499,2420
+University of Waterloo,I151746483,Ontario,True,2021,4587,2683
+University of Waterloo,I151746483,Ontario,True,2022,4508,2919
+University of Waterloo,I151746483,Ontario,True,2023,4373,3014
+University of Waterloo,I151746483,Ontario,True,2024,4519,3318
+University of Waterloo,I151746483,Ontario,True,2025,4529,3432
+University of Waterloo,I151746483,Ontario,True,2026,4141,3092
+Université Laval,I43406934,Quebec,True,2010,2434,937
+Université Laval,I43406934,Quebec,True,2011,2764,1196
+Université Laval,I43406934,Quebec,True,2012,2872,1316
+Université Laval,I43406934,Quebec,True,2013,3025,1437
+Université Laval,I43406934,Quebec,True,2014,3161,1585
+Université Laval,I43406934,Quebec,True,2015,3371,1734
+Université Laval,I43406934,Quebec,True,2016,3515,1934
+Université Laval,I43406934,Quebec,True,2017,3489,1935
+Université Laval,I43406934,Quebec,True,2018,3649,2117
+Université Laval,I43406934,Quebec,True,2019,3813,2376
+Université Laval,I43406934,Quebec,True,2020,4102,2670
+Université Laval,I43406934,Quebec,True,2021,4493,3092
+Université Laval,I43406934,Quebec,True,2022,4280,3052
+Université Laval,I43406934,Quebec,True,2023,4237,3178
+Université Laval,I43406934,Quebec,True,2024,4433,3488
+Université Laval,I43406934,Quebec,True,2025,4629,3583
+Université Laval,I43406934,Quebec,True,2026,4178,3231
+University of Manitoba,I46247651,Manitoba,True,2010,1953,718
+University of Manitoba,I46247651,Manitoba,True,2011,2277,886
+University of Manitoba,I46247651,Manitoba,True,2012,2369,999
+University of Manitoba,I46247651,Manitoba,True,2013,2487,1102
+University of Manitoba,I46247651,Manitoba,True,2014,2642,1281
+University of Manitoba,I46247651,Manitoba,True,2015,2745,1300
+University of Manitoba,I46247651,Manitoba,True,2016,2830,1459
+University of Manitoba,I46247651,Manitoba,True,2017,3030,1643
+University of Manitoba,I46247651,Manitoba,True,2018,3161,1745
+University of Manitoba,I46247651,Manitoba,True,2019,3188,1856
+University of Manitoba,I46247651,Manitoba,True,2020,3616,2271
+University of Manitoba,I46247651,Manitoba,True,2021,3773,2518
+University of Manitoba,I46247651,Manitoba,True,2022,3625,2563
+University of Manitoba,I46247651,Manitoba,True,2023,3402,2556
+University of Manitoba,I46247651,Manitoba,True,2024,3662,2848
+University of Manitoba,I46247651,Manitoba,True,2025,3870,3040
+University of Manitoba,I46247651,Manitoba,True,2026,3791,2970
+Queen's University,I204722609,Ontario,True,2010,2134,750
+Queen's University,I204722609,Ontario,True,2011,2204,818
+Queen's University,I204722609,Ontario,True,2012,2159,857
+Queen's University,I204722609,Ontario,True,2013,2334,1015
+Queen's University,I204722609,Ontario,True,2014,2458,1063
+Queen's University,I204722609,Ontario,True,2015,2480,1149
+Queen's University,I204722609,Ontario,True,2016,2516,1225
+Queen's University,I204722609,Ontario,True,2017,2707,1385
+Queen's University,I204722609,Ontario,True,2018,2762,1441
+Queen's University,I204722609,Ontario,True,2019,3091,1710
+Queen's University,I204722609,Ontario,True,2020,3374,1975
+Queen's University,I204722609,Ontario,True,2021,3594,2210
+Queen's University,I204722609,Ontario,True,2022,3645,2378
+Queen's University,I204722609,Ontario,True,2023,3595,2563
+Queen's University,I204722609,Ontario,True,2024,3662,2716
+Queen's University,I204722609,Ontario,True,2025,3888,2912
+Queen's University,I204722609,Ontario,True,2026,3545,2525
+Dalhousie University,I129902397,Nova Scotia,True,2010,1950,752
+Dalhousie University,I129902397,Nova Scotia,True,2011,2021,779
+Dalhousie University,I129902397,Nova Scotia,True,2012,2208,976
+Dalhousie University,I129902397,Nova Scotia,True,2013,2372,1071
+Dalhousie University,I129902397,Nova Scotia,True,2014,2489,1194
+Dalhousie University,I129902397,Nova Scotia,True,2015,2534,1297
+Dalhousie University,I129902397,Nova Scotia,True,2016,2662,1376
+Dalhousie University,I129902397,Nova Scotia,True,2017,2836,1599
+Dalhousie University,I129902397,Nova Scotia,True,2018,2952,1715
+Dalhousie University,I129902397,Nova Scotia,True,2019,3156,1871
+Dalhousie University,I129902397,Nova Scotia,True,2020,3416,2148
+Dalhousie University,I129902397,Nova Scotia,True,2021,3681,2506
+Dalhousie University,I129902397,Nova Scotia,True,2022,3674,2601
+Dalhousie University,I129902397,Nova Scotia,True,2023,3454,2603
+Dalhousie University,I129902397,Nova Scotia,True,2024,3692,2907
+Dalhousie University,I129902397,Nova Scotia,True,2025,4042,3122
+Dalhousie University,I129902397,Nova Scotia,True,2026,3617,2779
+University of Saskatchewan,I32625721,Saskatchewan,True,2010,1804,578
+University of Saskatchewan,I32625721,Saskatchewan,True,2011,1958,675
+University of Saskatchewan,I32625721,Saskatchewan,True,2012,1950,741
+University of Saskatchewan,I32625721,Saskatchewan,True,2013,2206,910
+University of Saskatchewan,I32625721,Saskatchewan,True,2014,2415,1035
+University of Saskatchewan,I32625721,Saskatchewan,True,2015,2351,1093
+University of Saskatchewan,I32625721,Saskatchewan,True,2016,2442,1174
+University of Saskatchewan,I32625721,Saskatchewan,True,2017,2682,1351
+University of Saskatchewan,I32625721,Saskatchewan,True,2018,2761,1480
+University of Saskatchewan,I32625721,Saskatchewan,True,2019,2922,1561
+University of Saskatchewan,I32625721,Saskatchewan,True,2020,3242,1888
+University of Saskatchewan,I32625721,Saskatchewan,True,2021,3381,2179
+University of Saskatchewan,I32625721,Saskatchewan,True,2022,3100,2073
+University of Saskatchewan,I32625721,Saskatchewan,True,2023,2855,2009
+University of Saskatchewan,I32625721,Saskatchewan,True,2024,3003,2303
+University of Saskatchewan,I32625721,Saskatchewan,True,2025,3185,2385
+University of Saskatchewan,I32625721,Saskatchewan,True,2026,2837,2154
+University of Guelph,I79817857,Ontario,False,2010,1680,665
+University of Guelph,I79817857,Ontario,False,2011,1694,674
+University of Guelph,I79817857,Ontario,False,2012,1867,803
+University of Guelph,I79817857,Ontario,False,2013,1852,815
+University of Guelph,I79817857,Ontario,False,2014,2075,1002
+University of Guelph,I79817857,Ontario,False,2015,1980,962
+University of Guelph,I79817857,Ontario,False,2016,1948,1046
+University of Guelph,I79817857,Ontario,False,2017,2104,1165
+University of Guelph,I79817857,Ontario,False,2018,2274,1313
+University of Guelph,I79817857,Ontario,False,2019,2476,1435
+University of Guelph,I79817857,Ontario,False,2020,2801,1669
+University of Guelph,I79817857,Ontario,False,2021,2754,1793
+University of Guelph,I79817857,Ontario,False,2022,2519,1773
+University of Guelph,I79817857,Ontario,False,2023,2369,1794
+University of Guelph,I79817857,Ontario,False,2024,2440,1935
+University of Guelph,I79817857,Ontario,False,2025,2553,2065
+University of Guelph,I79817857,Ontario,False,2026,2427,1940
+Concordia University,I60158472,Quebec,False,2010,1063,356
+Concordia University,I60158472,Quebec,False,2011,1112,398
+Concordia University,I60158472,Quebec,False,2012,1187,408
+Concordia University,I60158472,Quebec,False,2013,1305,442
+Concordia University,I60158472,Quebec,False,2014,1402,529
+Concordia University,I60158472,Quebec,False,2015,1433,579
+Concordia University,I60158472,Quebec,False,2016,1453,576
+Concordia University,I60158472,Quebec,False,2017,1576,681
+Concordia University,I60158472,Quebec,False,2018,1669,768
+Concordia University,I60158472,Quebec,False,2019,1735,798
+Concordia University,I60158472,Quebec,False,2020,1981,937
+Concordia University,I60158472,Quebec,False,2021,2156,1111
+Concordia University,I60158472,Quebec,False,2022,1995,1127
+Concordia University,I60158472,Quebec,False,2023,2015,1251
+Concordia University,I60158472,Quebec,False,2024,2014,1315
+Concordia University,I60158472,Quebec,False,2025,2195,1503
+Concordia University,I60158472,Quebec,False,2026,1901,1243
+York University,I192455969,Ontario,False,2010,1754,849
+York University,I192455969,Ontario,False,2011,1612,691
+York University,I192455969,Ontario,False,2012,1718,811
+York University,I192455969,Ontario,False,2013,1710,829
+York University,I192455969,Ontario,False,2014,1879,953
+York University,I192455969,Ontario,False,2015,1896,949
+York University,I192455969,Ontario,False,2016,1946,1034
+York University,I192455969,Ontario,False,2017,2035,1137
+York University,I192455969,Ontario,False,2018,1954,1053
+York University,I192455969,Ontario,False,2019,2143,1227
+York University,I192455969,Ontario,False,2020,2587,1627
+York University,I192455969,Ontario,False,2021,2696,1802
+York University,I192455969,Ontario,False,2022,2576,1838
+York University,I192455969,Ontario,False,2023,2641,1976
+York University,I192455969,Ontario,False,2024,2712,2098
+York University,I192455969,Ontario,False,2025,2719,2071
+York University,I192455969,Ontario,False,2026,2481,1883
+Simon Fraser University,I18014758,British Columbia,False,2010,1672,654
+Simon Fraser University,I18014758,British Columbia,False,2011,1825,787
+Simon Fraser University,I18014758,British Columbia,False,2012,1975,893
+Simon Fraser University,I18014758,British Columbia,False,2013,1907,886
+Simon Fraser University,I18014758,British Columbia,False,2014,1934,944
+Simon Fraser University,I18014758,British Columbia,False,2015,2093,1111
+Simon Fraser University,I18014758,British Columbia,False,2016,2116,1177
+Simon Fraser University,I18014758,British Columbia,False,2017,2239,1279
+Simon Fraser University,I18014758,British Columbia,False,2018,2249,1322
+Simon Fraser University,I18014758,British Columbia,False,2019,2236,1393
+Simon Fraser University,I18014758,British Columbia,False,2020,2414,1546
+Simon Fraser University,I18014758,British Columbia,False,2021,2587,1745
+Simon Fraser University,I18014758,British Columbia,False,2022,2345,1690
+Simon Fraser University,I18014758,British Columbia,False,2023,2346,1770
+Simon Fraser University,I18014758,British Columbia,False,2024,2368,1851
+Simon Fraser University,I18014758,British Columbia,False,2025,2425,1893
+Simon Fraser University,I18014758,British Columbia,False,2026,2182,1729
+Carleton University,I67031392,Ontario,False,2010,1069,324
+Carleton University,I67031392,Ontario,False,2011,1246,416
+Carleton University,I67031392,Ontario,False,2012,1307,525
+Carleton University,I67031392,Ontario,False,2013,1311,519
+Carleton University,I67031392,Ontario,False,2014,1388,561
+Carleton University,I67031392,Ontario,False,2015,1391,637
+Carleton University,I67031392,Ontario,False,2016,1557,702
+Carleton University,I67031392,Ontario,False,2017,1532,734
+Carleton University,I67031392,Ontario,False,2018,1564,792
+Carleton University,I67031392,Ontario,False,2019,1747,930
+Carleton University,I67031392,Ontario,False,2020,1905,1039
+Carleton University,I67031392,Ontario,False,2021,2063,1211
+Carleton University,I67031392,Ontario,False,2022,1980,1186
+Carleton University,I67031392,Ontario,False,2023,2040,1383
+Carleton University,I67031392,Ontario,False,2024,2095,1515
+Carleton University,I67031392,Ontario,False,2025,2149,1616
+Carleton University,I67031392,Ontario,False,2026,1900,1390
+University of Victoria,I212119943,British Columbia,False,2010,1444,634
+University of Victoria,I212119943,British Columbia,False,2011,1574,659
+University of Victoria,I212119943,British Columbia,False,2012,1672,806
+University of Victoria,I212119943,British Columbia,False,2013,1675,789
+University of Victoria,I212119943,British Columbia,False,2014,1775,866
+University of Victoria,I212119943,British Columbia,False,2015,1723,890
+University of Victoria,I212119943,British Columbia,False,2016,1831,1012
+University of Victoria,I212119943,British Columbia,False,2017,1775,1016
+University of Victoria,I212119943,British Columbia,False,2018,1917,1150
+University of Victoria,I212119943,British Columbia,False,2019,2084,1247
+University of Victoria,I212119943,British Columbia,False,2020,2104,1358
+University of Victoria,I212119943,British Columbia,False,2021,2226,1500
+University of Victoria,I212119943,British Columbia,False,2022,2128,1550
+University of Victoria,I212119943,British Columbia,False,2023,2226,1698
+University of Victoria,I212119943,British Columbia,False,2024,2212,1763
+University of Victoria,I212119943,British Columbia,False,2025,2157,1748
+University of Victoria,I212119943,British Columbia,False,2026,1922,1521
+Université du Québec à Montréal,I159129438,Quebec,False,2010,1073,466
+Université du Québec à Montréal,I159129438,Quebec,False,2011,1392,698
+Université du Québec à Montréal,I159129438,Quebec,False,2012,1402,652
+Université du Québec à Montréal,I159129438,Quebec,False,2013,1412,683
+Université du Québec à Montréal,I159129438,Quebec,False,2014,1571,807
+Université du Québec à Montréal,I159129438,Quebec,False,2015,1633,942
+Université du Québec à Montréal,I159129438,Quebec,False,2016,1714,993
+Université du Québec à Montréal,I159129438,Quebec,False,2017,1665,979
+Université du Québec à Montréal,I159129438,Quebec,False,2018,1716,1090
+Université du Québec à Montréal,I159129438,Quebec,False,2019,1755,1096
+Université du Québec à Montréal,I159129438,Quebec,False,2020,1961,1285
+Université du Québec à Montréal,I159129438,Quebec,False,2021,2038,1428
+Université du Québec à Montréal,I159129438,Quebec,False,2022,2001,1479
+Université du Québec à Montréal,I159129438,Quebec,False,2023,2054,1552
+Université du Québec à Montréal,I159129438,Quebec,False,2024,1964,1463
+Université du Québec à Montréal,I159129438,Quebec,False,2025,1896,1437
+Université du Québec à Montréal,I159129438,Quebec,False,2026,1618,1216
+Université de Sherbrooke,I135117807,Quebec,False,2010,1072,443
+Université de Sherbrooke,I135117807,Quebec,False,2011,1183,524
+Université de Sherbrooke,I135117807,Quebec,False,2012,1218,553
+Université de Sherbrooke,I135117807,Quebec,False,2013,1381,729
+Université de Sherbrooke,I135117807,Quebec,False,2014,1410,686
+Université de Sherbrooke,I135117807,Quebec,False,2015,1430,809
+Université de Sherbrooke,I135117807,Quebec,False,2016,1523,845
+Université de Sherbrooke,I135117807,Quebec,False,2017,1600,913
+Université de Sherbrooke,I135117807,Quebec,False,2018,1576,948
+Université de Sherbrooke,I135117807,Quebec,False,2019,1769,1149
+Université de Sherbrooke,I135117807,Quebec,False,2020,1847,1221
+Université de Sherbrooke,I135117807,Quebec,False,2021,2030,1416
+Université de Sherbrooke,I135117807,Quebec,False,2022,2071,1486
+Université de Sherbrooke,I135117807,Quebec,False,2023,2045,1555
+Université de Sherbrooke,I135117807,Quebec,False,2024,2086,1626
+Université de Sherbrooke,I135117807,Quebec,False,2025,2367,1844
+Université de Sherbrooke,I135117807,Quebec,False,2026,2149,1650
+Memorial University of Newfoundland,I130438778,Newfoundland and Labrador,False,2010,889,318
+Memorial University of Newfoundland,I130438778,Newfoundland and Labrador,False,2011,994,340
+Memorial University of Newfoundland,I130438778,Newfoundland and Labrador,False,2012,1003,395
+Memorial University of Newfoundland,I130438778,Newfoundland and Labrador,False,2013,1180,572
+Memorial University of Newfoundland,I130438778,Newfoundland and Labrador,False,2014,1213,578
+Memorial University of Newfoundland,I130438778,Newfoundland and Labrador,False,2015,1354,713
+Memorial University of Newfoundland,I130438778,Newfoundland and Labrador,False,2016,1361,675
+Memorial University of Newfoundland,I130438778,Newfoundland and Labrador,False,2017,1550,770
+Memorial University of Newfoundland,I130438778,Newfoundland and Labrador,False,2018,1762,959
+Memorial University of Newfoundland,I130438778,Newfoundland and Labrador,False,2019,1763,953
+Memorial University of Newfoundland,I130438778,Newfoundland and Labrador,False,2020,1989,1059
+Memorial University of Newfoundland,I130438778,Newfoundland and Labrador,False,2021,2034,1206
+Memorial University of Newfoundland,I130438778,Newfoundland and Labrador,False,2022,1869,1208
+Memorial University of Newfoundland,I130438778,Newfoundland and Labrador,False,2023,1775,1217
+Memorial University of Newfoundland,I130438778,Newfoundland and Labrador,False,2024,1924,1396
+Memorial University of Newfoundland,I130438778,Newfoundland and Labrador,False,2025,1911,1385
+Memorial University of Newfoundland,I130438778,Newfoundland and Labrador,False,2026,1658,1167
+Toronto Metropolitan University,I530967,Ontario,False,2010,678,158
+Toronto Metropolitan University,I530967,Ontario,False,2011,770,234
+Toronto Metropolitan University,I530967,Ontario,False,2012,856,276
+Toronto Metropolitan University,I530967,Ontario,False,2013,881,304
+Toronto Metropolitan University,I530967,Ontario,False,2014,1050,362
+Toronto Metropolitan University,I530967,Ontario,False,2015,1041,372
+Toronto Metropolitan University,I530967,Ontario,False,2016,1154,424
+Toronto Metropolitan University,I530967,Ontario,False,2017,1093,424
+Toronto Metropolitan University,I530967,Ontario,False,2018,1211,512
+Toronto Metropolitan University,I530967,Ontario,False,2019,1288,597
+Toronto Metropolitan University,I530967,Ontario,False,2020,1537,758
+Toronto Metropolitan University,I530967,Ontario,False,2021,1628,889
+Toronto Metropolitan University,I530967,Ontario,False,2022,1653,993
+Toronto Metropolitan University,I530967,Ontario,False,2023,1543,1009
+Toronto Metropolitan University,I530967,Ontario,False,2024,1658,1140
+Toronto Metropolitan University,I530967,Ontario,False,2025,1778,1321
+Toronto Metropolitan University,I530967,Ontario,False,2026,1629,1197
+Polytechnique Montréal,I45683168,Quebec,False,2010,628,142
+Polytechnique Montréal,I45683168,Quebec,False,2011,666,171
+Polytechnique Montréal,I45683168,Quebec,False,2012,694,166
+Polytechnique Montréal,I45683168,Quebec,False,2013,761,241
+Polytechnique Montréal,I45683168,Quebec,False,2014,812,267
+Polytechnique Montréal,I45683168,Quebec,False,2015,872,293
+Polytechnique Montréal,I45683168,Quebec,False,2016,896,360
+Polytechnique Montréal,I45683168,Quebec,False,2017,873,354
+Polytechnique Montréal,I45683168,Quebec,False,2018,891,409
+Polytechnique Montréal,I45683168,Quebec,False,2019,918,471
+Polytechnique Montréal,I45683168,Quebec,False,2020,982,516
+Polytechnique Montréal,I45683168,Quebec,False,2021,1094,616
+Polytechnique Montréal,I45683168,Quebec,False,2022,1131,690
+Polytechnique Montréal,I45683168,Quebec,False,2023,1022,646
+Polytechnique Montréal,I45683168,Quebec,False,2024,1054,769
+Polytechnique Montréal,I45683168,Quebec,False,2025,1016,755
+Polytechnique Montréal,I45683168,Quebec,False,2026,978,737
+University of Windsor,I74413500,Ontario,False,2010,663,186
+University of Windsor,I74413500,Ontario,False,2011,689,215
+University of Windsor,I74413500,Ontario,False,2012,749,223
+University of Windsor,I74413500,Ontario,False,2013,737,217
+University of Windsor,I74413500,Ontario,False,2014,748,267
+University of Windsor,I74413500,Ontario,False,2015,699,273
+University of Windsor,I74413500,Ontario,False,2016,745,299
+University of Windsor,I74413500,Ontario,False,2017,741,290
+University of Windsor,I74413500,Ontario,False,2018,822,346
+University of Windsor,I74413500,Ontario,False,2019,926,377
+University of Windsor,I74413500,Ontario,False,2020,988,460
+University of Windsor,I74413500,Ontario,False,2021,1032,481
+University of Windsor,I74413500,Ontario,False,2022,1008,556
+University of Windsor,I74413500,Ontario,False,2023,882,537
+University of Windsor,I74413500,Ontario,False,2024,961,605
+University of Windsor,I74413500,Ontario,False,2025,1018,677
+University of Windsor,I74413500,Ontario,False,2026,887,597
+University of New Brunswick,I106938459,New Brunswick,False,2010,656,171
+University of New Brunswick,I106938459,New Brunswick,False,2011,682,165
+University of New Brunswick,I106938459,New Brunswick,False,2012,725,216
+University of New Brunswick,I106938459,New Brunswick,False,2013,728,232
+University of New Brunswick,I106938459,New Brunswick,False,2014,709,209
+University of New Brunswick,I106938459,New Brunswick,False,2015,665,241
+University of New Brunswick,I106938459,New Brunswick,False,2016,721,292
+University of New Brunswick,I106938459,New Brunswick,False,2017,790,321
+University of New Brunswick,I106938459,New Brunswick,False,2018,832,357
+University of New Brunswick,I106938459,New Brunswick,False,2019,889,422
+University of New Brunswick,I106938459,New Brunswick,False,2020,998,462
+University of New Brunswick,I106938459,New Brunswick,False,2021,993,503
+University of New Brunswick,I106938459,New Brunswick,False,2022,948,503
+University of New Brunswick,I106938459,New Brunswick,False,2023,894,514
+University of New Brunswick,I106938459,New Brunswick,False,2024,956,610
+University of New Brunswick,I106938459,New Brunswick,False,2025,1045,708
+University of New Brunswick,I106938459,New Brunswick,False,2026,845,589
+University of Regina,I194028371,Saskatchewan,False,2010,396,136
+University of Regina,I194028371,Saskatchewan,False,2011,480,180
+University of Regina,I194028371,Saskatchewan,False,2012,556,263
+University of Regina,I194028371,Saskatchewan,False,2013,560,246
+University of Regina,I194028371,Saskatchewan,False,2014,591,262
+University of Regina,I194028371,Saskatchewan,False,2015,545,247
+University of Regina,I194028371,Saskatchewan,False,2016,560,243
+University of Regina,I194028371,Saskatchewan,False,2017,690,313
+University of Regina,I194028371,Saskatchewan,False,2018,668,322
+University of Regina,I194028371,Saskatchewan,False,2019,744,393
+University of Regina,I194028371,Saskatchewan,False,2020,788,398
+University of Regina,I194028371,Saskatchewan,False,2021,894,480
+University of Regina,I194028371,Saskatchewan,False,2022,902,532
+University of Regina,I194028371,Saskatchewan,False,2023,844,543
+University of Regina,I194028371,Saskatchewan,False,2024,826,545
+University of Regina,I194028371,Saskatchewan,False,2025,936,662
+University of Regina,I194028371,Saskatchewan,False,2026,912,608
+Institut National de la Recherche Scientifique,I39481719,Quebec,False,2010,477,144
+Institut National de la Recherche Scientifique,I39481719,Quebec,False,2011,598,219
+Institut National de la Recherche Scientifique,I39481719,Quebec,False,2012,604,188
+Institut National de la Recherche Scientifique,I39481719,Quebec,False,2013,622,235
+Institut National de la Recherche Scientifique,I39481719,Quebec,False,2014,625,267
+Institut National de la Recherche Scientifique,I39481719,Quebec,False,2015,623,282
+Institut National de la Recherche Scientifique,I39481719,Quebec,False,2016,704,306
+Institut National de la Recherche Scientifique,I39481719,Quebec,False,2017,694,343
+Institut National de la Recherche Scientifique,I39481719,Quebec,False,2018,677,330
+Institut National de la Recherche Scientifique,I39481719,Quebec,False,2019,774,407
+Institut National de la Recherche Scientifique,I39481719,Quebec,False,2020,824,469
+Institut National de la Recherche Scientifique,I39481719,Quebec,False,2021,802,455
+Institut National de la Recherche Scientifique,I39481719,Quebec,False,2022,749,460
+Institut National de la Recherche Scientifique,I39481719,Quebec,False,2023,707,462
+Institut National de la Recherche Scientifique,I39481719,Quebec,False,2024,736,508
+Institut National de la Recherche Scientifique,I39481719,Quebec,False,2025,728,519
+Institut National de la Recherche Scientifique,I39481719,Quebec,False,2026,609,458
+Brock University,I186803428,Ontario,False,2010,488,163
+Brock University,I186803428,Ontario,False,2011,526,174
+Brock University,I186803428,Ontario,False,2012,516,179
+Brock University,I186803428,Ontario,False,2013,606,250
+Brock University,I186803428,Ontario,False,2014,624,214
+Brock University,I186803428,Ontario,False,2015,623,264
+Brock University,I186803428,Ontario,False,2016,645,249
+Brock University,I186803428,Ontario,False,2017,663,326
+Brock University,I186803428,Ontario,False,2018,662,312
+Brock University,I186803428,Ontario,False,2019,705,310
+Brock University,I186803428,Ontario,False,2020,766,383
+Brock University,I186803428,Ontario,False,2021,909,541
+Brock University,I186803428,Ontario,False,2022,860,507
+Brock University,I186803428,Ontario,False,2023,910,603
+Brock University,I186803428,Ontario,False,2024,912,632
+Brock University,I186803428,Ontario,False,2025,944,687
+Brock University,I186803428,Ontario,False,2026,873,635
+Wilfrid Laurier University,I75381157,Ontario,False,2010,451,176
+Wilfrid Laurier University,I75381157,Ontario,False,2011,465,165
+Wilfrid Laurier University,I75381157,Ontario,False,2012,423,171
+Wilfrid Laurier University,I75381157,Ontario,False,2013,500,208
+Wilfrid Laurier University,I75381157,Ontario,False,2014,589,274
+Wilfrid Laurier University,I75381157,Ontario,False,2015,632,319
+Wilfrid Laurier University,I75381157,Ontario,False,2016,604,289
+Wilfrid Laurier University,I75381157,Ontario,False,2017,564,245
+Wilfrid Laurier University,I75381157,Ontario,False,2018,613,285
+Wilfrid Laurier University,I75381157,Ontario,False,2019,627,301
+Wilfrid Laurier University,I75381157,Ontario,False,2020,649,356
+Wilfrid Laurier University,I75381157,Ontario,False,2021,648,399
+Wilfrid Laurier University,I75381157,Ontario,False,2022,649,407
+Wilfrid Laurier University,I75381157,Ontario,False,2023,580,389
+Wilfrid Laurier University,I75381157,Ontario,False,2024,636,454
+Wilfrid Laurier University,I75381157,Ontario,False,2025,694,523
+Wilfrid Laurier University,I75381157,Ontario,False,2026,750,516
+Université du Québec à Trois-Rivières,I63341726,Quebec,False,2010,271,93
+Université du Québec à Trois-Rivières,I63341726,Quebec,False,2011,326,121
+Université du Québec à Trois-Rivières,I63341726,Quebec,False,2012,360,172
+Université du Québec à Trois-Rivières,I63341726,Quebec,False,2013,352,131
+Université du Québec à Trois-Rivières,I63341726,Quebec,False,2014,407,191
+Université du Québec à Trois-Rivières,I63341726,Quebec,False,2015,450,242
+Université du Québec à Trois-Rivières,I63341726,Quebec,False,2016,500,243
+Université du Québec à Trois-Rivières,I63341726,Quebec,False,2017,477,237
+Université du Québec à Trois-Rivières,I63341726,Quebec,False,2018,473,270
+Université du Québec à Trois-Rivières,I63341726,Quebec,False,2019,582,327
+Université du Québec à Trois-Rivières,I63341726,Quebec,False,2020,632,387
+Université du Québec à Trois-Rivières,I63341726,Quebec,False,2021,728,503
+Université du Québec à Trois-Rivières,I63341726,Quebec,False,2022,791,566
+Université du Québec à Trois-Rivières,I63341726,Quebec,False,2023,805,606
+Université du Québec à Trois-Rivières,I63341726,Quebec,False,2024,862,654
+Université du Québec à Trois-Rivières,I63341726,Quebec,False,2025,1002,777
+Université du Québec à Trois-Rivières,I63341726,Quebec,False,2026,828,637
+École de Technologie Supérieure,I9736820,Quebec,False,2010,183,36
+École de Technologie Supérieure,I9736820,Quebec,False,2011,231,55
+École de Technologie Supérieure,I9736820,Quebec,False,2012,247,59
+École de Technologie Supérieure,I9736820,Quebec,False,2013,303,101
+École de Technologie Supérieure,I9736820,Quebec,False,2014,314,101
+École de Technologie Supérieure,I9736820,Quebec,False,2015,375,145
+École de Technologie Supérieure,I9736820,Quebec,False,2016,458,194
+École de Technologie Supérieure,I9736820,Quebec,False,2017,441,185
+École de Technologie Supérieure,I9736820,Quebec,False,2018,511,219
+École de Technologie Supérieure,I9736820,Quebec,False,2019,592,273
+École de Technologie Supérieure,I9736820,Quebec,False,2020,638,339
+École de Technologie Supérieure,I9736820,Quebec,False,2021,681,377
+École de Technologie Supérieure,I9736820,Quebec,False,2022,692,429
+École de Technologie Supérieure,I9736820,Quebec,False,2023,697,446
+École de Technologie Supérieure,I9736820,Quebec,False,2024,744,527
+École de Technologie Supérieure,I9736820,Quebec,False,2025,834,589
+École de Technologie Supérieure,I9736820,Quebec,False,2026,680,466
+Lakehead University,I72541430,Ontario,False,2010,324,92
+Lakehead University,I72541430,Ontario,False,2011,358,126
+Lakehead University,I72541430,Ontario,False,2012,360,124
+Lakehead University,I72541430,Ontario,False,2013,406,141
+Lakehead University,I72541430,Ontario,False,2014,421,162
+Lakehead University,I72541430,Ontario,False,2015,414,166
+Lakehead University,I72541430,Ontario,False,2016,392,144
+Lakehead University,I72541430,Ontario,False,2017,484,190
+Lakehead University,I72541430,Ontario,False,2018,505,210
+Lakehead University,I72541430,Ontario,False,2019,518,213
+Lakehead University,I72541430,Ontario,False,2020,600,259
+Lakehead University,I72541430,Ontario,False,2021,584,283
+Lakehead University,I72541430,Ontario,False,2022,608,346
+Lakehead University,I72541430,Ontario,False,2023,573,338
+Lakehead University,I72541430,Ontario,False,2024,538,354
+Lakehead University,I72541430,Ontario,False,2025,580,394
+Lakehead University,I72541430,Ontario,False,2026,563,383
+Ontario Tech University,I39470171,Ontario,False,2010,269,58
+Ontario Tech University,I39470171,Ontario,False,2011,336,82
+Ontario Tech University,I39470171,Ontario,False,2012,314,68
+Ontario Tech University,I39470171,Ontario,False,2013,351,90
+Ontario Tech University,I39470171,Ontario,False,2014,456,118
+Ontario Tech University,I39470171,Ontario,False,2015,456,163
+Ontario Tech University,I39470171,Ontario,False,2016,474,164
+Ontario Tech University,I39470171,Ontario,False,2017,483,150
+Ontario Tech University,I39470171,Ontario,False,2018,511,203
+Ontario Tech University,I39470171,Ontario,False,2019,517,217
+Ontario Tech University,I39470171,Ontario,False,2020,669,282
+Ontario Tech University,I39470171,Ontario,False,2021,732,381
+Ontario Tech University,I39470171,Ontario,False,2022,639,344
+Ontario Tech University,I39470171,Ontario,False,2023,562,348
+Ontario Tech University,I39470171,Ontario,False,2024,597,445
+Ontario Tech University,I39470171,Ontario,False,2025,628,464
+Ontario Tech University,I39470171,Ontario,False,2026,510,372
+University of Lethbridge,I107949126,Alberta,False,2010,411,163
+University of Lethbridge,I107949126,Alberta,False,2011,373,139
+University of Lethbridge,I107949126,Alberta,False,2012,378,139
+University of Lethbridge,I107949126,Alberta,False,2013,385,153
+University of Lethbridge,I107949126,Alberta,False,2014,398,180
+University of Lethbridge,I107949126,Alberta,False,2015,384,182
+University of Lethbridge,I107949126,Alberta,False,2016,448,233
+University of Lethbridge,I107949126,Alberta,False,2017,409,216
+University of Lethbridge,I107949126,Alberta,False,2018,457,240
+University of Lethbridge,I107949126,Alberta,False,2019,379,201
+University of Lethbridge,I107949126,Alberta,False,2020,470,280
+University of Lethbridge,I107949126,Alberta,False,2021,478,333
+University of Lethbridge,I107949126,Alberta,False,2022,479,309
+University of Lethbridge,I107949126,Alberta,False,2023,454,335
+University of Lethbridge,I107949126,Alberta,False,2024,456,366
+University of Lethbridge,I107949126,Alberta,False,2025,519,411
+University of Lethbridge,I107949126,Alberta,False,2026,468,366
+Laurentian University,I52353378,Ontario,False,2010,331,79
+Laurentian University,I52353378,Ontario,False,2011,306,89
+Laurentian University,I52353378,Ontario,False,2012,340,117
+Laurentian University,I52353378,Ontario,False,2013,351,160
+Laurentian University,I52353378,Ontario,False,2014,333,150
+Laurentian University,I52353378,Ontario,False,2015,422,213
+Laurentian University,I52353378,Ontario,False,2016,440,199
+Laurentian University,I52353378,Ontario,False,2017,428,241
+Laurentian University,I52353378,Ontario,False,2018,416,233
+Laurentian University,I52353378,Ontario,False,2019,432,238
+Laurentian University,I52353378,Ontario,False,2020,454,254
+Laurentian University,I52353378,Ontario,False,2021,445,281
+Laurentian University,I52353378,Ontario,False,2022,350,228
+Laurentian University,I52353378,Ontario,False,2023,307,207
+Laurentian University,I52353378,Ontario,False,2024,301,207
+Laurentian University,I52353378,Ontario,False,2025,346,252
+Laurentian University,I52353378,Ontario,False,2026,302,212
+Trent University,I662221,Ontario,False,2010,344,102
+Trent University,I662221,Ontario,False,2011,329,97
+Trent University,I662221,Ontario,False,2012,347,107
+Trent University,I662221,Ontario,False,2013,350,126
+Trent University,I662221,Ontario,False,2014,346,127
+Trent University,I662221,Ontario,False,2015,339,133
+Trent University,I662221,Ontario,False,2016,433,188
+Trent University,I662221,Ontario,False,2017,316,144
+Trent University,I662221,Ontario,False,2018,361,167
+Trent University,I662221,Ontario,False,2019,365,175
+Trent University,I662221,Ontario,False,2020,374,202
+Trent University,I662221,Ontario,False,2021,452,275
+Trent University,I662221,Ontario,False,2022,374,252
+Trent University,I662221,Ontario,False,2023,421,303
+Trent University,I662221,Ontario,False,2024,445,344
+Trent University,I662221,Ontario,False,2025,491,395
+Trent University,I662221,Ontario,False,2026,462,365
+HEC Montréal,I108192572,Quebec,False,2010,269,93
+HEC Montréal,I108192572,Quebec,False,2011,285,110
+HEC Montréal,I108192572,Quebec,False,2012,316,129
+HEC Montréal,I108192572,Quebec,False,2013,288,115
+HEC Montréal,I108192572,Quebec,False,2014,345,140
+HEC Montréal,I108192572,Quebec,False,2015,372,149
+HEC Montréal,I108192572,Quebec,False,2016,352,136
+HEC Montréal,I108192572,Quebec,False,2017,400,170
+HEC Montréal,I108192572,Quebec,False,2018,367,173
+HEC Montréal,I108192572,Quebec,False,2019,392,199
+HEC Montréal,I108192572,Quebec,False,2020,435,226
+HEC Montréal,I108192572,Quebec,False,2021,494,279
+HEC Montréal,I108192572,Quebec,False,2022,432,267
+HEC Montréal,I108192572,Quebec,False,2023,413,276
+HEC Montréal,I108192572,Quebec,False,2024,387,282
+HEC Montréal,I108192572,Quebec,False,2025,381,292
+HEC Montréal,I108192572,Quebec,False,2026,355,263
+Université du Québec à Chicoutimi,I104914703,Quebec,False,2010,158,65
+Université du Québec à Chicoutimi,I104914703,Quebec,False,2011,212,115
+Université du Québec à Chicoutimi,I104914703,Quebec,False,2012,196,101
+Université du Québec à Chicoutimi,I104914703,Quebec,False,2013,199,106
+Université du Québec à Chicoutimi,I104914703,Quebec,False,2014,206,118
+Université du Québec à Chicoutimi,I104914703,Quebec,False,2015,245,135
+Université du Québec à Chicoutimi,I104914703,Quebec,False,2016,260,174
+Université du Québec à Chicoutimi,I104914703,Quebec,False,2017,298,198
+Université du Québec à Chicoutimi,I104914703,Quebec,False,2018,312,228
+Université du Québec à Chicoutimi,I104914703,Quebec,False,2019,321,241
+Université du Québec à Chicoutimi,I104914703,Quebec,False,2020,383,307
+Université du Québec à Chicoutimi,I104914703,Quebec,False,2021,430,338
+Université du Québec à Chicoutimi,I104914703,Quebec,False,2022,478,385
+Université du Québec à Chicoutimi,I104914703,Quebec,False,2023,461,365
+Université du Québec à Chicoutimi,I104914703,Quebec,False,2024,438,328
+Université du Québec à Chicoutimi,I104914703,Quebec,False,2025,493,369
+Université du Québec à Chicoutimi,I104914703,Quebec,False,2026,390,301
+Saint Mary's University,I66890659,Nova Scotia,False,2010,261,104
+Saint Mary's University,I66890659,Nova Scotia,False,2011,266,122
+Saint Mary's University,I66890659,Nova Scotia,False,2012,235,108
+Saint Mary's University,I66890659,Nova Scotia,False,2013,253,116
+Saint Mary's University,I66890659,Nova Scotia,False,2014,273,129
+Saint Mary's University,I66890659,Nova Scotia,False,2015,249,125
+Saint Mary's University,I66890659,Nova Scotia,False,2016,251,109
+Saint Mary's University,I66890659,Nova Scotia,False,2017,275,142
+Saint Mary's University,I66890659,Nova Scotia,False,2018,275,148
+Saint Mary's University,I66890659,Nova Scotia,False,2019,305,162
+Saint Mary's University,I66890659,Nova Scotia,False,2020,313,180
+Saint Mary's University,I66890659,Nova Scotia,False,2021,330,192
+Saint Mary's University,I66890659,Nova Scotia,False,2022,315,199
+Saint Mary's University,I66890659,Nova Scotia,False,2023,373,271
+Saint Mary's University,I66890659,Nova Scotia,False,2024,366,271
+Saint Mary's University,I66890659,Nova Scotia,False,2025,385,293
+Saint Mary's University,I66890659,Nova Scotia,False,2026,383,318
+Royal Military College of Canada,I51768193,Ontario,False,2010,177,49
+Royal Military College of Canada,I51768193,Ontario,False,2011,209,59
+Royal Military College of Canada,I51768193,Ontario,False,2012,191,72
+Royal Military College of Canada,I51768193,Ontario,False,2013,222,88
+Royal Military College of Canada,I51768193,Ontario,False,2014,206,77
+Royal Military College of Canada,I51768193,Ontario,False,2015,240,81
+Royal Military College of Canada,I51768193,Ontario,False,2016,228,92
+Royal Military College of Canada,I51768193,Ontario,False,2017,200,105
+Royal Military College of Canada,I51768193,Ontario,False,2018,210,86
+Royal Military College of Canada,I51768193,Ontario,False,2019,195,92
+Royal Military College of Canada,I51768193,Ontario,False,2020,219,101
+Royal Military College of Canada,I51768193,Ontario,False,2021,201,116
+Royal Military College of Canada,I51768193,Ontario,False,2022,200,129
+Royal Military College of Canada,I51768193,Ontario,False,2023,222,131
+Royal Military College of Canada,I51768193,Ontario,False,2024,205,134
+Royal Military College of Canada,I51768193,Ontario,False,2025,176,111
+Royal Military College of Canada,I51768193,Ontario,False,2026,210,137
+University of Northern British Columbia,I151934421,British Columbia,False,2010,230,75
+University of Northern British Columbia,I151934421,British Columbia,False,2011,232,89
+University of Northern British Columbia,I151934421,British Columbia,False,2012,204,74
+University of Northern British Columbia,I151934421,British Columbia,False,2013,239,98
+University of Northern British Columbia,I151934421,British Columbia,False,2014,203,94
+University of Northern British Columbia,I151934421,British Columbia,False,2015,200,106
+University of Northern British Columbia,I151934421,British Columbia,False,2016,195,85
+University of Northern British Columbia,I151934421,British Columbia,False,2017,248,117
+University of Northern British Columbia,I151934421,British Columbia,False,2018,250,133
+University of Northern British Columbia,I151934421,British Columbia,False,2019,270,152
+University of Northern British Columbia,I151934421,British Columbia,False,2020,310,170
+University of Northern British Columbia,I151934421,British Columbia,False,2021,351,207
+University of Northern British Columbia,I151934421,British Columbia,False,2022,328,214
+University of Northern British Columbia,I151934421,British Columbia,False,2023,306,213
+University of Northern British Columbia,I151934421,British Columbia,False,2024,342,259
+University of Northern British Columbia,I151934421,British Columbia,False,2025,359,278
+University of Northern British Columbia,I151934421,British Columbia,False,2026,364,288
+The University of Winnipeg,I872945872,Manitoba,False,2010,164,55
+The University of Winnipeg,I872945872,Manitoba,False,2011,191,69
+The University of Winnipeg,I872945872,Manitoba,False,2012,192,86
+The University of Winnipeg,I872945872,Manitoba,False,2013,200,88
+The University of Winnipeg,I872945872,Manitoba,False,2014,241,106
+The University of Winnipeg,I872945872,Manitoba,False,2015,259,105
+The University of Winnipeg,I872945872,Manitoba,False,2016,249,126
+The University of Winnipeg,I872945872,Manitoba,False,2017,233,136
+The University of Winnipeg,I872945872,Manitoba,False,2018,273,147
+The University of Winnipeg,I872945872,Manitoba,False,2019,268,153
+The University of Winnipeg,I872945872,Manitoba,False,2020,264,155
+The University of Winnipeg,I872945872,Manitoba,False,2021,274,175
+The University of Winnipeg,I872945872,Manitoba,False,2022,297,216
+The University of Winnipeg,I872945872,Manitoba,False,2023,307,226
+The University of Winnipeg,I872945872,Manitoba,False,2024,291,243
+The University of Winnipeg,I872945872,Manitoba,False,2025,304,238
+The University of Winnipeg,I872945872,Manitoba,False,2026,278,224
+Université de Moncton,I154799132,New Brunswick,False,2010,147,57
+Université de Moncton,I154799132,New Brunswick,False,2011,175,63
+Université de Moncton,I154799132,New Brunswick,False,2012,175,70
+Université de Moncton,I154799132,New Brunswick,False,2013,199,98
+Université de Moncton,I154799132,New Brunswick,False,2014,217,96
+Université de Moncton,I154799132,New Brunswick,False,2015,214,117
+Université de Moncton,I154799132,New Brunswick,False,2016,227,126
+Université de Moncton,I154799132,New Brunswick,False,2017,249,158
+Université de Moncton,I154799132,New Brunswick,False,2018,243,149
+Université de Moncton,I154799132,New Brunswick,False,2019,234,128
+Université de Moncton,I154799132,New Brunswick,False,2020,246,163
+Université de Moncton,I154799132,New Brunswick,False,2021,327,249
+Université de Moncton,I154799132,New Brunswick,False,2022,279,214
+Université de Moncton,I154799132,New Brunswick,False,2023,299,229
+Université de Moncton,I154799132,New Brunswick,False,2024,335,270
+Université de Moncton,I154799132,New Brunswick,False,2025,349,285
+Université de Moncton,I154799132,New Brunswick,False,2026,304,246
+St. Francis Xavier University,I197191942,Nova Scotia,False,2010,164,54
+St. Francis Xavier University,I197191942,Nova Scotia,False,2011,156,50
+St. Francis Xavier University,I197191942,Nova Scotia,False,2012,188,51
+St. Francis Xavier University,I197191942,Nova Scotia,False,2013,194,66
+St. Francis Xavier University,I197191942,Nova Scotia,False,2014,189,75
+St. Francis Xavier University,I197191942,Nova Scotia,False,2015,186,79
+St. Francis Xavier University,I197191942,Nova Scotia,False,2016,185,75
+St. Francis Xavier University,I197191942,Nova Scotia,False,2017,187,71
+St. Francis Xavier University,I197191942,Nova Scotia,False,2018,249,107
+St. Francis Xavier University,I197191942,Nova Scotia,False,2019,245,125
+St. Francis Xavier University,I197191942,Nova Scotia,False,2020,260,128
+St. Francis Xavier University,I197191942,Nova Scotia,False,2021,270,146
+St. Francis Xavier University,I197191942,Nova Scotia,False,2022,252,126
+St. Francis Xavier University,I197191942,Nova Scotia,False,2023,251,151
+St. Francis Xavier University,I197191942,Nova Scotia,False,2024,239,169
+St. Francis Xavier University,I197191942,Nova Scotia,False,2025,291,208
+St. Francis Xavier University,I197191942,Nova Scotia,False,2026,261,177
+University of Prince Edward Island,I22188714,Prince Edward Island,False,2010,168,74
+University of Prince Edward Island,I22188714,Prince Edward Island,False,2011,197,81
+University of Prince Edward Island,I22188714,Prince Edward Island,False,2012,227,116
+University of Prince Edward Island,I22188714,Prince Edward Island,False,2013,244,115
+University of Prince Edward Island,I22188714,Prince Edward Island,False,2014,231,126
+University of Prince Edward Island,I22188714,Prince Edward Island,False,2015,231,118
+University of Prince Edward Island,I22188714,Prince Edward Island,False,2016,259,178
+University of Prince Edward Island,I22188714,Prince Edward Island,False,2017,296,200
+University of Prince Edward Island,I22188714,Prince Edward Island,False,2018,289,207
+University of Prince Edward Island,I22188714,Prince Edward Island,False,2019,271,183
+University of Prince Edward Island,I22188714,Prince Edward Island,False,2020,338,223
+University of Prince Edward Island,I22188714,Prince Edward Island,False,2021,325,242
+University of Prince Edward Island,I22188714,Prince Edward Island,False,2022,315,230
+University of Prince Edward Island,I22188714,Prince Edward Island,False,2023,319,245
+University of Prince Edward Island,I22188714,Prince Edward Island,False,2024,357,284
+University of Prince Edward Island,I22188714,Prince Edward Island,False,2025,380,290
+University of Prince Edward Island,I22188714,Prince Edward Island,False,2026,336,264
+Université du Québec à Rimouski,I182451676,Quebec,False,2010,157,59
+Université du Québec à Rimouski,I182451676,Quebec,False,2011,203,84
+Université du Québec à Rimouski,I182451676,Quebec,False,2012,241,110
+Université du Québec à Rimouski,I182451676,Quebec,False,2013,236,127
+Université du Québec à Rimouski,I182451676,Quebec,False,2014,226,138
+Université du Québec à Rimouski,I182451676,Quebec,False,2015,249,136
+Université du Québec à Rimouski,I182451676,Quebec,False,2016,248,156
+Université du Québec à Rimouski,I182451676,Quebec,False,2017,251,171
+Université du Québec à Rimouski,I182451676,Quebec,False,2018,266,175
+Université du Québec à Rimouski,I182451676,Quebec,False,2019,279,179
+Université du Québec à Rimouski,I182451676,Quebec,False,2020,286,183
+Université du Québec à Rimouski,I182451676,Quebec,False,2021,321,242
+Université du Québec à Rimouski,I182451676,Quebec,False,2022,350,275
+Université du Québec à Rimouski,I182451676,Quebec,False,2023,353,283
+Université du Québec à Rimouski,I182451676,Quebec,False,2024,367,300
+Université du Québec à Rimouski,I182451676,Quebec,False,2025,419,331
+Université du Québec à Rimouski,I182451676,Quebec,False,2026,343,268
+Université du Québec en Outaouais,I33217400,Quebec,False,2010,115,57
+Université du Québec en Outaouais,I33217400,Quebec,False,2011,127,57
+Université du Québec en Outaouais,I33217400,Quebec,False,2012,157,84
+Université du Québec en Outaouais,I33217400,Quebec,False,2013,204,106
+Université du Québec en Outaouais,I33217400,Quebec,False,2014,188,90
+Université du Québec en Outaouais,I33217400,Quebec,False,2015,225,156
+Université du Québec en Outaouais,I33217400,Quebec,False,2016,249,149
+Université du Québec en Outaouais,I33217400,Quebec,False,2017,275,163
+Université du Québec en Outaouais,I33217400,Quebec,False,2018,256,163
+Université du Québec en Outaouais,I33217400,Quebec,False,2019,317,180
+Université du Québec en Outaouais,I33217400,Quebec,False,2020,348,210
+Université du Québec en Outaouais,I33217400,Quebec,False,2021,385,273
+Université du Québec en Outaouais,I33217400,Quebec,False,2022,346,250
+Université du Québec en Outaouais,I33217400,Quebec,False,2023,430,317
+Université du Québec en Outaouais,I33217400,Quebec,False,2024,382,285
+Université du Québec en Outaouais,I33217400,Quebec,False,2025,448,353
+Université du Québec en Outaouais,I33217400,Quebec,False,2026,415,296
+Acadia University,I92688161,Nova Scotia,False,2010,145,57
+Acadia University,I92688161,Nova Scotia,False,2011,126,44
+Acadia University,I92688161,Nova Scotia,False,2012,149,53
+Acadia University,I92688161,Nova Scotia,False,2013,147,54
+Acadia University,I92688161,Nova Scotia,False,2014,146,59
+Acadia University,I92688161,Nova Scotia,False,2015,147,59
+Acadia University,I92688161,Nova Scotia,False,2016,197,85
+Acadia University,I92688161,Nova Scotia,False,2017,153,57
+Acadia University,I92688161,Nova Scotia,False,2018,179,93
+Acadia University,I92688161,Nova Scotia,False,2019,186,104
+Acadia University,I92688161,Nova Scotia,False,2020,216,115
+Acadia University,I92688161,Nova Scotia,False,2021,208,126
+Acadia University,I92688161,Nova Scotia,False,2022,189,110
+Acadia University,I92688161,Nova Scotia,False,2023,188,136
+Acadia University,I92688161,Nova Scotia,False,2024,197,156
+Acadia University,I92688161,Nova Scotia,False,2025,209,160
+Acadia University,I92688161,Nova Scotia,False,2026,201,148
+Athabasca University,I86897205,Alberta,False,2010,128,46
+Athabasca University,I86897205,Alberta,False,2011,124,57
+Athabasca University,I86897205,Alberta,False,2012,138,54
+Athabasca University,I86897205,Alberta,False,2013,134,57
+Athabasca University,I86897205,Alberta,False,2014,159,76
+Athabasca University,I86897205,Alberta,False,2015,161,74
+Athabasca University,I86897205,Alberta,False,2016,167,72
+Athabasca University,I86897205,Alberta,False,2017,163,75
+Athabasca University,I86897205,Alberta,False,2018,165,90
+Athabasca University,I86897205,Alberta,False,2019,174,76
+Athabasca University,I86897205,Alberta,False,2020,151,76
+Athabasca University,I86897205,Alberta,False,2021,208,136
+Athabasca University,I86897205,Alberta,False,2022,211,152
+Athabasca University,I86897205,Alberta,False,2023,198,154
+Athabasca University,I86897205,Alberta,False,2024,197,149
+Athabasca University,I86897205,Alberta,False,2025,193,147
+Athabasca University,I86897205,Alberta,False,2026,202,152
+Université du Québec en Abitibi-Témiscamingue,I190270569,Quebec,False,2010,72,21
+Université du Québec en Abitibi-Témiscamingue,I190270569,Quebec,False,2011,88,29
+Université du Québec en Abitibi-Témiscamingue,I190270569,Quebec,False,2012,103,38
+Université du Québec en Abitibi-Témiscamingue,I190270569,Quebec,False,2013,111,45
+Université du Québec en Abitibi-Témiscamingue,I190270569,Quebec,False,2014,114,34
+Université du Québec en Abitibi-Témiscamingue,I190270569,Quebec,False,2015,144,60
+Université du Québec en Abitibi-Témiscamingue,I190270569,Quebec,False,2016,147,73
+Université du Québec en Abitibi-Témiscamingue,I190270569,Quebec,False,2017,139,69
+Université du Québec en Abitibi-Témiscamingue,I190270569,Quebec,False,2018,173,98
+Université du Québec en Abitibi-Témiscamingue,I190270569,Quebec,False,2019,184,124
+Université du Québec en Abitibi-Témiscamingue,I190270569,Quebec,False,2020,248,146
+Université du Québec en Abitibi-Témiscamingue,I190270569,Quebec,False,2021,244,177
+Université du Québec en Abitibi-Témiscamingue,I190270569,Quebec,False,2022,232,177
+Université du Québec en Abitibi-Témiscamingue,I190270569,Quebec,False,2023,232,171
+Université du Québec en Abitibi-Témiscamingue,I190270569,Quebec,False,2024,258,222
+Université du Québec en Abitibi-Témiscamingue,I190270569,Quebec,False,2025,306,243
+Université du Québec en Abitibi-Témiscamingue,I190270569,Quebec,False,2026,262,214
+Mount Royal University,I870124129,Alberta,False,2010,68,22
+Mount Royal University,I870124129,Alberta,False,2011,68,27
+Mount Royal University,I870124129,Alberta,False,2012,93,35
+Mount Royal University,I870124129,Alberta,False,2013,141,70
+Mount Royal University,I870124129,Alberta,False,2014,167,101
+Mount Royal University,I870124129,Alberta,False,2015,162,97
+Mount Royal University,I870124129,Alberta,False,2016,134,65
+Mount Royal University,I870124129,Alberta,False,2017,147,83
+Mount Royal University,I870124129,Alberta,False,2018,152,90
+Mount Royal University,I870124129,Alberta,False,2019,166,83
+Mount Royal University,I870124129,Alberta,False,2020,196,104
+Mount Royal University,I870124129,Alberta,False,2021,247,156
+Mount Royal University,I870124129,Alberta,False,2022,218,139
+Mount Royal University,I870124129,Alberta,False,2023,234,164
+Mount Royal University,I870124129,Alberta,False,2024,289,208
+Mount Royal University,I870124129,Alberta,False,2025,301,229
+Mount Royal University,I870124129,Alberta,False,2026,256,184
+Mount Allison University,I163902620,New Brunswick,False,2010,105,36
+Mount Allison University,I163902620,New Brunswick,False,2011,104,33
+Mount Allison University,I163902620,New Brunswick,False,2012,107,39
+Mount Allison University,I163902620,New Brunswick,False,2013,135,48
+Mount Allison University,I163902620,New Brunswick,False,2014,117,52
+Mount Allison University,I163902620,New Brunswick,False,2015,134,55
+Mount Allison University,I163902620,New Brunswick,False,2016,120,73
+Mount Allison University,I163902620,New Brunswick,False,2017,134,66
+Mount Allison University,I163902620,New Brunswick,False,2018,135,80
+Mount Allison University,I163902620,New Brunswick,False,2019,92,55
+Mount Allison University,I163902620,New Brunswick,False,2020,97,54
+Mount Allison University,I163902620,New Brunswick,False,2021,124,84
+Mount Allison University,I163902620,New Brunswick,False,2022,114,84
+Mount Allison University,I163902620,New Brunswick,False,2023,100,73
+Mount Allison University,I163902620,New Brunswick,False,2024,105,83
+Mount Allison University,I163902620,New Brunswick,False,2025,85,60
+Mount Allison University,I163902620,New Brunswick,False,2026,110,89
+MacEwan University,I924318406,Alberta,False,2010,54,13
+MacEwan University,I924318406,Alberta,False,2011,73,27
+MacEwan University,I924318406,Alberta,False,2012,82,34
+MacEwan University,I924318406,Alberta,False,2013,101,55
+MacEwan University,I924318406,Alberta,False,2014,114,57
+MacEwan University,I924318406,Alberta,False,2015,128,65
+MacEwan University,I924318406,Alberta,False,2016,121,68
+MacEwan University,I924318406,Alberta,False,2017,224,59
+MacEwan University,I924318406,Alberta,False,2018,269,58
+MacEwan University,I924318406,Alberta,False,2019,306,82
+MacEwan University,I924318406,Alberta,False,2020,257,140
+MacEwan University,I924318406,Alberta,False,2021,315,118
+MacEwan University,I924318406,Alberta,False,2022,193,134
+MacEwan University,I924318406,Alberta,False,2023,219,159
+MacEwan University,I924318406,Alberta,False,2024,199,146
+MacEwan University,I924318406,Alberta,False,2025,210,159
+MacEwan University,I924318406,Alberta,False,2026,185,130
+Thompson Rivers University,I160262251,British Columbia,False,2010,75,29
+Thompson Rivers University,I160262251,British Columbia,False,2011,73,27
+Thompson Rivers University,I160262251,British Columbia,False,2012,80,33
+Thompson Rivers University,I160262251,British Columbia,False,2013,127,51
+Thompson Rivers University,I160262251,British Columbia,False,2014,108,44
+Thompson Rivers University,I160262251,British Columbia,False,2015,128,50
+Thompson Rivers University,I160262251,British Columbia,False,2016,141,62
+Thompson Rivers University,I160262251,British Columbia,False,2017,130,60
+Thompson Rivers University,I160262251,British Columbia,False,2018,146,73
+Thompson Rivers University,I160262251,British Columbia,False,2019,186,87
+Thompson Rivers University,I160262251,British Columbia,False,2020,186,113
+Thompson Rivers University,I160262251,British Columbia,False,2021,185,115
+Thompson Rivers University,I160262251,British Columbia,False,2022,191,127
+Thompson Rivers University,I160262251,British Columbia,False,2023,184,131
+Thompson Rivers University,I160262251,British Columbia,False,2024,196,149
+Thompson Rivers University,I160262251,British Columbia,False,2025,260,193
+Thompson Rivers University,I160262251,British Columbia,False,2026,315,246
+NOSM University,I7899908,Ontario,False,2010,79,21
+NOSM University,I7899908,Ontario,False,2011,77,25
+NOSM University,I7899908,Ontario,False,2012,78,39
+NOSM University,I7899908,Ontario,False,2013,88,39
+NOSM University,I7899908,Ontario,False,2014,181,102
+NOSM University,I7899908,Ontario,False,2015,139,78
+NOSM University,I7899908,Ontario,False,2016,131,76
+NOSM University,I7899908,Ontario,False,2017,182,118
+NOSM University,I7899908,Ontario,False,2018,160,97
+NOSM University,I7899908,Ontario,False,2019,192,123
+NOSM University,I7899908,Ontario,False,2020,232,151
+NOSM University,I7899908,Ontario,False,2021,259,190
+NOSM University,I7899908,Ontario,False,2022,287,217
+NOSM University,I7899908,Ontario,False,2023,269,217
+NOSM University,I7899908,Ontario,False,2024,279,208
+NOSM University,I7899908,Ontario,False,2025,358,288
+NOSM University,I7899908,Ontario,False,2026,305,250
+Mount Saint Vincent University,I179301192,Nova Scotia,False,2010,85,16
+Mount Saint Vincent University,I179301192,Nova Scotia,False,2011,92,22
+Mount Saint Vincent University,I179301192,Nova Scotia,False,2012,78,31
+Mount Saint Vincent University,I179301192,Nova Scotia,False,2013,80,31
+Mount Saint Vincent University,I179301192,Nova Scotia,False,2014,109,41
+Mount Saint Vincent University,I179301192,Nova Scotia,False,2015,95,31
+Mount Saint Vincent University,I179301192,Nova Scotia,False,2016,109,52
+Mount Saint Vincent University,I179301192,Nova Scotia,False,2017,106,45
+Mount Saint Vincent University,I179301192,Nova Scotia,False,2018,111,59
+Mount Saint Vincent University,I179301192,Nova Scotia,False,2019,127,64
+Mount Saint Vincent University,I179301192,Nova Scotia,False,2020,164,111
+Mount Saint Vincent University,I179301192,Nova Scotia,False,2021,182,117
+Mount Saint Vincent University,I179301192,Nova Scotia,False,2022,140,82
+Mount Saint Vincent University,I179301192,Nova Scotia,False,2023,174,138
+Mount Saint Vincent University,I179301192,Nova Scotia,False,2024,181,133
+Mount Saint Vincent University,I179301192,Nova Scotia,False,2025,191,149
+Mount Saint Vincent University,I179301192,Nova Scotia,False,2026,185,150
+Brandon University,I48890080,Manitoba,False,2010,46,14
+Brandon University,I48890080,Manitoba,False,2011,59,20
+Brandon University,I48890080,Manitoba,False,2012,63,24
+Brandon University,I48890080,Manitoba,False,2013,55,22
+Brandon University,I48890080,Manitoba,False,2014,64,24
+Brandon University,I48890080,Manitoba,False,2015,68,31
+Brandon University,I48890080,Manitoba,False,2016,77,35
+Brandon University,I48890080,Manitoba,False,2017,81,42
+Brandon University,I48890080,Manitoba,False,2018,101,55
+Brandon University,I48890080,Manitoba,False,2019,124,79
+Brandon University,I48890080,Manitoba,False,2020,198,98
+Brandon University,I48890080,Manitoba,False,2021,231,116
+Brandon University,I48890080,Manitoba,False,2022,242,144
+Brandon University,I48890080,Manitoba,False,2023,206,125
+Brandon University,I48890080,Manitoba,False,2024,164,100
+Brandon University,I48890080,Manitoba,False,2025,175,121
+Brandon University,I48890080,Manitoba,False,2026,119,89
+Nipissing University,I138900291,Ontario,False,2010,57,20
+Nipissing University,I138900291,Ontario,False,2011,96,48
+Nipissing University,I138900291,Ontario,False,2012,108,55
+Nipissing University,I138900291,Ontario,False,2013,114,43
+Nipissing University,I138900291,Ontario,False,2014,138,64
+Nipissing University,I138900291,Ontario,False,2015,151,63
+Nipissing University,I138900291,Ontario,False,2016,152,63
+Nipissing University,I138900291,Ontario,False,2017,123,60
+Nipissing University,I138900291,Ontario,False,2018,120,58
+Nipissing University,I138900291,Ontario,False,2019,104,50
+Nipissing University,I138900291,Ontario,False,2020,141,75
+Nipissing University,I138900291,Ontario,False,2021,139,78
+Nipissing University,I138900291,Ontario,False,2022,126,70
+Nipissing University,I138900291,Ontario,False,2023,122,90
+Nipissing University,I138900291,Ontario,False,2024,156,111
+Nipissing University,I138900291,Ontario,False,2025,163,109
+Nipissing University,I138900291,Ontario,False,2026,138,76
+Cape Breton University,I10213569,Nova Scotia,False,2010,61,21
+Cape Breton University,I10213569,Nova Scotia,False,2011,55,21
+Cape Breton University,I10213569,Nova Scotia,False,2012,59,27
+Cape Breton University,I10213569,Nova Scotia,False,2013,72,36
+Cape Breton University,I10213569,Nova Scotia,False,2014,110,53
+Cape Breton University,I10213569,Nova Scotia,False,2015,95,62
+Cape Breton University,I10213569,Nova Scotia,False,2016,86,55
+Cape Breton University,I10213569,Nova Scotia,False,2017,79,37
+Cape Breton University,I10213569,Nova Scotia,False,2018,105,60
+Cape Breton University,I10213569,Nova Scotia,False,2019,124,67
+Cape Breton University,I10213569,Nova Scotia,False,2020,131,72
+Cape Breton University,I10213569,Nova Scotia,False,2021,135,78
+Cape Breton University,I10213569,Nova Scotia,False,2022,111,66
+Cape Breton University,I10213569,Nova Scotia,False,2023,140,101
+Cape Breton University,I10213569,Nova Scotia,False,2024,176,123
+Cape Breton University,I10213569,Nova Scotia,False,2025,175,116
+Cape Breton University,I10213569,Nova Scotia,False,2026,139,91
+Bishop's University,I113281461,Quebec,False,2010,47,22
+Bishop's University,I113281461,Quebec,False,2011,48,18
+Bishop's University,I113281461,Quebec,False,2012,39,20
+Bishop's University,I113281461,Quebec,False,2013,44,22
+Bishop's University,I113281461,Quebec,False,2014,50,23
+Bishop's University,I113281461,Quebec,False,2015,65,40
+Bishop's University,I113281461,Quebec,False,2016,61,33
+Bishop's University,I113281461,Quebec,False,2017,55,29
+Bishop's University,I113281461,Quebec,False,2018,77,55
+Bishop's University,I113281461,Quebec,False,2019,80,54
+Bishop's University,I113281461,Quebec,False,2020,98,73
+Bishop's University,I113281461,Quebec,False,2021,100,74
+Bishop's University,I113281461,Quebec,False,2022,88,63
+Bishop's University,I113281461,Quebec,False,2023,95,73
+Bishop's University,I113281461,Quebec,False,2024,89,69
+Bishop's University,I113281461,Quebec,False,2025,113,87
+Bishop's University,I113281461,Quebec,False,2026,122,98
+Université TÉLUQ,I200745827,Quebec,False,2010,30,21
+Université TÉLUQ,I200745827,Quebec,False,2011,34,22
+Université TÉLUQ,I200745827,Quebec,False,2012,35,20
+Université TÉLUQ,I200745827,Quebec,False,2013,51,32
+Université TÉLUQ,I200745827,Quebec,False,2014,43,30
+Université TÉLUQ,I200745827,Quebec,False,2015,45,32
+Université TÉLUQ,I200745827,Quebec,False,2016,64,42
+Université TÉLUQ,I200745827,Quebec,False,2017,62,45
+Université TÉLUQ,I200745827,Quebec,False,2018,85,64
+Université TÉLUQ,I200745827,Quebec,False,2019,97,78
+Université TÉLUQ,I200745827,Quebec,False,2020,104,86
+Université TÉLUQ,I200745827,Quebec,False,2021,128,109
+Université TÉLUQ,I200745827,Quebec,False,2022,97,82
+Université TÉLUQ,I200745827,Quebec,False,2023,116,106
+Université TÉLUQ,I200745827,Quebec,False,2024,117,99
+Université TÉLUQ,I200745827,Quebec,False,2025,140,114
+Université TÉLUQ,I200745827,Quebec,False,2026,127,113
+École Nationale d'Administration Publique,I31571312,Quebec,False,2010,26,11
+École Nationale d'Administration Publique,I31571312,Quebec,False,2011,25,17
+École Nationale d'Administration Publique,I31571312,Quebec,False,2012,32,19
+École Nationale d'Administration Publique,I31571312,Quebec,False,2013,42,23
+École Nationale d'Administration Publique,I31571312,Quebec,False,2014,49,23
+École Nationale d'Administration Publique,I31571312,Quebec,False,2015,44,25
+École Nationale d'Administration Publique,I31571312,Quebec,False,2016,49,26
+École Nationale d'Administration Publique,I31571312,Quebec,False,2017,1090,729
+École Nationale d'Administration Publique,I31571312,Quebec,False,2018,38,19
+École Nationale d'Administration Publique,I31571312,Quebec,False,2019,35,20
+École Nationale d'Administration Publique,I31571312,Quebec,False,2020,52,28
+École Nationale d'Administration Publique,I31571312,Quebec,False,2021,47,28
+École Nationale d'Administration Publique,I31571312,Quebec,False,2022,67,45
+École Nationale d'Administration Publique,I31571312,Quebec,False,2023,76,57
+École Nationale d'Administration Publique,I31571312,Quebec,False,2024,72,54
+École Nationale d'Administration Publique,I31571312,Quebec,False,2025,63,48
+École Nationale d'Administration Publique,I31571312,Quebec,False,2026,64,42
+University of the Fraser Valley,I170606269,British Columbia,False,2010,32,10
+University of the Fraser Valley,I170606269,British Columbia,False,2011,25,8
+University of the Fraser Valley,I170606269,British Columbia,False,2012,32,10
+University of the Fraser Valley,I170606269,British Columbia,False,2013,41,18
+University of the Fraser Valley,I170606269,British Columbia,False,2014,42,14
+University of the Fraser Valley,I170606269,British Columbia,False,2015,45,16
+University of the Fraser Valley,I170606269,British Columbia,False,2016,30,15
+University of the Fraser Valley,I170606269,British Columbia,False,2017,49,19
+University of the Fraser Valley,I170606269,British Columbia,False,2018,68,28
+University of the Fraser Valley,I170606269,British Columbia,False,2019,59,33
+University of the Fraser Valley,I170606269,British Columbia,False,2020,72,40
+University of the Fraser Valley,I170606269,British Columbia,False,2021,105,66
+University of the Fraser Valley,I170606269,British Columbia,False,2022,129,82
+University of the Fraser Valley,I170606269,British Columbia,False,2023,125,84
+University of the Fraser Valley,I170606269,British Columbia,False,2024,152,112
+University of the Fraser Valley,I170606269,British Columbia,False,2025,159,116
+University of the Fraser Valley,I170606269,British Columbia,False,2026,160,116
+Vancouver Island University,I28638086,British Columbia,False,2010,37,17
+Vancouver Island University,I28638086,British Columbia,False,2011,35,12
+Vancouver Island University,I28638086,British Columbia,False,2012,35,16
+Vancouver Island University,I28638086,British Columbia,False,2013,47,20
+Vancouver Island University,I28638086,British Columbia,False,2014,50,24
+Vancouver Island University,I28638086,British Columbia,False,2015,49,23
+Vancouver Island University,I28638086,British Columbia,False,2016,49,26
+Vancouver Island University,I28638086,British Columbia,False,2017,44,18
+Vancouver Island University,I28638086,British Columbia,False,2018,75,43
+Vancouver Island University,I28638086,British Columbia,False,2019,64,36
+Vancouver Island University,I28638086,British Columbia,False,2020,73,43
+Vancouver Island University,I28638086,British Columbia,False,2021,58,38
+Vancouver Island University,I28638086,British Columbia,False,2022,83,60
+Vancouver Island University,I28638086,British Columbia,False,2023,94,80
+Vancouver Island University,I28638086,British Columbia,False,2024,110,93
+Vancouver Island University,I28638086,British Columbia,False,2025,104,87
+Vancouver Island University,I28638086,British Columbia,False,2026,92,68

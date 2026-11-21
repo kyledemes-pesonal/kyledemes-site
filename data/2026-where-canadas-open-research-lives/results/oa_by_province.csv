@@ -1,0 +1,239 @@
+province,year,papers,free_to_read
+Alberta,2010,9795,3633
+Alberta,2011,10296,3888
+Alberta,2012,10822,4378
+Alberta,2013,11409,4941
+Alberta,2014,12061,5560
+Alberta,2015,12362,6026
+Alberta,2016,12953,6414
+Alberta,2017,13746,7093
+Alberta,2018,14813,7854
+Alberta,2019,15108,8227
+Alberta,2020,16656,9661
+Alberta,2021,17349,10844
+Alberta,2022,16354,10733
+Alberta,2023,15931,11163
+Alberta,2024,16414,11925
+Alberta,2025,17477,12744
+Alberta,2026,16262,11753
+British Columbia,2010,11773,5204
+British Columbia,2011,12037,5367
+British Columbia,2012,12229,5693
+British Columbia,2013,12748,6024
+British Columbia,2014,13424,6832
+British Columbia,2015,13880,7383
+British Columbia,2016,13951,7757
+British Columbia,2017,14463,8182
+British Columbia,2018,15030,8740
+British Columbia,2019,15866,9482
+British Columbia,2020,17228,10896
+British Columbia,2021,18208,12145
+British Columbia,2022,17428,12253
+British Columbia,2023,17345,12913
+British Columbia,2024,17573,13561
+British Columbia,2025,18655,14303
+British Columbia,2026,17243,12907
+Manitoba,2010,2418,884
+Manitoba,2011,2788,1074
+Manitoba,2012,2838,1172
+Manitoba,2013,2984,1333
+Manitoba,2014,3138,1496
+Manitoba,2015,3258,1516
+Manitoba,2016,3402,1737
+Manitoba,2017,3614,1948
+Manitoba,2018,3741,2067
+Manitoba,2019,3763,2185
+Manitoba,2020,4344,2683
+Manitoba,2021,4533,3001
+Manitoba,2022,4373,3072
+Manitoba,2023,4170,3088
+Manitoba,2024,4401,3408
+Manitoba,2025,4586,3561
+Manitoba,2026,4433,3459
+New Brunswick,2010,1014,313
+New Brunswick,2011,1107,319
+New Brunswick,2012,1159,398
+New Brunswick,2013,1197,432
+New Brunswick,2014,1212,430
+New Brunswick,2015,1185,505
+New Brunswick,2016,1254,588
+New Brunswick,2017,1345,633
+New Brunswick,2018,1411,698
+New Brunswick,2019,1429,741
+New Brunswick,2020,1588,837
+New Brunswick,2021,1724,1014
+New Brunswick,2022,1605,980
+New Brunswick,2023,1558,1023
+New Brunswick,2024,1678,1192
+New Brunswick,2025,1815,1292
+New Brunswick,2026,1564,1156
+Newfoundland and Labrador,2010,940,336
+Newfoundland and Labrador,2011,1040,357
+Newfoundland and Labrador,2012,1040,412
+Newfoundland and Labrador,2013,1251,601
+Newfoundland and Labrador,2014,1273,596
+Newfoundland and Labrador,2015,1412,744
+Newfoundland and Labrador,2016,1411,697
+Newfoundland and Labrador,2017,1605,801
+Newfoundland and Labrador,2018,1822,985
+Newfoundland and Labrador,2019,1826,989
+Newfoundland and Labrador,2020,2046,1094
+Newfoundland and Labrador,2021,2090,1239
+Newfoundland and Labrador,2022,1924,1240
+Newfoundland and Labrador,2023,1830,1261
+Newfoundland and Labrador,2024,1986,1446
+Newfoundland and Labrador,2025,1986,1442
+Newfoundland and Labrador,2026,1720,1211
+Nova Scotia,2010,2874,1100
+Nova Scotia,2011,2933,1133
+Nova Scotia,2012,3128,1359
+Nova Scotia,2013,3295,1462
+Nova Scotia,2014,3426,1599
+Nova Scotia,2015,3453,1745
+Nova Scotia,2016,3655,1872
+Nova Scotia,2017,3830,2060
+Nova Scotia,2018,4025,2280
+Nova Scotia,2019,4278,2479
+Nova Scotia,2020,4671,2872
+Nova Scotia,2021,4923,3276
+Nova Scotia,2022,4836,3302
+Nova Scotia,2023,4669,3472
+Nova Scotia,2024,4972,3848
+Nova Scotia,2025,5417,4131
+Nova Scotia,2026,4865,3723
+Ontario,2010,38178,14573
+Ontario,2011,40101,15848
+Ontario,2012,41603,17549
+Ontario,2013,43428,19459
+Ontario,2014,46157,21545
+Ontario,2015,46974,23232
+Ontario,2016,48413,24623
+Ontario,2017,49670,26517
+Ontario,2018,51610,28451
+Ontario,2019,54461,30756
+Ontario,2020,60247,35822
+Ontario,2021,62175,39690
+Ontario,2022,58828,39635
+Ontario,2023,57777,42078
+Ontario,2024,59001,44347
+Ontario,2025,62980,47040
+Ontario,2026,57386,42033
+Prince Edward Island,2010,190,83
+Prince Edward Island,2011,216,86
+Prince Edward Island,2012,249,125
+Prince Edward Island,2013,270,132
+Prince Edward Island,2014,252,139
+Prince Edward Island,2015,257,130
+Prince Edward Island,2016,287,191
+Prince Edward Island,2017,336,222
+Prince Edward Island,2018,329,229
+Prince Edward Island,2019,310,206
+Prince Edward Island,2020,379,247
+Prince Edward Island,2021,376,279
+Prince Edward Island,2022,368,275
+Prince Edward Island,2023,363,283
+Prince Edward Island,2024,411,331
+Prince Edward Island,2025,432,332
+Prince Edward Island,2026,384,297
+Quebec,2010,17047,7145
+Quebec,2011,18438,8195
+Quebec,2012,19460,8919
+Quebec,2013,20445,9997
+Quebec,2014,21647,10673
+Quebec,2015,22374,11944
+Quebec,2016,22890,12478
+Quebec,2017,24377,13775
+Quebec,2018,23962,13913
+Quebec,2019,25181,15179
+Quebec,2020,27448,17350
+Quebec,2021,28850,19289
+Quebec,2022,28142,19656
+Quebec,2023,27961,20747
+Quebec,2024,28239,21580
+Quebec,2025,29870,22698
+Quebec,2026,26396,19574
+Saskatchewan,2010,2381,794
+Saskatchewan,2011,2633,941
+Saskatchewan,2012,2712,1089
+Saskatchewan,2013,2941,1242
+Saskatchewan,2014,3190,1392
+Saskatchewan,2015,3042,1403
+Saskatchewan,2016,3190,1519
+Saskatchewan,2017,3557,1751
+Saskatchewan,2018,3630,1906
+Saskatchewan,2019,3830,2054
+Saskatchewan,2020,4232,2406
+Saskatchewan,2021,4461,2781
+Saskatchewan,2022,4165,2736
+Saskatchewan,2023,3819,2647
+Saskatchewan,2024,3980,2972
+Saskatchewan,2025,4253,3159
+Saskatchewan,2026,3853,2859
+Northwest Territories,2010,31,15
+Northwest Territories,2011,20,10
+Northwest Territories,2012,29,16
+Northwest Territories,2013,35,24
+Northwest Territories,2014,41,23
+Northwest Territories,2015,53,41
+Northwest Territories,2016,66,48
+Northwest Territories,2017,58,41
+Northwest Territories,2018,59,40
+Northwest Territories,2019,53,37
+Northwest Territories,2020,48,38
+Northwest Territories,2021,64,49
+Northwest Territories,2022,52,44
+Northwest Territories,2023,75,61
+Northwest Territories,2024,82,73
+Northwest Territories,2025,71,66
+Northwest Territories,2026,67,58
+Nunavut,2010,21,10
+Nunavut,2011,17,10
+Nunavut,2012,15,10
+Nunavut,2013,22,13
+Nunavut,2014,22,10
+Nunavut,2015,25,18
+Nunavut,2016,18,15
+Nunavut,2017,28,18
+Nunavut,2018,24,19
+Nunavut,2019,25,18
+Nunavut,2020,33,26
+Nunavut,2021,35,27
+Nunavut,2022,36,33
+Nunavut,2023,24,24
+Nunavut,2024,34,32
+Nunavut,2025,38,37
+Nunavut,2026,23,19
+Yukon,2010,24,11
+Yukon,2011,40,16
+Yukon,2012,30,14
+Yukon,2013,33,16
+Yukon,2014,29,15
+Yukon,2015,38,23
+Yukon,2016,31,16
+Yukon,2017,40,23
+Yukon,2018,34,17
+Yukon,2019,53,35
+Yukon,2020,53,32
+Yukon,2021,53,36
+Yukon,2022,63,47
+Yukon,2023,45,37
+Yukon,2024,59,54
+Yukon,2025,68,53
+Yukon,2026,49,40
+Canada,2010,76788,29779
+Canada,2011,80622,32364
+Canada,2012,83529,35451
+Canada,2013,87594,39501
+Canada,2014,92423,43234
+Canada,2015,94520,47058
+Canada,2016,96604,49280
+Canada,2017,100871,53696
+Canada,2018,103693,56899
+Canada,2019,108423,61177
+Canada,2020,118532,70485
+Canada,2021,122883,78409
+Canada,2022,116289,78124
+Canada,2023,113801,81883
+Canada,2024,116151,86498
+Canada,2025,122889,91274
+Canada,2026,111519,81481

@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Open Access Over Time</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Two line charts that sit inside a blog post: every Canadian university (with U15, province and single-university views) and every country. Same tokens as monitor.html. */
+:root {
+  --bg: #f6f7f9; --surface: #ffffff; --ink: #18202b; --muted: #5a6575; --rule: #dde2ea; --soft: #eef1f5;
+  --accent: #b3261e; --hi: #3f6fd8; --prov: #c98a00; --line: #c5ccd6;
+  --display: "IBM Plex Sans Condensed", "Arial Narrow", system-ui, sans-serif;
+  --body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #11161d; --surface: #18202a; --ink: #e8edf3; --muted: #9aa6b5; --rule: #2a3542; --soft: #1f2833;
+  --accent: #ff6b5e; --hi: #7397f0; --prov: #f2bb2c; --line: #3a4552; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #11161d; --surface: #18202a; --ink: #e8edf3; --muted: #9aa6b5; --rule: #2a3542; --soft: #1f2833;
+  --accent: #ff6b5e; --hi: #7397f0; --prov: #f2bb2c; --line: #3a4552; color-scheme: dark }
+* { box-sizing: border-box }
+body { background: var(--bg); color: var(--ink); font: 15px/1.5 var(--body); margin: 0 }
+.wrap { max-width: 1080px; margin: 0 auto; padding: 24px 20px 40px; display: grid; gap: 24px }
+.eyebrow { font: 500 12px/1.2 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted) }
+h2 { font: 600 22px/1.2 var(--display); margin: 0; text-wrap: balance }
+.sub { color: var(--muted); margin: 4px 0 0; max-width: 72ch; font-size: 14px }
+.panel { background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 18px; display: grid; gap: 14px; min-width: 0 }
+.controls { display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center }
+.seg { display: inline-flex; gap: 4px; background: var(--soft); padding: 4px; border-radius: 8px }
+.seg button { font: 500 13px/1 var(--body); border: 0; background: transparent; color: var(--muted); padding: 8px 12px; border-radius: 6px; cursor: pointer }
+.seg button[aria-pressed="true"] { background: var(--surface); color: var(--ink); box-shadow: 0 1px 2px rgba(0,0,0,.08) }
+label.pick { display: inline-flex; gap: 8px; align-items: center; font-size: 13px; color: var(--muted) }
+select { font: 500 13px/1.2 var(--body); color: var(--ink); background: var(--surface); border: 1px solid var(--rule); border-radius: 6px; padding: 7px 8px; max-width: 260px }
+button:focus-visible, select:focus-visible { outline: 2px solid var(--hi); outline-offset: 2px }
+.chips { display: flex; flex-wrap: wrap; gap: 6px }
+.chips:empty { display: none }
+.chip { display: inline-flex; align-items: center; gap: 6px; font: 500 13px/1.2 var(--body); color: var(--ink); background: var(--soft); border: 0; border-radius: 999px; padding: 6px 10px; cursor: pointer; text-align: left }
+.chip i { flex: none; width: 10px; height: 10px; border-radius: 50% }
+.chip span { color: var(--muted); font-size: 15px; line-height: 1 }
+select:disabled { color: var(--muted) }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 13px; color: var(--muted) }
+.legend i { display: inline-block; width: 16px; height: 3px; border-radius: 2px; margin-right: 6px; vertical-align: 3px }
+.chart { position: relative; min-height: 300px; touch-action: pan-y }
+svg { display: block; width: 100%; overflow: visible }
+svg text { font-family: var(--body); fill: var(--muted); font-size: 12px }
+.readout { font-size: 13.5px; color: var(--ink); min-height: 1.5em; font-variant-numeric: tabular-nums }
+.readout.hint { color: var(--muted) }
+.note { font-size: 13px; color: var(--muted); max-width: 86ch; margin: 0 }
+html.embedded, html.embedded body { overflow: hidden }
+html.embedded body { background: #ffffff }
+html.embedded .wrap { padding: 8px 0 16px }
+@media (max-width: 520px) { .wrap { padding-inline: 16px } select { max-width: 100% } label.pick { flex: 1 1 100% } label.pick select { flex: 1 } }
+</style>
+<script>if (window.parent !== window) { document.documentElement.setAttribute('data-theme', 'light'); document.documentElement.classList.add('embedded'); }</script>
+</head>
+<body>
+<div class="wrap">
+  <div class="eyebrow">Open access over time · Data as of <span id="asof"></span></div>
+
+  <section class="panel" aria-labelledby="h-uni">
+    <div>
+      <h2 id="h-uni">Every Canadian university</h2>
+      <p class="sub" id="uni-sub"></p>
+    </div>
+    <div class="controls">
+      <div class="seg" id="uni-seg" role="group" aria-label="Highlight">
+        <button type="button" data-k="all" aria-pressed="true">All universities</button>
+        <button type="button" data-k="u15" aria-pressed="false">U15</button>
+      </div>
+      <label class="pick">Province <select id="prov"></select></label>
+      <label class="pick">Compare <select id="uni"></select></label>
+    </div>
+    <div class="chips" id="picks" aria-live="polite"></div>
+    <div class="legend" id="uni-legend"></div>
+    <div class="chart" id="chart-uni"></div>
+    <div class="readout hint" id="uni-read">Hover or tap a line to see which it is; double-click it to add it to the comparison.</div>
+  </section>
+
+  <section class="panel" aria-labelledby="h-ctry">
+    <div>
+      <h2 id="h-ctry">Every country</h2>
+      <p class="sub" id="ctry-sub"></p>
+    </div>
+    <div class="controls">
+      <label class="pick">Highlight a country <select id="ctry"></select></label>
+    </div>
+    <div class="legend" id="ctry-legend"></div>
+    <div class="chart" id="chart-ctry"></div>
+    <div class="readout hint" id="ctry-read">Hover or tap a line to see which it is.</div>
+  </section>
+
+  <p class="note">Free to read means a free copy exists anywhere today (gold, diamond, hybrid, green or bronze), for journal articles and reviews with at least one author at the university or country. A paper counts once for each. <strong>2026 is a partial year</strong> (papers published so far, dashed and shaded), and recent years run low because repository copies often arrive after publication. Years with fewer than 30 papers aren't drawn. Data from OpenAlex; the numbers and scripts are in the data folder.</p>
+</div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(function () {
+  const D = JSON.parse(document.getElementById('data').textContent);
+  const NS = 'http://www.w3.org/2000/svg';
+  const el = (tag, attrs = {}, parent) => { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); if (parent) parent.appendChild(e); return e; };
+  const txt = (parent, x, y, s, attrs = {}) => { const t = el('text', { x, y, ...attrs }, parent); t.textContent = s; return t; };
+  const fmt = n => n.toLocaleString('en-CA');
+  const MIN_N = 30; // fewer papers than this in a year: no point drawn
+  const val = d => d.n >= MIN_N ? 100 * d.open / d.n : null;
+  const short = s => s.replace('Université du Québec à ', 'UQ ').replace('Université du Québec en ', 'UQ ').replace('University of ', 'U ').replace('Université de ', 'U de ');
+  const YEARS = D.canada.map(d => d.y), Y0 = YEARS[0], Y1 = YEARS.at(-1), FULL = Y1 - 1;
+  document.getElementById('asof').textContent = new Date(D.asof + 'T12:00:00').toLocaleDateString('en-CA', { day: 'numeric', month: 'long', year: 'numeric' });
+
+  // A line chart of many series. Each line: {id, label, s, kind}, kind = base | hi | prov | canada | world.
+  function lineChart(host, readout, lines, onPick) {
+    const STYLE = {
+      base: { stroke: 'var(--line)', w: 1.2, o: .9 }, hi: { stroke: 'var(--hi)', w: 2.2, o: 1 },
+      prov: { stroke: 'var(--prov)', w: 3.2, o: 1 }, canada: { stroke: 'var(--accent)', w: 3.2, o: 1 }, world: { stroke: 'var(--ink)', w: 2.6, o: 1 }
+    };
+    const ORDER = { base: 0, hi: 1, world: 2, prov: 3, canada: 4, pick: 5 };
+    const styleOf = l => l.kind === 'pick' ? { stroke: l.color, w: 2.6, o: 1 } : STYLE[l.kind];
+    lines = lines.slice().sort((a, b) => ORDER[a.kind] - ORDER[b.kind]);
+    host.innerHTML = '';
+    const W = Math.max(300, host.clientWidth), narrow = W < 560;
+    const H = narrow ? 300 : 380, L = 38, Rt = narrow ? 44 : 170, T = 12, B = H - 28;
+    const svg = el('svg', { viewBox: `0 0 ${W} ${H}`, width: W, height: H, role: 'img', 'aria-label': 'Share free to read by year' }, host);
+    const x = y => L + (y - Y0) / (Y1 - Y0) * (W - L - Rt), Y = v => B - v / 100 * (B - T);
+    el('rect', { x: x(FULL), y: T, width: x(Y1) - x(FULL), height: B - T, fill: 'var(--soft)' }, svg);
+    [0, 25, 50, 75, 100].forEach(t => { el('line', { x1: L, x2: W - Rt, y1: Y(t), y2: Y(t), stroke: 'var(--rule)' }, svg); txt(svg, L - 6, Y(t) + 4, `${t}%`, { 'text-anchor': 'end' }); });
+    (narrow ? [2010, 2018, 2026] : [2010, 2014, 2018, 2022, 2026]).forEach(t => txt(svg, x(t), B + 20, t === Y1 ? `${t}*` : t, { 'text-anchor': 'middle' }));
+    const paths = new Map();
+    const pathFor = (s, from, to) => { let d = '', pen = false; s.forEach(p => { if (p.y < from || p.y > to) return; const v = val(p); if (v == null) { pen = false; return; } d += `${pen ? 'L' : 'M'}${x(p.y).toFixed(1)} ${Y(v).toFixed(1)}`; pen = true; }); return d; };
+    lines.forEach(l => {
+      const st = styleOf(l), g = el('g', {}, svg);
+      el('path', { d: pathFor(l.s, Y0, FULL), fill: 'none', stroke: st.stroke, 'stroke-width': st.w, 'stroke-opacity': st.o, 'stroke-linejoin': 'round' }, g);
+      el('path', { d: pathFor(l.s, FULL, Y1), fill: 'none', stroke: st.stroke, 'stroke-width': st.w, 'stroke-opacity': st.o, 'stroke-dasharray': '3 3' }, g);
+      paths.set(l.id, { g, l });
+    });
+    // End labels (at the last full year) for the named lines, nudged apart.
+    const his = lines.filter(m => m.kind === 'hi').length;
+    const named = lines.filter(l => l.kind !== 'base' && (l.kind !== 'hi' || his <= 6));
+    const ends = named.map(l => { const p = l.s.find(d => d.y === FULL); const v = p && val(p); return v == null ? null : { l, y: Y(v), v }; }).filter(Boolean).sort((a, b) => a.y - b.y);
+    for (let i = 1; i < ends.length; i++) if (ends[i].y - ends[i - 1].y < 15) ends[i].y = ends[i - 1].y + 15;
+    ends.forEach(e => txt(svg, x(Y1) + 6, e.y + 4, narrow ? `${Math.round(e.v)}%` : `${short(e.l.label)} ${Math.round(e.v)}%`, { fill: styleOf(e.l).stroke, 'font-weight': 600 }));
+    // Hover or tap: the nearest line at the nearest year.
+    const dot = el('circle', { r: 4.5, fill: 'var(--ink)', stroke: 'var(--surface)', 'stroke-width': 2, visibility: 'hidden' }, svg);
+    let hot = null;
+    const at = evt => {
+      const r = svg.getBoundingClientRect(), px = (evt.clientX - r.left) * W / r.width, py = (evt.clientY - r.top) * H / r.height;
+      const yr = Math.min(Y1, Math.max(Y0, Math.round(Y0 + (px - L) / (W - L - Rt) * (Y1 - Y0))));
+      let best = null;
+      lines.forEach(l => { const d = l.s.find(p => p.y === yr), v = d && val(d); if (v == null) return; const dist = Math.abs(Y(v) - py); if (!best || dist < best.dist) best = { l, d, v, dist }; });
+      return best;
+    };
+    const show = b => {
+      if (hot) hot.g.querySelectorAll('path').forEach(p => p.style.strokeWidth = '');
+      if (!b) { dot.setAttribute('visibility', 'hidden'); return; }
+      hot = paths.get(b.l.id); hot.g.querySelectorAll('path').forEach(p => p.style.strokeWidth = '3.4'); svg.insertBefore(hot.g, dot);
+      dot.setAttribute('cx', x(b.d.y)); dot.setAttribute('cy', Y(b.v)); dot.setAttribute('visibility', 'visible');
+      readout.classList.remove('hint');
+      readout.textContent = `${b.l.label}, ${b.d.y}${b.d.y === Y1 ? ' (partial year)' : ''}: ${Math.round(b.v)}% free to read (${fmt(b.d.open)} of ${fmt(b.d.n)} papers)`;
+    };
+    svg.addEventListener('pointermove', e => show(at(e)));
+    svg.addEventListener('pointerdown', e => show(at(e)));
+    svg.addEventListener('dblclick', e => { const b = at(e); if (b && onPick) onPick(b.l); });
+  }
+
+  // Chart 1: universities. The U15 or a province brings their universities forward; up to five can be compared by name.
+  const U = D.universities, byId = Object.fromEntries(U.map(u => [u.id, u])), provs = [...new Set(U.map(u => u.province))].sort();
+  const PICK = ['#e07a00', '#2e9d57', '#8e44ad', '#00838f', '#c2185b'], MAXPICK = PICK.length;
+  const sorted = U.slice().sort((a, b) => a.name.localeCompare(b.name, 'fr'));
+  const provSel = document.getElementById('prov'), uniSel = document.getElementById('uni'), picksEl = document.getElementById('picks');
+  provSel.innerHTML = '<option value="">None</option>' + provs.map(p => `<option>${p}</option>`).join('');
+  document.getElementById('uni-sub').textContent = `Share of each university's papers that are free to read, one grey line per university (the ${U.length} with at least 1,000 papers since 2010). Red is all Canadian research. Pick the U15 or a province to bring their universities forward, or compare up to five universities by name.`;
+  let mode = 'all', picks = [];
+  const seg = document.getElementById('uni-seg');
+  const setSeg = k => { mode = k; seg.querySelectorAll('button').forEach(b => b.setAttribute('aria-pressed', b.dataset.k === k)); };
+  const addPick = id => { if (byId[id] && !picks.includes(id) && picks.length < MAXPICK) picks.push(id); drawUni(); };
+  seg.addEventListener('click', e => { const b = e.target.closest('button'); if (!b) return; setSeg(b.dataset.k); provSel.value = ''; drawUni(); });
+  provSel.addEventListener('change', () => { setSeg('all'); drawUni(); });
+  uniSel.addEventListener('change', () => addPick(uniSel.value));
+  picksEl.addEventListener('click', e => { const b = e.target.closest('button'); if (!b) return; picks = picks.filter(x => x !== b.dataset.id); drawUni(); });
+  function drawUni() {
+    const p = provSel.value;
+    uniSel.innerHTML = `<option value="">${picks.length < MAXPICK ? `Add a university (${picks.length} of ${MAXPICK})` : `${MAXPICK} chosen: remove one to add another`}</option>` +
+      sorted.filter(u => !picks.includes(u.id)).map(u => `<option value="${u.id}">${u.name}</option>`).join('');
+    uniSel.disabled = picks.length >= MAXPICK;
+    picksEl.innerHTML = picks.map((id, i) => `<button type="button" class="chip" data-id="${id}" aria-label="Remove ${byId[id].name}"><i style="background:${PICK[i]}"></i>${byId[id].name}<span aria-hidden="true">\u00d7</span></button>`).join('');
+    const isHi = x => (mode === 'u15' && x.u15) || (p && x.province === p);
+    const lines = U.map(x => { const i = picks.indexOf(x.id); return { id: x.id, label: x.name, s: x.s, kind: i >= 0 ? 'pick' : isHi(x) ? 'hi' : 'base', color: PICK[i] }; });
+    lines.push({ id: 'canada', label: 'All Canadian research', s: D.canada, kind: 'canada' });
+    const leg = [['var(--line)', 'A university']];
+    if (mode === 'u15') leg.push(['var(--hi)', 'U15']);
+    if (p) leg.push(['var(--hi)', `Universities in ${p}`]);
+    leg.push(['var(--accent)', 'All Canadian research']);
+    document.getElementById('uni-legend').innerHTML = leg.map(([c, n]) => `<span><i style="background:${c}"></i>${n}</span>`).join('');
+    lineChart(document.getElementById('chart-uni'), document.getElementById('uni-read'), lines, l => addPick(l.id));
+  }
+
+  // Chart 2: countries.
+  const C = D.countries, ctrySel = document.getElementById('ctry');
+  ctrySel.innerHTML = '<option value="">None</option>' + C.filter(c => c.code !== 'CA').map(c => `<option value="${c.code}">${c.name}</option>`).join('');
+  document.getElementById('ctry-sub').textContent = `Share of each country's papers that are free to read, one grey line per country (the ${C.length} with at least 5,000 papers since 2010). Red is Canada; black is the world, every paper with an author affiliation.`;
+  ctrySel.addEventListener('change', drawCtry);
+  function drawCtry() {
+    const k = ctrySel.value;
+    const lines = C.filter(c => c.code !== 'CA').map(c => ({ id: c.code, label: c.name, s: c.s, kind: c.code === k ? 'hi' : 'base' }));
+    lines.push({ id: 'world', label: 'World', s: D.world, kind: 'world' });
+    lines.push({ id: 'CA', label: 'Canada', s: C.find(c => c.code === 'CA').s, kind: 'canada' });
+    const leg = [['var(--line)', 'A country'], ['var(--accent)', 'Canada'], ['var(--ink)', 'World']];
+    if (k) leg.splice(1, 0, ['var(--hi)', C.find(c => c.code === k).name]);
+    document.getElementById('ctry-legend').innerHTML = leg.map(([c, n]) => `<span><i style="background:${c}"></i>${n}</span>`).join('');
+    lineChart(document.getElementById('chart-ctry'), document.getElementById('ctry-read'), lines, l => { if (C.some(c => c.code === l.id && c.code !== 'CA')) { ctrySel.value = l.id; drawCtry(); } });
+  }
+
+  drawUni(); drawCtry();
+  let w = window.innerWidth;
+  window.addEventListener('resize', () => { if (window.innerWidth !== w) { w = window.innerWidth; drawUni(); drawCtry(); } });
+})();
+</script>
+<script>
+(function () {
+  if (window.parent === window) return;
+  // Measure the content, not the frame: scrollHeight never shrinks below the frame's own height.
+  const send = () => window.parent.postMessage({ type: 'oa-trends-height', h: Math.ceil(document.querySelector('.wrap').getBoundingClientRect().bottom) }, '*');
+  window.addEventListener('load', send); window.addEventListener('resize', send);
+  if ('ResizeObserver' in window) new ResizeObserver(send).observe(document.body);
+  setTimeout(send, 600);
+})();
+</script>
+</body>
+</html>

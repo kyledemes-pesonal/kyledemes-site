@@ -1,5 +1,8 @@
 # Field notes tags. Each tag needs an entry here AND a stub page at notes/tags/<slug>/index.html
 # (copy an existing stub and change `tag:` and `title:`). Posts list their tags by slug: tags: [open-access, funding-data]
+open-access:
+  name: Open access
+  description: How much research is free to read, how it got that way, and what policies change.
 funding-data:
   name: Funding data
   description: Who funds research, how grants show up in papers, and what that metadata can and can't tell us.

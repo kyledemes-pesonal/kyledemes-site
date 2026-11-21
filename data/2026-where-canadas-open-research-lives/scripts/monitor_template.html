@@ -1,0 +1,338 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Canadian Open Access Monitor</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a field-notes bulletin meant to sit inside a blog post. Summary strip, the official baselines beside ours, routes over time, policy readiness, grant numbers by agency, publishers and fields, peers, method. */
+:root {
+  --bg: #f6f7f9; --surface: #ffffff; --ink: #18202b; --muted: #5a6575; --rule: #dde2ea; --soft: #eef1f5;
+  --accent: #b3261e; --accent-soft: rgba(179,38,30,.10);
+  --gold: #e0a100; --diamond: #4fb3d9; --hybrid: #3f6fd8; --green: #2e9d57; --bronze: #a8693a; --closed: #b8c0cc;
+  --cihr: #2e9d57; --nserc: #3f6fd8; --sshrc: #c27c0e; --agency: #7a8696;
+  --good: #2e9d57; --warn: #c98a00; --bad: #b3261e;
+  --display: "IBM Plex Sans Condensed", "Arial Narrow", system-ui, sans-serif;
+  --body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #11161d; --surface: #18202a; --ink: #e8edf3; --muted: #9aa6b5; --rule: #2a3542; --soft: #1f2833;
+  --accent: #ff6b5e; --accent-soft: rgba(255,107,94,.14);
+  --gold: #f2bb2c; --diamond: #6cc6e8; --hybrid: #7397f0; --green: #4cc27a; --bronze: #c98b5c; --closed: #4a5563;
+  --cihr: #4cc27a; --nserc: #7397f0; --sshrc: #f0a83a; --agency: #8c97a6;
+  --good: #4cc27a; --warn: #f2bb2c; --bad: #ff6b5e; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #11161d; --surface: #18202a; --ink: #e8edf3; --muted: #9aa6b5; --rule: #2a3542; --soft: #1f2833;
+  --accent: #ff6b5e; --accent-soft: rgba(255,107,94,.14);
+  --gold: #f2bb2c; --diamond: #6cc6e8; --hybrid: #7397f0; --green: #4cc27a; --bronze: #c98b5c; --closed: #4a5563;
+  --cihr: #4cc27a; --nserc: #7397f0; --sshrc: #f0a83a; --agency: #8c97a6;
+  --good: #4cc27a; --warn: #f2bb2c; --bad: #ff6b5e; color-scheme: dark }
+* { box-sizing: border-box }
+body { background: var(--bg); color: var(--ink); font: 15px/1.5 var(--body); margin: 0 }
+.wrap { max-width: 1080px; margin: 0 auto; padding-inline: 20px; padding-block: 28px 56px; display: grid; gap: 28px }
+header { display: grid; gap: 6px }
+.eyebrow { font: 500 12px/1.2 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); display: flex; gap: 10px; flex-wrap: wrap; align-items: center }
+.chip { display: inline-flex; align-items: center; gap: 6px; padding: 3px 9px; border-radius: 999px; background: var(--soft); color: var(--ink); font: 500 12px/1.3 var(--mono); letter-spacing: .02em; text-transform: none }
+.chip.beta { background: var(--accent-soft); color: var(--accent) }
+h1 { font: 700 clamp(30px, 5vw, 46px)/1.05 var(--display); margin: 0; text-wrap: balance; letter-spacing: -.01em }
+.fr { font: 500 16px/1.3 var(--display); color: var(--muted) }
+.lede { max-width: 68ch; color: var(--muted); margin: 6px 0 0 }
+h2 { font: 600 22px/1.2 var(--display); margin: 0; text-wrap: balance }
+.sub { color: var(--muted); margin: 4px 0 0; max-width: 72ch; font-size: 14px }
+section { display: grid; gap: 14px; min-width: 0 }
+.panel { background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 18px; min-width: 0 }
+.tiles { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px }
+@media (min-width: 960px) { .tiles { grid-template-columns: repeat(4, minmax(0, 1fr)) } }
+@media (max-width: 440px) { .tiles { grid-template-columns: 1fr } }
+.tile { background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 16px; display: grid; gap: 4px; align-content: start }
+.tile .num { font: 600 40px/1 var(--display); font-variant-numeric: tabular-nums }
+.tile.key { border-color: var(--accent); box-shadow: inset 4px 0 0 var(--accent) }
+.tile.key .num { color: var(--accent) }
+.tile .lab { font-weight: 500 }
+.tile .note { color: var(--muted); font-size: 13px }
+.seg { display: inline-flex; flex-wrap: wrap; gap: 4px; background: var(--soft); padding: 4px; border-radius: 8px }
+.seg button { font: 500 13px/1 var(--body); border: 0; background: transparent; color: var(--muted); padding: 8px 12px; border-radius: 6px; cursor: pointer }
+.seg button[aria-pressed="true"] { background: var(--surface); color: var(--ink); box-shadow: 0 1px 2px rgba(0,0,0,.08) }
+.seg button:focus-visible, a:focus-visible { outline: 2px solid var(--hybrid); outline-offset: 2px }
+.row { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: space-between }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 13px; color: var(--muted) }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; vertical-align: -1px }
+svg { display: block; width: 100%; height: auto; overflow: visible }
+svg text { font-family: var(--body); fill: var(--muted); font-size: 12px }
+.meters { display: grid; gap: 14px }
+.meter { display: grid; grid-template-columns: minmax(0, 1fr) 64px; gap: 4px 12px; align-items: center }
+.meter .bar { height: 12px; background: var(--soft); border-radius: 6px; overflow: hidden; grid-column: 1 }
+.meter .bar span { display: block; height: 100%; border-radius: 6px }
+.meter .val { font: 600 20px/1 var(--display); text-align: right; font-variant-numeric: tabular-nums; grid-row: 1 / span 2; grid-column: 2 }
+.meter .what { font-size: 14px }
+.meter .what small { color: var(--muted); display: block; font-size: 12.5px }
+.two { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 16px }
+.pill { font: 500 11.5px/1 var(--mono); padding: 4px 7px; border-radius: 999px; white-space: nowrap }
+.pill.yes { background: color-mix(in srgb, var(--good) 16%, transparent); color: var(--good) }
+.pill.no { background: color-mix(in srgb, var(--bad) 14%, transparent); color: var(--bad) }
+.pill.fee { background: color-mix(in srgb, var(--warn) 18%, transparent); color: var(--warn) }
+.pill.unknown { background: var(--soft); color: var(--muted) }
+.links { font-size: 13px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 12px }
+.callout { border-left: 3px solid var(--rule); padding: 4px 0 4px 12px; color: var(--muted); font-size: 14px; max-width: 76ch }
+.method { font-size: 14px; color: var(--muted); display: grid; gap: 8px }
+.method strong { color: var(--ink) }
+.method ul { margin: 0; padding-left: 18px; display: grid; gap: 6px; max-width: 86ch }
+footer { color: var(--muted); font-size: 13px; border-top: 1px solid var(--rule); padding-top: 14px; max-width: 86ch }
+a { color: var(--hybrid) }
+html.embedded body { background: #ffffff }
+html.embedded .wrap { padding-inline: 0; padding-block: 8px 24px }
+@media (max-width: 520px) { .tile .num { font-size: 34px } .wrap { padding-inline: 16px } }
+@media (prefers-reduced-motion: no-preference) { .meter .bar span { transition: width .5s ease } }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow"><span class="chip beta">Beta</span><span>A small monitor for the tri-agency open access policy</span><span>·</span><span>Data as of <span id="asof"></span></span><span>·</span><span id="countdown"></span></div>
+    <h1>Canadian Open Access Monitor</h1>
+    <div class="fr">Moniteur canadien du libre accès</div>
+    <p class="lede">How much Canadian research is free to read, how it got there, and how ready tri-agency-funded papers are for the 2026 Tri-Agency Open Access Policy, which applies to grants awarded from 1 January 2027. Built on open data from OpenAlex. Think of it as the starting line, not a compliance report: papers published so far fall under the 2015 rules.</p>
+  </header>
+
+  <section aria-label="Summary"><div class="tiles" id="tiles"></div></section>
+
+  <section class="panel" aria-labelledby="t-kpi">
+    <div><h2 id="t-kpi">The agencies' baselines and ours</h2><p class="sub">The agencies published two KPIs on 5 October 2026 and will track them "using open data sources", which they don't name. Ours, from OpenAlex, run higher. For Canada as a whole, most of the gap closes if "bronze" papers (free on a publisher site but with no licence) are left out: 70.4% against their 68.6%. For funded papers, the rest likely comes from how funding is detected. Both count papers that are free to read anywhere, which is not the same as meeting the new policy.</p></div>
+    <div id="chart-kpi"></div>
+    <div class="legend"><span><i style="background:var(--agency)"></i>Agencies' 2025 baseline</span><span><i style="background:var(--hybrid)"></i>OpenAlex, 2025 papers, measured <span id="asof2"></span></span></div>
+  </section>
+
+  <section class="panel" aria-labelledby="t-routes">
+    <div class="row">
+      <div><h2 id="t-routes">How the papers became open</h2><p class="sub" id="routes-sub"></p></div>
+      <div class="seg" role="group" aria-label="Choose a set of papers" id="seg"></div>
+    </div>
+    <div class="legend" id="legend"></div>
+    <div id="chart-routes"></div>
+    <p class="callout">The Canadian repository line falls after 2019. Some of that is lag, since deposits often come after publication. Some is harvesting that is still being fixed (see Repositories below). Some may be authors no longer depositing papers that are already open through read-and-publish deals, which would be a finding in its own right. Which of these dominates is being checked.</p>
+  </section>
+
+  <section class="panel" aria-labelledby="t-ready">
+    <div><h2 id="t-ready">Ready for the 2026 policy?</h2><p class="sub">Tri-agency papers published in 2025, set against what the policy will ask of papers from grants awarded from 2027.</p></div>
+    <div class="meters" id="meters"></div>
+  </section>
+
+  <section class="panel" aria-labelledby="t-grants">
+    <div><h2 id="t-grants">Do papers name the grant?</h2><p class="sub">Share of each agency's papers whose metadata carries that agency's grant number. The 2026 policy makes the grant number a requirement, so this should climb toward 100%.</p></div>
+    <div id="chart-grants"></div>
+  </section>
+
+  <div class="two">
+    <section class="panel" aria-labelledby="t-pubs">
+      <div><h2 id="t-pubs">Where the closed papers are</h2><p class="sub">Tri-agency papers from 2025 with no free copy, by publisher, coloured by whether the publisher lets authors share the accepted manuscript at once, free, under an open licence. Publishers' public policies as of 18 Nov 2026; the agencies' letter to publishers is still open.</p></div>
+      <div id="chart-pubs"></div>
+      <div class="links" id="pub-links"></div>
+    </section>
+    <section class="panel" aria-labelledby="t-fields">
+      <div><h2 id="t-fields">By field</h2><p class="sub">Share of tri-agency papers from 2025 that are free to read, by the paper's main field (fields with 200 or more papers).</p></div>
+      <div id="chart-fields"></div>
+    </section>
+  </div>
+
+  <section class="panel" aria-labelledby="t-peers">
+    <div><h2 id="t-peers">Against other funders</h2><p class="sub">Share of each funder's 2025 papers that are free to read. Funders' papers are found in different ways (NIH's largely through PubMed grant lists, most others through publisher metadata), so read small gaps with care.</p></div>
+    <div id="chart-peers"></div>
+  </section>
+
+  <section class="panel" aria-labelledby="t-repos">
+    <div><h2 id="t-repos">Repositories: how they reach this monitor</h2>
+    <p class="sub">The repository numbers are only as good as the harvesting behind them, and Canada has made that harder than it needs to be. France runs one national repository, HAL, that every institution deposits into and every librarian can help curate. Canada took a hybrid route: many universities run the same software through Scholaris, the shared service from Scholars Portal, but each has its own instance and its own harvest address, which changes when a repository moves.</p>
+    <p class="sub">In September, OpenAlex audited the 26 live Scholaris repositories. Only 2 were being harvested, because most had migrated and we were still reading their old addresses. We repointed and registered all of them, and today all 26 are harvested, about 595,000 records. In a test set of 392 known deposits, the number we could find went from 195 to 242. A few repositories outside Scholaris still show sudden drops in recent years, and those are being chased now.</p>
+    <p class="sub">We're committed to keep working with the Scholaris community so OpenAlex indexes as much of Canada's repository content as it can. Refinements, like a view by university, will follow as the harvesting does.</p></div>
+  </section>
+
+  <section class="panel method" aria-labelledby="t-method">
+    <h2 id="t-method">Method, caveats and known issues</h2>
+    <ul>
+      <li><strong>Source and date.</strong> The OpenAlex API, queried on the date at the top of the page. Each edition will be pinned to a dated snapshot so a change in the data never looks like a policy effect.</li>
+      <li><strong>Counting rules.</strong> Articles and reviews only. A paper is Canadian if any author has a Canadian affiliation, and counted once nationally. A paper is tri-agency if its funding metadata names CIHR, NSERC, SSHRC (or their programs), Canada Research Chairs, CERC or CFREF.</li>
+      <li><strong>Funder detection.</strong> Closed papers are less often tagged with a tri-agency grant than open ones (16% against 28% in 2025). That isn't a detection artifact: Crossref funder data reaches OpenAlex for closed papers too (none missed in a sample of 119), and open papers are tagged at the same rate with or without full text. Funded papers have gone open faster. Papers whose publisher deposits no funder data at all remain invisible.</li>
+      <li><strong>Free to read</strong> is measured today, not at publication. It includes papers made open by an open licence on the publisher's site (for example, hybrid articles on ScienceDirect under a CC licence) and papers with a repository copy. OpenAlex keeps improving how it detects open access, so figures can shift slightly between editions.</li>
+      <li><strong>Routes.</strong> Gold: OA journal with an APC. Diamond: OA journal with no APC known, which in OpenAlex includes some journals whose APC is simply missing. Hybrid: openly licensed in a subscription journal. Green: repository copy only. Bronze: free on the publisher's site, no licence.</li>
+      <li><strong>Diamond in funded research.</strong> Diamond is 9% of all Canadian research but about 4% of tri-agency papers. Part of that is real: Canadian diamond publishing is concentrated in the humanities and social sciences and in clinical, professional, government and student journals, where grants are less common. Part is measurement: only 13% of Canadian diamond papers list any funder in Crossref, against 55-59% of gold and hybrid papers, so funded diamond papers are undercounted, especially for SSHRC.</li>
+      <li><strong>Canadian repository copy</strong> means a record in any of the 100 largest Canadian institutional repositories and platforms. It is what OpenAlex can see: harvest gaps undercount it, and records without files overcount it. Copies on Scholars Portal Journals, which the policy also accepts, are not yet counted. An independent study found a mean 4.2% of U15 papers in the authors' own repositories (Riddle et al., 2023).</li>
+      <li><strong>APC value</strong> is the journal's list price for each tri-agency gold or hybrid paper, counted whole even when co-authors abroad paid. It is not what Canada paid: read-and-publish agreements cover much of it. Butler, Matthias, Simard, Mongeon and Haustein (2022) used the same approach for 2015-18 and found US$27.6M at the five largest publishers; on that scope OpenAlex finds a near-identical set of papers (11,180 against their 10,989).</li>
+    </ul>
+  </section>
+
+  <footer>Built by Kyle Demes on open data from <a href="https://openalex.org" target="_blank" rel="noopener">OpenAlex</a> (CC0), to start a conversation about how Canada tracks open access, and meant to be handed on to a Canadian steward. Not an official Government of Canada, tri-agency or OpenAlex product. Spot a wrong number? Email kyle@demes.ca and it will be checked and corrected. Scripts and data: <a href="https://github.com/kyledemes-pesonal/kyledemes-site/tree/main/data/2026-where-canadas-open-research-lives" target="_blank" rel="noopener">on GitHub</a>.</footer>
+</div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(function () {
+  const D = JSON.parse(document.getElementById('data').textContent);
+  const R = ['gold', 'diamond', 'hybrid', 'green', 'bronze', 'closed'];
+  const RN = { gold: 'Gold', diamond: 'Diamond', hybrid: 'Hybrid', green: 'Green', bronze: 'Bronze', closed: 'Closed' };
+  const css = n => `var(--${n})`;
+  const pct = (a, b) => b ? 100 * a / b : 0;
+  const fmt = n => n.toLocaleString('en-CA');
+  const p0 = v => `${Math.round(v)}%`;
+  const NS = 'http://www.w3.org/2000/svg';
+  const el = (tag, attrs = {}, parent) => { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); if (parent) parent.appendChild(e); return e; };
+  const txt = (parent, x, y, s, attrs = {}) => { const t = el('text', { x, y, ...attrs }, parent); t.textContent = s; return t; };
+
+  const asofTxt = new Date(D.asof + 'T12:00:00').toLocaleDateString('en-CA', { day: 'numeric', month: 'long', year: 'numeric' });
+  document.getElementById('asof').textContent = asofTxt;
+  document.getElementById('asof2').textContent = asofTxt;
+  const days = Math.ceil((Date.parse('2027-01-01T00:00:00') - Date.now()) / 864e5);
+  document.getElementById('countdown').textContent = days > 0 ? `Policy applies to grants from 1 Jan 2027 · ${days} days` : 'Policy in effect for grants from 1 Jan 2027';
+
+  const tri = D.series.tri, last = tri.at(-1), ca = D.series.canada.at(-1);
+  const openTri = pct(last.n - last.closed, last.n);
+  const licOpen = Object.entries(D.license).filter(([k]) => k.startsWith('cc') || k === 'public-domain').reduce((s, [, v]) => s + v, 0);
+  const awAll = D.award.at(-1);
+  const apcM = D.apc.usd / 1e6;
+  const tiles = [
+    { num: p0(openTri), lab: 'of tri-agency papers are free to read', note: `${fmt(last.n)} papers in 2025. All Canadian research: ${p0(pct(ca.n - ca.closed, ca.n))}.` },
+    { num: p0(pct(last.carepo, last.n)), lab: 'have a copy in a Canadian repository', note: 'The new requirement, unless a trusted Canadian platform holds the paper. What OpenAlex can see.', key: true },
+    { num: p0(pct(awAll.award, awAll.n)), lab: 'name a tri-agency grant number', note: `Up from ${p0(pct(D.award[0].award, D.award[0].n))} in ${D.award[0].y}. Now required.` },
+    { num: `US$${Math.round(apcM)}M`, lab: 'in APCs at list price', note: `The list-price value of ${fmt(D.apc.n_with)} tri-agency gold and hybrid papers in 2025, not what Canada paid. Same method as Butler et al. (2022), who found US$27.6M for 2015-18 at the five largest publishers.` }
+  ];
+  document.getElementById('tiles').innerHTML = tiles.map(t => `<div class="tile${t.key ? ' key' : ''}"><div class="num">${t.num}</div><div class="lab">${t.lab}</div><div class="note">${t.note}</div></div>`).join('');
+
+  // KPI comparison: dumbbell
+  (function () {
+    const rows = D.kpi, host = document.getElementById('chart-kpi'), W = 760, L = 170, Rt = 60, T = 10, step = 40, H = T + rows.length * step + 30;
+    const svg = el('svg', { viewBox: `0 0 ${W} ${H}`, role: 'img', 'aria-label': 'Agencies KPI baselines compared with OpenAlex figures' }, host);
+    const x = v => L + (v - 50) / 50 * (W - L - Rt);
+    [50, 60, 70, 80, 90, 100].forEach(t => { el('line', { x1: x(t), x2: x(t), y1: T, y2: H - 24, stroke: css('rule') }, svg); txt(svg, x(t), H - 8, `${t}%`, { 'text-anchor': 'middle' }); });
+    rows.forEach((r, i) => {
+      const y = T + i * step + 18;
+      txt(svg, L - 12, y + 4, r.label, { 'text-anchor': 'end', fill: css('ink') });
+      el('line', { x1: x(r.agency), x2: x(r.ours), y1: y, y2: y, stroke: css('rule'), 'stroke-width': 3 }, svg);
+      const a = el('circle', { cx: x(r.agency), cy: y, r: 6, fill: css('agency') }, svg); el('title', {}, a).textContent = `${r.label}: agencies' baseline ${r.agency}%`;
+      const o = el('circle', { cx: x(r.ours), cy: y, r: 6, fill: css('hybrid') }, svg); el('title', {}, o).textContent = `${r.label}: OpenAlex ${r.ours}%`;
+      txt(svg, x(r.agency) - 10, y + 4, `${r.agency}%`, { 'text-anchor': 'end', fill: css('muted') });
+      txt(svg, x(r.ours) + 10, y + 4, `${r.ours}%`, { fill: css('ink'), 'font-weight': 600 });
+    });
+  })();
+
+  // Routes chart
+  const SETS = [['tri', 'Tri-agency'], ['cihr', 'CIHR'], ['nserc', 'NSERC'], ['sshrc', 'SSHRC'], ['canada', 'All Canadian research']];
+  let cur = 'tri';
+  const seg = document.getElementById('seg');
+  seg.innerHTML = SETS.map(([k, n]) => `<button type="button" data-k="${k}" aria-pressed="${k === cur}">${n}</button>`).join('');
+  seg.addEventListener('click', e => { const b = e.target.closest('button'); if (!b) return; cur = b.dataset.k; seg.querySelectorAll('button').forEach(x => x.setAttribute('aria-pressed', x.dataset.k === cur)); drawRoutes(); });
+  document.getElementById('legend').innerHTML = R.map(r => `<span><i style="background:${css(r)}"></i>${RN[r]}</span>`).join('') + `<span><i style="background:var(--accent);height:3px;vertical-align:3px"></i>Canadian repository copy</span>`;
+  function drawRoutes() {
+    const rows = D.series[cur], host = document.getElementById('chart-routes');
+    host.innerHTML = '';
+    const W = 760, H = 330, L = 44, Rt = 70, T = 14, B = 300;
+    const svg = el('svg', { viewBox: `0 0 ${W} ${H}`, role: 'img', 'aria-label': 'Open access routes by publication year' }, host);
+    const x = y => L + (y - rows[0].y) / (rows.at(-1).y - rows[0].y) * (W - L - Rt), Y = v => B - v / 100 * (B - T);
+    [0, 25, 50, 75, 100].forEach(t => { el('line', { x1: L, x2: W - Rt, y1: Y(t), y2: Y(t), stroke: css('rule') }, svg); txt(svg, L - 8, Y(t) + 4, `${t}%`, { 'text-anchor': 'end' }); });
+    [rows[0].y, 2015, 2020, rows.at(-1).y].forEach(t => txt(svg, x(t), B + 20, t, { 'text-anchor': 'middle' }));
+    let base = rows.map(() => 0);
+    R.forEach(r => {
+      const top = rows.map((d, i) => base[i] + pct(d[r], d.n));
+      const pts = rows.map((d, i) => `${x(d.y)},${Y(top[i])}`).concat(rows.map((d, i) => `${x(d.y)},${Y(base[i])}`).reverse());
+      const p = el('polygon', { points: pts.join(' '), fill: css(r), 'fill-opacity': r === 'closed' ? .55 : .85 }, svg);
+      el('title', {}, p).textContent = `${RN[r]}, ${rows.at(-1).y}: ${p0(pct(rows.at(-1)[r], rows.at(-1).n))}`;
+      const mid = (base.at(-1) + top.at(-1)) / 2;
+      if (top.at(-1) - base.at(-1) > 4) txt(svg, W - Rt + 6, Y(mid) + 4, `${RN[r]} ${p0(top.at(-1) - base.at(-1))}`, { 'font-size': 11.5 });
+      base = top;
+    });
+    const line = rows.map((d, i) => `${i ? 'L' : 'M'}${x(d.y)} ${Y(pct(d.carepo, d.n))}`).join(' ');
+    el('path', { d: line, fill: 'none', stroke: css('surface'), 'stroke-width': 5 }, svg);
+    el('path', { d: line, fill: 'none', stroke: css('accent'), 'stroke-width': 2.5 }, svg);
+    rows.forEach(d => { const c = el('circle', { cx: x(d.y), cy: Y(pct(d.carepo, d.n)), r: 3, fill: css('accent') }, svg); el('title', {}, c).textContent = `Canadian repository copy, ${d.y}: ${pct(d.carepo, d.n).toFixed(1)}% (${fmt(d.carepo)} of ${fmt(d.n)})`; });
+    el('line', { x1: x(2015), x2: x(2015), y1: T, y2: B, stroke: css('ink'), 'stroke-dasharray': '3 4', 'stroke-opacity': .5 }, svg);
+    txt(svg, x(2015) + 5, T + 12, '2015 policy', { fill: css('ink'), 'font-size': 11.5 });
+    const n = rows.at(-1), name = SETS.find(s => s[0] === cur)[1];
+    document.getElementById('routes-sub').textContent = `${name}: ${p0(pct(n.n - n.closed, n.n))} of ${fmt(n.n)} papers from ${n.y} are free to read; ${pct(n.carepo, n.n).toFixed(1)}% have a Canadian repository copy.`;
+  }
+  drawRoutes();
+
+  // Meters
+  const meters = [
+    { what: 'Free to read anywhere', small: 'Any free copy: publisher site, repository or preprint server', v: openTri, c: 'hybrid' },
+    { what: 'Openly licensed', small: 'What the policy requires of the shared copy (CC BY encouraged)', v: pct(licOpen, last.n), c: 'hybrid' },
+    { what: 'Copy in a Canadian repository', small: 'The new requirement. Trusted platforms such as Scholars Portal Journals are not yet counted', v: pct(last.carepo, last.n), c: 'accent' },
+    { what: 'No free copy at all', small: `${fmt(last.closed)} papers in 2025: where rights retention will be tested`, v: pct(last.closed, last.n), c: 'closed' }
+  ];
+  document.getElementById('meters').innerHTML = meters.map(m => `<div class="meter"><div class="what">${m.what}<small>${m.small}</small></div><div class="val" style="color:${m.c === 'accent' ? css('accent') : 'inherit'}">${p0(m.v)}</div><div class="bar"><span style="width:${m.v}%;background:${css(m.c)}"></span></div></div>`).join('');
+
+  // Grants by agency
+  (function () {
+    const AG = [['CIHR', 'cihr'], ['NSERC', 'nserc'], ['SSHRC', 'sshrc']];
+    const host = document.getElementById('chart-grants'), W = 760, H = 320, L = 44, Rt = 90, T = 16, B = 286;
+    const yrs = D.award_by_agency.CIHR.map(r => r.y);
+    const svg = el('svg', { viewBox: `0 0 ${W} ${H}`, role: 'img', 'aria-label': 'Share of papers naming a grant number, by agency' }, host);
+    const x = y => L + (y - yrs[0]) / (yrs.at(-1) - yrs[0]) * (W - L - Rt), Y = v => B - v / 100 * (B - T);
+    [0, 25, 50, 75, 100].forEach(t => { el('line', { x1: L, x2: W - Rt, y1: Y(t), y2: Y(t), stroke: css('rule') }, svg); txt(svg, L - 8, Y(t) + 4, `${t}%`, { 'text-anchor': 'end' }); });
+    [yrs[0], 2018, 2021, yrs.at(-1)].forEach(t => txt(svg, x(t), B + 20, t, { 'text-anchor': 'middle' }));
+    el('line', { x1: L, x2: W - Rt, y1: Y(100), y2: Y(100), stroke: css('ink'), 'stroke-dasharray': '3 4', 'stroke-opacity': .4 }, svg);
+    txt(svg, L + 6, Y(100) - 6, 'Required for grants from 2027', { fill: css('ink'), 'font-size': 11.5 });
+    const ends = [];
+    AG.forEach(([name, tok]) => {
+      const rows = D.award_by_agency[name];
+      el('path', { d: rows.map((r, i) => `${i ? 'L' : 'M'}${x(r.y)} ${Y(pct(r.award, r.n))}`).join(' '), fill: 'none', stroke: css(tok), 'stroke-width': 2.5 }, svg);
+      rows.forEach(r => { const c = el('circle', { cx: x(r.y), cy: Y(pct(r.award, r.n)), r: 3.2, fill: css(tok) }, svg); el('title', {}, c).textContent = `${name}, ${r.y}: ${p0(pct(r.award, r.n))} name a ${name} grant number (${fmt(r.award)} of ${fmt(r.n)})`; });
+      ends.push({ name, tok, v: pct(rows.at(-1).award, rows.at(-1).n) });
+    });
+    ends.sort((a, b) => b.v - a.v);
+    let prevY = -1e9;
+    ends.forEach(e => { let y = Y(e.v) + 4; if (y - prevY < 16) y = prevY + 16; prevY = y; txt(svg, W - Rt + 10, y, `${e.name} ${p0(e.v)}`, { fill: css(e.tok), 'font-weight': 600, 'font-size': 13 }); });
+  })();
+
+  // Horizontal bars helper
+  function hbars(hostId, rows, opts) {
+    const host = document.getElementById(hostId), W = 520, rowH = 30, L = opts.left || 190, Rt = opts.right || 70, T = 6;
+    const H = T + rows.length * rowH + 6, max = opts.max || Math.max(...rows.map(opts.val));
+    const svg = el('svg', { viewBox: `0 0 ${W} ${H}`, role: 'img', 'aria-label': opts.label }, host);
+    rows.forEach((d, i) => {
+      const y = T + i * rowH, v = opts.val(d), w = (W - L - Rt) * v / max, hi = opts.hi && opts.hi(d);
+      txt(svg, L - 10, y + 18, opts.name(d), { 'text-anchor': 'end', fill: hi ? css('accent') : css('ink'), 'font-weight': hi ? 600 : 400 });
+      el('rect', { x: L, y: y + 6, width: W - L - Rt, height: 16, rx: 3, fill: css('soft') }, svg);
+      const r = el('rect', { x: L, y: y + 6, width: Math.max(1, w), height: 16, rx: 3, fill: hi ? css('accent') : css(opts.color ? opts.color(d) : 'hybrid') }, svg);
+      el('title', {}, r).textContent = opts.tip(d);
+      txt(svg, L + Math.max(1, w) + 6, y + 18, opts.fmt(d), { fill: hi ? css('accent') : css('ink'), 'font-weight': hi ? 600 : 400 });
+    });
+  }
+  const ROUTE = { yes: 'Free, immediate, open licence', no: 'No free zero-embargo route', fee: 'Only for a fee or without a CC licence', unknown: 'Not checked' };
+  hbars('chart-pubs', D.pubs, { label: 'Closed tri-agency papers by publisher', name: d => d.pub, val: d => d.closed, fmt: d => fmt(d.closed), left: 200,
+    color: d => ({ yes: 'good', no: 'bad', fee: 'warn', unknown: 'closed' })[d.route], tip: d => `${d.pub}: ${fmt(d.closed)} of ${fmt(d.n)} tri-agency papers closed. ${ROUTE[d.route]}` });
+  document.getElementById('chart-pubs').insertAdjacentHTML('beforeend', `<div class="legend" style="margin-top:8px">${['yes', 'fee', 'no', 'unknown'].map(k => `<span class="pill ${k}">${ROUTE[k]}</span>`).join(' ')}</div>`);
+  document.getElementById('pub-links').innerHTML = 'Policies: ' + Object.entries(D.pub_links).map(([k, u]) => `<a href="${u}" target="_blank" rel="noopener">${k}</a>`).join(' · ');
+  hbars('chart-fields', D.fields.map(d => ({ ...d, p: pct(d.oa, d.n) })).sort((a, b) => b.p - a.p), { label: 'Free to read by field', name: d => d.field.length > 30 ? d.field.slice(0, 29) + '…' : d.field, val: d => d.p, max: 100, fmt: d => p0(d.p), left: 220, tip: d => `${d.field}: ${p0(d.p)} of ${fmt(d.n)} free to read; ${fmt(d.closed)} closed` });
+  (function () {
+    const host = document.getElementById('chart-peers'), rows = D.funders, W = 760, rowH = 24, L = 230, Rt = 60, T = 4;
+    const H = T + rows.length * rowH + 28;
+    const svg = el('svg', { viewBox: `0 0 ${W} ${H}`, role: 'img', 'aria-label': 'Free-to-read share by funder' }, host);
+    const x = v => L + (v - 40) / 60 * (W - L - Rt);
+    [40, 60, 80, 100].forEach(t => { el('line', { x1: x(t), x2: x(t), y1: T, y2: H - 22, stroke: css('rule') }, svg); txt(svg, x(t), H - 6, `${t}%`, { 'text-anchor': 'middle' }); });
+    rows.forEach((d, i) => {
+      const y = T + i * rowH + 14, hi = d.tri;
+      txt(svg, L - 12, y + 4, d.funder, { 'text-anchor': 'end', fill: hi ? css('accent') : css('ink'), 'font-weight': hi ? 600 : 400 });
+      el('line', { x1: x(40), x2: x(d.oa), y1: y, y2: y, stroke: hi ? css('accent') : css('closed'), 'stroke-width': 2 }, svg);
+      const c = el('circle', { cx: x(d.oa), cy: y, r: 5, fill: hi ? css('accent') : css('closed') }, svg); el('title', {}, c).textContent = `${d.funder}: ${d.oa}% of 2025 papers free to read`;
+      txt(svg, x(d.oa) + 10, y + 4, p0(d.oa), { fill: hi ? css('accent') : css('muted'), 'font-weight': hi ? 600 : 400 });
+    });
+  })();
+})();
+</script>
+<script>
+(function () {
+  if (window.parent === window) return;
+  document.documentElement.setAttribute('data-theme', 'light');
+  document.documentElement.classList.add('embedded');
+  const send = () => window.parent.postMessage({ type: 'oa-monitor-height', h: document.documentElement.scrollHeight }, '*');
+  window.addEventListener('load', send); window.addEventListener('resize', send);
+  if ('ResizeObserver' in window) new ResizeObserver(send).observe(document.body);
+  setTimeout(send, 600);
+})();
+</script>
+
+</body>
+</html>
