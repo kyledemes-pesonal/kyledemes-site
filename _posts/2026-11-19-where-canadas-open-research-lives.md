@@ -74,8 +74,6 @@ It isn't official. I built it myself on open data from OpenAlex, and I should be
 
 ### Why build it at all
 
-France has run a national open science barometer since 2018, with open code. Japan copied that code this year and runs it on OpenAlex, and Germany and Switzerland run their monitors on OpenAlex too. Canada has two headline numbers and no tool. I'd like that to change, and the quickest way to start the conversation was to build a rough version and put it in front of people.
-
-I'm not trying to own this. The right long-term home is Canadian: a library consortium, a university group or the agencies themselves. If that's you, I'd love to talk.
+France has run a national open science barometer since 2018, with open code. Japan copied that code this year and runs it on OpenAlex, and Germany and Switzerland run their monitors on OpenAlex too. Canada has two headline numbers and no tool. We should change that.
 
 And if you spot a wrong number, tell me at kyle@demes.ca. I'll check it and fix it.
