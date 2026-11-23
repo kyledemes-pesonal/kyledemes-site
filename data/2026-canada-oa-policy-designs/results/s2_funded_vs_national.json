@@ -1,0 +1,212 @@
+{
+ "Tri-agency": {
+  "country": "CA",
+  "2015": {
+   "national": 94145,
+   "national_open": 46529,
+   "funded": 25968,
+   "funded_open": 13179
+  },
+  "2025": {
+   "national": 122884,
+   "national_open": 91257,
+   "funded": 32615,
+   "funded_open": 26736
+  }
+ },
+ "UKRI+councils": {
+  "country": "GB",
+  "2015": {
+   "national": 172079,
+   "national_open": 110562,
+   "funded": 22910,
+   "funded_open": 19062
+  },
+  "2025": {
+   "national": 230139,
+   "national_open": 192363,
+   "funded": 26530,
+   "funded_open": 25673
+  }
+ },
+ "Wellcome": {
+  "country": "GB",
+  "2015": {
+   "national": 172079,
+   "national_open": 110562,
+   "funded": 7966,
+   "funded_open": 7368
+  },
+  "2025": {
+   "national": 230139,
+   "national_open": 192363,
+   "funded": 7647,
+   "funded_open": 7522
+  }
+ },
+ "NIH": {
+  "country": "US",
+  "2015": {
+   "national": 588865,
+   "national_open": 319758,
+   "funded": 71775,
+   "funded_open": 67721
+  },
+  "2025": {
+   "national": 705115,
+   "national_open": 497038,
+   "funded": 81846,
+   "funded_open": 77360
+  }
+ },
+ "NSF": {
+  "country": "US",
+  "2015": {
+   "national": 588865,
+   "national_open": 319758,
+   "funded": 52285,
+   "funded_open": 35862
+  },
+  "2025": {
+   "national": 705115,
+   "national_open": 497038,
+   "funded": 56383,
+   "funded_open": 49199
+  }
+ },
+ "NWO": {
+  "country": "NL",
+  "2015": {
+   "national": 51732,
+   "national_open": 36076,
+   "funded": 6000,
+   "funded_open": 5199
+  },
+  "2025": {
+   "national": 68201,
+   "national_open": 61874,
+   "funded": 7856,
+   "funded_open": 7739
+  }
+ },
+ "DFG": {
+  "country": "DE",
+  "2015": {
+   "national": 145205,
+   "national_open": 70695,
+   "funded": 24738,
+   "funded_open": 15371
+  },
+  "2025": {
+   "national": 178186,
+   "national_open": 148437,
+   "funded": 34509,
+   "funded_open": 32410
+  }
+ },
+ "FWF": {
+  "country": "AT",
+  "2015": {
+   "national": 20829,
+   "national_open": 10984,
+   "funded": 4065,
+   "funded_open": 3274
+  },
+  "2025": {
+   "national": 31207,
+   "national_open": 26370,
+   "funded": 4506,
+   "funded_open": 4367
+  }
+ },
+ "SNSF": {
+  "country": "CH",
+  "2015": {
+   "national": 39827,
+   "national_open": 28026,
+   "funded": 7192,
+   "funded_open": 6012
+  },
+  "2025": {
+   "national": 53939,
+   "national_open": 47450,
+   "funded": 9712,
+   "funded_open": 9442
+  }
+ },
+ "ANR": {
+  "country": "FR",
+  "2015": {
+   "national": 126077,
+   "national_open": 69240,
+   "funded": 14011,
+   "funded_open": 9592
+  },
+  "2025": {
+   "national": 127458,
+   "national_open": 94802,
+   "funded": 18655,
+   "funded_open": 17269
+  }
+ },
+ "NHMRC+ARC": {
+  "country": "AU",
+  "2015": {
+   "national": 85640,
+   "national_open": 40757,
+   "funded": 15212,
+   "funded_open": 9024
+  },
+  "2025": {
+   "national": 113406,
+   "national_open": 87404,
+   "funded": 18433,
+   "funded_open": 16024
+  }
+ },
+ "RCN Norway": {
+  "country": "NO",
+  "2015": {
+   "national": 17012,
+   "national_open": 10154,
+   "funded": 3105,
+   "funded_open": 2086
+  },
+  "2025": {
+   "national": 27294,
+   "national_open": 23678,
+   "funded": 5347,
+   "funded_open": 4972
+  }
+ },
+ "VR Sweden": {
+  "country": "SE",
+  "2015": {
+   "national": 34823,
+   "national_open": 19660,
+   "funded": 6225,
+   "funded_open": 4410
+  },
+  "2025": {
+   "national": 46872,
+   "national_open": 41530,
+   "funded": 9605,
+   "funded_open": 9260
+  }
+ },
+ "JSPS": {
+  "country": "JP",
+  "2015": {
+   "national": 140226,
+   "national_open": 77810,
+   "funded": 43796,
+   "funded_open": 24605
+  },
+  "2025": {
+   "national": 155442,
+   "national_open": 117532,
+   "funded": 46218,
+   "funded_open": 37325
+  }
+ }
+}

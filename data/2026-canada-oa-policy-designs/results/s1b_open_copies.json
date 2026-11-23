@@ -1,0 +1,73 @@
+{
+ "n_repositories": 99,
+ "2016": {
+  "tri_ca": 26659,
+  "with_record": 3834,
+  "with_open_copy": 1971,
+  "pct_record": 14.4,
+  "pct_open_copy": 7.4
+ },
+ "2017": {
+  "tri_ca": 27460,
+  "with_record": 4296,
+  "with_open_copy": 2199,
+  "pct_record": 15.6,
+  "pct_open_copy": 8.0
+ },
+ "2018": {
+  "tri_ca": 28978,
+  "with_record": 4445,
+  "with_open_copy": 2414,
+  "pct_record": 15.3,
+  "pct_open_copy": 8.3
+ },
+ "2019": {
+  "tri_ca": 29965,
+  "with_record": 4671,
+  "with_open_copy": 2390,
+  "pct_record": 15.6,
+  "pct_open_copy": 8.0
+ },
+ "2020": {
+  "tri_ca": 32516,
+  "with_record": 4764,
+  "with_open_copy": 2589,
+  "pct_record": 14.7,
+  "pct_open_copy": 8.0
+ },
+ "2021": {
+  "tri_ca": 33905,
+  "with_record": 4928,
+  "with_open_copy": 2853,
+  "pct_record": 14.5,
+  "pct_open_copy": 8.4
+ },
+ "2022": {
+  "tri_ca": 31696,
+  "with_record": 4264,
+  "with_open_copy": 2362,
+  "pct_record": 13.5,
+  "pct_open_copy": 7.5
+ },
+ "2023": {
+  "tri_ca": 30854,
+  "with_record": 3812,
+  "with_open_copy": 2346,
+  "pct_record": 12.4,
+  "pct_open_copy": 7.6
+ },
+ "2024": {
+  "tri_ca": 31093,
+  "with_record": 3222,
+  "with_open_copy": 2244,
+  "pct_record": 10.4,
+  "pct_open_copy": 7.2
+ },
+ "2025": {
+  "tri_ca": 32615,
+  "with_record": 2845,
+  "with_open_copy": 1873,
+  "pct_record": 8.7,
+  "pct_open_copy": 5.7
+ }
+}

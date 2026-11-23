@@ -1,0 +1,64 @@
+{
+ "sampled": 600,
+ "with_canadian_author_id": 595,
+ "at_least_1": {
+  "any_canadian_author": {
+   "k": 496,
+   "n": 595,
+   "pct": 83.4,
+   "ci95_pts": 3.0
+  },
+  "closed_papers_only": {
+   "k": 147,
+   "n": 175,
+   "pct": 84.0,
+   "ci95_pts": 5.4
+  },
+  "first_last_or_corresponding": {
+   "k": 367,
+   "n": 595,
+   "pct": 61.7,
+   "ci95_pts": 3.9
+  }
+ },
+ "at_least_3": {
+  "any_canadian_author": {
+   "k": 426,
+   "n": 595,
+   "pct": 71.6,
+   "ci95_pts": 3.6
+  },
+  "closed_papers_only": {
+   "k": 126,
+   "n": 175,
+   "pct": 72.0,
+   "ci95_pts": 6.7
+  },
+  "first_last_or_corresponding": {
+   "k": 302,
+   "n": 595,
+   "pct": 50.8,
+   "ci95_pts": 4.0
+  }
+ },
+ "at_least_5": {
+  "any_canadian_author": {
+   "k": 384,
+   "n": 595,
+   "pct": 64.5,
+   "ci95_pts": 3.8
+  },
+  "closed_papers_only": {
+   "k": 109,
+   "n": 175,
+   "pct": 62.3,
+   "ci95_pts": 7.2
+  },
+  "first_last_or_corresponding": {
+   "k": 273,
+   "n": 595,
+   "pct": 45.9,
+   "ci95_pts": 4.0
+  }
+ }
+}

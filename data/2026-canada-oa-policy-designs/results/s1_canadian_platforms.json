@@ -1,0 +1,371 @@
+{
+ "2023": {
+  "tri_ca_total": 30838,
+  "canadian_publisher_papers": 647,
+  "canadian_publisher_open": 565,
+  "publishers": {
+   "P4310312929": {
+    "name": "Canadian Science Publishing",
+    "n": 350,
+    "hybrid": 100,
+    "green": 89,
+    "closed": 76,
+    "gold": 51,
+    "bronze": 24,
+    "diamond": 10
+   },
+   "P4310320608": {
+    "name": "JMIR Publications",
+    "n": 94,
+    "gold": 92,
+    "diamond": 2
+   },
+   "P4310320072": {
+    "name": "Canadian Medical Association",
+    "n": 55,
+    "diamond": 38,
+    "gold": 17
+   },
+   "P4310313000": {
+    "name": "University of Toronto",
+    "n": 27,
+    "diamond": 11,
+    "green": 7,
+    "bronze": 5,
+    "closed": 3,
+    "hybrid": 1
+   },
+   "P4310312968": {
+    "name": "Health Canada",
+    "n": 21,
+    "diamond": 21
+   },
+   "P4310320517": {
+    "name": "University of Toronto Press",
+    "n": 19,
+    "green": 7,
+    "bronze": 5,
+    "closed": 3,
+    "diamond": 3,
+    "hybrid": 1
+   },
+   "P4310312987": {
+    "name": "Public Health Agency of Canada",
+    "n": 17,
+    "diamond": 17
+   },
+   "P4310312927": {
+    "name": "University of Waterloo",
+    "n": 12,
+    "diamond": 12
+   },
+   "P4310313010": {
+    "name": "Resilience Alliance",
+    "n": 11,
+    "gold": 11
+   },
+   "P4310320417": {
+    "name": "The Journal of Rheumatology Publishing Company Limited",
+    "n": 8,
+    "bronze": 8
+   },
+   "P4310312897": {
+    "name": "College of Family Physicians Canada",
+    "n": 6,
+    "diamond": 6
+   },
+   "P4310312960": {
+    "name": "Arctic Institute of North America",
+    "n": 5,
+    "diamond": 5
+   },
+   "P4310313033": {
+    "name": "University of Victoria",
+    "n": 5,
+    "diamond": 5
+   },
+   "P4310313082": {
+    "name": "University of Alberta",
+    "n": 5,
+    "diamond": 5
+   },
+   "P4310312908": {
+    "name": "Memorial University of Newfoundland",
+    "n": 4,
+    "diamond": 4
+   },
+   "P4310313007": {
+    "name": "Universit\u00e9 de Montr\u00e9al",
+    "n": 4,
+    "diamond": 4
+   },
+   "P4310320379": {
+    "name": "University of Alberta Library",
+    "n": 4,
+    "diamond": 4
+   }
+  }
+ },
+ "2024": {
+  "tri_ca_total": 31029,
+  "canadian_publisher_papers": 752,
+  "canadian_publisher_open": 628,
+  "publishers": {
+   "P4310312929": {
+    "name": "Canadian Science Publishing",
+    "n": 414,
+    "hybrid": 153,
+    "closed": 110,
+    "green": 73,
+    "gold": 61,
+    "diamond": 11,
+    "bronze": 6
+   },
+   "P4310320608": {
+    "name": "JMIR Publications",
+    "n": 97,
+    "gold": 95,
+    "diamond": 2
+   },
+   "P4310313000": {
+    "name": "University of Toronto",
+    "n": 30,
+    "green": 13,
+    "closed": 7,
+    "bronze": 5,
+    "diamond": 5
+   },
+   "P4310320517": {
+    "name": "University of Toronto Press",
+    "n": 25,
+    "green": 13,
+    "closed": 7,
+    "bronze": 5
+   },
+   "P4310312949": {
+    "name": "Surveillance Studies Network",
+    "n": 23,
+    "diamond": 23
+   },
+   "P4310320072": {
+    "name": "Canadian Medical Association",
+    "n": 20,
+    "gold": 15,
+    "diamond": 5
+   },
+   "P4310312968": {
+    "name": "Health Canada",
+    "n": 17,
+    "diamond": 17
+   },
+   "P4310312987": {
+    "name": "Public Health Agency of Canada",
+    "n": 16,
+    "diamond": 16
+   },
+   "P4310320417": {
+    "name": "The Journal of Rheumatology Publishing Company Limited",
+    "n": 15,
+    "bronze": 13,
+    "green": 1,
+    "hybrid": 1
+   },
+   "P4310313029": {
+    "name": "Brock University",
+    "n": 10,
+    "diamond": 10
+   },
+   "P4310312927": {
+    "name": "University of Waterloo",
+    "n": 9,
+    "diamond": 9
+   },
+   "P4310312946": {
+    "name": "McGill University",
+    "n": 9,
+    "diamond": 9
+   },
+   "P4310313082": {
+    "name": "University of Alberta",
+    "n": 9,
+    "diamond": 9
+   },
+   "P4310320378": {
+    "name": "University of Western Ontario Libraries",
+    "n": 8,
+    "diamond": 8
+   },
+   "P4310312917": {
+    "name": "Canadian Medical Education Journal",
+    "n": 7,
+    "diamond": 7
+   },
+   "P4310313003": {
+    "name": "Canadian Society for Pharmaceutical Sciences",
+    "n": 7,
+    "gold": 7
+   },
+   "P4310313010": {
+    "name": "Resilience Alliance",
+    "n": 7,
+    "gold": 7
+   },
+   "P4310313033": {
+    "name": "University of Victoria",
+    "n": 7,
+    "diamond": 6,
+    "hybrid": 1
+   },
+   "P4310313002": {
+    "name": "York University",
+    "n": 6,
+    "diamond": 6
+   },
+   "P4310312897": {
+    "name": "College of Family Physicians Canada",
+    "n": 4,
+    "diamond": 4
+   },
+   "P4310313034": {
+    "name": "Queen's University",
+    "n": 4,
+    "diamond": 4
+   },
+   "P4310313052": {
+    "name": "Language and Literacy Researchers of Canada",
+    "n": 4,
+    "diamond": 4
+   },
+   "P4310320379": {
+    "name": "University of Alberta Library",
+    "n": 4,
+    "diamond": 4
+   }
+  }
+ },
+ "2025": {
+  "tri_ca_total": 32569,
+  "canadian_publisher_papers": 814,
+  "canadian_publisher_open": 631,
+  "publishers": {
+   "P4310312929": {
+    "name": "Canadian Science Publishing",
+    "n": 500,
+    "hybrid": 184,
+    "closed": 157,
+    "gold": 77,
+    "green": 68,
+    "bronze": 7,
+    "diamond": 7
+   },
+   "P4310320608": {
+    "name": "JMIR Publications",
+    "n": 113,
+    "gold": 109,
+    "diamond": 4
+   },
+   "P4310313000": {
+    "name": "University of Toronto",
+    "n": 43,
+    "closed": 13,
+    "green": 11,
+    "diamond": 9,
+    "bronze": 7,
+    "hybrid": 2,
+    "gold": 1
+   },
+   "P4310320517": {
+    "name": "University of Toronto Press",
+    "n": 36,
+    "closed": 13,
+    "green": 11,
+    "bronze": 7,
+    "diamond": 2,
+    "hybrid": 2,
+    "gold": 1
+   },
+   "P4310320072": {
+    "name": "Canadian Medical Association",
+    "n": 21,
+    "gold": 18,
+    "diamond": 3
+   },
+   "P4310312968": {
+    "name": "Health Canada",
+    "n": 13,
+    "diamond": 13
+   },
+   "P4310312987": {
+    "name": "Public Health Agency of Canada",
+    "n": 12,
+    "diamond": 12
+   },
+   "P4310312949": {
+    "name": "Surveillance Studies Network",
+    "n": 10,
+    "diamond": 10
+   },
+   "P4310313010": {
+    "name": "Resilience Alliance",
+    "n": 10,
+    "gold": 10
+   },
+   "P4310320378": {
+    "name": "University of Western Ontario Libraries",
+    "n": 8,
+    "diamond": 8
+   },
+   "P4310320417": {
+    "name": "The Journal of Rheumatology Publishing Company Limited",
+    "n": 8,
+    "bronze": 7,
+    "hybrid": 1
+   },
+   "P4310312946": {
+    "name": "McGill University",
+    "n": 6,
+    "diamond": 6
+   },
+   "P4310312927": {
+    "name": "University of Waterloo",
+    "n": 5,
+    "diamond": 5
+   },
+   "P4327986823": {
+    "name": "Canadian Society for the Study of Education",
+    "n": 5,
+    "diamond": 5
+   },
+   "P4310312896": {
+    "name": "University of Calgary Press",
+    "n": 4,
+    "diamond": 4
+   },
+   "P4310312897": {
+    "name": "College of Family Physicians Canada",
+    "n": 4,
+    "diamond": 4
+   },
+   "P4310312917": {
+    "name": "Canadian Medical Education Journal",
+    "n": 4,
+    "diamond": 4
+   },
+   "P4310312926": {
+    "name": "Canadian Association for Information Science",
+    "n": 4,
+    "diamond": 4
+   },
+   "P4310312992": {
+    "name": "Canadian Society of Respiratory Therapists",
+    "n": 4,
+    "diamond": 4
+   },
+   "P4310313029": {
+    "name": "Brock University",
+    "n": 4,
+    "diamond": 4
+   }
+  }
+ }
+}

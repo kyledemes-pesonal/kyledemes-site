@@ -1,0 +1,217 @@
+{
+ "phase_in_share_of_funded_papers_covered": {
+  "2027": 0.027,
+  "2028": 0.125,
+  "2029": 0.239,
+  "2030": 0.372,
+  "2031": 0.525,
+  "2032": 0.702,
+  "2033": 0.851,
+  "2034": 0.936,
+  "2035": 0.972
+ },
+ "cum_lag_newest_award": {
+  "0": 0.027,
+  "1": 0.125,
+  "2": 0.239,
+  "3": 0.372,
+  "4": 0.525,
+  "5": 0.702,
+  "6": 0.851,
+  "7": 0.936,
+  "8": 0.972,
+  "9": 0.988,
+  "10": 0.993,
+  "11": 0.997
+ },
+ "baseline_2025": {
+  "national_open": 74.2,
+  "national_open_published_19nov": 74.3,
+  "tri_share_of_canadian_papers_openalex": 26.5,
+  "tri_open_openalex": 82.0,
+  "tri_canadian_repository_copy": 8.7,
+  "tri_open_at_canadian_publisher": 1.9,
+  "rank_of_55": 43
+ },
+ "points_needed_for_rank": {
+  "42": 0.4,
+  "41": 1.0,
+  "40": 1.7,
+  "39": 2.9,
+  "35": 6.5,
+  "30": 8.2,
+  "27": 9.4
+ },
+ "ceiling": [
+  {
+   "view": "OpenAlex tags",
+   "funded_share_pct": 26.5,
+   "funded_open_2025": 82.0,
+   "non_funded_open_2025": 71.4,
+   "target_funded_open": 90,
+   "national_gain_full_phase_in_pts": 2.1,
+   "national_gain_2028_pts": 0.3,
+   "national_gain_2029_pts": 0.5,
+   "national_gain_2030_pts": 0.8,
+   "national_gain_2032_pts": 1.5
+  },
+  {
+   "view": "OpenAlex tags",
+   "funded_share_pct": 26.5,
+   "funded_open_2025": 82.0,
+   "non_funded_open_2025": 71.4,
+   "target_funded_open": 95,
+   "national_gain_full_phase_in_pts": 3.4,
+   "national_gain_2028_pts": 0.4,
+   "national_gain_2029_pts": 0.8,
+   "national_gain_2030_pts": 1.3,
+   "national_gain_2032_pts": 2.4
+  },
+  {
+   "view": "Uniform detection (Crossref sample)",
+   "funded_share_pct": 30.0,
+   "funded_open_2025": 74.0,
+   "non_funded_open_2025": 74.4,
+   "target_funded_open": 90,
+   "national_gain_full_phase_in_pts": 4.8,
+   "national_gain_2028_pts": 0.6,
+   "national_gain_2029_pts": 1.1,
+   "national_gain_2030_pts": 1.8,
+   "national_gain_2032_pts": 3.4
+  },
+  {
+   "view": "Uniform detection (Crossref sample)",
+   "funded_share_pct": 30.0,
+   "funded_open_2025": 74.0,
+   "non_funded_open_2025": 74.4,
+   "target_funded_open": 95,
+   "national_gain_full_phase_in_pts": 6.3,
+   "national_gain_2028_pts": 0.8,
+   "national_gain_2029_pts": 1.5,
+   "national_gain_2030_pts": 2.3,
+   "national_gain_2032_pts": 4.4
+  }
+ ],
+ "scenarios": [
+  {
+   "scenario": "low (no routine checks)",
+   "national_gain_2030_pts": [
+    0.0,
+    0.2
+   ],
+   "canada_2030_if_common_drift_equals_zero": [
+    74.3,
+    74.5
+   ],
+   "rank_2030_of_55": [
+    43,
+    43
+   ],
+   "tri_repo_or_platform_2030_pct": [
+    9,
+    14
+   ],
+   "tri_repo_or_platform_2033_pct": [
+    11,
+    19
+   ],
+   "covered_funded_open_gain": [
+    0,
+    2
+   ],
+   "inst_spillover": [
+    0,
+    0
+   ],
+   "covered_repo_or_platform": [
+    12,
+    20
+   ],
+   "uncovered_repo_or_platform": [
+    8,
+    11
+   ],
+   "basis": "Canada 2015 (-6 pts vs peers), NHMRC 2012 (11% in repositories), CIHR fell 60 to 40% compliance, Australia 2012-13 (-1.4 pts vs peers)"
+  },
+  {
+   "scenario": "middle (checks through final reports)",
+   "national_gain_2030_pts": [
+    0.8,
+    2.8
+   ],
+   "canada_2030_if_common_drift_equals_zero": [
+    75.1,
+    77.1
+   ],
+   "rank_2030_of_55": [
+    42,
+    40
+   ],
+   "tri_repo_or_platform_2030_pct": [
+    23,
+    33
+   ],
+   "tri_repo_or_platform_2033_pct": [
+    40,
+    57
+   ],
+   "covered_funded_open_gain": [
+    8,
+    16
+   ],
+   "inst_spillover": [
+    0,
+    1
+   ],
+   "covered_repo_or_platform": [
+    45,
+    65
+   ],
+   "uncovered_repo_or_platform": [
+    10,
+    14
+   ],
+   "basis": "REF year 1 61% compliant + 20% exceptions; Wellcome 55 to 75%+; FWF 82-92%; H2020 65 to 87%; NHMRC 2022 +10 pts vs peers (mostly hybrid)"
+  },
+  {
+   "scenario": "high (checks + institutional rights retention / opt-out deposit)",
+   "national_gain_2030_pts": [
+    4.4,
+    8.3
+   ],
+   "canada_2030_if_common_drift_equals_zero": [
+    78.7,
+    82.6
+   ],
+   "rank_2030_of_55": [
+    38,
+    30
+   ],
+   "tri_repo_or_platform_2030_pct": [
+    42,
+    56
+   ],
+   "tri_repo_or_platform_2033_pct": [
+    71,
+    84
+   ],
+   "covered_funded_open_gain": [
+    14,
+    21
+   ],
+   "inst_spillover": [
+    3,
+    6
+   ],
+   "covered_repo_or_platform": [
+    80,
+    92
+   ],
+   "uncovered_repo_or_platform": [
+    20,
+    35
+   ],
+   "basis": "NIH any-repository 54 to 85% within 2 years of the 2008 law (OpenAlex); NIH 83-90% in PMC; UiT >96%; NL green-only +5 pts vs peers 2020-25 under opt-out; UK repository share 14% (COKI)"
+  }
+ ]
+}

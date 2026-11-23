@@ -1,0 +1,687 @@
+{
+ "version": 2,
+ "history": {
+  "national": {
+   "2010": 38.8,
+   "2011": 40.1,
+   "2012": 42.4,
+   "2013": 45.1,
+   "2014": 46.8,
+   "2015": 49.8,
+   "2016": 51.0,
+   "2017": 53.2,
+   "2018": 54.9,
+   "2019": 56.4,
+   "2020": 59.5,
+   "2021": 63.8,
+   "2022": 67.2,
+   "2023": 72.0,
+   "2024": 74.5,
+   "2025": 74.3
+  },
+  "home_open_copy": {
+   "2016": 7.4,
+   "2017": 8.0,
+   "2018": 8.3,
+   "2019": 8.0,
+   "2020": 8.0,
+   "2021": 8.4,
+   "2022": 7.5,
+   "2023": 7.6,
+   "2024": 7.2,
+   "2025": 5.7
+  },
+  "home_record": {
+   "2016": 14.4,
+   "2017": 15.6,
+   "2018": 15.3,
+   "2019": 15.6,
+   "2020": 14.7,
+   "2021": 14.5,
+   "2022": 13.5,
+   "2023": 12.4,
+   "2024": 10.4,
+   "2025": 8.7
+  }
+ },
+ "assumptions": {
+  "baseline_held_at_2025": true,
+  "national_2025": 74.3,
+  "closed_2025": 25.7,
+  "funded_share": [
+   0.265,
+   0.3
+  ],
+  "funded_closed": [
+   18.0,
+   26.0
+  ],
+  "home_start_2025_open_copy": 5.7,
+  "platform_added_from_2026": 1.9,
+  "start": "each design announced Oct 2026, in force 1 Jan 2027 (NL: law 2028; 2025 draft: grants from 2026)"
+ },
+ "scenarios": [
+  {
+   "key": "as_written_unchecked",
+   "label": "2026 policy, without grant-level checks",
+   "basis": "Canada 2015, CIHR 2008, NSERC and SSHRC 2015, NHMRC 2012: no gain over peers; NHMRC 11% in repositories; Spain unchecked mandate 14% in repositories",
+   "params": {
+    "coverage": "grants awarded from 2027",
+    "gain_rule": "0 to 2 points (no excess seen)",
+    "gain_on_covered_funded_papers_pts": [
+     0.0,
+     2.0
+    ],
+    "home_share_covered": [
+     9,
+     17
+    ]
+   },
+   "national": {
+    "2025": [
+     74.3,
+     74.3,
+     74.3
+    ],
+    "2026": [
+     74.3,
+     74.3,
+     74.3
+    ],
+    "2027": [
+     74.3,
+     74.3,
+     74.3
+    ],
+    "2028": [
+     74.3,
+     74.4,
+     74.3
+    ],
+    "2029": [
+     74.3,
+     74.4,
+     74.4
+    ],
+    "2030": [
+     74.3,
+     74.5,
+     74.4
+    ]
+   },
+   "home": {
+    "2025": [
+     5.7,
+     5.7,
+     5.7
+    ],
+    "2026": [
+     5.7,
+     7.6,
+     6.7
+    ],
+    "2027": [
+     5.8,
+     7.9,
+     6.8
+    ],
+    "2028": [
+     6.1,
+     8.8,
+     7.4
+    ],
+    "2029": [
+     6.5,
+     9.8,
+     8.2
+    ],
+    "2030": [
+     6.9,
+     11.1,
+     9.0
+    ]
+   }
+  },
+  {
+   "key": "as_written_checked",
+   "label": "2026 policy, with grant-level checks",
+   "basis": "Excess share of closed gap closed vs other funders: FWF 17%, H2020 19%, Wellcome 43%; compliance reached: REF year one 61% (+20% exceptions), Wellcome 55% to 75%+",
+   "params": {
+    "coverage": "grants awarded from 2027",
+    "closed_gap_excess": [
+     0.17,
+     0.43
+    ],
+    "gain_on_covered_funded_papers_pts": [
+     3.1,
+     11.2
+    ],
+    "home_share_covered": [
+     45,
+     65
+    ]
+   },
+   "national": {
+    "2025": [
+     74.3,
+     74.3,
+     74.3
+    ],
+    "2026": [
+     74.3,
+     74.3,
+     74.3
+    ],
+    "2027": [
+     74.3,
+     74.4,
+     74.4
+    ],
+    "2028": [
+     74.4,
+     74.7,
+     74.6
+    ],
+    "2029": [
+     74.5,
+     75.1,
+     74.8
+    ],
+    "2030": [
+     74.6,
+     75.5,
+     75.1
+    ]
+   },
+   "home": {
+    "2025": [
+     5.7,
+     5.7,
+     5.7
+    ],
+    "2026": [
+     5.7,
+     7.6,
+     6.7
+    ],
+    "2027": [
+     6.8,
+     9.1,
+     8.0
+    ],
+    "2028": [
+     10.6,
+     14.8,
+     12.7
+    ],
+    "2029": [
+     15.1,
+     21.3,
+     18.2
+    ],
+    "2030": [
+     20.3,
+     29.0,
+     24.6
+    ]
+   }
+  },
+  {
+   "key": "draft_2025_checked",
+   "label": "2025 draft, with grant-level checks",
+   "basis": "As line 2, with grants from 2026 (one year earlier) and a preprint route when publishers block deposit; the preprint bump is a guess",
+   "params": {
+    "coverage": "grants awarded from 2026",
+    "preprint_bump": "+1 to +2 points open, +3 to +5 home (guess)",
+    "gain_on_covered_funded_papers_pts": [
+     4.1,
+     13.2
+    ],
+    "home_share_covered": [
+     48,
+     70
+    ]
+   },
+   "national": {
+    "2025": [
+     74.3,
+     74.3,
+     74.3
+    ],
+    "2026": [
+     74.3,
+     74.4,
+     74.4
+    ],
+    "2027": [
+     74.4,
+     74.8,
+     74.6
+    ],
+    "2028": [
+     74.6,
+     75.2,
+     74.9
+    ],
+    "2029": [
+     74.7,
+     75.8,
+     75.2
+    ],
+    "2030": [
+     74.9,
+     76.4,
+     75.6
+    ]
+   },
+   "home": {
+    "2025": [
+     5.7,
+     5.7,
+     5.7
+    ],
+    "2026": [
+     6.8,
+     9.3,
+     8.1
+    ],
+    "2027": [
+     11.0,
+     15.4,
+     13.2
+    ],
+    "2028": [
+     15.8,
+     22.5,
+     19.2
+    ],
+    "2029": [
+     21.4,
+     30.8,
+     26.1
+    ],
+    "2030": [
+     27.9,
+     40.4,
+     34.1
+    ]
+   }
+  },
+  {
+   "key": "us_nih",
+   "label": "US-style: deposit a condition of payment, every new paper",
+   "basis": "NIH 2008: excess ~49% of closed gap vs other funders; repository copies 52% (2007) to 84% (2009); assumes a national service publishers deposit into, as PubMed Central",
+   "params": {
+    "coverage": "every paper accepted from 2027",
+    "adoption_as_nih": {
+     "2025": 0.0,
+     "2026": 0.0,
+     "2027": 0.6,
+     "2028": 0.85,
+     "2029": 1.0,
+     "2030": 1.0
+    },
+    "closed_gap_excess": [
+     0.49,
+     0.49
+    ],
+    "gain_on_covered_funded_papers_pts": [
+     8.8,
+     12.7
+    ],
+    "home_share_covered": [
+     77,
+     89
+    ]
+   },
+   "national": {
+    "2025": [
+     74.3,
+     74.3,
+     74.3
+    ],
+    "2026": [
+     74.3,
+     74.3,
+     74.3
+    ],
+    "2027": [
+     75.0,
+     75.4,
+     75.2
+    ],
+    "2028": [
+     76.3,
+     77.5,
+     76.9
+    ],
+    "2029": [
+     76.6,
+     78.1,
+     77.4
+    ],
+    "2030": [
+     76.6,
+     78.1,
+     77.4
+    ]
+   },
+   "home": {
+    "2025": [
+     5.7,
+     5.7,
+     5.7
+    ],
+    "2026": [
+     5.7,
+     7.6,
+     6.7
+    ],
+    "2027": [
+     27.1,
+     32.0,
+     29.6
+    ],
+    "2028": [
+     66.3,
+     76.8,
+     71.5
+    ],
+    "2029": [
+     77.0,
+     89.0,
+     83.0
+    ],
+    "2030": [
+     77.0,
+     89.0,
+     83.0
+    ]
+   }
+  },
+  {
+   "key": "uk_ref",
+   "label": "UK-style: only deposited papers count when you apply",
+   "basis": "Reach: 600 random Canadian 2024 papers, 65-72% have a Canadian author with 3-5+ tri-agency-funded papers 2019-25; effect: UK 2013 excess, deposit part ~17% of closed gap, ~30% with paid hybrid",
+   "params": {
+    "announcement_ramp": {
+     "2025": 0.0,
+     "2026": 0.0,
+     "2027": 0.4,
+     "2028": 0.7,
+     "2029": 0.9,
+     "2030": 1.0
+    },
+    "applicant_listed_share_of_output": [
+     0.6,
+     0.8
+    ],
+    "closed_gap_closed": [
+     0.17,
+     0.3
+    ],
+    "home_share_2030": [
+     40,
+     65
+    ]
+   },
+   "national": {
+    "2025": [
+     74.3,
+     74.3,
+     74.3
+    ],
+    "2026": [
+     74.3,
+     74.3,
+     74.3
+    ],
+    "2027": [
+     75.3,
+     76.8,
+     76.1
+    ],
+    "2028": [
+     76.1,
+     78.6,
+     77.4
+    ],
+    "2029": [
+     76.7,
+     79.9,
+     78.3
+    ],
+    "2030": [
+     76.9,
+     80.5,
+     78.7
+    ]
+   },
+   "home": {
+    "2025": [
+     5.7,
+     5.7,
+     5.7
+    ],
+    "2026": [
+     5.7,
+     7.6,
+     6.7
+    ],
+    "2027": [
+     19.4,
+     30.6,
+     25.0
+    ],
+    "2028": [
+     29.7,
+     47.8,
+     38.7
+    ],
+    "2029": [
+     36.6,
+     59.3,
+     47.9
+    ],
+    "2030": [
+     40.0,
+     65.0,
+     52.5
+    ]
+   }
+  },
+  {
+   "key": "nl_taverne",
+   "label": "Netherlands-style: a right to share, universities deposit",
+   "basis": "Dutch opt-out 2021: repository-only copies +5 vs peers (5 / 12.9 closed = 39%); overall Dutch share did not gain on peers",
+   "params": {
+    "university_output_share_running_opt_out": {
+     "2025": [
+      0,
+      0
+     ],
+     "2026": [
+      0,
+      0
+     ],
+     "2027": [
+      0,
+      0
+     ],
+     "2028": [
+      0,
+      0
+     ],
+     "2029": [
+      0.12,
+      0.25
+     ],
+     "2030": [
+      0.25,
+      0.5
+     ]
+    },
+    "closed_gap_closed": [
+     0.0,
+     0.39
+    ],
+    "home_share_at_opt_out_universities": [
+     75,
+     95
+    ],
+    "law": "2028"
+   },
+   "national": {
+    "2025": [
+     74.3,
+     74.3,
+     74.3
+    ],
+    "2026": [
+     74.3,
+     74.3,
+     74.3
+    ],
+    "2027": [
+     74.3,
+     74.3,
+     74.3
+    ],
+    "2028": [
+     74.3,
+     74.3,
+     74.3
+    ],
+    "2029": [
+     74.3,
+     76.8,
+     75.6
+    ],
+    "2030": [
+     74.3,
+     79.3,
+     76.8
+    ]
+   },
+   "home": {
+    "2025": [
+     5.7,
+     5.7,
+     5.7
+    ],
+    "2026": [
+     5.7,
+     7.6,
+     6.7
+    ],
+    "2027": [
+     5.7,
+     7.6,
+     6.7
+    ],
+    "2028": [
+     5.7,
+     7.6,
+     6.7
+    ],
+    "2029": [
+     14.0,
+     29.4,
+     21.7
+    ],
+    "2030": [
+     23.0,
+     51.3,
+     37.2
+    ]
+   }
+  },
+  {
+   "key": "fr_hal",
+   "label": "France-style: one national archive as the publication record",
+   "basis": "France PNSO 2018 +2.0 vs peers; ANR-funded 74% free in HAL (2024)",
+   "params": {
+    "ramp": {
+     "2025": 0.0,
+     "2026": 0.0,
+     "2027": 0.25,
+     "2028": 0.5,
+     "2029": 0.75,
+     "2030": 1.0
+    },
+    "national_gain_2030_pts": [
+     1,
+     4
+    ],
+    "home_share_2030": [
+     35,
+     60
+    ]
+   },
+   "national": {
+    "2025": [
+     74.3,
+     74.3,
+     74.3
+    ],
+    "2026": [
+     74.3,
+     74.3,
+     74.3
+    ],
+    "2027": [
+     74.5,
+     75.3,
+     74.9
+    ],
+    "2028": [
+     74.8,
+     76.3,
+     75.5
+    ],
+    "2029": [
+     75.0,
+     77.3,
+     76.2
+    ],
+    "2030": [
+     75.3,
+     78.3,
+     76.8
+    ]
+   },
+   "home": {
+    "2025": [
+     5.7,
+     5.7,
+     5.7
+    ],
+    "2026": [
+     5.7,
+     7.6,
+     6.7
+    ],
+    "2027": [
+     13.0,
+     20.7,
+     16.9
+    ],
+    "2028": [
+     20.4,
+     33.8,
+     27.1
+    ],
+    "2029": [
+     27.7,
+     46.9,
+     37.3
+    ],
+    "2030": [
+     35.0,
+     60.0,
+     47.5
+    ]
+   }
+  }
+ ]
+}
