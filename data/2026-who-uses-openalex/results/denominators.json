@@ -1,0 +1,4383 @@
+{
+ "country_all": {
+  "filter": "publication_year:2022-2026,type:article|review|preprint|conference-paper|book-chapter|book|dissertation|report",
+  "group_by": "authorships.countries",
+  "count": 53388399,
+  "pulled": "2026-11-24",
+  "groups": [
+   {
+    "key": "https://openalex.org/countries/CN",
+    "name": "China",
+    "count": 6028012
+   },
+   {
+    "key": "https://openalex.org/countries/US",
+    "name": "United States",
+    "count": 4731936
+   },
+   {
+    "key": "https://openalex.org/countries/ID",
+    "name": "Indonesia",
+    "count": 3272912
+   },
+   {
+    "key": "https://openalex.org/countries/IN",
+    "name": "India",
+    "count": 2238024
+   },
+   {
+    "key": "https://openalex.org/countries/GB",
+    "name": "United Kingdom",
+    "count": 1558694
+   },
+   {
+    "key": "https://openalex.org/countries/BR",
+    "name": "Brazil",
+    "count": 1419752
+   },
+   {
+    "key": "https://openalex.org/countries/DE",
+    "name": "Germany",
+    "count": 1418567
+   },
+   {
+    "key": "https://openalex.org/countries/FR",
+    "name": "France",
+    "count": 1186065
+   },
+   {
+    "key": "https://openalex.org/countries/RU",
+    "name": "Russia",
+    "count": 1001338
+   },
+   {
+    "key": "https://openalex.org/countries/JP",
+    "name": "Japan",
+    "count": 981680
+   },
+   {
+    "key": "https://openalex.org/countries/IT",
+    "name": "Italy",
+    "count": 935961
+   },
+   {
+    "key": "https://openalex.org/countries/ES",
+    "name": "Spain",
+    "count": 859138
+   },
+   {
+    "key": "https://openalex.org/countries/CA",
+    "name": "Canada",
+    "count": 798146
+   },
+   {
+    "key": "https://openalex.org/countries/TR",
+    "name": "Turkey",
+    "count": 783575
+   },
+   {
+    "key": "https://openalex.org/countries/AU",
+    "name": "Australia",
+    "count": 714764
+   },
+   {
+    "key": "https://openalex.org/countries/KR",
+    "name": "South Korea",
+    "count": 690036
+   },
+   {
+    "key": "https://openalex.org/countries/UA",
+    "name": "Ukraine",
+    "count": 515864
+   },
+   {
+    "key": "https://openalex.org/countries/IR",
+    "name": "Iran",
+    "count": 460385
+   },
+   {
+    "key": "https://openalex.org/countries/NL",
+    "name": "Netherlands",
+    "count": 446337
+   },
+   {
+    "key": "https://openalex.org/countries/PL",
+    "name": "Poland",
+    "count": 424291
+   },
+   {
+    "key": "https://openalex.org/countries/SA",
+    "name": "Saudi Arabia",
+    "count": 412530
+   },
+   {
+    "key": "https://openalex.org/countries/MY",
+    "name": "Malaysia",
+    "count": 380976
+   },
+   {
+    "key": "https://openalex.org/countries/CH",
+    "name": "Switzerland",
+    "count": 375520
+   },
+   {
+    "key": "https://openalex.org/countries/PK",
+    "name": "Pakistan",
+    "count": 365561
+   },
+   {
+    "key": "https://openalex.org/countries/EG",
+    "name": "Egypt",
+    "count": 350503
+   },
+   {
+    "key": "https://openalex.org/countries/SE",
+    "name": "Sweden",
+    "count": 349626
+   },
+   {
+    "key": "https://openalex.org/countries/NG",
+    "name": "Nigeria",
+    "count": 330404
+   },
+   {
+    "key": "https://openalex.org/countries/MX",
+    "name": "Mexico",
+    "count": 316164
+   },
+   {
+    "key": "https://openalex.org/countries/UZ",
+    "name": "Uzbekistan",
+    "count": 312150
+   },
+   {
+    "key": "https://openalex.org/countries/TH",
+    "name": "Thailand",
+    "count": 296445
+   },
+   {
+    "key": "https://openalex.org/countries/PT",
+    "name": "Portugal",
+    "count": 295916
+   },
+   {
+    "key": "https://openalex.org/countries/BE",
+    "name": "Belgium",
+    "count": 272633
+   },
+   {
+    "key": "https://openalex.org/countries/FI",
+    "name": "Finland",
+    "count": 268792
+   },
+   {
+    "key": "https://openalex.org/countries/IQ",
+    "name": "Iraq",
+    "count": 253299
+   },
+   {
+    "key": "https://openalex.org/countries/TW",
+    "name": "Taiwan",
+    "count": 249758
+   },
+   {
+    "key": "https://openalex.org/countries/HK",
+    "name": "Hong Kong",
+    "count": 243571
+   },
+   {
+    "key": "https://openalex.org/countries/ZA",
+    "name": "South Africa",
+    "count": 238464
+   },
+   {
+    "key": "https://openalex.org/countries/DK",
+    "name": "Denmark",
+    "count": 234818
+   },
+   {
+    "key": "https://openalex.org/countries/CZ",
+    "name": "Czechia",
+    "count": 224431
+   },
+   {
+    "key": "https://openalex.org/countries/AT",
+    "name": "Austria",
+    "count": 221589
+   },
+   {
+    "key": "https://openalex.org/countries/CO",
+    "name": "Colombia",
+    "count": 203624
+   },
+   {
+    "key": "https://openalex.org/countries/VN",
+    "name": "Vietnam",
+    "count": 192052
+   },
+   {
+    "key": "https://openalex.org/countries/PE",
+    "name": "Peru",
+    "count": 185779
+   },
+   {
+    "key": "https://openalex.org/countries/GR",
+    "name": "Greece",
+    "count": 178667
+   },
+   {
+    "key": "https://openalex.org/countries/SG",
+    "name": "Singapore",
+    "count": 177957
+   },
+   {
+    "key": "https://openalex.org/countries/NO",
+    "name": "Norway",
+    "count": 175669
+   },
+   {
+    "key": "https://openalex.org/countries/AR",
+    "name": "Argentina",
+    "count": 173563
+   },
+   {
+    "key": "https://openalex.org/countries/BD",
+    "name": "Bangladesh",
+    "count": 154379
+   },
+   {
+    "key": "https://openalex.org/countries/RO",
+    "name": "Romania",
+    "count": 150975
+   },
+   {
+    "key": "https://openalex.org/countries/IL",
+    "name": "Israel",
+    "count": 150286
+   },
+   {
+    "key": "https://openalex.org/countries/CL",
+    "name": "Chile",
+    "count": 147882
+   },
+   {
+    "key": "https://openalex.org/countries/EC",
+    "name": "Ecuador",
+    "count": 140846
+   },
+   {
+    "key": "https://openalex.org/countries/IE",
+    "name": "Ireland",
+    "count": 132750
+   },
+   {
+    "key": "https://openalex.org/countries/PH",
+    "name": "Philippines",
+    "count": 132027
+   },
+   {
+    "key": "https://openalex.org/countries/MA",
+    "name": "Morocco",
+    "count": 126476
+   },
+   {
+    "key": "https://openalex.org/countries/HU",
+    "name": "Hungary",
+    "count": 123852
+   },
+   {
+    "key": "https://openalex.org/countries/AE",
+    "name": "United Arab Emirates",
+    "count": 118597
+   },
+   {
+    "key": "https://openalex.org/countries/NZ",
+    "name": "New Zealand",
+    "count": 110478
+   },
+   {
+    "key": "https://openalex.org/countries/KZ",
+    "name": "Kazakhstan",
+    "count": 92045
+   },
+   {
+    "key": "https://openalex.org/countries/DZ",
+    "name": "Algeria",
+    "count": 91167
+   },
+   {
+    "key": "https://openalex.org/countries/ET",
+    "name": "Ethiopia",
+    "count": 87283
+   },
+   {
+    "key": "https://openalex.org/countries/RS",
+    "name": "Serbia",
+    "count": 84954
+   },
+   {
+    "key": "https://openalex.org/countries/JO",
+    "name": "Jordan",
+    "count": 82595
+   },
+   {
+    "key": "https://openalex.org/countries/SI",
+    "name": "Slovenia",
+    "count": 79047
+   },
+   {
+    "key": "https://openalex.org/countries/TN",
+    "name": "Tunisia",
+    "count": 74208
+   },
+   {
+    "key": "https://openalex.org/countries/KE",
+    "name": "Kenya",
+    "count": 71518
+   },
+   {
+    "key": "https://openalex.org/countries/HR",
+    "name": "Croatia",
+    "count": 69117
+   },
+   {
+    "key": "https://openalex.org/countries/BG",
+    "name": "Bulgaria",
+    "count": 62059
+   },
+   {
+    "key": "https://openalex.org/countries/GH",
+    "name": "Ghana",
+    "count": 60180
+   },
+   {
+    "key": "https://openalex.org/countries/SK",
+    "name": "Slovakia",
+    "count": 58419
+   },
+   {
+    "key": "https://openalex.org/countries/NP",
+    "name": "Nepal",
+    "count": 48558
+   },
+   {
+    "key": "https://openalex.org/countries/MO",
+    "name": "Macao",
+    "count": 48244
+   },
+   {
+    "key": "https://openalex.org/countries/AZ",
+    "name": "Azerbaijan",
+    "count": 47287
+   },
+   {
+    "key": "https://openalex.org/countries/QA",
+    "name": "Qatar",
+    "count": 45037
+   },
+   {
+    "key": "https://openalex.org/countries/CY",
+    "name": "Cyprus",
+    "count": 42738
+   },
+   {
+    "key": "https://openalex.org/countries/LT",
+    "name": "Lithuania",
+    "count": 40868
+   },
+   {
+    "key": "https://openalex.org/countries/LK",
+    "name": "Sri Lanka",
+    "count": 39603
+   },
+   {
+    "key": "https://openalex.org/countries/UG",
+    "name": "Uganda",
+    "count": 39302
+   },
+   {
+    "key": "https://openalex.org/countries/LB",
+    "name": "Lebanon",
+    "count": 37987
+   },
+   {
+    "key": "https://openalex.org/countries/BY",
+    "name": "Belarus",
+    "count": 37241
+   },
+   {
+    "key": "https://openalex.org/countries/TZ",
+    "name": "Tanzania",
+    "count": 36179
+   },
+   {
+    "key": "https://openalex.org/countries/OM",
+    "name": "Oman",
+    "count": 35833
+   },
+   {
+    "key": "https://openalex.org/countries/EE",
+    "name": "Estonia",
+    "count": 32670
+   },
+   {
+    "key": "https://openalex.org/countries/CM",
+    "name": "Cameroon",
+    "count": 32434
+   },
+   {
+    "key": "https://openalex.org/countries/LY",
+    "name": "Libya",
+    "count": 31914
+   },
+   {
+    "key": "https://openalex.org/countries/CU",
+    "name": "Cuba",
+    "count": 28244
+   },
+   {
+    "key": "https://openalex.org/countries/GE",
+    "name": "Georgia",
+    "count": 26553
+   },
+   {
+    "key": "https://openalex.org/countries/VE",
+    "name": "Venezuela",
+    "count": 25654
+   },
+   {
+    "key": "https://openalex.org/countries/KW",
+    "name": "Kuwait",
+    "count": 25481
+   },
+   {
+    "key": "https://openalex.org/countries/LU",
+    "name": "Luxembourg",
+    "count": 24420
+   },
+   {
+    "key": "https://openalex.org/countries/LV",
+    "name": "Latvia",
+    "count": 21798
+   },
+   {
+    "key": "https://openalex.org/countries/UY",
+    "name": "Uruguay",
+    "count": 21369
+   },
+   {
+    "key": "https://openalex.org/countries/CR",
+    "name": "Costa Rica",
+    "count": 20991
+   },
+   {
+    "key": "https://openalex.org/countries/AM",
+    "name": "Armenia",
+    "count": 20470
+   },
+   {
+    "key": "https://openalex.org/countries/BA",
+    "name": "Bosnia & Herzegovina",
+    "count": 19843
+   },
+   {
+    "key": "https://openalex.org/countries/SD",
+    "name": "Sudan",
+    "count": 18703
+   },
+   {
+    "key": "https://openalex.org/countries/YE",
+    "name": "Yemen",
+    "count": 18340
+   },
+   {
+    "key": "https://openalex.org/countries/PS",
+    "name": "Palestine",
+    "count": 18272
+   },
+   {
+    "key": "https://openalex.org/countries/KG",
+    "name": "Kyrgyzstan",
+    "count": 17268
+   },
+   {
+    "key": "https://openalex.org/countries/IS",
+    "name": "Iceland",
+    "count": 16883
+   },
+   {
+    "key": "https://openalex.org/countries/MD",
+    "name": "Moldova",
+    "count": 16043
+   },
+   {
+    "key": "https://openalex.org/countries/CI",
+    "name": "Ivory Coast",
+    "count": 15546
+   },
+   {
+    "key": "https://openalex.org/countries/CD",
+    "name": "DR Congo",
+    "count": 15083
+   },
+   {
+    "key": "https://openalex.org/countries/MK",
+    "name": "North Macedonia",
+    "count": 14806
+   },
+   {
+    "key": "https://openalex.org/countries/ZM",
+    "name": "Zambia",
+    "count": 14485
+   },
+   {
+    "key": "https://openalex.org/countries/ZW",
+    "name": "Zimbabwe",
+    "count": 14457
+   },
+   {
+    "key": "https://openalex.org/countries/PA",
+    "name": "Panama",
+    "count": 14394
+   },
+   {
+    "key": "https://openalex.org/countries/SY",
+    "name": "Syria",
+    "count": 13629
+   },
+   {
+    "key": "https://openalex.org/countries/PY",
+    "name": "Paraguay",
+    "count": 13481
+   },
+   {
+    "key": "https://openalex.org/countries/SN",
+    "name": "Senegal",
+    "count": 13432
+   },
+   {
+    "key": "https://openalex.org/countries/BH",
+    "name": "Bahrain",
+    "count": 13230
+   },
+   {
+    "key": "https://openalex.org/countries/AL",
+    "name": "Albania",
+    "count": 12627
+   },
+   {
+    "key": "https://openalex.org/countries/BF",
+    "name": "Burkina Faso",
+    "count": 12379
+   },
+   {
+    "key": "https://openalex.org/countries/BO",
+    "name": "Bolivia",
+    "count": 11771
+   },
+   {
+    "key": "https://openalex.org/countries/PR",
+    "name": "Puerto Rico",
+    "count": 11721
+   },
+   {
+    "key": "https://openalex.org/countries/AF",
+    "name": "Afghanistan",
+    "count": 11699
+   },
+   {
+    "key": "https://openalex.org/countries/RW",
+    "name": "Rwanda",
+    "count": 11353
+   },
+   {
+    "key": "https://openalex.org/countries/BJ",
+    "name": "Benin",
+    "count": 10286
+   },
+   {
+    "key": "https://openalex.org/countries/MN",
+    "name": "Mongolia",
+    "count": 9840
+   },
+   {
+    "key": "https://openalex.org/countries/XK",
+    "name": "Kosovo",
+    "count": 9480
+   },
+   {
+    "key": "https://openalex.org/countries/BN",
+    "name": "Brunei",
+    "count": 9153
+   },
+   {
+    "key": "https://openalex.org/countries/MT",
+    "name": "Malta",
+    "count": 8849
+   },
+   {
+    "key": "https://openalex.org/countries/MW",
+    "name": "Malawi",
+    "count": 8097
+   },
+   {
+    "key": "https://openalex.org/countries/BW",
+    "name": "Botswana",
+    "count": 7264
+   },
+   {
+    "key": "https://openalex.org/countries/NI",
+    "name": "Nicaragua",
+    "count": 7207
+   },
+   {
+    "key": "https://openalex.org/countries/MZ",
+    "name": "Mozambique",
+    "count": 7187
+   },
+   {
+    "key": "https://openalex.org/countries/RE",
+    "name": "R\u00e9union",
+    "count": 6396
+   },
+   {
+    "key": "https://openalex.org/countries/GT",
+    "name": "Guatemala",
+    "count": 6181
+   },
+   {
+    "key": "https://openalex.org/countries/KH",
+    "name": "Cambodia",
+    "count": 5686
+   },
+   {
+    "key": "https://openalex.org/countries/NA",
+    "name": "Namibia",
+    "count": 5263
+   },
+   {
+    "key": "https://openalex.org/countries/SO",
+    "name": "Somalia",
+    "count": 5240
+   },
+   {
+    "key": "https://openalex.org/countries/DO",
+    "name": "Dominican Rep.",
+    "count": 4949
+   },
+   {
+    "key": "https://openalex.org/countries/TG",
+    "name": "Togo",
+    "count": 4691
+   },
+   {
+    "key": "https://openalex.org/countries/ME",
+    "name": "Montenegro",
+    "count": 4621
+   },
+   {
+    "key": "https://openalex.org/countries/MG",
+    "name": "Madagascar",
+    "count": 4537
+   },
+   {
+    "key": "https://openalex.org/countries/ML",
+    "name": "Mali",
+    "count": 4529
+   },
+   {
+    "key": "https://openalex.org/countries/HN",
+    "name": "Honduras",
+    "count": 4429
+   },
+   {
+    "key": "https://openalex.org/countries/TT",
+    "name": "Trinidad & Tobago",
+    "count": 4417
+   },
+   {
+    "key": "https://openalex.org/countries/CG",
+    "name": "Congo",
+    "count": 4261
+   },
+   {
+    "key": "https://openalex.org/countries/GP",
+    "name": "Guadeloupe",
+    "count": 4043
+   },
+   {
+    "key": "https://openalex.org/countries/SV",
+    "name": "El Salvador",
+    "count": 4008
+   },
+   {
+    "key": "https://openalex.org/countries/TJ",
+    "name": "Tajikistan",
+    "count": 3768
+   },
+   {
+    "key": "https://openalex.org/countries/NE",
+    "name": "Niger",
+    "count": 3623
+   },
+   {
+    "key": "https://openalex.org/countries/GM",
+    "name": "Gambia",
+    "count": 3589
+   },
+   {
+    "key": "https://openalex.org/countries/JM",
+    "name": "Jamaica",
+    "count": 3459
+   },
+   {
+    "key": "https://openalex.org/countries/AO",
+    "name": "Angola",
+    "count": 3355
+   },
+   {
+    "key": "https://openalex.org/countries/MM",
+    "name": "Myanmar",
+    "count": 3326
+   },
+   {
+    "key": "https://openalex.org/countries/LA",
+    "name": "Laos",
+    "count": 3262
+   },
+   {
+    "key": "https://openalex.org/countries/FJ",
+    "name": "Fiji",
+    "count": 2996
+   },
+   {
+    "key": "https://openalex.org/countries/SL",
+    "name": "Sierra Leone",
+    "count": 2970
+   },
+   {
+    "key": "https://openalex.org/countries/GD",
+    "name": "Grenada",
+    "count": 2826
+   },
+   {
+    "key": "https://openalex.org/countries/GN",
+    "name": "Guinea",
+    "count": 2745
+   },
+   {
+    "key": "https://openalex.org/countries/MU",
+    "name": "Mauritius",
+    "count": 2537
+   },
+   {
+    "key": "https://openalex.org/countries/TL",
+    "name": "Timor-Leste",
+    "count": 2371
+   },
+   {
+    "key": "https://openalex.org/countries/NC",
+    "name": "New Caledonia",
+    "count": 2266
+   },
+   {
+    "key": "https://openalex.org/countries/GA",
+    "name": "Gabon",
+    "count": 2243
+   },
+   {
+    "key": "https://openalex.org/countries/BB",
+    "name": "Barbados",
+    "count": 2162
+   },
+   {
+    "key": "https://openalex.org/countries/GY",
+    "name": "Guyana",
+    "count": 2139
+   },
+   {
+    "key": "https://openalex.org/countries/TD",
+    "name": "Chad",
+    "count": 2013
+   },
+   {
+    "key": "https://openalex.org/countries/BI",
+    "name": "Burundi",
+    "count": 1906
+   },
+   {
+    "key": "https://openalex.org/countries/MQ",
+    "name": "Martinique",
+    "count": 1861
+   },
+   {
+    "key": "https://openalex.org/countries/KP",
+    "name": "North Korea",
+    "count": 1801
+   },
+   {
+    "key": "https://openalex.org/countries/PF",
+    "name": "French Polynesia",
+    "count": 1780
+   },
+   {
+    "key": "https://openalex.org/countries/PG",
+    "name": "Papua New Guinea",
+    "count": 1735
+   },
+   {
+    "key": "https://openalex.org/countries/GF",
+    "name": "French Guiana",
+    "count": 1705
+   },
+   {
+    "key": "https://openalex.org/countries/BT",
+    "name": "Bhutan",
+    "count": 1630
+   },
+   {
+    "key": "https://openalex.org/countries/SS",
+    "name": "South Sudan",
+    "count": 1383
+   },
+   {
+    "key": "https://openalex.org/countries/KN",
+    "name": "St. Kitts & Nevis",
+    "count": 1337
+   },
+   {
+    "key": "https://openalex.org/countries/LS",
+    "name": "Lesotho",
+    "count": 1297
+   },
+   {
+    "key": "https://openalex.org/countries/MV",
+    "name": "Maldives",
+    "count": 1291
+   },
+   {
+    "key": "https://openalex.org/countries/LI",
+    "name": "Liechtenstein",
+    "count": 1152
+   },
+   {
+    "key": "https://openalex.org/countries/SZ",
+    "name": "Eswatini",
+    "count": 1152
+   },
+   {
+    "key": "https://openalex.org/countries/TM",
+    "name": "Turkmenistan",
+    "count": 1137
+   },
+   {
+    "key": "https://openalex.org/countries/MC",
+    "name": "Monaco",
+    "count": 1111
+   },
+   {
+    "key": "https://openalex.org/countries/LR",
+    "name": "Liberia",
+    "count": 1068
+   },
+   {
+    "key": "https://openalex.org/countries/HT",
+    "name": "Haiti",
+    "count": 1046
+   },
+   {
+    "key": "https://openalex.org/countries/MR",
+    "name": "Mauritania",
+    "count": 1017
+   },
+   {
+    "key": "https://openalex.org/countries/GL",
+    "name": "Greenland",
+    "count": 1007
+   },
+   {
+    "key": "https://openalex.org/countries/CW",
+    "name": "Cura\u00e7ao",
+    "count": 877
+   },
+   {
+    "key": "https://openalex.org/countries/BS",
+    "name": "Bahamas",
+    "count": 832
+   },
+   {
+    "key": "https://openalex.org/countries/AG",
+    "name": "Antigua and Barbuda",
+    "count": 828
+   },
+   {
+    "key": "https://openalex.org/countries/SJ",
+    "name": "Svalbard and Jan Mayen",
+    "count": 814
+   },
+   {
+    "key": "https://openalex.org/countries/CF",
+    "name": "Central African Republic",
+    "count": 778
+   },
+   {
+    "key": "https://openalex.org/countries/KY",
+    "name": "Cayman Islands",
+    "count": 746
+   },
+   {
+    "key": "https://openalex.org/countries/FO",
+    "name": "Faroe Islands",
+    "count": 735
+   },
+   {
+    "key": "https://openalex.org/countries/SX",
+    "name": "Sint Maarten",
+    "count": 681
+   },
+   {
+    "key": "https://openalex.org/countries/GU",
+    "name": "Guam",
+    "count": 594
+   },
+   {
+    "key": "https://openalex.org/countries/CV",
+    "name": "Cabo Verde",
+    "count": 577
+   },
+   {
+    "key": "https://openalex.org/countries/GI",
+    "name": "Gibraltar",
+    "count": 512
+   },
+   {
+    "key": "https://openalex.org/countries/KM",
+    "name": "Comoros",
+    "count": 414
+   },
+   {
+    "key": "https://openalex.org/countries/VI",
+    "name": "US Virgin Islands",
+    "count": 401
+   },
+   {
+    "key": "https://openalex.org/countries/SR",
+    "name": "Suriname",
+    "count": 390
+   },
+   {
+    "key": "https://openalex.org/countries/YT",
+    "name": "Mayotte",
+    "count": 373
+   },
+   {
+    "key": "https://openalex.org/countries/WS",
+    "name": "Samoa",
+    "count": 371
+   },
+   {
+    "key": "https://openalex.org/countries/DJ",
+    "name": "Djibouti",
+    "count": 352
+   },
+   {
+    "key": "https://openalex.org/countries/LC",
+    "name": "Saint Lucia",
+    "count": 342
+   },
+   {
+    "key": "https://openalex.org/countries/NU",
+    "name": "Niue",
+    "count": 338
+   },
+   {
+    "key": "https://openalex.org/countries/SC",
+    "name": "Seychelles",
+    "count": 312
+   },
+   {
+    "key": "https://openalex.org/countries/SM",
+    "name": "San Marino",
+    "count": 312
+   },
+   {
+    "key": "https://openalex.org/countries/DM",
+    "name": "Dominica",
+    "count": 311
+   }
+  ]
+ },
+ "country_ft": {
+  "filter": "publication_year:2022-2026,type:article|review|preprint|conference-paper|book-chapter|book|dissertation|report,has_fulltext:true",
+  "group_by": "authorships.countries",
+  "count": 23840756,
+  "pulled": "2026-11-24",
+  "groups": [
+   {
+    "key": "https://openalex.org/countries/ID",
+    "name": "Indonesia",
+    "count": 2830173
+   },
+   {
+    "key": "https://openalex.org/countries/US",
+    "name": "United States",
+    "count": 2403755
+   },
+   {
+    "key": "https://openalex.org/countries/CN",
+    "name": "China",
+    "count": 2312959
+   },
+   {
+    "key": "https://openalex.org/countries/BR",
+    "name": "Brazil",
+    "count": 1014424
+   },
+   {
+    "key": "https://openalex.org/countries/GB",
+    "name": "United Kingdom",
+    "count": 955099
+   },
+   {
+    "key": "https://openalex.org/countries/IN",
+    "name": "India",
+    "count": 903646
+   },
+   {
+    "key": "https://openalex.org/countries/DE",
+    "name": "Germany",
+    "count": 756571
+   },
+   {
+    "key": "https://openalex.org/countries/ES",
+    "name": "Spain",
+    "count": 582623
+   },
+   {
+    "key": "https://openalex.org/countries/IT",
+    "name": "Italy",
+    "count": 569431
+   },
+   {
+    "key": "https://openalex.org/countries/RU",
+    "name": "Russia",
+    "count": 550608
+   },
+   {
+    "key": "https://openalex.org/countries/JP",
+    "name": "Japan",
+    "count": 546620
+   },
+   {
+    "key": "https://openalex.org/countries/FR",
+    "name": "France",
+    "count": 543060
+   },
+   {
+    "key": "https://openalex.org/countries/TR",
+    "name": "Turkey",
+    "count": 524791
+   },
+   {
+    "key": "https://openalex.org/countries/CA",
+    "name": "Canada",
+    "count": 434866
+   },
+   {
+    "key": "https://openalex.org/countries/UA",
+    "name": "Ukraine",
+    "count": 427968
+   },
+   {
+    "key": "https://openalex.org/countries/AU",
+    "name": "Australia",
+    "count": 372749
+   },
+   {
+    "key": "https://openalex.org/countries/NL",
+    "name": "Netherlands",
+    "count": 314540
+   },
+   {
+    "key": "https://openalex.org/countries/KR",
+    "name": "South Korea",
+    "count": 309499
+   },
+   {
+    "key": "https://openalex.org/countries/PL",
+    "name": "Poland",
+    "count": 300130
+   },
+   {
+    "key": "https://openalex.org/countries/SE",
+    "name": "Sweden",
+    "count": 261222
+   },
+   {
+    "key": "https://openalex.org/countries/CH",
+    "name": "Switzerland",
+    "count": 238589
+   },
+   {
+    "key": "https://openalex.org/countries/MY",
+    "name": "Malaysia",
+    "count": 238410
+   },
+   {
+    "key": "https://openalex.org/countries/PK",
+    "name": "Pakistan",
+    "count": 229495
+   },
+   {
+    "key": "https://openalex.org/countries/NG",
+    "name": "Nigeria",
+    "count": 223590
+   },
+   {
+    "key": "https://openalex.org/countries/SA",
+    "name": "Saudi Arabia",
+    "count": 222495
+   },
+   {
+    "key": "https://openalex.org/countries/UZ",
+    "name": "Uzbekistan",
+    "count": 219886
+   },
+   {
+    "key": "https://openalex.org/countries/TH",
+    "name": "Thailand",
+    "count": 217676
+   },
+   {
+    "key": "https://openalex.org/countries/FI",
+    "name": "Finland",
+    "count": 217660
+   },
+   {
+    "key": "https://openalex.org/countries/MX",
+    "name": "Mexico",
+    "count": 216541
+   },
+   {
+    "key": "https://openalex.org/countries/EG",
+    "name": "Egypt",
+    "count": 202759
+   },
+   {
+    "key": "https://openalex.org/countries/IR",
+    "name": "Iran",
+    "count": 199025
+   },
+   {
+    "key": "https://openalex.org/countries/PT",
+    "name": "Portugal",
+    "count": 185665
+   },
+   {
+    "key": "https://openalex.org/countries/IQ",
+    "name": "Iraq",
+    "count": 173423
+   },
+   {
+    "key": "https://openalex.org/countries/BE",
+    "name": "Belgium",
+    "count": 168575
+   },
+   {
+    "key": "https://openalex.org/countries/CO",
+    "name": "Colombia",
+    "count": 153885
+   },
+   {
+    "key": "https://openalex.org/countries/PE",
+    "name": "Peru",
+    "count": 147499
+   },
+   {
+    "key": "https://openalex.org/countries/DK",
+    "name": "Denmark",
+    "count": 144779
+   },
+   {
+    "key": "https://openalex.org/countries/ZA",
+    "name": "South Africa",
+    "count": 144464
+   },
+   {
+    "key": "https://openalex.org/countries/AT",
+    "name": "Austria",
+    "count": 131416
+   },
+   {
+    "key": "https://openalex.org/countries/AR",
+    "name": "Argentina",
+    "count": 123279
+   },
+   {
+    "key": "https://openalex.org/countries/HK",
+    "name": "Hong Kong",
+    "count": 115045
+   },
+   {
+    "key": "https://openalex.org/countries/TW",
+    "name": "Taiwan",
+    "count": 113787
+   },
+   {
+    "key": "https://openalex.org/countries/EC",
+    "name": "Ecuador",
+    "count": 111425
+   },
+   {
+    "key": "https://openalex.org/countries/NO",
+    "name": "Norway",
+    "count": 109815
+   },
+   {
+    "key": "https://openalex.org/countries/VN",
+    "name": "Vietnam",
+    "count": 109228
+   },
+   {
+    "key": "https://openalex.org/countries/CZ",
+    "name": "Czechia",
+    "count": 107759
+   },
+   {
+    "key": "https://openalex.org/countries/GR",
+    "name": "Greece",
+    "count": 107359
+   },
+   {
+    "key": "https://openalex.org/countries/RO",
+    "name": "Romania",
+    "count": 104528
+   },
+   {
+    "key": "https://openalex.org/countries/CL",
+    "name": "Chile",
+    "count": 98050
+   },
+   {
+    "key": "https://openalex.org/countries/HU",
+    "name": "Hungary",
+    "count": 91448
+   },
+   {
+    "key": "https://openalex.org/countries/SG",
+    "name": "Singapore",
+    "count": 87988
+   },
+   {
+    "key": "https://openalex.org/countries/IL",
+    "name": "Israel",
+    "count": 86154
+   },
+   {
+    "key": "https://openalex.org/countries/PH",
+    "name": "Philippines",
+    "count": 83744
+   },
+   {
+    "key": "https://openalex.org/countries/BD",
+    "name": "Bangladesh",
+    "count": 81954
+   },
+   {
+    "key": "https://openalex.org/countries/IE",
+    "name": "Ireland",
+    "count": 77663
+   },
+   {
+    "key": "https://openalex.org/countries/KZ",
+    "name": "Kazakhstan",
+    "count": 65905
+   },
+   {
+    "key": "https://openalex.org/countries/SI",
+    "name": "Slovenia",
+    "count": 64892
+   },
+   {
+    "key": "https://openalex.org/countries/MA",
+    "name": "Morocco",
+    "count": 61626
+   },
+   {
+    "key": "https://openalex.org/countries/RS",
+    "name": "Serbia",
+    "count": 59809
+   },
+   {
+    "key": "https://openalex.org/countries/NZ",
+    "name": "New Zealand",
+    "count": 58915
+   },
+   {
+    "key": "https://openalex.org/countries/ET",
+    "name": "Ethiopia",
+    "count": 57923
+   },
+   {
+    "key": "https://openalex.org/countries/AE",
+    "name": "United Arab Emirates",
+    "count": 56993
+   },
+   {
+    "key": "https://openalex.org/countries/KE",
+    "name": "Kenya",
+    "count": 51577
+   },
+   {
+    "key": "https://openalex.org/countries/HR",
+    "name": "Croatia",
+    "count": 50313
+   },
+   {
+    "key": "https://openalex.org/countries/DZ",
+    "name": "Algeria",
+    "count": 47822
+   },
+   {
+    "key": "https://openalex.org/countries/JO",
+    "name": "Jordan",
+    "count": 45739
+   },
+   {
+    "key": "https://openalex.org/countries/BG",
+    "name": "Bulgaria",
+    "count": 40731
+   },
+   {
+    "key": "https://openalex.org/countries/NP",
+    "name": "Nepal",
+    "count": 37438
+   },
+   {
+    "key": "https://openalex.org/countries/GH",
+    "name": "Ghana",
+    "count": 36734
+   },
+   {
+    "key": "https://openalex.org/countries/SK",
+    "name": "Slovakia",
+    "count": 36322
+   },
+   {
+    "key": "https://openalex.org/countries/UG",
+    "name": "Uganda",
+    "count": 29030
+   },
+   {
+    "key": "https://openalex.org/countries/AZ",
+    "name": "Azerbaijan",
+    "count": 28869
+   },
+   {
+    "key": "https://openalex.org/countries/TN",
+    "name": "Tunisia",
+    "count": 28868
+   },
+   {
+    "key": "https://openalex.org/countries/BY",
+    "name": "Belarus",
+    "count": 28310
+   },
+   {
+    "key": "https://openalex.org/countries/LT",
+    "name": "Lithuania",
+    "count": 28216
+   },
+   {
+    "key": "https://openalex.org/countries/QA",
+    "name": "Qatar",
+    "count": 27194
+   },
+   {
+    "key": "https://openalex.org/countries/LY",
+    "name": "Libya",
+    "count": 25565
+   },
+   {
+    "key": "https://openalex.org/countries/TZ",
+    "name": "Tanzania",
+    "count": 25465
+   },
+   {
+    "key": "https://openalex.org/countries/CY",
+    "name": "Cyprus",
+    "count": 24149
+   },
+   {
+    "key": "https://openalex.org/countries/EE",
+    "name": "Estonia",
+    "count": 21978
+   },
+   {
+    "key": "https://openalex.org/countries/LK",
+    "name": "Sri Lanka",
+    "count": 21576
+   },
+   {
+    "key": "https://openalex.org/countries/CU",
+    "name": "Cuba",
+    "count": 20335
+   },
+   {
+    "key": "https://openalex.org/countries/CM",
+    "name": "Cameroon",
+    "count": 19857
+   },
+   {
+    "key": "https://openalex.org/countries/LB",
+    "name": "Lebanon",
+    "count": 19856
+   },
+   {
+    "key": "https://openalex.org/countries/MO",
+    "name": "Macao",
+    "count": 19513
+   },
+   {
+    "key": "https://openalex.org/countries/VE",
+    "name": "Venezuela",
+    "count": 19248
+   },
+   {
+    "key": "https://openalex.org/countries/OM",
+    "name": "Oman",
+    "count": 16949
+   },
+   {
+    "key": "https://openalex.org/countries/CR",
+    "name": "Costa Rica",
+    "count": 16352
+   },
+   {
+    "key": "https://openalex.org/countries/GE",
+    "name": "Georgia",
+    "count": 16174
+   },
+   {
+    "key": "https://openalex.org/countries/LV",
+    "name": "Latvia",
+    "count": 14851
+   },
+   {
+    "key": "https://openalex.org/countries/LU",
+    "name": "Luxembourg",
+    "count": 14480
+   },
+   {
+    "key": "https://openalex.org/countries/BA",
+    "name": "Bosnia & Herzegovina",
+    "count": 14258
+   },
+   {
+    "key": "https://openalex.org/countries/UY",
+    "name": "Uruguay",
+    "count": 13517
+   },
+   {
+    "key": "https://openalex.org/countries/KW",
+    "name": "Kuwait",
+    "count": 13510
+   },
+   {
+    "key": "https://openalex.org/countries/SD",
+    "name": "Sudan",
+    "count": 13002
+   },
+   {
+    "key": "https://openalex.org/countries/AM",
+    "name": "Armenia",
+    "count": 12744
+   },
+   {
+    "key": "https://openalex.org/countries/MD",
+    "name": "Moldova",
+    "count": 12604
+   },
+   {
+    "key": "https://openalex.org/countries/YE",
+    "name": "Yemen",
+    "count": 12568
+   },
+   {
+    "key": "https://openalex.org/countries/IS",
+    "name": "Iceland",
+    "count": 12425
+   },
+   {
+    "key": "https://openalex.org/countries/PS",
+    "name": "Palestine",
+    "count": 11757
+   },
+   {
+    "key": "https://openalex.org/countries/PY",
+    "name": "Paraguay",
+    "count": 11303
+   },
+   {
+    "key": "https://openalex.org/countries/KG",
+    "name": "Kyrgyzstan",
+    "count": 11285
+   },
+   {
+    "key": "https://openalex.org/countries/CD",
+    "name": "DR Congo",
+    "count": 10860
+   },
+   {
+    "key": "https://openalex.org/countries/MK",
+    "name": "North Macedonia",
+    "count": 10734
+   },
+   {
+    "key": "https://openalex.org/countries/PA",
+    "name": "Panama",
+    "count": 10541
+   },
+   {
+    "key": "https://openalex.org/countries/CI",
+    "name": "Ivory Coast",
+    "count": 9806
+   },
+   {
+    "key": "https://openalex.org/countries/BO",
+    "name": "Bolivia",
+    "count": 9432
+   },
+   {
+    "key": "https://openalex.org/countries/AL",
+    "name": "Albania",
+    "count": 9249
+   },
+   {
+    "key": "https://openalex.org/countries/ZM",
+    "name": "Zambia",
+    "count": 9188
+   },
+   {
+    "key": "https://openalex.org/countries/AF",
+    "name": "Afghanistan",
+    "count": 9028
+   },
+   {
+    "key": "https://openalex.org/countries/SN",
+    "name": "Senegal",
+    "count": 8815
+   },
+   {
+    "key": "https://openalex.org/countries/ZW",
+    "name": "Zimbabwe",
+    "count": 8498
+   },
+   {
+    "key": "https://openalex.org/countries/BF",
+    "name": "Burkina Faso",
+    "count": 8228
+   },
+   {
+    "key": "https://openalex.org/countries/SY",
+    "name": "Syria",
+    "count": 8028
+   },
+   {
+    "key": "https://openalex.org/countries/RW",
+    "name": "Rwanda",
+    "count": 8024
+   },
+   {
+    "key": "https://openalex.org/countries/PR",
+    "name": "Puerto Rico",
+    "count": 7562
+   },
+   {
+    "key": "https://openalex.org/countries/BJ",
+    "name": "Benin",
+    "count": 6838
+   },
+   {
+    "key": "https://openalex.org/countries/MN",
+    "name": "Mongolia",
+    "count": 6756
+   },
+   {
+    "key": "https://openalex.org/countries/XK",
+    "name": "Kosovo",
+    "count": 6586
+   },
+   {
+    "key": "https://openalex.org/countries/NI",
+    "name": "Nicaragua",
+    "count": 6201
+   },
+   {
+    "key": "https://openalex.org/countries/BH",
+    "name": "Bahrain",
+    "count": 6142
+   },
+   {
+    "key": "https://openalex.org/countries/MZ",
+    "name": "Mozambique",
+    "count": 5505
+   },
+   {
+    "key": "https://openalex.org/countries/MT",
+    "name": "Malta",
+    "count": 5492
+   },
+   {
+    "key": "https://openalex.org/countries/MW",
+    "name": "Malawi",
+    "count": 5484
+   },
+   {
+    "key": "https://openalex.org/countries/BN",
+    "name": "Brunei",
+    "count": 4861
+   },
+   {
+    "key": "https://openalex.org/countries/GT",
+    "name": "Guatemala",
+    "count": 4387
+   },
+   {
+    "key": "https://openalex.org/countries/BW",
+    "name": "Botswana",
+    "count": 4079
+   },
+   {
+    "key": "https://openalex.org/countries/KH",
+    "name": "Cambodia",
+    "count": 3934
+   },
+   {
+    "key": "https://openalex.org/countries/SO",
+    "name": "Somalia",
+    "count": 3866
+   },
+   {
+    "key": "https://openalex.org/countries/DO",
+    "name": "Dominican Rep.",
+    "count": 3742
+   },
+   {
+    "key": "https://openalex.org/countries/ML",
+    "name": "Mali",
+    "count": 3411
+   },
+   {
+    "key": "https://openalex.org/countries/HN",
+    "name": "Honduras",
+    "count": 3321
+   },
+   {
+    "key": "https://openalex.org/countries/CG",
+    "name": "Congo",
+    "count": 3284
+   },
+   {
+    "key": "https://openalex.org/countries/TG",
+    "name": "Togo",
+    "count": 3219
+   },
+   {
+    "key": "https://openalex.org/countries/SV",
+    "name": "El Salvador",
+    "count": 3116
+   },
+   {
+    "key": "https://openalex.org/countries/MG",
+    "name": "Madagascar",
+    "count": 3086
+   },
+   {
+    "key": "https://openalex.org/countries/RE",
+    "name": "R\u00e9union",
+    "count": 3079
+   },
+   {
+    "key": "https://openalex.org/countries/ME",
+    "name": "Montenegro",
+    "count": 3007
+   },
+   {
+    "key": "https://openalex.org/countries/NA",
+    "name": "Namibia",
+    "count": 2975
+   },
+   {
+    "key": "https://openalex.org/countries/GM",
+    "name": "Gambia",
+    "count": 2762
+   },
+   {
+    "key": "https://openalex.org/countries/AO",
+    "name": "Angola",
+    "count": 2581
+   },
+   {
+    "key": "https://openalex.org/countries/LA",
+    "name": "Laos",
+    "count": 2548
+   },
+   {
+    "key": "https://openalex.org/countries/NE",
+    "name": "Niger",
+    "count": 2536
+   },
+   {
+    "key": "https://openalex.org/countries/TT",
+    "name": "Trinidad & Tobago",
+    "count": 2384
+   },
+   {
+    "key": "https://openalex.org/countries/TJ",
+    "name": "Tajikistan",
+    "count": 2249
+   },
+   {
+    "key": "https://openalex.org/countries/SL",
+    "name": "Sierra Leone",
+    "count": 2232
+   },
+   {
+    "key": "https://openalex.org/countries/GN",
+    "name": "Guinea",
+    "count": 2172
+   },
+   {
+    "key": "https://openalex.org/countries/GP",
+    "name": "Guadeloupe",
+    "count": 2040
+   },
+   {
+    "key": "https://openalex.org/countries/MM",
+    "name": "Myanmar",
+    "count": 1995
+   },
+   {
+    "key": "https://openalex.org/countries/TL",
+    "name": "Timor-Leste",
+    "count": 1972
+   },
+   {
+    "key": "https://openalex.org/countries/GD",
+    "name": "Grenada",
+    "count": 1918
+   },
+   {
+    "key": "https://openalex.org/countries/JM",
+    "name": "Jamaica",
+    "count": 1896
+   },
+   {
+    "key": "https://openalex.org/countries/FJ",
+    "name": "Fiji",
+    "count": 1746
+   },
+   {
+    "key": "https://openalex.org/countries/GA",
+    "name": "Gabon",
+    "count": 1623
+   },
+   {
+    "key": "https://openalex.org/countries/GY",
+    "name": "Guyana",
+    "count": 1579
+   },
+   {
+    "key": "https://openalex.org/countries/TD",
+    "name": "Chad",
+    "count": 1405
+   },
+   {
+    "key": "https://openalex.org/countries/BI",
+    "name": "Burundi",
+    "count": 1389
+   },
+   {
+    "key": "https://openalex.org/countries/BB",
+    "name": "Barbados",
+    "count": 1357
+   },
+   {
+    "key": "https://openalex.org/countries/BT",
+    "name": "Bhutan",
+    "count": 1109
+   },
+   {
+    "key": "https://openalex.org/countries/NC",
+    "name": "New Caledonia",
+    "count": 1094
+   },
+   {
+    "key": "https://openalex.org/countries/PG",
+    "name": "Papua New Guinea",
+    "count": 1068
+   },
+   {
+    "key": "https://openalex.org/countries/GF",
+    "name": "French Guiana",
+    "count": 1006
+   },
+   {
+    "key": "https://openalex.org/countries/MU",
+    "name": "Mauritius",
+    "count": 1000
+   },
+   {
+    "key": "https://openalex.org/countries/KN",
+    "name": "St. Kitts & Nevis",
+    "count": 925
+   },
+   {
+    "key": "https://openalex.org/countries/PF",
+    "name": "French Polynesia",
+    "count": 912
+   },
+   {
+    "key": "https://openalex.org/countries/LS",
+    "name": "Lesotho",
+    "count": 848
+   },
+   {
+    "key": "https://openalex.org/countries/TM",
+    "name": "Turkmenistan",
+    "count": 814
+   },
+   {
+    "key": "https://openalex.org/countries/SS",
+    "name": "South Sudan",
+    "count": 760
+   },
+   {
+    "key": "https://openalex.org/countries/MQ",
+    "name": "Martinique",
+    "count": 759
+   },
+   {
+    "key": "https://openalex.org/countries/MV",
+    "name": "Maldives",
+    "count": 749
+   },
+   {
+    "key": "https://openalex.org/countries/SZ",
+    "name": "Eswatini",
+    "count": 733
+   },
+   {
+    "key": "https://openalex.org/countries/GL",
+    "name": "Greenland",
+    "count": 723
+   },
+   {
+    "key": "https://openalex.org/countries/LR",
+    "name": "Liberia",
+    "count": 645
+   },
+   {
+    "key": "https://openalex.org/countries/KP",
+    "name": "North Korea",
+    "count": 640
+   },
+   {
+    "key": "https://openalex.org/countries/CW",
+    "name": "Cura\u00e7ao",
+    "count": 636
+   },
+   {
+    "key": "https://openalex.org/countries/LI",
+    "name": "Liechtenstein",
+    "count": 634
+   },
+   {
+    "key": "https://openalex.org/countries/HT",
+    "name": "Haiti",
+    "count": 631
+   },
+   {
+    "key": "https://openalex.org/countries/AG",
+    "name": "Antigua and Barbuda",
+    "count": 626
+   },
+   {
+    "key": "https://openalex.org/countries/KY",
+    "name": "Cayman Islands",
+    "count": 626
+   },
+   {
+    "key": "https://openalex.org/countries/MC",
+    "name": "Monaco",
+    "count": 623
+   },
+   {
+    "key": "https://openalex.org/countries/MR",
+    "name": "Mauritania",
+    "count": 609
+   },
+   {
+    "key": "https://openalex.org/countries/FO",
+    "name": "Faroe Islands",
+    "count": 524
+   },
+   {
+    "key": "https://openalex.org/countries/CF",
+    "name": "Central African Republic",
+    "count": 523
+   },
+   {
+    "key": "https://openalex.org/countries/SJ",
+    "name": "Svalbard and Jan Mayen",
+    "count": 522
+   },
+   {
+    "key": "https://openalex.org/countries/SX",
+    "name": "Sint Maarten",
+    "count": 495
+   },
+   {
+    "key": "https://openalex.org/countries/BS",
+    "name": "Bahamas",
+    "count": 459
+   },
+   {
+    "key": "https://openalex.org/countries/CV",
+    "name": "Cabo Verde",
+    "count": 382
+   },
+   {
+    "key": "https://openalex.org/countries/GU",
+    "name": "Guam",
+    "count": 374
+   },
+   {
+    "key": "https://openalex.org/countries/GI",
+    "name": "Gibraltar",
+    "count": 362
+   },
+   {
+    "key": "https://openalex.org/countries/KM",
+    "name": "Comoros",
+    "count": 335
+   },
+   {
+    "key": "https://openalex.org/countries/SR",
+    "name": "Suriname",
+    "count": 293
+   },
+   {
+    "key": "https://openalex.org/countries/WS",
+    "name": "Samoa",
+    "count": 279
+   },
+   {
+    "key": "https://openalex.org/countries/LC",
+    "name": "Saint Lucia",
+    "count": 242
+   },
+   {
+    "key": "https://openalex.org/countries/VI",
+    "name": "US Virgin Islands",
+    "count": 242
+   },
+   {
+    "key": "https://openalex.org/countries/DM",
+    "name": "Dominica",
+    "count": 223
+   },
+   {
+    "key": "https://openalex.org/countries/SC",
+    "name": "Seychelles",
+    "count": 215
+   },
+   {
+    "key": "https://openalex.org/countries/TC",
+    "name": "Turks & Caicos Islands",
+    "count": 212
+   },
+   {
+    "key": "https://openalex.org/countries/GW",
+    "name": "Guinea-Bissau",
+    "count": 208
+   },
+   {
+    "key": "https://openalex.org/countries/ST",
+    "name": "S\u00e3o Tom\u00e9 & Pr\u00edncipe",
+    "count": 199
+   },
+   {
+    "key": "https://openalex.org/countries/DJ",
+    "name": "Djibouti",
+    "count": 185
+   }
+  ]
+ },
+ "field_all": {
+  "filter": "publication_year:2022-2026,type:article|review|preprint|conference-paper|book-chapter|book|dissertation|report",
+  "group_by": "primary_topic.field.id",
+  "count": 53388399,
+  "pulled": "2026-11-24",
+  "groups": [
+   {
+    "key": "https://openalex.org/fields/33",
+    "name": "Social Sciences",
+    "count": 9807345
+   },
+   {
+    "key": "https://openalex.org/fields/27",
+    "name": "Medicine",
+    "count": 8092075
+   },
+   {
+    "key": "https://openalex.org/fields/22",
+    "name": "Engineering",
+    "count": 5314800
+   },
+   {
+    "key": "https://openalex.org/fields/12",
+    "name": "Arts and Humanities",
+    "count": 4626951
+   },
+   {
+    "key": "https://openalex.org/fields/17",
+    "name": "Computer Science",
+    "count": 3484862
+   },
+   {
+    "key": "https://openalex.org/fields/14",
+    "name": "Business, Management and Accounting",
+    "count": 2788546
+   },
+   {
+    "key": "https://openalex.org/fields/11",
+    "name": "Agricultural and Biological Sciences",
+    "count": 2419767
+   },
+   {
+    "key": "https://openalex.org/fields/23",
+    "name": "Environmental Science",
+    "count": 2012987
+   },
+   {
+    "key": "https://openalex.org/fields/32",
+    "name": "Psychology",
+    "count": 1682343
+   },
+   {
+    "key": "https://openalex.org/fields/13",
+    "name": "Biochemistry, Genetics and Molecular Biology",
+    "count": 1391160
+   },
+   {
+    "key": "https://openalex.org/fields/20",
+    "name": "Economics, Econometrics and Finance",
+    "count": 1373962
+   },
+   {
+    "key": "https://openalex.org/fields/31",
+    "name": "Physics and Astronomy",
+    "count": 1349377
+   },
+   {
+    "key": "https://openalex.org/fields/25",
+    "name": "Materials Science",
+    "count": 1308646
+   },
+   {
+    "key": "https://openalex.org/fields/26",
+    "name": "Mathematics",
+    "count": 780126
+   },
+   {
+    "key": "https://openalex.org/fields/19",
+    "name": "Earth and Planetary Sciences",
+    "count": 698270
+   },
+   {
+    "key": "https://openalex.org/fields/21",
+    "name": "Energy",
+    "count": 681621
+   },
+   {
+    "key": "https://openalex.org/fields/36",
+    "name": "Health Professions",
+    "count": 655990
+   },
+   {
+    "key": "https://openalex.org/fields/16",
+    "name": "Chemistry",
+    "count": 641532
+   },
+   {
+    "key": "https://openalex.org/fields/28",
+    "name": "Neuroscience",
+    "count": 557295
+   },
+   {
+    "key": "https://openalex.org/fields/18",
+    "name": "Decision Sciences",
+    "count": 551566
+   },
+   {
+    "key": "https://openalex.org/fields/24",
+    "name": "Immunology and Microbiology",
+    "count": 435180
+   },
+   {
+    "key": "https://openalex.org/fields/35",
+    "name": "Dentistry",
+    "count": 351368
+   },
+   {
+    "key": "https://openalex.org/fields/29",
+    "name": "Nursing",
+    "count": 292735
+   },
+   {
+    "key": "https://openalex.org/fields/30",
+    "name": "Pharmacology, Toxicology and Pharmaceutics",
+    "count": 255975
+   },
+   {
+    "key": "https://openalex.org/fields/15",
+    "name": "Chemical Engineering",
+    "count": 229051
+   },
+   {
+    "key": "https://openalex.org/fields/34",
+    "name": "Veterinary",
+    "count": 68496
+   }
+  ]
+ },
+ "field_ft": {
+  "filter": "publication_year:2022-2026,type:article|review|preprint|conference-paper|book-chapter|book|dissertation|report,has_fulltext:true",
+  "group_by": "primary_topic.field.id",
+  "count": 23840756,
+  "pulled": "2026-11-24",
+  "groups": [
+   {
+    "key": "https://openalex.org/fields/33",
+    "name": "Social Sciences",
+    "count": 4701721
+   },
+   {
+    "key": "https://openalex.org/fields/27",
+    "name": "Medicine",
+    "count": 4376801
+   },
+   {
+    "key": "https://openalex.org/fields/22",
+    "name": "Engineering",
+    "count": 1816956
+   },
+   {
+    "key": "https://openalex.org/fields/12",
+    "name": "Arts and Humanities",
+    "count": 1641100
+   },
+   {
+    "key": "https://openalex.org/fields/17",
+    "name": "Computer Science",
+    "count": 1558214
+   },
+   {
+    "key": "https://openalex.org/fields/14",
+    "name": "Business, Management and Accounting",
+    "count": 1499798
+   },
+   {
+    "key": "https://openalex.org/fields/11",
+    "name": "Agricultural and Biological Sciences",
+    "count": 1238951
+   },
+   {
+    "key": "https://openalex.org/fields/23",
+    "name": "Environmental Science",
+    "count": 854304
+   },
+   {
+    "key": "https://openalex.org/fields/32",
+    "name": "Psychology",
+    "count": 809754
+   },
+   {
+    "key": "https://openalex.org/fields/13",
+    "name": "Biochemistry, Genetics and Molecular Biology",
+    "count": 742741
+   },
+   {
+    "key": "https://openalex.org/fields/20",
+    "name": "Economics, Econometrics and Finance",
+    "count": 618060
+   },
+   {
+    "key": "https://openalex.org/fields/31",
+    "name": "Physics and Astronomy",
+    "count": 617212
+   },
+   {
+    "key": "https://openalex.org/fields/26",
+    "name": "Mathematics",
+    "count": 428490
+   },
+   {
+    "key": "https://openalex.org/fields/25",
+    "name": "Materials Science",
+    "count": 426845
+   },
+   {
+    "key": "https://openalex.org/fields/36",
+    "name": "Health Professions",
+    "count": 335081
+   },
+   {
+    "key": "https://openalex.org/fields/18",
+    "name": "Decision Sciences",
+    "count": 265032
+   },
+   {
+    "key": "https://openalex.org/fields/28",
+    "name": "Neuroscience",
+    "count": 264343
+   },
+   {
+    "key": "https://openalex.org/fields/19",
+    "name": "Earth and Planetary Sciences",
+    "count": 261199
+   },
+   {
+    "key": "https://openalex.org/fields/24",
+    "name": "Immunology and Microbiology",
+    "count": 232968
+   },
+   {
+    "key": "https://openalex.org/fields/16",
+    "name": "Chemistry",
+    "count": 227256
+   },
+   {
+    "key": "https://openalex.org/fields/21",
+    "name": "Energy",
+    "count": 224692
+   },
+   {
+    "key": "https://openalex.org/fields/35",
+    "name": "Dentistry",
+    "count": 207591
+   },
+   {
+    "key": "https://openalex.org/fields/29",
+    "name": "Nursing",
+    "count": 155301
+   },
+   {
+    "key": "https://openalex.org/fields/30",
+    "name": "Pharmacology, Toxicology and Pharmaceutics",
+    "count": 126099
+   },
+   {
+    "key": "https://openalex.org/fields/15",
+    "name": "Chemical Engineering",
+    "count": 68984
+   },
+   {
+    "key": "https://openalex.org/fields/34",
+    "name": "Veterinary",
+    "count": 34513
+   }
+  ]
+ },
+ "year_all": {
+  "filter": "publication_year:2022-2026,type:article|review|preprint|conference-paper|book-chapter|book|dissertation|report",
+  "group_by": "publication_year",
+  "count": 53388399,
+  "pulled": "2026-11-24",
+  "groups": [
+   {
+    "key": "2025",
+    "name": "2025",
+    "count": 11866437
+   },
+   {
+    "key": "2026",
+    "name": "2026",
+    "count": 10969967
+   },
+   {
+    "key": "2024",
+    "name": "2024",
+    "count": 10889475
+   },
+   {
+    "key": "2023",
+    "name": "2023",
+    "count": 10214126
+   },
+   {
+    "key": "2022",
+    "name": "2022",
+    "count": 9448394
+   }
+  ]
+ },
+ "year_ft": {
+  "filter": "publication_year:2022-2026,type:article|review|preprint|conference-paper|book-chapter|book|dissertation|report,has_fulltext:true",
+  "group_by": "publication_year",
+  "count": 23840756,
+  "pulled": "2026-11-24",
+  "groups": [
+   {
+    "key": "2025",
+    "name": "2025",
+    "count": 5252530
+   },
+   {
+    "key": "2024",
+    "name": "2024",
+    "count": 5045036
+   },
+   {
+    "key": "2023",
+    "name": "2023",
+    "count": 4868659
+   },
+   {
+    "key": "2026",
+    "name": "2026",
+    "count": 4620168
+   },
+   {
+    "key": "2022",
+    "name": "2022",
+    "count": 4054363
+   }
+  ]
+ },
+ "funder_all": {
+  "filter": "publication_year:2022-2026,type:article|review|preprint|conference-paper|book-chapter|book|dissertation|report",
+  "group_by": "funders.id",
+  "count": 53388399,
+  "pulled": "2026-11-24",
+  "groups": [
+   {
+    "key": "https://openalex.org/F4320321001",
+    "name": "National Natural Science Foundation of China",
+    "count": 2635451
+   },
+   {
+    "key": "https://openalex.org/F4320335777",
+    "name": "National Key Research and Development Program of China",
+    "count": 554728
+   },
+   {
+    "key": "https://openalex.org/F4320320300",
+    "name": "European Commission",
+    "count": 500860
+   },
+   {
+    "key": "https://openalex.org/F4320332161",
+    "name": "National Institutes of Health",
+    "count": 474608
+   },
+   {
+    "key": "https://openalex.org/F4320306076",
+    "name": "National Science Foundation",
+    "count": 456099
+   },
+   {
+    "key": "https://openalex.org/F4320334764",
+    "name": "Japan Society for the Promotion of Science",
+    "count": 307848
+   },
+   {
+    "key": "https://openalex.org/F4320335787",
+    "name": "Fundamental Research Funds for the Central Universities",
+    "count": 288547
+   },
+   {
+    "key": "https://openalex.org/F4320320879",
+    "name": "Deutsche Forschungsgemeinschaft",
+    "count": 229031
+   },
+   {
+    "key": "https://openalex.org/F4320322120",
+    "name": "National Research Foundation of Korea",
+    "count": 196464
+   },
+   {
+    "key": "https://openalex.org/F4320322025",
+    "name": "Conselho Nacional de Desenvolvimento Cient\u00edfico e Tecnol\u00f3gico",
+    "count": 189814
+   },
+   {
+    "key": "https://openalex.org/F4320321091",
+    "name": "Coordena\u00e7\u00e3o de Aperfei\u00e7oamento de Pessoal de N\u00edvel Superior",
+    "count": 179923
+   },
+   {
+    "key": "https://openalex.org/F4320306084",
+    "name": "U.S. Department of Energy",
+    "count": 179569
+   },
+   {
+    "key": "https://openalex.org/F4320321543",
+    "name": "China Postdoctoral Science Foundation",
+    "count": 168907
+   },
+   {
+    "key": "https://openalex.org/F4320320883",
+    "name": "Agence Nationale de la Recherche",
+    "count": 134236
+   },
+   {
+    "key": "https://openalex.org/F4320320671",
+    "name": "National Research Foundation",
+    "count": 132329
+   },
+   {
+    "key": "https://openalex.org/F4320337351",
+    "name": "National Cancer Institute",
+    "count": 131462
+   },
+   {
+    "key": "https://openalex.org/F4320334593",
+    "name": "Natural Sciences and Engineering Research Council of Canada",
+    "count": 127672
+   },
+   {
+    "key": "https://openalex.org/F4320328359",
+    "name": "Ministry of Science and ICT, South Korea",
+    "count": 123223
+   },
+   {
+    "key": "https://openalex.org/F4320335322",
+    "name": "European Regional Development Fund",
+    "count": 122951
+   },
+   {
+    "key": "https://openalex.org/F4320335598",
+    "name": "Agencia Estatal de Investigaci\u00f3n",
+    "count": 114127
+   },
+   {
+    "key": "https://openalex.org/F4320337354",
+    "name": "National Institute of General Medical Sciences",
+    "count": 112533
+   },
+   {
+    "key": "https://openalex.org/F4320324174",
+    "name": "Natural Science Foundation of Shandong Province",
+    "count": 110944
+   },
+   {
+    "key": "https://openalex.org/F4320321133",
+    "name": "Chinese Academy of Sciences",
+    "count": 109127
+   },
+   {
+    "key": "https://openalex.org/F4320332999",
+    "name": "Horizon 2020 Framework Programme",
+    "count": 100839
+   },
+   {
+    "key": "https://openalex.org/F4320334627",
+    "name": "Engineering and Physical Sciences Research Council",
+    "count": 97529
+   },
+   {
+    "key": "https://openalex.org/F4320338335",
+    "name": "H2020 European Research Council",
+    "count": 97180
+   },
+   {
+    "key": "https://openalex.org/F4320321605",
+    "name": "Government of Jiangsu Province",
+    "count": 95353
+   },
+   {
+    "key": "https://openalex.org/F4320324099",
+    "name": "Russian Science Foundation",
+    "count": 95263
+   },
+   {
+    "key": "https://openalex.org/F4320334779",
+    "name": "Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia",
+    "count": 93427
+   },
+   {
+    "key": "https://openalex.org/F4320320719",
+    "name": "Department of Science and Technology, Ministry of Science and Technology, India",
+    "count": 90401
+   },
+   {
+    "key": "https://openalex.org/F4320337111",
+    "name": "Basic and Applied Basic Research Foundation of Guangdong Province",
+    "count": 89051
+   },
+   {
+    "key": "https://openalex.org/F4320337338",
+    "name": "National Heart, Lung, and Blood Institute",
+    "count": 85491
+   },
+   {
+    "key": "https://openalex.org/F4320334626",
+    "name": "Medical Research Council",
+    "count": 85147
+   },
+   {
+    "key": "https://openalex.org/F4320322930",
+    "name": "Ministerio de Ciencia e Innovaci\u00f3n",
+    "count": 82743
+   },
+   {
+    "key": "https://openalex.org/F4320322725",
+    "name": "China Scholarship Council",
+    "count": 80443
+   },
+   {
+    "key": "https://openalex.org/F4320306101",
+    "name": "National Aeronautics and Space Administration",
+    "count": 80001
+   },
+   {
+    "key": "https://openalex.org/F4320322769",
+    "name": "Natural Science Foundation of Jiangsu Province",
+    "count": 77903
+   },
+   {
+    "key": "https://openalex.org/F7311471023",
+    "name": "NextGenerationEU",
+    "count": 77705
+   },
+   {
+    "key": "https://openalex.org/F4320334771",
+    "name": "Science and Engineering Research Board",
+    "count": 77409
+   },
+   {
+    "key": "https://openalex.org/F4320337337",
+    "name": "National Institute on Aging",
+    "count": 76212
+   },
+   {
+    "key": "https://openalex.org/F4320321114",
+    "name": "Bundesministerium f\u00fcr Forschung, Technologie und Raumfahrt",
+    "count": 76084
+   },
+   {
+    "key": "https://openalex.org/F4320338464",
+    "name": "Natural Science Foundation of Zhejiang Province",
+    "count": 74050
+   },
+   {
+    "key": "https://openalex.org/F4320337355",
+    "name": "National Institute of Allergy and Infectious Diseases",
+    "count": 73789
+   },
+   {
+    "key": "https://openalex.org/F4320320997",
+    "name": "Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado de S\u00e3o Paulo",
+    "count": 72290
+   },
+   {
+    "key": "https://openalex.org/F4320334322",
+    "name": "HORIZON EUROPE Framework Programme",
+    "count": 71139
+   },
+   {
+    "key": "https://openalex.org/F4320319990",
+    "name": "National Institute for Health and Care Research",
+    "count": 69847
+   },
+   {
+    "key": "https://openalex.org/F4320320924",
+    "name": "Schweizerischer Nationalfonds zur F\u00f6rderung der Wissenschaftlichen Forschung",
+    "count": 69313
+   },
+   {
+    "key": "https://openalex.org/F4320332359",
+    "name": "Office of Science",
+    "count": 67898
+   },
+   {
+    "key": "https://openalex.org/F4320334704",
+    "name": "Australian Research Council",
+    "count": 62869
+   },
+   {
+    "key": "https://openalex.org/F4320337357",
+    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+    "count": 61160
+   },
+   {
+    "key": "https://openalex.org/F4320322581",
+    "name": "Vetenskapsr\u00e5det",
+    "count": 56498
+   },
+   {
+    "key": "https://openalex.org/F4320311904",
+    "name": "Wellcome Trust",
+    "count": 56321
+   },
+   {
+    "key": "https://openalex.org/F4320306114",
+    "name": "U.S. Department of Agriculture",
+    "count": 55196
+   },
+   {
+    "key": "https://openalex.org/F4320337359",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "count": 54692
+   },
+   {
+    "key": "https://openalex.org/F4320321800",
+    "name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+    "count": 54186
+   },
+   {
+    "key": "https://openalex.org/F4320337346",
+    "name": "National Institute of Mental Health",
+    "count": 54092
+   },
+   {
+    "key": "https://openalex.org/F4320337472",
+    "name": "National Center for Advancing Translational Sciences",
+    "count": 53434
+   },
+   {
+    "key": "https://openalex.org/F4320334506",
+    "name": "Canadian Institutes of Health Research",
+    "count": 53356
+   },
+   {
+    "key": "https://openalex.org/F4320321540",
+    "name": "Ministry of Science and Technology of the People's Republic of China",
+    "count": 52680
+   },
+   {
+    "key": "https://openalex.org/F4320314731",
+    "name": "UK Research and Innovation",
+    "count": 52549
+   },
+   {
+    "key": "https://openalex.org/F4320320912",
+    "name": "Ministry of Education, Culture, Sports, Science and Technology",
+    "count": 52273
+   },
+   {
+    "key": "https://openalex.org/F4320315062",
+    "name": "Ministerio de Ciencia, Innovaci\u00f3n y Universidades",
+    "count": 52270
+   },
+   {
+    "key": "https://openalex.org/F4320321921",
+    "name": "Natural Science Foundation of Guangdong Province",
+    "count": 52201
+   },
+   {
+    "key": "https://openalex.org/F4320337611",
+    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+    "count": 48690
+   },
+   {
+    "key": "https://openalex.org/F4320315885",
+    "name": "Australian Government",
+    "count": 47877
+   },
+   {
+    "key": "https://openalex.org/F4320321885",
+    "name": "Science and Technology Commission of Shanghai Municipality",
+    "count": 46760
+   },
+   {
+    "key": "https://openalex.org/F4320322626",
+    "name": "T\u00fcrkiye Bilimsel ve Teknolojik Ara\u015ft\u0131rma Kurumu",
+    "count": 46404
+   },
+   {
+    "key": "https://openalex.org/F4320322892",
+    "name": "Centre National de la Recherche Scientifique",
+    "count": 45157
+   },
+   {
+    "key": "https://openalex.org/F4320327494",
+    "name": "Ministry of Science and Higher Education of the Russian Federation",
+    "count": 44647
+   },
+   {
+    "key": "https://openalex.org/F4320331164",
+    "name": "National Science and Technology Council",
+    "count": 44477
+   },
+   {
+    "key": "https://openalex.org/F4320322843",
+    "name": "Natural Science Foundation of\u00a0Hunan Province",
+    "count": 44471
+   },
+   {
+    "key": "https://openalex.org/F4320322724",
+    "name": "Ministry of Education, India",
+    "count": 43715
+   },
+   {
+    "key": "https://openalex.org/F4320334678",
+    "name": "European Research Council",
+    "count": 42009
+   },
+   {
+    "key": "https://openalex.org/F4320334630",
+    "name": "Economic and Social Research Council",
+    "count": 41824
+   },
+   {
+    "key": "https://openalex.org/F4320321145",
+    "name": "King Saud University",
+    "count": 41752
+   },
+   {
+    "key": "https://openalex.org/F4320334705",
+    "name": "National Health and Medical Research Council",
+    "count": 41392
+   },
+   {
+    "key": "https://openalex.org/F4320335869",
+    "name": "National Social Science Fund of China",
+    "count": 40645
+   },
+   {
+    "key": "https://openalex.org/F4320329860",
+    "name": "National Science and Technology Major Project",
+    "count": 39863
+   },
+   {
+    "key": "https://openalex.org/F4320322511",
+    "name": "Narodowe Centrum Nauki",
+    "count": 39725
+   },
+   {
+    "key": "https://openalex.org/F4320307765",
+    "name": "Pfizer",
+    "count": 39124
+   },
+   {
+    "key": "https://openalex.org/F4320322919",
+    "name": "Natural Science Foundation of Beijing Municipality",
+    "count": 38674
+   },
+   {
+    "key": "https://openalex.org/F4320321878",
+    "name": "Natural Science Foundation of Fujian Province",
+    "count": 37495
+   },
+   {
+    "key": "https://openalex.org/F4320306078",
+    "name": "U.S. Department of Defense",
+    "count": 37054
+   },
+   {
+    "key": "https://openalex.org/F4320306085",
+    "name": "U.S. Department of Health and Human Services",
+    "count": 36847
+   },
+   {
+    "key": "https://openalex.org/F4320337367",
+    "name": "Division of Materials Research",
+    "count": 36654
+   },
+   {
+    "key": "https://openalex.org/F4320321106",
+    "name": "Ministry of Education of the People's Republic of China",
+    "count": 36444
+   },
+   {
+    "key": "https://openalex.org/F4320323299",
+    "name": "Norges Forskningsr\u00e5d",
+    "count": 35288
+   },
+   {
+    "key": "https://openalex.org/F4320337345",
+    "name": "Office of Naval Research",
+    "count": 35266
+   },
+   {
+    "key": "https://openalex.org/F4320322795",
+    "name": "Ministry of Science and Technology, Taiwan",
+    "count": 35203
+   },
+   {
+    "key": "https://openalex.org/F4320321730",
+    "name": "Fonds Wetenschappelijk Onderzoek",
+    "count": 35143
+   },
+   {
+    "key": "https://openalex.org/F4320337347",
+    "name": "National Institute on Drug Abuse",
+    "count": 34773
+   },
+   {
+    "key": "https://openalex.org/F2461203286",
+    "name": "National Science and Technology Council",
+    "count": 34700
+   },
+   {
+    "key": "https://openalex.org/F4320332299",
+    "name": "National Institute of Food and Agriculture",
+    "count": 34561
+   },
+   {
+    "key": "https://openalex.org/F4320331146",
+    "name": "Agencia Nacional de Investigaci\u00f3n y Desarrollo",
+    "count": 34529
+   },
+   {
+    "key": "https://openalex.org/F4320321681",
+    "name": "Ministry of Trade, Industry and Energy",
+    "count": 34317
+   },
+   {
+    "key": "https://openalex.org/F4320321181",
+    "name": "Austrian Science Fund",
+    "count": 34002
+   },
+   {
+    "key": "https://openalex.org/F4320320721",
+    "name": "Council of Scientific and Industrial Research, India",
+    "count": 33736
+   },
+   {
+    "key": "https://openalex.org/F4320338453",
+    "name": "HORIZON EUROPE European Research Council",
+    "count": 33378
+   },
+   {
+    "key": "https://openalex.org/F4320321739",
+    "name": "Secretar\u00eda de Ciencia, Humanidades, Tecnolog\u00eda e Innovaci\u00f3n",
+    "count": 33071
+   },
+   {
+    "key": "https://openalex.org/F4320334789",
+    "name": "Japan Science and Technology Agency",
+    "count": 32354
+   },
+   {
+    "key": "https://openalex.org/F4320322186",
+    "name": "Natural Science Foundation of Hubei Province",
+    "count": 32210
+   },
+   {
+    "key": "https://openalex.org/F4320337480",
+    "name": "Basic Energy Sciences",
+    "count": 32112
+   },
+   {
+    "key": "https://openalex.org/F4320322163",
+    "name": "Natural Science Foundation of Hebei Province",
+    "count": 32107
+   },
+   {
+    "key": "https://openalex.org/F4320320767",
+    "name": "University Grants Commission",
+    "count": 31880
+   },
+   {
+    "key": "https://openalex.org/F4320307770",
+    "name": "AstraZeneca",
+    "count": 31715
+   },
+   {
+    "key": "https://openalex.org/F4320328119",
+    "name": "National University's Basic Research Foundation of China",
+    "count": 31239
+   },
+   {
+    "key": "https://openalex.org/F4320321873",
+    "name": "Ministero dell\u2019Istruzione, dell\u2019Universit\u00e0 e della Ricerca",
+    "count": 31080
+   },
+   {
+    "key": "https://openalex.org/F4320332162",
+    "name": "Centers for Disease Control and Prevention",
+    "count": 30763
+   },
+   {
+    "key": "https://openalex.org/F4320323172",
+    "name": "Natural Science Foundation of Chongqing",
+    "count": 30693
+   },
+   {
+    "key": "https://openalex.org/F4320327557",
+    "name": "National Office for Philosophy and Social Sciences",
+    "count": 30571
+   },
+   {
+    "key": "https://openalex.org/F4320334923",
+    "name": "Instituto de Salud Carlos III",
+    "count": 29660
+   },
+   {
+    "key": "https://openalex.org/F4320309612",
+    "name": "Natural Science Foundation of Shanghai",
+    "count": 29198
+   },
+   {
+    "key": "https://openalex.org/F4320327912",
+    "name": "Higher Education Discipline Innovation Project",
+    "count": 29139
+   },
+   {
+    "key": "https://openalex.org/F4320332369",
+    "name": "National Nuclear Security Administration",
+    "count": 29020
+   },
+   {
+    "key": "https://openalex.org/F4320334632",
+    "name": "Science and Technology Facilities Council",
+    "count": 28771
+   },
+   {
+    "key": "https://openalex.org/F4320334801",
+    "name": "Russian Academy of Sciences",
+    "count": 28755
+   },
+   {
+    "key": "https://openalex.org/F4320338080",
+    "name": "European Social Fund",
+    "count": 28051
+   },
+   {
+    "key": "https://openalex.org/F4320334629",
+    "name": "Biotechnology and Biological Sciences Research Council",
+    "count": 27960
+   },
+   {
+    "key": "https://openalex.org/F4320327336",
+    "name": "Vlaamse regering",
+    "count": 27895
+   },
+   {
+    "key": "https://openalex.org/F4320311405",
+    "name": "Japan Agency for Medical Research and Development",
+    "count": 27718
+   },
+   {
+    "key": "https://openalex.org/F4320320290",
+    "name": "University of Oxford",
+    "count": 27459
+   },
+   {
+    "key": "https://openalex.org/F4320334897",
+    "name": "Natural Science Foundation of Anhui Province",
+    "count": 27177
+   },
+   {
+    "key": "https://openalex.org/F4320322174",
+    "name": "People's Government of Jilin Province",
+    "count": 26678
+   },
+   {
+    "key": "https://openalex.org/F4320329861",
+    "name": "Natural Science Foundation of Sichuan Province",
+    "count": 26186
+   },
+   {
+    "key": "https://openalex.org/F4320321006",
+    "name": "Grantov\u00e1 Agentura \u010cesk\u00e9 Republiky",
+    "count": 26150
+   },
+   {
+    "key": "https://openalex.org/F4320306127",
+    "name": "U.S. Department of Veterans Affairs",
+    "count": 26147
+   },
+   {
+    "key": "https://openalex.org/F4320321505",
+    "name": "Generalitat de Catalunya",
+    "count": 25986
+   },
+   {
+    "key": "https://openalex.org/F4320307758",
+    "name": "Eli Lilly and Company",
+    "count": 25953
+   },
+   {
+    "key": "https://openalex.org/F4320321408",
+    "name": "Ministry of Education",
+    "count": 25943
+   },
+   {
+    "key": "https://openalex.org/F4320338337",
+    "name": "H2020 Marie Sk\u0142odowska-Curie Actions",
+    "count": 25796
+   },
+   {
+    "key": "https://openalex.org/F4320321108",
+    "name": "Research Council of Finland",
+    "count": 25238
+   },
+   {
+    "key": "https://openalex.org/F4320321781",
+    "name": "Ministero della Salute",
+    "count": 25117
+   },
+   {
+    "key": "https://openalex.org/F4320338279",
+    "name": "Air Force Office of Scientific Research",
+    "count": 24990
+   },
+   {
+    "key": "https://openalex.org/F4320306137",
+    "name": "Bill and Melinda Gates Foundation",
+    "count": 24809
+   },
+   {
+    "key": "https://openalex.org/F4320334631",
+    "name": "Natural Environment Research Council",
+    "count": 24725
+   },
+   {
+    "key": "https://openalex.org/F4320335489",
+    "name": "Institute for Information and Communications Technology Promotion",
+    "count": 24434
+   },
+   {
+    "key": "https://openalex.org/F4320327518",
+    "name": "Priority Academic Program Development of Jiangsu Higher Education Institutions",
+    "count": 24423
+   },
+   {
+    "key": "https://openalex.org/F4320322436",
+    "name": "Novo Nordisk",
+    "count": 24205
+   },
+   {
+    "key": "https://openalex.org/F4320322980",
+    "name": "Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado de Minas Gerais",
+    "count": 24136
+   },
+   {
+    "key": "https://openalex.org/F4320332167",
+    "name": "Directorate for Biological Sciences",
+    "count": 24001
+   },
+   {
+    "key": "https://openalex.org/F4320321655",
+    "name": "Science and Technology Development Fund",
+    "count": 23977
+   },
+   {
+    "key": "https://openalex.org/F4320319994",
+    "name": "Department of Health and Social Care",
+    "count": 23911
+   },
+   {
+    "key": "https://openalex.org/F4320307781",
+    "name": "Sanofi",
+    "count": 23739
+   },
+   {
+    "key": "https://openalex.org/F4320335774",
+    "name": "Key Technologies Research and Development Program",
+    "count": 23728
+   },
+   {
+    "key": "https://openalex.org/F4320320006",
+    "name": "Royal Society",
+    "count": 23590
+   },
+   {
+    "key": "https://openalex.org/F4320337361",
+    "name": "National Institute of Environmental Health Sciences",
+    "count": 23382
+   },
+   {
+    "key": "https://openalex.org/F4320320717",
+    "name": "Department of Biotechnology, Ministry of Science and Technology, India",
+    "count": 23207
+   },
+   {
+    "key": "https://openalex.org/F4320321594",
+    "name": "Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas",
+    "count": 23176
+   },
+   {
+    "key": "https://openalex.org/F4320322749",
+    "name": "Funda\u00e7\u00e3o Carlos Chagas Filho de Amparo \u00e0 Pesquisa do Estado do Rio de Janeiro",
+    "count": 23031
+   },
+   {
+    "key": "https://openalex.org/F4320322665",
+    "name": "Natural Science Foundation of Jiangxi Province",
+    "count": 22872
+   },
+   {
+    "key": "https://openalex.org/F4320333335",
+    "name": "Sichuan Province Science and Technology Support Program",
+    "count": 22812
+   },
+   {
+    "key": "https://openalex.org/F4320323085",
+    "name": "Natural Science Foundation of Heilongjiang Province",
+    "count": 22504
+   },
+   {
+    "key": "https://openalex.org/F4320322030",
+    "name": "Ministry of Science, ICT and Future Planning",
+    "count": 22388
+   },
+   {
+    "key": "https://openalex.org/F4320322252",
+    "name": "Israel Science Foundation",
+    "count": 22382
+   },
+   {
+    "key": "https://openalex.org/F4320337363",
+    "name": "National Institute of Biomedical Imaging and Bioengineering",
+    "count": 22327
+   },
+   {
+    "key": "https://openalex.org/F4320322990",
+    "name": "Sichuan University",
+    "count": 22282
+   },
+   {
+    "key": "https://openalex.org/F4320324433",
+    "name": "King Khalid University",
+    "count": 22138
+   },
+   {
+    "key": "https://openalex.org/F4320324787",
+    "name": "Peking University",
+    "count": 22095
+   },
+   {
+    "key": "https://openalex.org/F4320322927",
+    "name": "Zhejiang University",
+    "count": 22029
+   },
+   {
+    "key": "https://openalex.org/F4320322999",
+    "name": "Shanghai Jiao Tong University",
+    "count": 21952
+   },
+   {
+    "key": "https://openalex.org/F4320322847",
+    "name": "Youth Innovation Promotion Association of the Chinese Academy of Sciences",
+    "count": 21902
+   },
+   {
+    "key": "https://openalex.org/F4320334617",
+    "name": "Social Sciences and Humanities Research Council of Canada",
+    "count": 21661
+   },
+   {
+    "key": "https://openalex.org/F4320310145",
+    "name": "Johns Hopkins University",
+    "count": 21628
+   },
+   {
+    "key": "https://openalex.org/F4320321837",
+    "name": "Ministerio de Econom\u00eda y Competitividad",
+    "count": 21568
+   },
+   {
+    "key": "https://openalex.org/F4320323845",
+    "name": "Natural Science Foundation of Henan Province",
+    "count": 21501
+   },
+   {
+    "key": "https://openalex.org/F4320308269",
+    "name": "Alexander von Humboldt-Stiftung",
+    "count": 21237
+   },
+   {
+    "key": "https://openalex.org/F4320314997",
+    "name": "Strong",
+    "count": 21219
+   },
+   {
+    "key": "https://openalex.org/F4320322768",
+    "name": "Natural Science Foundation of Guangxi Province",
+    "count": 21056
+   },
+   {
+    "key": "https://openalex.org/F4320307115",
+    "name": "Bristol-Myers Squibb",
+    "count": 21005
+   },
+   {
+    "key": "https://openalex.org/F4320320720",
+    "name": "Indian Council of Medical Research",
+    "count": 20973
+   },
+   {
+    "key": "https://openalex.org/F4320320769",
+    "name": "Indian Council of Agricultural Research",
+    "count": 20919
+   },
+   {
+    "key": "https://openalex.org/F4320325957",
+    "name": "Novo Nordisk Fonden",
+    "count": 20875
+   },
+   {
+    "key": "https://openalex.org/F4320322484",
+    "name": "Princess Nourah Bint Abdulrahman University",
+    "count": 20581
+   },
+   {
+    "key": "https://openalex.org/F4320320273",
+    "name": "University of Cambridge",
+    "count": 20492
+   },
+   {
+    "key": "https://openalex.org/F4320332181",
+    "name": "National Oceanic and Atmospheric Administration",
+    "count": 20410
+   },
+   {
+    "key": "https://openalex.org/F4320336350",
+    "name": "Key Research and Development Projects of Shaanxi Province",
+    "count": 20396
+   },
+   {
+    "key": "https://openalex.org/F4320336567",
+    "name": "Natural Science Basic Research Program of Shaanxi Province",
+    "count": 20248
+   },
+   {
+    "key": "https://openalex.org/F4320337368",
+    "name": "Division of Graduate Education",
+    "count": 20076
+   },
+   {
+    "key": "https://openalex.org/F4320337362",
+    "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+    "count": 19843
+   },
+   {
+    "key": "https://openalex.org/F4320322434",
+    "name": "Max-Planck-Gesellschaft",
+    "count": 19776
+   },
+   {
+    "key": "https://openalex.org/F4320321079",
+    "name": "Russian Foundation for Basic Research",
+    "count": 19458
+   },
+   {
+    "key": "https://openalex.org/F4320321005",
+    "name": "Ministerstvo \u0160kolstv\u00ed, Ml\u00e1de\u017ee a T\u011blov\u00fdchovy",
+    "count": 19287
+   },
+   {
+    "key": "https://openalex.org/F4320337393",
+    "name": "Division of Chemistry",
+    "count": 19237
+   },
+   {
+    "key": "https://openalex.org/F4320319993",
+    "name": "Leverhulme Trust",
+    "count": 19095
+   },
+   {
+    "key": "https://openalex.org/F4320337364",
+    "name": "National Institute of Child Health and Human Development",
+    "count": 19010
+   },
+   {
+    "key": "https://openalex.org/F4320338075",
+    "name": "Core Research for Evolutional Science and Technology",
+    "count": 18956
+   },
+   {
+    "key": "https://openalex.org/F4320309370",
+    "name": "University of Pennsylvania",
+    "count": 18575
+   },
+   {
+    "key": "https://openalex.org/F4320323086",
+    "name": "Natural Science Foundation of Liaoning Province",
+    "count": 18397
+   },
+   {
+    "key": "https://openalex.org/F4320337350",
+    "name": "National Eye Institute",
+    "count": 18389
+   },
+   {
+    "key": "https://openalex.org/F4320306230",
+    "name": "American Heart Association",
+    "count": 18354
+   },
+   {
+    "key": "https://openalex.org/F4320326762",
+    "name": "Nemzeti Kutat\u00e1si Fejleszt\u00e9si \u00e9s Innov\u00e1ci\u00f3s Hivatal",
+    "count": 18351
+   },
+   {
+    "key": "https://openalex.org/F4320331528",
+    "name": "Ministero dell'Universit\u00e0 e della Ricerca",
+    "count": 18129
+   },
+   {
+    "key": "https://openalex.org/F4320338281",
+    "name": "Army Research Office",
+    "count": 18129
+   },
+   {
+    "key": "https://openalex.org/F4320320875",
+    "name": "Deutscher Akademischer Austauschdienst",
+    "count": 17940
+   },
+   {
+    "key": "https://openalex.org/F4320322554",
+    "name": "The Slovenian Research and Innovation Agency",
+    "count": 17720
+   },
+   {
+    "key": "https://openalex.org/F4320321514",
+    "name": "Central South University",
+    "count": 17671
+   },
+   {
+    "key": "https://openalex.org/F4320318240",
+    "name": "European Space Agency",
+    "count": 17664
+   },
+   {
+    "key": "https://openalex.org/F4320323993",
+    "name": "Natural Science Foundation of Tianjin City",
+    "count": 17479
+   },
+   {
+    "key": "https://openalex.org/F4320322922",
+    "name": "Science and Technology Department of Sichuan Province",
+    "count": 17465
+   },
+   {
+    "key": "https://openalex.org/F4320323641",
+    "name": "Vedeck\u00e1 Grantov\u00e1 Agent\u00fara M\u0160VVa\u0160 SR a SAV",
+    "count": 17407
+   }
+  ]
+ },
+ "funder_ft": {
+  "filter": "publication_year:2022-2026,type:article|review|preprint|conference-paper|book-chapter|book|dissertation|report,has_fulltext:true",
+  "group_by": "funders.id",
+  "count": 23840756,
+  "pulled": "2026-11-24",
+  "groups": [
+   {
+    "key": "https://openalex.org/F4320321001",
+    "name": "National Natural Science Foundation of China",
+    "count": 911646
+   },
+   {
+    "key": "https://openalex.org/F4320332161",
+    "name": "National Institutes of Health",
+    "count": 384135
+   },
+   {
+    "key": "https://openalex.org/F4320320300",
+    "name": "European Commission",
+    "count": 380031
+   },
+   {
+    "key": "https://openalex.org/F4320306076",
+    "name": "National Science Foundation",
+    "count": 343426
+   },
+   {
+    "key": "https://openalex.org/F4320335777",
+    "name": "National Key Research and Development Program of China",
+    "count": 206963
+   },
+   {
+    "key": "https://openalex.org/F4320334764",
+    "name": "Japan Society for the Promotion of Science",
+    "count": 197964
+   },
+   {
+    "key": "https://openalex.org/F4320320879",
+    "name": "Deutsche Forschungsgemeinschaft",
+    "count": 182273
+   },
+   {
+    "key": "https://openalex.org/F4320306084",
+    "name": "U.S. Department of Energy",
+    "count": 146105
+   },
+   {
+    "key": "https://openalex.org/F4320322025",
+    "name": "Conselho Nacional de Desenvolvimento Cient\u00edfico e Tecnol\u00f3gico",
+    "count": 114136
+   },
+   {
+    "key": "https://openalex.org/F4320320671",
+    "name": "National Research Foundation",
+    "count": 112522
+   },
+   {
+    "key": "https://openalex.org/F4320321091",
+    "name": "Coordena\u00e7\u00e3o de Aperfei\u00e7oamento de Pessoal de N\u00edvel Superior",
+    "count": 110418
+   },
+   {
+    "key": "https://openalex.org/F4320337351",
+    "name": "National Cancer Institute",
+    "count": 104820
+   },
+   {
+    "key": "https://openalex.org/F4320320883",
+    "name": "Agence Nationale de la Recherche",
+    "count": 103861
+   },
+   {
+    "key": "https://openalex.org/F4320322120",
+    "name": "National Research Foundation of Korea",
+    "count": 100521
+   },
+   {
+    "key": "https://openalex.org/F4320335322",
+    "name": "European Regional Development Fund",
+    "count": 94585
+   },
+   {
+    "key": "https://openalex.org/F4320335598",
+    "name": "Agencia Estatal de Investigaci\u00f3n",
+    "count": 92935
+   },
+   {
+    "key": "https://openalex.org/F4320335787",
+    "name": "Fundamental Research Funds for the Central Universities",
+    "count": 91189
+   },
+   {
+    "key": "https://openalex.org/F4320337354",
+    "name": "National Institute of General Medical Sciences",
+    "count": 89621
+   },
+   {
+    "key": "https://openalex.org/F4320338335",
+    "name": "H2020 European Research Council",
+    "count": 85276
+   },
+   {
+    "key": "https://openalex.org/F4320334627",
+    "name": "Engineering and Physical Sciences Research Council",
+    "count": 79363
+   },
+   {
+    "key": "https://openalex.org/F4320332999",
+    "name": "Horizon 2020 Framework Programme",
+    "count": 78575
+   },
+   {
+    "key": "https://openalex.org/F4320334593",
+    "name": "Natural Sciences and Engineering Research Council of Canada",
+    "count": 78409
+   },
+   {
+    "key": "https://openalex.org/F4320334626",
+    "name": "Medical Research Council",
+    "count": 76485
+   },
+   {
+    "key": "https://openalex.org/F4320328359",
+    "name": "Ministry of Science and ICT, South Korea",
+    "count": 72050
+   },
+   {
+    "key": "https://openalex.org/F4320334779",
+    "name": "Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia",
+    "count": 66498
+   },
+   {
+    "key": "https://openalex.org/F4320322930",
+    "name": "Ministerio de Ciencia e Innovaci\u00f3n",
+    "count": 66147
+   },
+   {
+    "key": "https://openalex.org/F4320337338",
+    "name": "National Heart, Lung, and Blood Institute",
+    "count": 65931
+   },
+   {
+    "key": "https://openalex.org/F4320319990",
+    "name": "National Institute for Health and Care Research",
+    "count": 62511
+   },
+   {
+    "key": "https://openalex.org/F4320306101",
+    "name": "National Aeronautics and Space Administration",
+    "count": 61985
+   },
+   {
+    "key": "https://openalex.org/F4320337355",
+    "name": "National Institute of Allergy and Infectious Diseases",
+    "count": 60822
+   },
+   {
+    "key": "https://openalex.org/F4320321114",
+    "name": "Bundesministerium f\u00fcr Forschung, Technologie und Raumfahrt",
+    "count": 60667
+   },
+   {
+    "key": "https://openalex.org/F4320337337",
+    "name": "National Institute on Aging",
+    "count": 59996
+   },
+   {
+    "key": "https://openalex.org/F7311471023",
+    "name": "NextGenerationEU",
+    "count": 59661
+   },
+   {
+    "key": "https://openalex.org/F4320320924",
+    "name": "Schweizerischer Nationalfonds zur F\u00f6rderung der Wissenschaftlichen Forschung",
+    "count": 59194
+   },
+   {
+    "key": "https://openalex.org/F4320332359",
+    "name": "Office of Science",
+    "count": 58324
+   },
+   {
+    "key": "https://openalex.org/F4320321543",
+    "name": "China Postdoctoral Science Foundation",
+    "count": 56495
+   },
+   {
+    "key": "https://openalex.org/F4320334322",
+    "name": "HORIZON EUROPE Framework Programme",
+    "count": 55176
+   },
+   {
+    "key": "https://openalex.org/F4320321133",
+    "name": "Chinese Academy of Sciences",
+    "count": 54749
+   },
+   {
+    "key": "https://openalex.org/F4320321605",
+    "name": "Government of Jiangsu Province",
+    "count": 50581
+   },
+   {
+    "key": "https://openalex.org/F4320324099",
+    "name": "Russian Science Foundation",
+    "count": 49373
+   },
+   {
+    "key": "https://openalex.org/F4320322581",
+    "name": "Vetenskapsr\u00e5det",
+    "count": 49093
+   },
+   {
+    "key": "https://openalex.org/F4320311904",
+    "name": "Wellcome Trust",
+    "count": 48590
+   },
+   {
+    "key": "https://openalex.org/F4320337357",
+    "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+    "count": 46808
+   },
+   {
+    "key": "https://openalex.org/F4320321800",
+    "name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+    "count": 46340
+   },
+   {
+    "key": "https://openalex.org/F4320322725",
+    "name": "China Scholarship Council",
+    "count": 45163
+   },
+   {
+    "key": "https://openalex.org/F4320314731",
+    "name": "UK Research and Innovation",
+    "count": 44170
+   },
+   {
+    "key": "https://openalex.org/F4320337359",
+    "name": "National Institute of Neurological Disorders and Stroke",
+    "count": 43866
+   },
+   {
+    "key": "https://openalex.org/F4320320997",
+    "name": "Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado de S\u00e3o Paulo",
+    "count": 43641
+   },
+   {
+    "key": "https://openalex.org/F4320337472",
+    "name": "National Center for Advancing Translational Sciences",
+    "count": 42043
+   },
+   {
+    "key": "https://openalex.org/F4320337346",
+    "name": "National Institute of Mental Health",
+    "count": 41908
+   },
+   {
+    "key": "https://openalex.org/F4320334506",
+    "name": "Canadian Institutes of Health Research",
+    "count": 39680
+   },
+   {
+    "key": "https://openalex.org/F4320334704",
+    "name": "Australian Research Council",
+    "count": 39106
+   },
+   {
+    "key": "https://openalex.org/F4320306114",
+    "name": "U.S. Department of Agriculture",
+    "count": 38939
+   },
+   {
+    "key": "https://openalex.org/F4320315062",
+    "name": "Ministerio de Ciencia, Innovaci\u00f3n y Universidades",
+    "count": 38590
+   },
+   {
+    "key": "https://openalex.org/F4320322892",
+    "name": "Centre National de la Recherche Scientifique",
+    "count": 38342
+   },
+   {
+    "key": "https://openalex.org/F4320320912",
+    "name": "Ministry of Education, Culture, Sports, Science and Technology",
+    "count": 37706
+   },
+   {
+    "key": "https://openalex.org/F4320315885",
+    "name": "Australian Government",
+    "count": 37399
+   },
+   {
+    "key": "https://openalex.org/F4320337611",
+    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+    "count": 36825
+   },
+   {
+    "key": "https://openalex.org/F4320324174",
+    "name": "Natural Science Foundation of Shandong Province",
+    "count": 35864
+   },
+   {
+    "key": "https://openalex.org/F4320307765",
+    "name": "Pfizer",
+    "count": 35347
+   },
+   {
+    "key": "https://openalex.org/F4320337111",
+    "name": "Basic and Applied Basic Research Foundation of Guangdong Province",
+    "count": 33359
+   },
+   {
+    "key": "https://openalex.org/F4320320719",
+    "name": "Department of Science and Technology, Ministry of Science and Technology, India",
+    "count": 33046
+   },
+   {
+    "key": "https://openalex.org/F4320334678",
+    "name": "European Research Council",
+    "count": 32951
+   },
+   {
+    "key": "https://openalex.org/F4320334705",
+    "name": "National Health and Medical Research Council",
+    "count": 31689
+   },
+   {
+    "key": "https://openalex.org/F4320306085",
+    "name": "U.S. Department of Health and Human Services",
+    "count": 30599
+   },
+   {
+    "key": "https://openalex.org/F4320322626",
+    "name": "T\u00fcrkiye Bilimsel ve Teknolojik Ara\u015ft\u0131rma Kurumu",
+    "count": 29319
+   },
+   {
+    "key": "https://openalex.org/F4320321730",
+    "name": "Fonds Wetenschappelijk Onderzoek",
+    "count": 29126
+   },
+   {
+    "key": "https://openalex.org/F4320338464",
+    "name": "Natural Science Foundation of Zhejiang Province",
+    "count": 29088
+   },
+   {
+    "key": "https://openalex.org/F4320306078",
+    "name": "U.S. Department of Defense",
+    "count": 28962
+   },
+   {
+    "key": "https://openalex.org/F4320307770",
+    "name": "AstraZeneca",
+    "count": 28849
+   },
+   {
+    "key": "https://openalex.org/F4320338453",
+    "name": "HORIZON EUROPE European Research Council",
+    "count": 28476
+   },
+   {
+    "key": "https://openalex.org/F4320321181",
+    "name": "Austrian Science Fund",
+    "count": 28086
+   },
+   {
+    "key": "https://openalex.org/F4320322511",
+    "name": "Narodowe Centrum Nauki",
+    "count": 27972
+   },
+   {
+    "key": "https://openalex.org/F4320322724",
+    "name": "Ministry of Education, India",
+    "count": 27719
+   },
+   {
+    "key": "https://openalex.org/F4320334632",
+    "name": "Science and Technology Facilities Council",
+    "count": 27180
+   },
+   {
+    "key": "https://openalex.org/F4320331164",
+    "name": "National Science and Technology Council",
+    "count": 26916
+   },
+   {
+    "key": "https://openalex.org/F4320323299",
+    "name": "Norges Forskningsr\u00e5d",
+    "count": 26836
+   },
+   {
+    "key": "https://openalex.org/F4320337367",
+    "name": "Division of Materials Research",
+    "count": 26081
+   },
+   {
+    "key": "https://openalex.org/F4320337347",
+    "name": "National Institute on Drug Abuse",
+    "count": 26025
+   },
+   {
+    "key": "https://openalex.org/F4320334771",
+    "name": "Science and Engineering Research Board",
+    "count": 26003
+   },
+   {
+    "key": "https://openalex.org/F4320332162",
+    "name": "Centers for Disease Control and Prevention",
+    "count": 25295
+   },
+   {
+    "key": "https://openalex.org/F4320320290",
+    "name": "University of Oxford",
+    "count": 25249
+   },
+   {
+    "key": "https://openalex.org/F4320332369",
+    "name": "National Nuclear Security Administration",
+    "count": 24907
+   },
+   {
+    "key": "https://openalex.org/F4320337345",
+    "name": "Office of Naval Research",
+    "count": 24806
+   },
+   {
+    "key": "https://openalex.org/F4320327336",
+    "name": "Vlaamse regering",
+    "count": 24748
+   },
+   {
+    "key": "https://openalex.org/F4320322769",
+    "name": "Natural Science Foundation of Jiangsu Province",
+    "count": 24377
+   },
+   {
+    "key": "https://openalex.org/F4320334923",
+    "name": "Instituto de Salud Carlos III",
+    "count": 24149
+   },
+   {
+    "key": "https://openalex.org/F4320337480",
+    "name": "Basic Energy Sciences",
+    "count": 23908
+   },
+   {
+    "key": "https://openalex.org/F4320307758",
+    "name": "Eli Lilly and Company",
+    "count": 23803
+   },
+   {
+    "key": "https://openalex.org/F4320331146",
+    "name": "Agencia Nacional de Investigaci\u00f3n y Desarrollo",
+    "count": 23457
+   },
+   {
+    "key": "https://openalex.org/F4320321873",
+    "name": "Ministero dell\u2019Istruzione, dell\u2019Universit\u00e0 e della Ricerca",
+    "count": 23341
+   },
+   {
+    "key": "https://openalex.org/F4320334629",
+    "name": "Biotechnology and Biological Sciences Research Council",
+    "count": 23244
+   },
+   {
+    "key": "https://openalex.org/F4320332299",
+    "name": "National Institute of Food and Agriculture",
+    "count": 22812
+   },
+   {
+    "key": "https://openalex.org/F4320327494",
+    "name": "Ministry of Science and Higher Education of the Russian Federation",
+    "count": 22733
+   },
+   {
+    "key": "https://openalex.org/F4320319994",
+    "name": "Department of Health and Social Care",
+    "count": 22475
+   },
+   {
+    "key": "https://openalex.org/F4320322436",
+    "name": "Novo Nordisk",
+    "count": 22420
+   },
+   {
+    "key": "https://openalex.org/F4320307781",
+    "name": "Sanofi",
+    "count": 22160
+   },
+   {
+    "key": "https://openalex.org/F4320321145",
+    "name": "King Saud University",
+    "count": 22010
+   },
+   {
+    "key": "https://openalex.org/F4320321505",
+    "name": "Generalitat de Catalunya",
+    "count": 21969
+   },
+   {
+    "key": "https://openalex.org/F4320338080",
+    "name": "European Social Fund",
+    "count": 21803
+   },
+   {
+    "key": "https://openalex.org/F4320334630",
+    "name": "Economic and Social Research Council",
+    "count": 21185
+   },
+   {
+    "key": "https://openalex.org/F4320321921",
+    "name": "Natural Science Foundation of Guangdong Province",
+    "count": 21172
+   },
+   {
+    "key": "https://openalex.org/F4320321781",
+    "name": "Ministero della Salute",
+    "count": 20989
+   },
+   {
+    "key": "https://openalex.org/F4320306137",
+    "name": "Bill and Melinda Gates Foundation",
+    "count": 20900
+   },
+   {
+    "key": "https://openalex.org/F4320321885",
+    "name": "Science and Technology Commission of Shanghai Municipality",
+    "count": 20799
+   },
+   {
+    "key": "https://openalex.org/F4320332167",
+    "name": "Directorate for Biological Sciences",
+    "count": 20395
+   },
+   {
+    "key": "https://openalex.org/F4320321655",
+    "name": "Science and Technology Development Fund",
+    "count": 20245
+   },
+   {
+    "key": "https://openalex.org/F4320334789",
+    "name": "Japan Science and Technology Agency",
+    "count": 20011
+   },
+   {
+    "key": "https://openalex.org/F4320338337",
+    "name": "H2020 Marie Sk\u0142odowska-Curie Actions",
+    "count": 19931
+   },
+   {
+    "key": "https://openalex.org/F4320334631",
+    "name": "Natural Environment Research Council",
+    "count": 19900
+   },
+   {
+    "key": "https://openalex.org/F4320311405",
+    "name": "Japan Agency for Medical Research and Development",
+    "count": 19895
+   },
+   {
+    "key": "https://openalex.org/F4320321108",
+    "name": "Research Council of Finland",
+    "count": 19824
+   },
+   {
+    "key": "https://openalex.org/F4320306127",
+    "name": "U.S. Department of Veterans Affairs",
+    "count": 19554
+   },
+   {
+    "key": "https://openalex.org/F4320320006",
+    "name": "Royal Society",
+    "count": 19223
+   },
+   {
+    "key": "https://openalex.org/F4320321739",
+    "name": "Secretar\u00eda de Ciencia, Humanidades, Tecnolog\u00eda e Innovaci\u00f3n",
+    "count": 19167
+   },
+   {
+    "key": "https://openalex.org/F4320320273",
+    "name": "University of Cambridge",
+    "count": 19063
+   },
+   {
+    "key": "https://openalex.org/F4320307115",
+    "name": "Bristol-Myers Squibb",
+    "count": 18870
+   },
+   {
+    "key": "https://openalex.org/F4320322795",
+    "name": "Ministry of Science and Technology, Taiwan",
+    "count": 18740
+   },
+   {
+    "key": "https://openalex.org/F4320337361",
+    "name": "National Institute of Environmental Health Sciences",
+    "count": 18591
+   },
+   {
+    "key": "https://openalex.org/F4320310145",
+    "name": "Johns Hopkins University",
+    "count": 18577
+   },
+   {
+    "key": "https://openalex.org/F4320329860",
+    "name": "National Science and Technology Major Project",
+    "count": 18310
+   },
+   {
+    "key": "https://openalex.org/F4320321006",
+    "name": "Grantov\u00e1 Agentura \u010cesk\u00e9 Republiky",
+    "count": 18308
+   },
+   {
+    "key": "https://openalex.org/F4320321837",
+    "name": "Ministerio de Econom\u00eda y Competitividad",
+    "count": 18052
+   },
+   {
+    "key": "https://openalex.org/F4320314997",
+    "name": "Strong",
+    "count": 17789
+   },
+   {
+    "key": "https://openalex.org/F4320337363",
+    "name": "National Institute of Biomedical Imaging and Bioengineering",
+    "count": 17546
+   },
+   {
+    "key": "https://openalex.org/F4320322434",
+    "name": "Max-Planck-Gesellschaft",
+    "count": 17444
+   },
+   {
+    "key": "https://openalex.org/F4320325957",
+    "name": "Novo Nordisk Fonden",
+    "count": 17130
+   },
+   {
+    "key": "https://openalex.org/F4320338279",
+    "name": "Air Force Office of Scientific Research",
+    "count": 17041
+   },
+   {
+    "key": "https://openalex.org/F4320335489",
+    "name": "Institute for Information and Communications Technology Promotion",
+    "count": 16920
+   },
+   {
+    "key": "https://openalex.org/F4320319993",
+    "name": "Leverhulme Trust",
+    "count": 16706
+   },
+   {
+    "key": "https://openalex.org/F4320322252",
+    "name": "Israel Science Foundation",
+    "count": 16267
+   },
+   {
+    "key": "https://openalex.org/F4320335869",
+    "name": "National Social Science Fund of China",
+    "count": 16206
+   },
+   {
+    "key": "https://openalex.org/F4320309370",
+    "name": "University of Pennsylvania",
+    "count": 16077
+   },
+   {
+    "key": "https://openalex.org/F4320308269",
+    "name": "Alexander von Humboldt-Stiftung",
+    "count": 16041
+   },
+   {
+    "key": "https://openalex.org/F4320324787",
+    "name": "Peking University",
+    "count": 15941
+   },
+   {
+    "key": "https://openalex.org/F4320326762",
+    "name": "Nemzeti Kutat\u00e1si Fejleszt\u00e9si \u00e9s Innov\u00e1ci\u00f3s Hivatal",
+    "count": 15719
+   },
+   {
+    "key": "https://openalex.org/F4320307105",
+    "name": "Amgen",
+    "count": 15663
+   },
+   {
+    "key": "https://openalex.org/F4320337362",
+    "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+    "count": 15248
+   },
+   {
+    "key": "https://openalex.org/F4320337364",
+    "name": "National Institute of Child Health and Human Development",
+    "count": 15235
+   },
+   {
+    "key": "https://openalex.org/F4320309398",
+    "name": "California Institute of Technology",
+    "count": 15008
+   },
+   {
+    "key": "https://openalex.org/F4320307856",
+    "name": "World Health Organization",
+    "count": 14910
+   },
+   {
+    "key": "https://openalex.org/F4320322749",
+    "name": "Funda\u00e7\u00e3o Carlos Chagas Filho de Amparo \u00e0 Pesquisa do Estado do Rio de Janeiro",
+    "count": 14865
+   },
+   {
+    "key": "https://openalex.org/F4320332181",
+    "name": "National Oceanic and Atmospheric Administration",
+    "count": 14761
+   },
+   {
+    "key": "https://openalex.org/F4320322554",
+    "name": "The Slovenian Research and Innovation Agency",
+    "count": 14740
+   },
+   {
+    "key": "https://openalex.org/F4320322327",
+    "name": "Knut och Alice Wallenbergs Stiftelse",
+    "count": 14715
+   },
+   {
+    "key": "https://openalex.org/F4320322174",
+    "name": "People's Government of Jilin Province",
+    "count": 14682
+   },
+   {
+    "key": "https://openalex.org/F4320321878",
+    "name": "Natural Science Foundation of Fujian Province",
+    "count": 14538
+   },
+   {
+    "key": "https://openalex.org/F4320321681",
+    "name": "Ministry of Trade, Industry and Energy",
+    "count": 14493
+   },
+   {
+    "key": "https://openalex.org/F4320306164",
+    "name": "Simons Foundation",
+    "count": 14421
+   },
+   {
+    "key": "https://openalex.org/F4320337350",
+    "name": "National Eye Institute",
+    "count": 14419
+   },
+   {
+    "key": "https://openalex.org/F4320306230",
+    "name": "American Heart Association",
+    "count": 14335
+   },
+   {
+    "key": "https://openalex.org/F4320338075",
+    "name": "Core Research for Evolutional Science and Technology",
+    "count": 14243
+   },
+   {
+    "key": "https://openalex.org/F4320308380",
+    "name": "Yale University",
+    "count": 14130
+   },
+   {
+    "key": "https://openalex.org/F4320319985",
+    "name": "Cancer Research UK",
+    "count": 14083
+   },
+   {
+    "key": "https://openalex.org/F4320332193",
+    "name": "Genentech",
+    "count": 14073
+   },
+   {
+    "key": "https://openalex.org/F4320338281",
+    "name": "Army Research Office",
+    "count": 13892
+   },
+   {
+    "key": "https://openalex.org/F4320322980",
+    "name": "Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado de Minas Gerais",
+    "count": 13882
+   },
+   {
+    "key": "https://openalex.org/F4320321864",
+    "name": "Generalitat Valenciana",
+    "count": 13649
+   },
+   {
+    "key": "https://openalex.org/F4320308573",
+    "name": "Gilead Sciences",
+    "count": 13606
+   },
+   {
+    "key": "https://openalex.org/F4320320893",
+    "name": "Institut National de la Sant\u00e9 et de la Recherche M\u00e9dicale",
+    "count": 13542
+   },
+   {
+    "key": "https://openalex.org/F4320331528",
+    "name": "Ministero dell'Universit\u00e0 e della Ricerca",
+    "count": 13501
+   },
+   {
+    "key": "https://openalex.org/F4320320875",
+    "name": "Deutscher Akademischer Austauschdienst",
+    "count": 13442
+   },
+   {
+    "key": "https://openalex.org/F4320322843",
+    "name": "Natural Science Foundation of\u00a0Hunan Province",
+    "count": 13411
+   },
+   {
+    "key": "https://openalex.org/F4320318240",
+    "name": "European Space Agency",
+    "count": 13387
+   },
+   {
+    "key": "https://openalex.org/F4320332180",
+    "name": "Defense Advanced Research Projects Agency",
+    "count": 13374
+   },
+   {
+    "key": "https://openalex.org/F4320322927",
+    "name": "Zhejiang University",
+    "count": 13294
+   },
+   {
+    "key": "https://openalex.org/F4320322999",
+    "name": "Shanghai Jiao Tong University",
+    "count": 13278
+   },
+   {
+    "key": "https://openalex.org/F4320321390",
+    "name": "Fonds De La Recherche Scientifique - FNRS",
+    "count": 13241
+   },
+   {
+    "key": "https://openalex.org/F4320321106",
+    "name": "Ministry of Education of the People's Republic of China",
+    "count": 13186
+   },
+   {
+    "key": "https://openalex.org/F4320310094",
+    "name": "University of Washington",
+    "count": 13103
+   },
+   {
+    "key": "https://openalex.org/F4320321540",
+    "name": "Ministry of Science and Technology of the People's Republic of China",
+    "count": 13062
+   },
+   {
+    "key": "https://openalex.org/F4320323641",
+    "name": "Vedeck\u00e1 Grantov\u00e1 Agent\u00fara M\u0160VVa\u0160 SR a SAV",
+    "count": 13024
+   },
+   {
+    "key": "https://openalex.org/F4320337534",
+    "name": "National Institute on Minority Health and Health Disparities",
+    "count": 12958
+   },
+   {
+    "key": "https://openalex.org/F4320334763",
+    "name": "Leibniz-Gemeinschaft",
+    "count": 12827
+   },
+   {
+    "key": "https://openalex.org/F4320327557",
+    "name": "National Office for Philosophy and Social Sciences",
+    "count": 12800
+   },
+   {
+    "key": "https://openalex.org/F4320321005",
+    "name": "Ministerstvo \u0160kolstv\u00ed, Ml\u00e1de\u017ee a T\u011blov\u00fdchovy",
+    "count": 12759
+   },
+   {
+    "key": "https://openalex.org/F4320320847",
+    "name": "Science Foundation Ireland",
+    "count": 12736
+   },
+   {
+    "key": "https://openalex.org/F4320338291",
+    "name": "Sandia National Laboratories",
+    "count": 12397
+   },
+   {
+    "key": "https://openalex.org/F4320334617",
+    "name": "Social Sciences and Humanities Research Council of Canada",
+    "count": 12356
+   },
+   {
+    "key": "https://openalex.org/F4320337348",
+    "name": "National Human Genome Research Institute",
+    "count": 12306
+   },
+   {
+    "key": "https://openalex.org/F4320321007",
+    "name": "ZonMw",
+    "count": 12304
+   },
+   {
+    "key": "https://openalex.org/F4320322015",
+    "name": "University of Toronto",
+    "count": 12113
+   },
+   {
+    "key": "https://openalex.org/F4320321594",
+    "name": "Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas",
+    "count": 12085
+   },
+   {
+    "key": "https://openalex.org/F4320338304",
+    "name": "Los Alamos National Laboratory",
+    "count": 11961
+   },
+   {
+    "key": "https://openalex.org/F4320322990",
+    "name": "Sichuan University",
+    "count": 11958
+   },
+   {
+    "key": "https://openalex.org/F4320322308",
+    "name": "KU Leuven",
+    "count": 11858
+   },
+   {
+    "key": "https://openalex.org/F4320337393",
+    "name": "Division of Chemistry",
+    "count": 11842
+   },
+   {
+    "key": "https://openalex.org/F4320309475",
+    "name": "Northwestern University",
+    "count": 11746
+   },
+   {
+    "key": "https://openalex.org/F4320326754",
+    "name": "Junta de Andaluc\u00eda",
+    "count": 11743
+   },
+   {
+    "key": "https://openalex.org/F4320322186",
+    "name": "Natural Science Foundation of Hubei Province",
+    "count": 11711
+   },
+   {
+    "key": "https://openalex.org/F4320334801",
+    "name": "Russian Academy of Sciences",
+    "count": 11697
+   },
+   {
+    "key": "https://openalex.org/F4320322037",
+    "name": "Nuclear Safety and Security Commission",
+    "count": 11592
+   },
+   {
+    "key": "https://openalex.org/F4320320769",
+    "name": "Indian Council of Agricultural Research",
+    "count": 11566
+   },
+   {
+    "key": "https://openalex.org/F4320309612",
+    "name": "Natural Science Foundation of Shanghai",
+    "count": 11551
+   },
+   {
+    "key": "https://openalex.org/F4320337368",
+    "name": "Division of Graduate Education",
+    "count": 11419
+   },
+   {
+    "key": "https://openalex.org/F4320328515",
+    "name": "Lembaga Pengelola Dana Pendidikan",
+    "count": 11312
+   },
+   {
+    "key": "https://openalex.org/F4320311030",
+    "name": "Istituto Nazionale di Alta Matematica \"Francesco Severi\"",
+    "count": 11304
+   },
+   {
+    "key": "https://openalex.org/F4320322919",
+    "name": "Natural Science Foundation of Beijing Municipality",
+    "count": 11242
+   },
+   {
+    "key": "https://openalex.org/F4320322729",
+    "name": "Ministarstvo Prosvete, Nauke i Tehnolo\u0161kog Razvoja",
+    "count": 11171
+   },
+   {
+    "key": "https://openalex.org/F2461203286",
+    "name": "National Science and Technology Council",
+    "count": 11146
+   }
+  ]
+ },
+ "with_country_all": {
+  "filter": "publication_year:2022-2026,type:article|review|preprint|conference-paper|book-chapter|book|dissertation|report,countries_distinct_count:>0",
+  "count": 33517069,
+  "pulled": "2026-11-24",
+  "group_by": null,
+  "groups": []
+ }
+}

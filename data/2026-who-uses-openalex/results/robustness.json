@@ -1,0 +1,69 @@
+{
+ "cites_by_year": {
+  "2022": {
+   "with_references": 20,
+   "cite": 9,
+   "share": 0.45
+  },
+  "2023": {
+   "with_references": 113,
+   "cite": 49,
+   "share": 0.434
+  },
+  "2024": {
+   "with_references": 311,
+   "cite": 109,
+   "share": 0.35
+  },
+  "2025": {
+   "with_references": 734,
+   "cite": 206,
+   "share": 0.281
+  },
+  "2026": {
+   "with_references": 2502,
+   "cite": 565,
+   "share": 0.226
+  }
+ },
+ "reviews": {
+  "2025": {
+   "reviews": 267,
+   "papers": 917
+  },
+  "2026": {
+   "reviews": 1581,
+   "papers": 3192
+  }
+ },
+ "prolific": {
+  "2025": {
+   "papers": 917,
+   "without_prolific": 878
+  },
+  "2026": {
+   "papers": 3192,
+   "without_prolific": 2961
+  },
+  "ratio_all": 3.48,
+  "ratio_without_prolific": 3.37
+ },
+ "estimate": {
+  "floor": 4672,
+  "found_title_abstract": 2517,
+  "found_body": 2155,
+  "body_papers_read": 3558,
+  "body_papers_unread": 1136,
+  "use_rate_read_body": 0.61,
+  "fulltext_share_title_abstract_users": 0.558,
+  "fulltext_share_all_papers": 0.447,
+  "estimate_with_user_share": 7619,
+  "estimate_with_all_paper_share": 8894,
+  "assumptions": "papers I could not read used OpenAlex as often as those I could; papers without full text in OpenAlex name it only in the body as often as those with it"
+ },
+ "fulltext_share": {
+  "with_fulltext": 23840756,
+  "all": 53388399,
+  "share": 0.447
+ }
+}

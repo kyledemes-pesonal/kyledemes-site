@@ -1,0 +1,94 @@
+{
+ "distinct_awards": 1427,
+ "papers_with_awards": 615,
+ "groups": [
+  {
+   "slug": "both",
+   "label": "Funders that also pay for OpenAlex",
+   "grants": 72,
+   "funders": 8
+  },
+  {
+   "slug": "eu",
+   "label": "EU programmes",
+   "grants": 249,
+   "funders": 14
+  },
+  {
+   "slug": "nsf",
+   "label": "US National Science Foundation",
+   "grants": 87,
+   "funders": 1
+  },
+  {
+   "slug": "nsfc",
+   "label": "China’s NSFC",
+   "grants": 87,
+   "funders": 2
+  },
+  {
+   "slug": "de",
+   "label": "Germany’s DFG and research ministry",
+   "grants": 82,
+   "funders": 5
+  },
+  {
+   "slug": "es",
+   "label": "Spain’s research agency and ministry",
+   "grants": 70,
+   "funders": 3
+  },
+  {
+   "slug": "br",
+   "label": "Brazil’s FAPESP, CAPES and CNPq",
+   "grants": 67,
+   "funders": 3
+  },
+  {
+   "slug": "nih",
+   "label": "US National Institutes of Health",
+   "grants": 47,
+   "funders": 13
+  },
+  {
+   "slug": "other",
+   "label": "other",
+   "grants": 666,
+   "funders": 257
+  }
+ ],
+ "both_detail": [
+  [
+   "Fundação para a Ciência e a Tecnologia",
+   29
+  ],
+  [
+   "Wellcome Trust",
+   17
+  ],
+  [
+   "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+   6
+  ],
+  [
+   "Japan Science and Technology Agency",
+   5
+  ],
+  [
+   "Vetenskapsrådet",
+   5
+  ],
+  [
+   "Agencia Nacional de Investigación y Desarrollo",
+   5
+  ],
+  [
+   "Austrian Science Fund",
+   4
+  ],
+  [
+   "Sociale en Geesteswetenschappen, NWO",
+   1
+  ]
+ ]
+}

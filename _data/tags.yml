@@ -9,3 +9,6 @@ funding-data:
 research-security:
   name: Research security
   description: Canada's research security policies and what the data say about who Canadian researchers work with.
+open-infrastructure:
+  name: Open infrastructure
+  description: Shared, open research tools like OpenAlex, who uses them and who pays for them.

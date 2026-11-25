@@ -1,0 +1,20 @@
+{
+ "titleabs": {
+  "compared": 100,
+  "agree_used_or_not": 97,
+  "both_used": 84,
+  "same_use_category": 79
+ },
+ "body": {
+  "compared": 100,
+  "agree_used_or_not": 97,
+  "both_used": 58,
+  "same_use_category": 49
+ },
+ "total": {
+  "compared": 200,
+  "agree_used_or_not": 194,
+  "both_used": 142,
+  "same_use_category": 128
+ }
+}

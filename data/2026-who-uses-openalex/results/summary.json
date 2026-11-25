@@ -1,0 +1,2090 @@
+{
+ "funnel": [
+  {
+   "group": "body_read",
+   "role": "data_source",
+   "works": 2057
+  },
+  {
+   "group": "body_read",
+   "role": "false_positive",
+   "works": 30
+  },
+  {
+   "group": "body_read",
+   "role": "passing",
+   "works": 1450
+  },
+  {
+   "group": "body_read",
+   "role": "subject",
+   "works": 31
+  },
+  {
+   "group": "body_read",
+   "role": "tool",
+   "works": 174
+  },
+  {
+   "group": "body_read",
+   "role": "unclear",
+   "works": 66
+  },
+  {
+   "group": "body_unread",
+   "role": "data_source",
+   "works": 7
+  },
+  {
+   "group": "body_unread",
+   "role": "passing",
+   "works": 67
+  },
+  {
+   "group": "body_unread",
+   "role": "tool",
+   "works": 2
+  },
+  {
+   "group": "body_unread",
+   "role": "unclear",
+   "works": 1135
+  },
+  {
+   "group": "title_abstract",
+   "role": "data_source",
+   "works": 3417
+  },
+  {
+   "group": "title_abstract",
+   "role": "not_labelled",
+   "works": 2
+  },
+  {
+   "group": "title_abstract",
+   "role": "passing",
+   "works": 261
+  },
+  {
+   "group": "title_abstract",
+   "role": "subject",
+   "works": 330
+  },
+  {
+   "group": "title_abstract",
+   "role": "tool",
+   "works": 501
+  },
+  {
+   "group": "title_abstract",
+   "role": "unclear",
+   "works": 238
+  }
+ ],
+ "corpus_size": {
+  "used_any_type": 6518,
+  "papers_before_dedupe": 4773,
+  "papers": 4672,
+  "non_paper_used_by_type": {
+   "dataset": 863,
+   "software": 252,
+   "study-registration": 224,
+   "other": 166,
+   "supplementary-materials": 66,
+   "conference-abstract": 55,
+   "peer-review": 27,
+   "paratext": 24,
+   "data-paper": 21,
+   "retraction": 8,
+   "editorial": 7,
+   "software-paper": 5,
+   "book-review": 1,
+   "erratum": 1
+  }
+ },
+ "roles": {
+  "data_source": 4114,
+  "tool": 319,
+  "subject": 239
+ },
+ "uses": {
+  "literature_search": 1973,
+  "bibliometric_analysis": 1336,
+  "linking_enrichment": 379,
+  "dataset_building": 373,
+  "software": 294,
+  "evaluation": 234,
+  "other": 81,
+  "none": 2
+ },
+ "years": {
+  "2022": 29,
+  "2023": 148,
+  "2024": 386,
+  "2025": 917,
+  "2026": 3192
+ },
+ "years_by_group": {
+  "title_abstract": {
+   "2022": 12,
+   "2023": 71,
+   "2024": 187,
+   "2025": 469,
+   "2026": 1778
+  },
+  "body_read": {
+   "2022": 17,
+   "2023": 76,
+   "2024": 198,
+   "2025": 446,
+   "2026": 1410
+  },
+  "body_unread": {
+   "2023": 1,
+   "2024": 1,
+   "2025": 2,
+   "2026": 4
+  }
+ },
+ "types": {
+  "article": 2082,
+  "preprint": 1173,
+  "review": 618,
+  "conference-paper": 455,
+  "report": 158,
+  "dissertation": 98,
+  "book-chapter": 54,
+  "book": 34
+ },
+ "countries": [
+  {
+   "country": "US",
+   "papers": 572,
+   "share_of_corpus": 0.122432,
+   "share_of_corpus_with_country": 0.160314,
+   "share_of_all_papers_with_country": 0.14118,
+   "all_papers_2022_2026": 4731936,
+   "fulltext_papers_2022_2026": 2403755,
+   "per_10k_papers": 1.21,
+   "per_10k_fulltext_papers": 2.38
+  },
+  {
+   "country": "CN",
+   "papers": 339,
+   "share_of_corpus": 0.07256,
+   "share_of_corpus_with_country": 0.095011,
+   "share_of_all_papers_with_country": 0.179849,
+   "all_papers_2022_2026": 6028012,
+   "fulltext_papers_2022_2026": 2312959,
+   "per_10k_papers": 0.56,
+   "per_10k_fulltext_papers": 1.47
+  },
+  {
+   "country": "BR",
+   "papers": 299,
+   "share_of_corpus": 0.063998,
+   "share_of_corpus_with_country": 0.0838,
+   "share_of_all_papers_with_country": 0.042359,
+   "all_papers_2022_2026": 1419752,
+   "fulltext_papers_2022_2026": 1014424,
+   "per_10k_papers": 2.11,
+   "per_10k_fulltext_papers": 2.95
+  },
+  {
+   "country": "DE",
+   "papers": 277,
+   "share_of_corpus": 0.059289,
+   "share_of_corpus_with_country": 0.077635,
+   "share_of_all_papers_with_country": 0.042324,
+   "all_papers_2022_2026": 1418567,
+   "fulltext_papers_2022_2026": 756571,
+   "per_10k_papers": 1.95,
+   "per_10k_fulltext_papers": 3.66
+  },
+  {
+   "country": "ID",
+   "papers": 266,
+   "share_of_corpus": 0.056935,
+   "share_of_corpus_with_country": 0.074552,
+   "share_of_all_papers_with_country": 0.097649,
+   "all_papers_2022_2026": 3272912,
+   "fulltext_papers_2022_2026": 2830173,
+   "per_10k_papers": 0.81,
+   "per_10k_fulltext_papers": 0.94
+  },
+  {
+   "country": "GB",
+   "papers": 249,
+   "share_of_corpus": 0.053296,
+   "share_of_corpus_with_country": 0.069787,
+   "share_of_all_papers_with_country": 0.046504,
+   "all_papers_2022_2026": 1558694,
+   "fulltext_papers_2022_2026": 955099,
+   "per_10k_papers": 1.6,
+   "per_10k_fulltext_papers": 2.61
+  },
+  {
+   "country": "IN",
+   "papers": 155,
+   "share_of_corpus": 0.033176,
+   "share_of_corpus_with_country": 0.043442,
+   "share_of_all_papers_with_country": 0.066773,
+   "all_papers_2022_2026": 2238024,
+   "fulltext_papers_2022_2026": 903646,
+   "per_10k_papers": 0.69,
+   "per_10k_fulltext_papers": 1.72
+  },
+  {
+   "country": "CA",
+   "papers": 153,
+   "share_of_corpus": 0.032748,
+   "share_of_corpus_with_country": 0.042881,
+   "share_of_all_papers_with_country": 0.023813,
+   "all_papers_2022_2026": 798146,
+   "fulltext_papers_2022_2026": 434866,
+   "per_10k_papers": 1.92,
+   "per_10k_fulltext_papers": 3.52
+  },
+  {
+   "country": "ES",
+   "papers": 152,
+   "share_of_corpus": 0.032534,
+   "share_of_corpus_with_country": 0.042601,
+   "share_of_all_papers_with_country": 0.025633,
+   "all_papers_2022_2026": 859138,
+   "fulltext_papers_2022_2026": 582623,
+   "per_10k_papers": 1.77,
+   "per_10k_fulltext_papers": 2.61
+  },
+  {
+   "country": "NL",
+   "papers": 134,
+   "share_of_corpus": 0.028682,
+   "share_of_corpus_with_country": 0.037556,
+   "share_of_all_papers_with_country": 0.013317,
+   "all_papers_2022_2026": 446337,
+   "fulltext_papers_2022_2026": 314540,
+   "per_10k_papers": 3.0,
+   "per_10k_fulltext_papers": 4.26
+  },
+  {
+   "country": "FR",
+   "papers": 127,
+   "share_of_corpus": 0.027183,
+   "share_of_corpus_with_country": 0.035594,
+   "share_of_all_papers_with_country": 0.035387,
+   "all_papers_2022_2026": 1186065,
+   "fulltext_papers_2022_2026": 543060,
+   "per_10k_papers": 1.07,
+   "per_10k_fulltext_papers": 2.34
+  },
+  {
+   "country": "IT",
+   "papers": 119,
+   "share_of_corpus": 0.025471,
+   "share_of_corpus_with_country": 0.033352,
+   "share_of_all_papers_with_country": 0.027925,
+   "all_papers_2022_2026": 935961,
+   "fulltext_papers_2022_2026": 569431,
+   "per_10k_papers": 1.27,
+   "per_10k_fulltext_papers": 2.09
+  },
+  {
+   "country": "RU",
+   "papers": 115,
+   "share_of_corpus": 0.024615,
+   "share_of_corpus_with_country": 0.032231,
+   "share_of_all_papers_with_country": 0.029875,
+   "all_papers_2022_2026": 1001338,
+   "fulltext_papers_2022_2026": 550608,
+   "per_10k_papers": 1.15,
+   "per_10k_fulltext_papers": 2.09
+  },
+  {
+   "country": "CH",
+   "papers": 97,
+   "share_of_corpus": 0.020762,
+   "share_of_corpus_with_country": 0.027186,
+   "share_of_all_papers_with_country": 0.011204,
+   "all_papers_2022_2026": 375520,
+   "fulltext_papers_2022_2026": 238589,
+   "per_10k_papers": 2.58,
+   "per_10k_fulltext_papers": 4.07
+  },
+  {
+   "country": "AU",
+   "papers": 73,
+   "share_of_corpus": 0.015625,
+   "share_of_corpus_with_country": 0.02046,
+   "share_of_all_papers_with_country": 0.021325,
+   "all_papers_2022_2026": 714764,
+   "fulltext_papers_2022_2026": 372749,
+   "per_10k_papers": 1.02,
+   "per_10k_fulltext_papers": 1.96
+  },
+  {
+   "country": "JP",
+   "papers": 63,
+   "share_of_corpus": 0.013485,
+   "share_of_corpus_with_country": 0.017657,
+   "share_of_all_papers_with_country": 0.029289,
+   "all_papers_2022_2026": 981680,
+   "fulltext_papers_2022_2026": 546620,
+   "per_10k_papers": 0.64,
+   "per_10k_fulltext_papers": 1.15
+  },
+  {
+   "country": "MX",
+   "papers": 61,
+   "share_of_corpus": 0.013057,
+   "share_of_corpus_with_country": 0.017096,
+   "share_of_all_papers_with_country": 0.009433,
+   "all_papers_2022_2026": 316164,
+   "fulltext_papers_2022_2026": 216541,
+   "per_10k_papers": 1.93,
+   "per_10k_fulltext_papers": 2.82
+  },
+  {
+   "country": "PL",
+   "papers": 57,
+   "share_of_corpus": 0.0122,
+   "share_of_corpus_with_country": 0.015975,
+   "share_of_all_papers_with_country": 0.012659,
+   "all_papers_2022_2026": 424291,
+   "fulltext_papers_2022_2026": 300130,
+   "per_10k_papers": 1.34,
+   "per_10k_fulltext_papers": 1.9
+  },
+  {
+   "country": "TR",
+   "papers": 57,
+   "share_of_corpus": 0.0122,
+   "share_of_corpus_with_country": 0.015975,
+   "share_of_all_papers_with_country": 0.023378,
+   "all_papers_2022_2026": 783575,
+   "fulltext_papers_2022_2026": 524791,
+   "per_10k_papers": 0.73,
+   "per_10k_fulltext_papers": 1.09
+  },
+  {
+   "country": "EC",
+   "papers": 56,
+   "share_of_corpus": 0.011986,
+   "share_of_corpus_with_country": 0.015695,
+   "share_of_all_papers_with_country": 0.004202,
+   "all_papers_2022_2026": 140846,
+   "fulltext_papers_2022_2026": 111425,
+   "per_10k_papers": 3.98,
+   "per_10k_fulltext_papers": 5.03
+  },
+  {
+   "country": "KR",
+   "papers": 53,
+   "share_of_corpus": 0.011344,
+   "share_of_corpus_with_country": 0.014854,
+   "share_of_all_papers_with_country": 0.020588,
+   "all_papers_2022_2026": 690036,
+   "fulltext_papers_2022_2026": 309499,
+   "per_10k_papers": 0.77,
+   "per_10k_fulltext_papers": 1.71
+  },
+  {
+   "country": "BE",
+   "papers": 52,
+   "share_of_corpus": 0.01113,
+   "share_of_corpus_with_country": 0.014574,
+   "share_of_all_papers_with_country": 0.008134,
+   "all_papers_2022_2026": 272633,
+   "fulltext_papers_2022_2026": 168575,
+   "per_10k_papers": 1.91,
+   "per_10k_fulltext_papers": 3.08
+  },
+  {
+   "country": "PH",
+   "papers": 51,
+   "share_of_corpus": 0.010916,
+   "share_of_corpus_with_country": 0.014294,
+   "share_of_all_papers_with_country": 0.003939,
+   "all_papers_2022_2026": 132027,
+   "fulltext_papers_2022_2026": 83744,
+   "per_10k_papers": 3.86,
+   "per_10k_fulltext_papers": 6.09
+  },
+  {
+   "country": "SA",
+   "papers": 50,
+   "share_of_corpus": 0.010702,
+   "share_of_corpus_with_country": 0.014013,
+   "share_of_all_papers_with_country": 0.012308,
+   "all_papers_2022_2026": 412530,
+   "fulltext_papers_2022_2026": 222495,
+   "per_10k_papers": 1.21,
+   "per_10k_fulltext_papers": 2.25
+  },
+  {
+   "country": "AR",
+   "papers": 49,
+   "share_of_corpus": 0.010488,
+   "share_of_corpus_with_country": 0.013733,
+   "share_of_all_papers_with_country": 0.005178,
+   "all_papers_2022_2026": 173563,
+   "fulltext_papers_2022_2026": 123279,
+   "per_10k_papers": 2.82,
+   "per_10k_fulltext_papers": 3.97
+  },
+  {
+   "country": "RO",
+   "papers": 48,
+   "share_of_corpus": 0.010274,
+   "share_of_corpus_with_country": 0.013453,
+   "share_of_all_papers_with_country": 0.004504,
+   "all_papers_2022_2026": 150975,
+   "fulltext_papers_2022_2026": 104528,
+   "per_10k_papers": 3.18,
+   "per_10k_fulltext_papers": 4.59
+  },
+  {
+   "country": "SE",
+   "papers": 48,
+   "share_of_corpus": 0.010274,
+   "share_of_corpus_with_country": 0.013453,
+   "share_of_all_papers_with_country": 0.010431,
+   "all_papers_2022_2026": 349626,
+   "fulltext_papers_2022_2026": 261222,
+   "per_10k_papers": 1.37,
+   "per_10k_fulltext_papers": 1.84
+  },
+  {
+   "country": "AT",
+   "papers": 47,
+   "share_of_corpus": 0.01006,
+   "share_of_corpus_with_country": 0.013173,
+   "share_of_all_papers_with_country": 0.006611,
+   "all_papers_2022_2026": 221589,
+   "fulltext_papers_2022_2026": 131416,
+   "per_10k_papers": 2.12,
+   "per_10k_fulltext_papers": 3.58
+  },
+  {
+   "country": "ZA",
+   "papers": 46,
+   "share_of_corpus": 0.009846,
+   "share_of_corpus_with_country": 0.012892,
+   "share_of_all_papers_with_country": 0.007115,
+   "all_papers_2022_2026": 238464,
+   "fulltext_papers_2022_2026": 144464,
+   "per_10k_papers": 1.93,
+   "per_10k_fulltext_papers": 3.18
+  },
+  {
+   "country": "IR",
+   "papers": 44,
+   "share_of_corpus": 0.009418,
+   "share_of_corpus_with_country": 0.012332,
+   "share_of_all_papers_with_country": 0.013736,
+   "all_papers_2022_2026": 460385,
+   "fulltext_papers_2022_2026": 199025,
+   "per_10k_papers": 0.96,
+   "per_10k_fulltext_papers": 2.21
+  },
+  {
+   "country": "UA",
+   "papers": 43,
+   "share_of_corpus": 0.009204,
+   "share_of_corpus_with_country": 0.012052,
+   "share_of_all_papers_with_country": 0.015391,
+   "all_papers_2022_2026": 515864,
+   "fulltext_papers_2022_2026": 427968,
+   "per_10k_papers": 0.83,
+   "per_10k_fulltext_papers": 1.0
+  },
+  {
+   "country": "CO",
+   "papers": 42,
+   "share_of_corpus": 0.00899,
+   "share_of_corpus_with_country": 0.011771,
+   "share_of_all_papers_with_country": 0.006075,
+   "all_papers_2022_2026": 203624,
+   "fulltext_papers_2022_2026": 153885,
+   "per_10k_papers": 2.06,
+   "per_10k_fulltext_papers": 2.73
+  },
+  {
+   "country": "PT",
+   "papers": 39,
+   "share_of_corpus": 0.008348,
+   "share_of_corpus_with_country": 0.01093,
+   "share_of_all_papers_with_country": 0.008829,
+   "all_papers_2022_2026": 295916,
+   "fulltext_papers_2022_2026": 185665,
+   "per_10k_papers": 1.32,
+   "per_10k_fulltext_papers": 2.1
+  },
+  {
+   "country": "MY",
+   "papers": 39,
+   "share_of_corpus": 0.008348,
+   "share_of_corpus_with_country": 0.01093,
+   "share_of_all_papers_with_country": 0.011367,
+   "all_papers_2022_2026": 380976,
+   "fulltext_papers_2022_2026": 238410,
+   "per_10k_papers": 1.02,
+   "per_10k_fulltext_papers": 1.64
+  },
+  {
+   "country": "DK",
+   "papers": 38,
+   "share_of_corpus": 0.008134,
+   "share_of_corpus_with_country": 0.01065,
+   "share_of_all_papers_with_country": 0.007006,
+   "all_papers_2022_2026": 234818,
+   "fulltext_papers_2022_2026": 144779,
+   "per_10k_papers": 1.62,
+   "per_10k_fulltext_papers": 2.62
+  },
+  {
+   "country": "FI",
+   "papers": 35,
+   "share_of_corpus": 0.007491,
+   "share_of_corpus_with_country": 0.009809,
+   "share_of_all_papers_with_country": 0.00802,
+   "all_papers_2022_2026": 268792,
+   "fulltext_papers_2022_2026": 217660,
+   "per_10k_papers": 1.3,
+   "per_10k_fulltext_papers": 1.61
+  },
+  {
+   "country": "NO",
+   "papers": 35,
+   "share_of_corpus": 0.007491,
+   "share_of_corpus_with_country": 0.009809,
+   "share_of_all_papers_with_country": 0.005241,
+   "all_papers_2022_2026": 175669,
+   "fulltext_papers_2022_2026": 109815,
+   "per_10k_papers": 1.99,
+   "per_10k_fulltext_papers": 3.19
+  },
+  {
+   "country": "HK",
+   "papers": 33,
+   "share_of_corpus": 0.007063,
+   "share_of_corpus_with_country": 0.009249,
+   "share_of_all_papers_with_country": 0.007267,
+   "all_papers_2022_2026": 243571,
+   "fulltext_papers_2022_2026": 115045,
+   "per_10k_papers": 1.35,
+   "per_10k_fulltext_papers": 2.87
+  },
+  {
+   "country": "CU",
+   "papers": 30,
+   "share_of_corpus": 0.006421,
+   "share_of_corpus_with_country": 0.008408,
+   "share_of_all_papers_with_country": 0.000843,
+   "all_papers_2022_2026": 28244,
+   "fulltext_papers_2022_2026": 20335,
+   "per_10k_papers": 10.62,
+   "per_10k_fulltext_papers": 14.75
+  },
+  {
+   "country": "PK",
+   "papers": 28,
+   "share_of_corpus": 0.005993,
+   "share_of_corpus_with_country": 0.007848,
+   "share_of_all_papers_with_country": 0.010907,
+   "all_papers_2022_2026": 365561,
+   "fulltext_papers_2022_2026": 229495,
+   "per_10k_papers": 0.77,
+   "per_10k_fulltext_papers": 1.22
+  },
+  {
+   "country": "NG",
+   "papers": 27,
+   "share_of_corpus": 0.005779,
+   "share_of_corpus_with_country": 0.007567,
+   "share_of_all_papers_with_country": 0.009858,
+   "all_papers_2022_2026": 330404,
+   "fulltext_papers_2022_2026": 223590,
+   "per_10k_papers": 0.82,
+   "per_10k_fulltext_papers": 1.21
+  },
+  {
+   "country": "HU",
+   "papers": 26,
+   "share_of_corpus": 0.005565,
+   "share_of_corpus_with_country": 0.007287,
+   "share_of_all_papers_with_country": 0.003695,
+   "all_papers_2022_2026": 123852,
+   "fulltext_papers_2022_2026": 91448,
+   "per_10k_papers": 2.1,
+   "per_10k_fulltext_papers": 2.84
+  },
+  {
+   "country": "KZ",
+   "papers": 24,
+   "share_of_corpus": 0.005137,
+   "share_of_corpus_with_country": 0.006726,
+   "share_of_all_papers_with_country": 0.002746,
+   "all_papers_2022_2026": 92045,
+   "fulltext_papers_2022_2026": 65905,
+   "per_10k_papers": 2.61,
+   "per_10k_fulltext_papers": 3.64
+  },
+  {
+   "country": "CL",
+   "papers": 24,
+   "share_of_corpus": 0.005137,
+   "share_of_corpus_with_country": 0.006726,
+   "share_of_all_papers_with_country": 0.004412,
+   "all_papers_2022_2026": 147882,
+   "fulltext_papers_2022_2026": 98050,
+   "per_10k_papers": 1.62,
+   "per_10k_fulltext_papers": 2.45
+  },
+  {
+   "country": "GR",
+   "papers": 23,
+   "share_of_corpus": 0.004923,
+   "share_of_corpus_with_country": 0.006446,
+   "share_of_all_papers_with_country": 0.005331,
+   "all_papers_2022_2026": 178667,
+   "fulltext_papers_2022_2026": 107359,
+   "per_10k_papers": 1.29,
+   "per_10k_fulltext_papers": 2.14
+  },
+  {
+   "country": "VN",
+   "papers": 22,
+   "share_of_corpus": 0.004709,
+   "share_of_corpus_with_country": 0.006166,
+   "share_of_all_papers_with_country": 0.00573,
+   "all_papers_2022_2026": 192052,
+   "fulltext_papers_2022_2026": 109228,
+   "per_10k_papers": 1.15,
+   "per_10k_fulltext_papers": 2.01
+  },
+  {
+   "country": "CZ",
+   "papers": 21,
+   "share_of_corpus": 0.004495,
+   "share_of_corpus_with_country": 0.005886,
+   "share_of_all_papers_with_country": 0.006696,
+   "all_papers_2022_2026": 224431,
+   "fulltext_papers_2022_2026": 107759,
+   "per_10k_papers": 0.94,
+   "per_10k_fulltext_papers": 1.95
+  },
+  {
+   "country": "MA",
+   "papers": 20,
+   "share_of_corpus": 0.004281,
+   "share_of_corpus_with_country": 0.005605,
+   "share_of_all_papers_with_country": 0.003773,
+   "all_papers_2022_2026": 126476,
+   "fulltext_papers_2022_2026": 61626,
+   "per_10k_papers": 1.58,
+   "per_10k_fulltext_papers": 3.25
+  },
+  {
+   "country": "AE",
+   "papers": 19,
+   "share_of_corpus": 0.004067,
+   "share_of_corpus_with_country": 0.005325,
+   "share_of_all_papers_with_country": 0.003538,
+   "all_papers_2022_2026": 118597,
+   "fulltext_papers_2022_2026": 56993,
+   "per_10k_papers": 1.6,
+   "per_10k_fulltext_papers": 3.33
+  },
+  {
+   "country": "SG",
+   "papers": 19,
+   "share_of_corpus": 0.004067,
+   "share_of_corpus_with_country": 0.005325,
+   "share_of_all_papers_with_country": 0.005309,
+   "all_papers_2022_2026": 177957,
+   "fulltext_papers_2022_2026": 87988,
+   "per_10k_papers": 1.07,
+   "per_10k_fulltext_papers": 2.16
+  },
+  {
+   "country": "SI",
+   "papers": 19,
+   "share_of_corpus": 0.004067,
+   "share_of_corpus_with_country": 0.005325,
+   "share_of_all_papers_with_country": 0.002358,
+   "all_papers_2022_2026": 79047,
+   "fulltext_papers_2022_2026": 64892,
+   "per_10k_papers": 2.4,
+   "per_10k_fulltext_papers": 2.93
+  },
+  {
+   "country": "UZ",
+   "papers": 19,
+   "share_of_corpus": 0.004067,
+   "share_of_corpus_with_country": 0.005325,
+   "share_of_all_papers_with_country": 0.009313,
+   "all_papers_2022_2026": 312150,
+   "fulltext_papers_2022_2026": 219886,
+   "per_10k_papers": 0.61,
+   "per_10k_fulltext_papers": 0.86
+  },
+  {
+   "country": "PE",
+   "papers": 18,
+   "share_of_corpus": 0.003853,
+   "share_of_corpus_with_country": 0.005045,
+   "share_of_all_papers_with_country": 0.005543,
+   "all_papers_2022_2026": 185779,
+   "fulltext_papers_2022_2026": 147499,
+   "per_10k_papers": 0.97,
+   "per_10k_fulltext_papers": 1.22
+  },
+  {
+   "country": "IE",
+   "papers": 17,
+   "share_of_corpus": 0.003639,
+   "share_of_corpus_with_country": 0.004765,
+   "share_of_all_papers_with_country": 0.003961,
+   "all_papers_2022_2026": 132750,
+   "fulltext_papers_2022_2026": 77663,
+   "per_10k_papers": 1.28,
+   "per_10k_fulltext_papers": 2.19
+  },
+  {
+   "country": "GH",
+   "papers": 14,
+   "share_of_corpus": 0.002997,
+   "share_of_corpus_with_country": 0.003924,
+   "share_of_all_papers_with_country": 0.001796,
+   "all_papers_2022_2026": 60180,
+   "fulltext_papers_2022_2026": 36734,
+   "per_10k_papers": 2.33,
+   "per_10k_fulltext_papers": 3.81
+  },
+  {
+   "country": "RS",
+   "papers": 13,
+   "share_of_corpus": 0.002783,
+   "share_of_corpus_with_country": 0.003643,
+   "share_of_all_papers_with_country": 0.002535,
+   "all_papers_2022_2026": 84954,
+   "fulltext_papers_2022_2026": 59809,
+   "per_10k_papers": 1.53,
+   "per_10k_fulltext_papers": 2.17
+  },
+  {
+   "country": "TW",
+   "papers": 13,
+   "share_of_corpus": 0.002783,
+   "share_of_corpus_with_country": 0.003643,
+   "share_of_all_papers_with_country": 0.007452,
+   "all_papers_2022_2026": 249758,
+   "fulltext_papers_2022_2026": 113787,
+   "per_10k_papers": 0.52,
+   "per_10k_fulltext_papers": 1.14
+  },
+  {
+   "country": "IQ",
+   "papers": 12,
+   "share_of_corpus": 0.002568,
+   "share_of_corpus_with_country": 0.003363,
+   "share_of_all_papers_with_country": 0.007557,
+   "all_papers_2022_2026": 253299,
+   "fulltext_papers_2022_2026": 173423,
+   "per_10k_papers": 0.47,
+   "per_10k_fulltext_papers": 0.69
+  },
+  {
+   "country": "UG",
+   "papers": 11,
+   "share_of_corpus": 0.002354,
+   "share_of_corpus_with_country": 0.003083,
+   "share_of_all_papers_with_country": 0.001173,
+   "all_papers_2022_2026": 39302,
+   "fulltext_papers_2022_2026": 29030,
+   "per_10k_papers": 2.8,
+   "per_10k_fulltext_papers": 3.79
+  },
+  {
+   "country": "KE",
+   "papers": 11,
+   "share_of_corpus": 0.002354,
+   "share_of_corpus_with_country": 0.003083,
+   "share_of_all_papers_with_country": 0.002134,
+   "all_papers_2022_2026": 71518,
+   "fulltext_papers_2022_2026": 51577,
+   "per_10k_papers": 1.54,
+   "per_10k_fulltext_papers": 2.13
+  }
+ ],
+ "countries_meta": {
+  "papers_with_no_country": 1104,
+  "distinct_countries": 134,
+  "denominator_total_all": 53388399,
+  "denominator_total_ft": 23840756,
+  "papers_with_country": 3568
+ },
+ "institutions": [
+  {
+   "id": "I45129253",
+   "name": "University College London",
+   "country": "GB",
+   "papers": 50
+  },
+  {
+   "id": "I121797337",
+   "name": "Leiden University",
+   "country": "NL",
+   "papers": 50
+  },
+  {
+   "id": "I1294671590",
+   "name": "Centre National de la Recherche Scientifique",
+   "country": "FR",
+   "papers": 38
+  },
+  {
+   "id": "I4210088975",
+   "name": "Instituto Brasileiro de Informação em Ciência e Tecnologia",
+   "country": "BR",
+   "papers": 37
+  },
+  {
+   "id": "I40120149",
+   "name": "University of Oxford",
+   "country": "GB",
+   "papers": 35
+  },
+  {
+   "id": "I173304897",
+   "name": "Universidad de Granada",
+   "country": "ES",
+   "papers": 34
+  },
+  {
+   "id": "I136199984",
+   "name": "Harvard University",
+   "country": "US",
+   "papers": 33
+  },
+  {
+   "id": "I20231570",
+   "name": "Peking University",
+   "country": "CN",
+   "papers": 31
+  },
+  {
+   "id": "I4104125",
+   "name": "Universidade Federal de Santa Catarina",
+   "country": "BR",
+   "papers": 31
+  },
+  {
+   "id": "I97018004",
+   "name": "Stanford University",
+   "country": "US",
+   "papers": 29
+  },
+  {
+   "id": "I17974374",
+   "name": "Universidade de São Paulo",
+   "country": "BR",
+   "papers": 29
+  },
+  {
+   "id": "I153718931",
+   "name": "University of Ottawa",
+   "country": "CA",
+   "papers": 28
+  },
+  {
+   "id": "I48379061",
+   "name": "Shahid Beheshti University",
+   "country": "IR",
+   "papers": 28
+  },
+  {
+   "id": "I181391015",
+   "name": "Universidade Estadual de Campinas (UNICAMP)",
+   "country": "BR",
+   "papers": 26
+  },
+  {
+   "id": "I129902397",
+   "name": "Dalhousie University",
+   "country": "CA",
+   "papers": 25
+  },
+  {
+   "id": "I99065089",
+   "name": "Tsinghua University",
+   "country": "CN",
+   "papers": 25
+  },
+  {
+   "id": "I70931966",
+   "name": "Université de Montréal",
+   "country": "CA",
+   "papers": 24
+  },
+  {
+   "id": "I19820366",
+   "name": "Chinese Academy of Sciences",
+   "country": "CN",
+   "papers": 24
+  },
+  {
+   "id": "I26092322",
+   "name": "Stellenbosch University",
+   "country": "ZA",
+   "papers": 23
+  },
+  {
+   "id": "I63966007",
+   "name": "Massachusetts Institute of Technology",
+   "country": "US",
+   "papers": 22
+  },
+  {
+   "id": "I193662353",
+   "name": "Utrecht University",
+   "country": "NL",
+   "papers": 21
+  },
+  {
+   "id": "I4210165038",
+   "name": "University of Chinese Academy of Sciences",
+   "country": "CN",
+   "papers": 21
+  },
+  {
+   "id": "I4210136482",
+   "name": "Federal Center for Technological Education of Minas Gerais",
+   "country": "BR",
+   "papers": 21
+  },
+  {
+   "id": "I27837315",
+   "name": "University of Michigan",
+   "country": "US",
+   "papers": 20
+  },
+  {
+   "id": "I40347166",
+   "name": "University of Chicago",
+   "country": "US",
+   "papers": 20
+  },
+  {
+   "id": "I130218214",
+   "name": "Indonesia University of Education",
+   "country": "ID",
+   "papers": 20
+  },
+  {
+   "id": "I111979921",
+   "name": "Northwestern University",
+   "country": "US",
+   "papers": 20
+  },
+  {
+   "id": "I37461747",
+   "name": "Wuhan University",
+   "country": "CN",
+   "papers": 19
+  },
+  {
+   "id": "I47508984",
+   "name": "Imperial College London",
+   "country": "GB",
+   "papers": 18
+  },
+  {
+   "id": "I99464096",
+   "name": "KU Leuven",
+   "country": "BE",
+   "papers": 18
+  },
+  {
+   "id": "I157725225",
+   "name": "University of Illinois Urbana-Champaign",
+   "country": "US",
+   "papers": 18
+  },
+  {
+   "id": "I4210153181",
+   "name": "Universidad de Ciencias Médicas de la Habana",
+   "country": "CU",
+   "papers": 18
+  },
+  {
+   "id": "I98677209",
+   "name": "University of Edinburgh",
+   "country": "GB",
+   "papers": 17
+  },
+  {
+   "id": "I95457486",
+   "name": "University of California, Berkeley",
+   "country": "US",
+   "papers": 17
+  },
+  {
+   "id": "I202697423",
+   "name": "University of Zurich",
+   "country": "CH",
+   "papers": 17
+  },
+  {
+   "id": "I150729083",
+   "name": "Universidade de Brasília",
+   "country": "BR",
+   "papers": 17
+  },
+  {
+   "id": "I130442723",
+   "name": "Universidade Federal do Rio Grande do Sul",
+   "country": "BR",
+   "papers": 17
+  },
+  {
+   "id": "I3123573182",
+   "name": "Transilvania University of Brașov",
+   "country": "RO",
+   "papers": 17
+  },
+  {
+   "id": "I130701444",
+   "name": "Georgia Institute of Technology",
+   "country": "US",
+   "papers": 16
+  },
+  {
+   "id": "I36399199",
+   "name": "Nanjing University of Science and Technology",
+   "country": "CN",
+   "papers": 16
+  },
+  {
+   "id": "I78988378",
+   "name": "Renmin University of China",
+   "country": "CN",
+   "papers": 16
+  },
+  {
+   "id": "I39343248",
+   "name": "Humboldt-Universität zu Berlin",
+   "country": "DE",
+   "papers": 16
+  },
+  {
+   "id": "I76130692",
+   "name": "Zhejiang University",
+   "country": "CN",
+   "papers": 16
+  },
+  {
+   "id": "I2802635041",
+   "name": "Technische Informationsbibliothek (TIB)",
+   "country": "DE",
+   "papers": 15
+  },
+  {
+   "id": "I138006243",
+   "name": "University of Arizona",
+   "country": "US",
+   "papers": 15
+  },
+  {
+   "id": "I4210119109",
+   "name": "Indiana University Bloomington",
+   "country": "US",
+   "papers": 15
+  },
+  {
+   "id": "I114457229",
+   "name": "University of Geneva",
+   "country": "CH",
+   "papers": 15
+  },
+  {
+   "id": "I35440088",
+   "name": "ETH Zurich",
+   "country": "CH",
+   "papers": 15
+  },
+  {
+   "id": "I112471378",
+   "name": "Central University of Tamil Nadu",
+   "country": "IN",
+   "papers": 15
+  },
+  {
+   "id": "I91136226",
+   "name": "University of Sheffield",
+   "country": "GB",
+   "papers": 15
+  },
+  {
+   "id": "I18014758",
+   "name": "Simon Fraser University",
+   "country": "CA",
+   "papers": 15
+  },
+  {
+   "id": "I241749",
+   "name": "University of Cambridge",
+   "country": "GB",
+   "papers": 15
+  },
+  {
+   "id": "I201448701",
+   "name": "University of Washington",
+   "country": "US",
+   "papers": 15
+  },
+  {
+   "id": "I177909021",
+   "name": "Universidade Federal de São Carlos",
+   "country": "BR",
+   "papers": 15
+  },
+  {
+   "id": "I159129438",
+   "name": "Université du Québec à Montréal",
+   "country": "CA",
+   "papers": 14
+  },
+  {
+   "id": "I592451",
+   "name": "Indiana University",
+   "country": "US",
+   "papers": 14
+  },
+  {
+   "id": "I60200437",
+   "name": "Potsdam Institute for Climate Impact Research",
+   "country": "DE",
+   "papers": 14
+  },
+  {
+   "id": "I185261750",
+   "name": "University of Toronto",
+   "country": "CA",
+   "papers": 14
+  },
+  {
+   "id": "I1313323035",
+   "name": "Russian Academy of Sciences",
+   "country": "RU",
+   "papers": 14
+  },
+  {
+   "id": "I4210088365",
+   "name": "Max Planck Institute for Solid State Research",
+   "country": "DE",
+   "papers": 13
+  }
+ ],
+ "fields": [
+  {
+   "field": "Social Sciences",
+   "papers": 2101,
+   "share_of_corpus": 0.450182,
+   "share_of_all_papers": 0.189141,
+   "share_of_fulltext_papers": 0.198101
+  },
+  {
+   "field": "Computer Science",
+   "papers": 747,
+   "share_of_corpus": 0.16006,
+   "share_of_all_papers": 0.067208,
+   "share_of_fulltext_papers": 0.065653
+  },
+  {
+   "field": "Medicine",
+   "papers": 467,
+   "share_of_corpus": 0.100064,
+   "share_of_all_papers": 0.156061,
+   "share_of_fulltext_papers": 0.184411
+  },
+  {
+   "field": "Business, Management and Accounting",
+   "papers": 228,
+   "share_of_corpus": 0.048854,
+   "share_of_all_papers": 0.053779,
+   "share_of_fulltext_papers": 0.063192
+  },
+  {
+   "field": "Decision Sciences",
+   "papers": 139,
+   "share_of_corpus": 0.029784,
+   "share_of_all_papers": 0.010637,
+   "share_of_fulltext_papers": 0.011167
+  },
+  {
+   "field": "Engineering",
+   "papers": 139,
+   "share_of_corpus": 0.029784,
+   "share_of_all_papers": 0.102499,
+   "share_of_fulltext_papers": 0.076555
+  },
+  {
+   "field": "Environmental Science",
+   "papers": 134,
+   "share_of_corpus": 0.028712,
+   "share_of_all_papers": 0.038822,
+   "share_of_fulltext_papers": 0.035995
+  },
+  {
+   "field": "Psychology",
+   "papers": 127,
+   "share_of_corpus": 0.027212,
+   "share_of_all_papers": 0.032445,
+   "share_of_fulltext_papers": 0.034118
+  },
+  {
+   "field": "Economics, Econometrics and Finance",
+   "papers": 87,
+   "share_of_corpus": 0.018642,
+   "share_of_all_papers": 0.026498,
+   "share_of_fulltext_papers": 0.026041
+  },
+  {
+   "field": "Agricultural and Biological Sciences",
+   "papers": 81,
+   "share_of_corpus": 0.017356,
+   "share_of_all_papers": 0.046667,
+   "share_of_fulltext_papers": 0.052202
+  },
+  {
+   "field": "Arts and Humanities",
+   "papers": 71,
+   "share_of_corpus": 0.015213,
+   "share_of_all_papers": 0.089234,
+   "share_of_fulltext_papers": 0.069146
+  },
+  {
+   "field": "Health Professions",
+   "papers": 55,
+   "share_of_corpus": 0.011785,
+   "share_of_all_papers": 0.012651,
+   "share_of_fulltext_papers": 0.014118
+  },
+  {
+   "field": "Biochemistry, Genetics and Molecular Biology",
+   "papers": 53,
+   "share_of_corpus": 0.011356,
+   "share_of_all_papers": 0.026829,
+   "share_of_fulltext_papers": 0.031294
+  },
+  {
+   "field": "Dentistry",
+   "papers": 44,
+   "share_of_corpus": 0.009428,
+   "share_of_all_papers": 0.006776,
+   "share_of_fulltext_papers": 0.008747
+  },
+  {
+   "field": "Materials Science",
+   "papers": 41,
+   "share_of_corpus": 0.008785,
+   "share_of_all_papers": 0.025238,
+   "share_of_fulltext_papers": 0.017985
+  },
+  {
+   "field": "Physics and Astronomy",
+   "papers": 30,
+   "share_of_corpus": 0.006428,
+   "share_of_all_papers": 0.026024,
+   "share_of_fulltext_papers": 0.026005
+  },
+  {
+   "field": "Mathematics",
+   "papers": 26,
+   "share_of_corpus": 0.005571,
+   "share_of_all_papers": 0.015045,
+   "share_of_fulltext_papers": 0.018054
+  },
+  {
+   "field": "Neuroscience",
+   "papers": 25,
+   "share_of_corpus": 0.005357,
+   "share_of_all_papers": 0.010748,
+   "share_of_fulltext_papers": 0.011138
+  },
+  {
+   "field": "Nursing",
+   "papers": 18,
+   "share_of_corpus": 0.003857,
+   "share_of_all_papers": 0.005646,
+   "share_of_fulltext_papers": 0.006543
+  },
+  {
+   "field": "Pharmacology, Toxicology and Pharmaceutics",
+   "papers": 17,
+   "share_of_corpus": 0.003643,
+   "share_of_all_papers": 0.004937,
+   "share_of_fulltext_papers": 0.005313
+  },
+  {
+   "field": "Earth and Planetary Sciences",
+   "papers": 12,
+   "share_of_corpus": 0.002571,
+   "share_of_all_papers": 0.013467,
+   "share_of_fulltext_papers": 0.011005
+  },
+  {
+   "field": "Immunology and Microbiology",
+   "papers": 12,
+   "share_of_corpus": 0.002571,
+   "share_of_all_papers": 0.008393,
+   "share_of_fulltext_papers": 0.009816
+  },
+  {
+   "field": "Energy",
+   "papers": 10,
+   "share_of_corpus": 0.002143,
+   "share_of_all_papers": 0.013146,
+   "share_of_fulltext_papers": 0.009467
+  },
+  {
+   "field": "Unknown",
+   "papers": 5,
+   "share_of_corpus": 0.001071,
+   "share_of_all_papers": 0.0,
+   "share_of_fulltext_papers": 0.0
+  },
+  {
+   "field": "Chemistry",
+   "papers": 2,
+   "share_of_corpus": 0.000429,
+   "share_of_all_papers": 0.012372,
+   "share_of_fulltext_papers": 0.009575
+  },
+  {
+   "field": "Chemical Engineering",
+   "papers": 1,
+   "share_of_corpus": 0.000214,
+   "share_of_all_papers": 0.004417,
+   "share_of_fulltext_papers": 0.002907
+  }
+ ],
+ "funders": [
+  {
+   "id": "F4320320300",
+   "name": "European Commission",
+   "papers": 118,
+   "share_of_corpus": 0.025257,
+   "all_papers_2022_2026": 500860
+  },
+  {
+   "id": "F4320321001",
+   "name": "National Natural Science Foundation of China",
+   "papers": 84,
+   "share_of_corpus": 0.017979,
+   "all_papers_2022_2026": 2635451
+  },
+  {
+   "id": "F4320306076",
+   "name": "National Science Foundation",
+   "papers": 82,
+   "share_of_corpus": 0.017551,
+   "all_papers_2022_2026": 456099
+  },
+  {
+   "id": "F4320321114",
+   "name": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+   "papers": 42,
+   "share_of_corpus": 0.00899,
+   "all_papers_2022_2026": 76084
+  },
+  {
+   "id": "F4320320879",
+   "name": "Deutsche Forschungsgemeinschaft",
+   "papers": 41,
+   "share_of_corpus": 0.008776,
+   "all_papers_2022_2026": 229031
+  },
+  {
+   "id": "F4320334322",
+   "name": "HORIZON EUROPE Framework Programme",
+   "papers": 35,
+   "share_of_corpus": 0.007491,
+   "all_papers_2022_2026": 71139
+  },
+  {
+   "id": "F4320332161",
+   "name": "National Institutes of Health",
+   "papers": 34,
+   "share_of_corpus": 0.007277,
+   "all_papers_2022_2026": 474608
+  },
+  {
+   "id": "F4320321091",
+   "name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+   "papers": 30,
+   "share_of_corpus": 0.006421,
+   "all_papers_2022_2026": 179923
+  },
+  {
+   "id": "F4320335598",
+   "name": "Agencia Estatal de Investigación",
+   "papers": 28,
+   "share_of_corpus": 0.005993,
+   "all_papers_2022_2026": 114127
+  },
+  {
+   "id": "F4320320883",
+   "name": "Agence Nationale de la Recherche",
+   "papers": 23,
+   "share_of_corpus": 0.004923,
+   "all_papers_2022_2026": 134236
+  },
+  {
+   "id": "F4320314731",
+   "name": "UK Research and Innovation",
+   "papers": 22,
+   "share_of_corpus": 0.004709,
+   "all_papers_2022_2026": 52549
+  },
+  {
+   "id": "F4320322025",
+   "name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+   "papers": 21,
+   "share_of_corpus": 0.004495,
+   "all_papers_2022_2026": 189814
+  },
+  {
+   "id": "F4320320997",
+   "name": "Fundação de Amparo à Pesquisa do Estado de São Paulo",
+   "papers": 21,
+   "share_of_corpus": 0.004495,
+   "all_papers_2022_2026": 72290
+  },
+  {
+   "id": "F4320334764",
+   "name": "Japan Society for the Promotion of Science",
+   "papers": 20,
+   "share_of_corpus": 0.004281,
+   "all_papers_2022_2026": 307848
+  },
+  {
+   "id": "F7311471023",
+   "name": "NextGenerationEU",
+   "papers": 18,
+   "share_of_corpus": 0.003853,
+   "all_papers_2022_2026": 77705
+  },
+  {
+   "id": "F4320311904",
+   "name": "Wellcome Trust",
+   "papers": 17,
+   "share_of_corpus": 0.003639,
+   "all_papers_2022_2026": 56321
+  },
+  {
+   "id": "F4320328359",
+   "name": "Ministry of Science and ICT, South Korea",
+   "papers": 17,
+   "share_of_corpus": 0.003639,
+   "all_papers_2022_2026": 123223
+  },
+  {
+   "id": "F4320327557",
+   "name": "National Office for Philosophy and Social Sciences",
+   "papers": 16,
+   "share_of_corpus": 0.003425,
+   "all_papers_2022_2026": 30571
+  },
+  {
+   "id": "F4320319990",
+   "name": "National Institute for Health and Care Research",
+   "papers": 16,
+   "share_of_corpus": 0.003425,
+   "all_papers_2022_2026": 69847
+  },
+  {
+   "id": "F4320334593",
+   "name": "Natural Sciences and Engineering Research Council of Canada",
+   "papers": 15,
+   "share_of_corpus": 0.003211,
+   "all_papers_2022_2026": 127672
+  },
+  {
+   "id": "F4320332999",
+   "name": "Horizon 2020 Framework Programme",
+   "papers": 14,
+   "share_of_corpus": 0.002997,
+   "all_papers_2022_2026": 100839
+  },
+  {
+   "id": "F4320338335",
+   "name": "H2020 European Research Council",
+   "papers": 14,
+   "share_of_corpus": 0.002997,
+   "all_papers_2022_2026": 97180
+  },
+  {
+   "id": "F4320322120",
+   "name": "National Research Foundation of Korea",
+   "papers": 14,
+   "share_of_corpus": 0.002997,
+   "all_papers_2022_2026": 196464
+  },
+  {
+   "id": "F4320320924",
+   "name": "Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung",
+   "papers": 12,
+   "share_of_corpus": 0.002568,
+   "all_papers_2022_2026": 69313
+  },
+  {
+   "id": "F4320334627",
+   "name": "Engineering and Physical Sciences Research Council",
+   "papers": 12,
+   "share_of_corpus": 0.002568,
+   "all_papers_2022_2026": 97529
+  },
+  {
+   "id": "F4320334617",
+   "name": "Social Sciences and Humanities Research Council of Canada",
+   "papers": 12,
+   "share_of_corpus": 0.002568,
+   "all_papers_2022_2026": 21661
+  },
+  {
+   "id": "F4320335787",
+   "name": "Fundamental Research Funds for the Central Universities",
+   "papers": 11,
+   "share_of_corpus": 0.002354,
+   "all_papers_2022_2026": 288547
+  },
+  {
+   "id": "F4320334626",
+   "name": "Medical Research Council",
+   "papers": 11,
+   "share_of_corpus": 0.002354,
+   "all_papers_2022_2026": 85147
+  },
+  {
+   "id": "F4320309475",
+   "name": "Northwestern University",
+   "papers": 11,
+   "share_of_corpus": 0.002354,
+   "all_papers_2022_2026": null
+  },
+  {
+   "id": "F4320327494",
+   "name": "Ministry of Science and Higher Education of the Russian Federation",
+   "papers": 11,
+   "share_of_corpus": 0.002354,
+   "all_papers_2022_2026": 44647
+  },
+  {
+   "id": "F4320338279",
+   "name": "Air Force Office of Scientific Research",
+   "papers": 10,
+   "share_of_corpus": 0.00214,
+   "all_papers_2022_2026": 24990
+  },
+  {
+   "id": "F4320306151",
+   "name": "Alfred P. Sloan Foundation",
+   "papers": 10,
+   "share_of_corpus": 0.00214,
+   "all_papers_2022_2026": null
+  },
+  {
+   "id": "F4320322930",
+   "name": "Ministerio de Ciencia e Innovación",
+   "papers": 10,
+   "share_of_corpus": 0.00214,
+   "all_papers_2022_2026": 82743
+  },
+  {
+   "id": "F4320332815",
+   "name": "Advanced Research Projects Agency",
+   "papers": 9,
+   "share_of_corpus": 0.001926,
+   "all_papers_2022_2026": null
+  },
+  {
+   "id": "F4320334678",
+   "name": "European Research Council",
+   "papers": 9,
+   "share_of_corpus": 0.001926,
+   "all_papers_2022_2026": 42009
+  },
+  {
+   "id": "F4320322725",
+   "name": "China Scholarship Council",
+   "papers": 9,
+   "share_of_corpus": 0.001926,
+   "all_papers_2022_2026": 80443
+  },
+  {
+   "id": "F4320335322",
+   "name": "European Regional Development Fund",
+   "papers": 9,
+   "share_of_corpus": 0.001926,
+   "all_papers_2022_2026": 122951
+  },
+  {
+   "id": "F4320321505",
+   "name": "Generalitat de Catalunya",
+   "papers": 9,
+   "share_of_corpus": 0.001926,
+   "all_papers_2022_2026": 25986
+  },
+  {
+   "id": "F4320328515",
+   "name": "Lembaga Pengelola Dana Pendidikan",
+   "papers": 9,
+   "share_of_corpus": 0.001926,
+   "all_papers_2022_2026": null
+  },
+  {
+   "id": "F4320335777",
+   "name": "National Key Research and Development Program of China",
+   "papers": 8,
+   "share_of_corpus": 0.001712,
+   "all_papers_2022_2026": 554728
+  },
+  {
+   "id": "F4320321033",
+   "name": "Svenska Forskningsrådet Formas",
+   "papers": 8,
+   "share_of_corpus": 0.001712,
+   "all_papers_2022_2026": null
+  },
+  {
+   "id": "F4320322581",
+   "name": "Vetenskapsrådet",
+   "papers": 8,
+   "share_of_corpus": 0.001712,
+   "all_papers_2022_2026": 56498
+  },
+  {
+   "id": "F4320331165",
+   "name": "Fonds de recherche du Québec",
+   "papers": 8,
+   "share_of_corpus": 0.001712,
+   "all_papers_2022_2026": null
+  },
+  {
+   "id": "F4320334779",
+   "name": "Fundação para a Ciência e a Tecnologia",
+   "papers": 8,
+   "share_of_corpus": 0.001712,
+   "all_papers_2022_2026": 93427
+  },
+  {
+   "id": "F4320320386",
+   "name": "Commonwealth Scientific and Industrial Research Organisation",
+   "papers": 8,
+   "share_of_corpus": 0.001712,
+   "all_papers_2022_2026": null
+  },
+  {
+   "id": "F4320337354",
+   "name": "National Institute of General Medical Sciences",
+   "papers": 8,
+   "share_of_corpus": 0.001712,
+   "all_papers_2022_2026": 112533
+  },
+  {
+   "id": "F4320306084",
+   "name": "U.S. Department of Energy",
+   "papers": 8,
+   "share_of_corpus": 0.001712,
+   "all_papers_2022_2026": 179569
+  },
+  {
+   "id": "F4320315062",
+   "name": "Ministerio de Ciencia, Innovación y Universidades",
+   "papers": 8,
+   "share_of_corpus": 0.001712,
+   "all_papers_2022_2026": 52270
+  },
+  {
+   "id": "F4320319994",
+   "name": "Department of Health and Social Care",
+   "papers": 8,
+   "share_of_corpus": 0.001712,
+   "all_papers_2022_2026": 23911
+  },
+  {
+   "id": "F4320338453",
+   "name": "HORIZON EUROPE European Research Council",
+   "papers": 8,
+   "share_of_corpus": 0.001712,
+   "all_papers_2022_2026": 33378
+  },
+  {
+   "id": "F4320335869",
+   "name": "National Social Science Fund of China",
+   "papers": 8,
+   "share_of_corpus": 0.001712,
+   "all_papers_2022_2026": 40645
+  },
+  {
+   "id": "F4320306137",
+   "name": "Bill and Melinda Gates Foundation",
+   "papers": 7,
+   "share_of_corpus": 0.001498,
+   "all_papers_2022_2026": 24809
+  },
+  {
+   "id": "F4320334679",
+   "name": "Research Executive Agency",
+   "papers": 7,
+   "share_of_corpus": 0.001498,
+   "all_papers_2022_2026": null
+  },
+  {
+   "id": "F4320332180",
+   "name": "Defense Advanced Research Projects Agency",
+   "papers": 7,
+   "share_of_corpus": 0.001498,
+   "all_papers_2022_2026": null
+  },
+  {
+   "id": "F4320324787",
+   "name": "Peking University",
+   "papers": 7,
+   "share_of_corpus": 0.001498,
+   "all_papers_2022_2026": 22095
+  },
+  {
+   "id": "F4320322436",
+   "name": "Novo Nordisk",
+   "papers": 7,
+   "share_of_corpus": 0.001498,
+   "all_papers_2022_2026": 24205
+  },
+  {
+   "id": "F4320309622",
+   "name": "Harvard University",
+   "papers": 7,
+   "share_of_corpus": 0.001498,
+   "all_papers_2022_2026": null
+  },
+  {
+   "id": "F4320322892",
+   "name": "Centre National de la Recherche Scientifique",
+   "papers": 7,
+   "share_of_corpus": 0.001498,
+   "all_papers_2022_2026": 45157
+  },
+  {
+   "id": "F4320320671",
+   "name": "National Research Foundation",
+   "papers": 7,
+   "share_of_corpus": 0.001498,
+   "all_papers_2022_2026": 132329
+  },
+  {
+   "id": "F4320324099",
+   "name": "Russian Science Foundation",
+   "papers": 7,
+   "share_of_corpus": 0.001498,
+   "all_papers_2022_2026": 95263
+  }
+ ],
+ "funders_grouped": [
+  {
+   "name": "European Union (Commission, Horizon, ERC and other programmes)",
+   "papers": 140
+  },
+  {
+   "name": "National Natural Science Foundation of China",
+   "papers": 84
+  },
+  {
+   "name": "National Science Foundation",
+   "papers": 82
+  },
+  {
+   "name": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+   "papers": 42
+  },
+  {
+   "name": "Deutsche Forschungsgemeinschaft",
+   "papers": 41
+  },
+  {
+   "name": "National Institutes of Health",
+   "papers": 34
+  },
+  {
+   "name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+   "papers": 30
+  },
+  {
+   "name": "Agencia Estatal de Investigación",
+   "papers": 28
+  },
+  {
+   "name": "Agence Nationale de la Recherche",
+   "papers": 23
+  },
+  {
+   "name": "UK Research and Innovation",
+   "papers": 22
+  },
+  {
+   "name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+   "papers": 21
+  },
+  {
+   "name": "Fundação de Amparo à Pesquisa do Estado de São Paulo",
+   "papers": 21
+  },
+  {
+   "name": "Japan Society for the Promotion of Science",
+   "papers": 20
+  },
+  {
+   "name": "Wellcome Trust",
+   "papers": 17
+  },
+  {
+   "name": "Ministry of Science and ICT, South Korea",
+   "papers": 17
+  },
+  {
+   "name": "National Office for Philosophy and Social Sciences",
+   "papers": 16
+  },
+  {
+   "name": "National Institute for Health and Care Research",
+   "papers": 16
+  },
+  {
+   "name": "Natural Sciences and Engineering Research Council of Canada",
+   "papers": 15
+  },
+  {
+   "name": "National Research Foundation of Korea",
+   "papers": 14
+  },
+  {
+   "name": "Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung",
+   "papers": 12
+  },
+  {
+   "name": "Engineering and Physical Sciences Research Council",
+   "papers": 12
+  },
+  {
+   "name": "Social Sciences and Humanities Research Council of Canada",
+   "papers": 12
+  },
+  {
+   "name": "Fundamental Research Funds for the Central Universities",
+   "papers": 11
+  },
+  {
+   "name": "Medical Research Council",
+   "papers": 11
+  },
+  {
+   "name": "Northwestern University",
+   "papers": 11
+  },
+  {
+   "name": "Ministry of Science and Higher Education of the Russian Federation",
+   "papers": 11
+  },
+  {
+   "name": "Air Force Office of Scientific Research",
+   "papers": 10
+  },
+  {
+   "name": "Alfred P. Sloan Foundation",
+   "papers": 10
+  },
+  {
+   "name": "Ministerio de Ciencia e Innovación",
+   "papers": 10
+  },
+  {
+   "name": "Advanced Research Projects Agency",
+   "papers": 9
+  }
+ ],
+ "funders_meta": {
+  "papers_with_any_funder": 1036,
+  "share_with_any_funder": 0.221747,
+  "distinct_funders": 954
+ },
+ "pays_vs_uses": [
+  {
+   "country": "US",
+   "share_of_using_papers": 0.1603,
+   "paying_institutions": 25,
+   "share_of_paying_institutions": 0.198413
+  },
+  {
+   "country": "CN",
+   "share_of_using_papers": 0.095,
+   "paying_institutions": 2,
+   "share_of_paying_institutions": 0.015873
+  },
+  {
+   "country": "BR",
+   "share_of_using_papers": 0.0838,
+   "paying_institutions": 0,
+   "share_of_paying_institutions": 0.0
+  },
+  {
+   "country": "DE",
+   "share_of_using_papers": 0.0776,
+   "paying_institutions": 8,
+   "share_of_paying_institutions": 0.063492
+  },
+  {
+   "country": "ID",
+   "share_of_using_papers": 0.0746,
+   "paying_institutions": 1,
+   "share_of_paying_institutions": 0.007937
+  },
+  {
+   "country": "GB",
+   "share_of_using_papers": 0.0698,
+   "paying_institutions": 26,
+   "share_of_paying_institutions": 0.206349
+  },
+  {
+   "country": "IN",
+   "share_of_using_papers": 0.0434,
+   "paying_institutions": 0,
+   "share_of_paying_institutions": 0.0
+  },
+  {
+   "country": "CA",
+   "share_of_using_papers": 0.0429,
+   "paying_institutions": 6,
+   "share_of_paying_institutions": 0.047619
+  },
+  {
+   "country": "ES",
+   "share_of_using_papers": 0.0426,
+   "paying_institutions": 2,
+   "share_of_paying_institutions": 0.015873
+  },
+  {
+   "country": "NL",
+   "share_of_using_papers": 0.0376,
+   "paying_institutions": 9,
+   "share_of_paying_institutions": 0.071429
+  },
+  {
+   "country": "FR",
+   "share_of_using_papers": 0.0356,
+   "paying_institutions": 25,
+   "share_of_paying_institutions": 0.198413
+  },
+  {
+   "country": "IT",
+   "share_of_using_papers": 0.0334,
+   "paying_institutions": 1,
+   "share_of_paying_institutions": 0.007937
+  },
+  {
+   "country": "RU",
+   "share_of_using_papers": 0.0322,
+   "paying_institutions": 0,
+   "share_of_paying_institutions": 0.0
+  },
+  {
+   "country": "CH",
+   "share_of_using_papers": 0.0272,
+   "paying_institutions": 5,
+   "share_of_paying_institutions": 0.039683
+  },
+  {
+   "country": "AU",
+   "share_of_using_papers": 0.0205,
+   "paying_institutions": 2,
+   "share_of_paying_institutions": 0.015873
+  },
+  {
+   "country": "JP",
+   "share_of_using_papers": 0.0177,
+   "paying_institutions": 4,
+   "share_of_paying_institutions": 0.031746
+  },
+  {
+   "country": "KR",
+   "share_of_using_papers": 0.0149,
+   "paying_institutions": 1,
+   "share_of_paying_institutions": 0.007937
+  },
+  {
+   "country": "SE",
+   "share_of_using_papers": 0.0135,
+   "paying_institutions": 2,
+   "share_of_paying_institutions": 0.015873
+  },
+  {
+   "country": "AT",
+   "share_of_using_papers": 0.0132,
+   "paying_institutions": 1,
+   "share_of_paying_institutions": 0.007937
+  },
+  {
+   "country": "PT",
+   "share_of_using_papers": 0.0109,
+   "paying_institutions": 1,
+   "share_of_paying_institutions": 0.007937
+  },
+  {
+   "country": "DK",
+   "share_of_using_papers": 0.0107,
+   "paying_institutions": 1,
+   "share_of_paying_institutions": 0.007937
+  },
+  {
+   "country": "HK",
+   "share_of_using_papers": 0.0092,
+   "paying_institutions": 1,
+   "share_of_paying_institutions": 0.007937
+  },
+  {
+   "country": "CL",
+   "share_of_using_papers": 0.0067,
+   "paying_institutions": 1,
+   "share_of_paying_institutions": 0.007937
+  },
+  {
+   "country": "PE",
+   "share_of_using_papers": 0.005,
+   "paying_institutions": 1,
+   "share_of_paying_institutions": 0.007937
+  },
+  {
+   "country": "LU",
+   "share_of_using_papers": 0.002,
+   "paying_institutions": 1,
+   "share_of_paying_institutions": 0.007937
+  }
+ ],
+ "pays_meta": {
+  "supporters_total": 139,
+  "resolved": 126,
+  "pulled": "2026-11-24",
+  "url": "https://openalex.org/institutional-supporters"
+ },
+ "cites_openalex_paper": {
+  "papers": 4672,
+  "cite": 938,
+  "with_references": 3680,
+  "cite_among_with_references": 938
+ },
+ "institutions_meta": {
+  "distinct_institutions": 3362
+ }
+}

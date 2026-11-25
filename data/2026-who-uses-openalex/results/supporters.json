@@ -1,0 +1,40 @@
+{
+ "pulled": "2026-11-24",
+ "url": "https://openalex.org/institutional-supporters",
+ "total": 139,
+ "by_tier": {
+  "member": 81,
+  "member_plus": 44,
+  "partner": 14
+ },
+ "by_type": {
+  "university, institute or other public body": 113,
+  "research funder": 9,
+  "company or publisher": 17
+ },
+ "unresolved_country": 13,
+ "by_country": {
+  "GB": 26,
+  "US": 25,
+  "FR": 25,
+  "NL": 9,
+  "DE": 8,
+  "CA": 6,
+  "CH": 5,
+  "JP": 4,
+  "ES": 2,
+  "SE": 2,
+  "AU": 2,
+  "CN": 2,
+  "PT": 1,
+  "KR": 1,
+  "PE": 1,
+  "IT": 1,
+  "ID": 1,
+  "CL": 1,
+  "AT": 1,
+  "LU": 1,
+  "HK": 1,
+  "DK": 1
+ }
+}
