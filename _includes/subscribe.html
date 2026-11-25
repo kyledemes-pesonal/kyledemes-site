@@ -29,7 +29,10 @@ document.querySelectorAll('form.subscribe').forEach(function (f) {
     body.append(email.name, email.value.trim());
     btn.disabled = true;
     fetch(f.action, { method: 'POST', mode: 'no-cors', body: body })
-      .then(done)
+      .then(function () {
+        if (window.gtag) gtag('event', 'sign_up', { method: 'field_notes_form' });
+        done();
+      })
       .catch(function () { btn.disabled = false; f.submit(); });
   });
 });

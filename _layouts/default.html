@@ -2,6 +2,15 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
+  {%- if jekyll.environment == 'production' %}
+  <!-- Google Analytics: kyle@demes.ca, property kyledemes.com (G-GCNYJ5PR3L). Live site only. -->
+  <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-NV5GD5BN"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  </script>
+  {%- endif %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">

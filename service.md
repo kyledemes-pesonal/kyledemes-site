@@ -10,7 +10,7 @@ permalink: /service/
 
 <div class="tl">
   <div class="item"><div class="when">Current</div><div class="what">Board of Directors</div><div class="where">Canadian Science Publishing</div></div>
-  <div class="item"><div class="when">2023 to present</div><div class="what">Member, Climate Action Committee</div><div class="where">City of Port Moody</div></div>
+  <div class="item past"><div class="when">2023 to 2024</div><div class="what">Member, Climate Action Committee</div><div class="where">City of Port Moody</div></div>
   <div class="item past"><div class="when">2020 to 2021</div><div class="what">Member, Environmental Protection Committee</div><div class="where">City of Port Moody</div></div>
   <div class="item past"><div class="when">2019 to 2022</div><div class="what">Director at Large</div><div class="where">Dan's Legacy Foundation</div></div>
   <div class="item past"><div class="when">2019 to 2020</div><div class="what">2SLGBTQ+ Advisory Committee</div><div class="where">City of Vancouver</div></div>

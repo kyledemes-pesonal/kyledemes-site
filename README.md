@@ -12,6 +12,10 @@ Each one gets a folder `data/<year>-<slug>/` with a README (browser-checkable AP
 
 The "Get new field notes by email" box (`_includes/subscribe.html`, shown on the homepage, the Field notes page and every post) submits to the Google Form "Field notes sign-ups" in kyle@demes.ca's Drive. Each sign-up lands as a row (timestamp, email) in the Google Sheet "Field notes subscribers". The form ID and field (`entry.1045046103`) are in the include. To move to a newsletter service later, export the Sheet as CSV and import it there.
 
+## Analytics
+
+Page views go to Google Analytics in kyle@demes.ca's account (account "Kyle Demes", property "kyledemes.com", measurement ID `G-GCNYJ5PR3L`, Google tag `GTM-NV5GD5BN`). The tag sits in `_layouts/default.html` and loads only when `jekyll.environment` is `production`, which GitHub Pages sets, so local builds don't count. A successful sign-up in the email box also sends a `sign_up` event (method `field_notes_form`).
+
 ## Tags
 
 Posts list themes by slug in the front matter (`tags: [open-access, funding-data]`). Each tag needs two things: an entry in `_data/tags.yml` (display name and one-line description) and a stub page at `notes/tags/<slug>/index.html` (copy an existing stub, change `tag:` and `title:`). GitHub Pages runs no tag plugin, so a tag without its stub has no page. `notes/tags/` lists every tag.
