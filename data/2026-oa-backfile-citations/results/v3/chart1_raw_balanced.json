@@ -1,0 +1,58 @@
+{
+ "k": [
+  -5,
+  -4,
+  -3,
+  -2,
+  -1,
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "opened": [
+  67.4,
+  75.4,
+  84.1,
+  93.1,
+  100.0,
+  98.4,
+  99.1,
+  97.3,
+  94.1,
+  92.6,
+  91.0,
+  90.1,
+  90.8,
+  89.3
+ ],
+ "control": [
+  68.1,
+  76.3,
+  83.8,
+  92.1,
+  100.0,
+  99.7,
+  100.6,
+  98.5,
+  95.4,
+  92.9,
+  90.6,
+  89.8,
+  90.5,
+  88.8
+ ],
+ "n_openings": 97,
+ "articles": 289830,
+ "treated_n_sum": 289830,
+ "share_minus1_cites_from_papers_published_T_minus_5_to_T_minus_1": {
+  "opened": 0.349,
+  "control": 0.302
+ },
+ "note": "per group: sum of citations in event year k / sum of articles in the cohort years, indexed to k = -1; openings with T + 8 <= 2025; v3 pure set, Q12 panel cleaned"
+}

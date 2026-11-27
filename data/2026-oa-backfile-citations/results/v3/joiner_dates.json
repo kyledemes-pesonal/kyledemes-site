@@ -1,0 +1,71 @@
+[
+ {
+  "dropped": [
+   [
+    "hpb",
+    "2018",
+    "2016-12-01"
+   ],
+   [
+    "osteoarthritis and cartilage",
+    "2018",
+    "2014-02-01"
+   ],
+   [
+    "journal of thoracic oncology",
+    "2020",
+    "2015-12-01"
+   ],
+   [
+    "value in health regional issues",
+    "2020",
+    "2016-12-01"
+   ]
+  ]
+ },
+ {
+  "weight": "citation-weighted",
+  "label": "PURE v3 without early-licence joiners | citation-weighted",
+  "b": 0.014876324478107413,
+  "se": 0.016568748508770163,
+  "pct": 1.498752774075185,
+  "lo95": -1.744447476263089,
+  "hi95": 4.84900395022505,
+  "n_obs": 189841,
+  "n_stacks": 109,
+  "n_treated_journals": 109,
+  "treated_articles": 320199,
+  "cluster": "src",
+  "G": 515
+ },
+ {
+  "weight": "event-weighted",
+  "label": "PURE v3 without early-licence joiners | event-weighted",
+  "b": 0.07139791160146389,
+  "se": 0.018048452054764446,
+  "pct": 7.400850129653147,
+  "lo95": 3.6679633427393554,
+  "hi95": 11.268151091540624,
+  "n_obs": 189841,
+  "n_stacks": 109,
+  "n_treated_journals": 109,
+  "treated_articles": 320199,
+  "cluster": "src",
+  "G": 515
+ },
+ {
+  "weight": "article-weighted",
+  "label": "PURE v3 without early-licence joiners | article-weighted",
+  "b": 0.040265067929616094,
+  "se": 0.017459771624736393,
+  "pct": 4.108669631686301,
+  "lo95": 0.6062216854636482,
+  "hi95": 7.733049814409743,
+  "n_obs": 189841,
+  "n_stacks": 109,
+  "n_treated_journals": 109,
+  "treated_articles": 320199,
+  "cluster": "src",
+  "G": 515
+ }
+]

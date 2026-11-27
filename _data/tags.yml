@@ -12,3 +12,6 @@ research-security:
 open-infrastructure:
   name: Open infrastructure
   description: Shared, open research tools like OpenAlex, who uses them and who pays for them.
+international-collaboration:
+  name: International collaboration
+  description: Who Canadian researchers work with abroad, on what, and how that lines up with what governments say they want.

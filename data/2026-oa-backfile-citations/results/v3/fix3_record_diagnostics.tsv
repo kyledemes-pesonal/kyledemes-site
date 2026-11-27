@@ -1,0 +1,1047 @@
+stack	group	role	src	journal	n	share_not_home	dropped	jstor
+0	pure	treated	151579836	Journal of Mathematical Analysis and Applications	18318	0.00021836445026749646	0	0
+0	pure	control	196210972	Indiana University Mathematics Journal	3908	0.00511770726714432	0	0
+0	pure	control	74141806	SIAM Journal on Mathematical Analysis	3410	0.0	0	0
+0	pure	control	89452420	Mathematical Methods in the Applied Sciences	2078	0.0009624639076034649	0	0
+0	pure	control	137558709	Illinois Journal of Mathematics	2805	0.0010695187165775401	0	0
+0	pure	control	34928686	Zeitschrift für angewandte Mathematik und Physik	4380	0.0006849315068493151	0	0
+1	pure	treated	4210226894	Proceedings of the American Mathematical Society	23322	0.005102478346625504	106	106
+1	pure	control	10721641	MATHEMATICA SCANDINAVICA	2250	0.0057777777777777775	0	0
+1	pure	control	131268793	Canadian Journal of Mathematics	4645	0.0	0	0
+1	pure	control	7365561	Studia Mathematica	3419	0.04474992687920445	66	0
+1	pure	control	132681663	Russian Mathematical Surveys	4135	0.0065296251511487305	0	0
+1	pure	control	4210167992	Journal of Physics A Mathematical and General	20222	0.0007417663930372861	5	0
+2	pure	treated	110447773	Cell	3866	0.019141231246766685	0	0
+2	pure	control	43643205	Journal of Cellular Physiology	1948	0.001026694045174538	0	0
+2	pure	control	967762373	The Journal of Membrane Biology	1277	0.0	0	0
+2	pure	control	203465302	Pflügers Archiv - European Journal of Physiology	2541	0.017316017316017316	0	0
+2	pure	control	111869560	Archives of Microbiology	1145	0.0017467248908296944	0	0
+2	pure	control	186451451	Biotechnology Progress	1413	0.0007077140835102619	0	0
+3	pure	treated	128425624	Current Biology	4953	0.0010094891984655764	0	0
+3	pure	control	104993753	Developmental Dynamics	1345	0.0	0	0
+3	pure	control	174148068	Traffic	423	0.04964539007092199	0	0
+3	pure	control	196724125	Nature Reviews Molecular Cell Biology	901	0.0	0	0
+3	pure	control	171625771	Rejuvenation Research	317	0.0	0	0
+4	pure	treated	184147796	Journal of Algebra	11959	0.000501714190149678	0	0
+4	pure	control	141074886	Acta Arithmetica	3452	0.002317497103128621	0	0
+4	pure	control	53865935	Communications in Algebra	7635	0.0005239030779305828	0	0
+4	pure	control	64527569	Forum Mathematicum	768	0.0078125	0	0
+4	pure	control	4210169566	Mémoires de la Société mathématique de France	426	0.0	0	0
+4	pure	control	4210233340	Proceedings - Mathematical Sciences	544	0.0	0	0
+5	pure	treated	60030702	Transactions of the American Mathematical Society	13919	0.007831022343559164	105	105
+5	pure	control	192217950	Mathematische Annalen	9050	0.0018784530386740331	0	0
+5	pure	control	62223294	Journal für die reine und angewandte Mathematik (Crelles Journal)	5836	0.0017135023989033585	0	0
+5	pure	control	1382107	Israel Journal of Mathematics	3578	0.0	0	0
+5	pure	control	4210239678	Mathematical Proceedings of the Cambridge Philosophical Society	7893	0.0002533890789306981	0	0
+5	pure	control	67718071	Journal d Analyse Mathématique	1381	0.000724112961622013	0	0
+6	pure	treated	3006207977	Proceedings of the Royal Society B Biological Sciences	444	0.0	0	0
+6	pure	control	86137544	Biological reviews/Biological reviews of the Cambridge Philosophical Society	165	0.0	0	0
+6	pure	control	33456383	Journal of Animal Ecology	286	1.0	0	286
+6	pure	control	141502683	Paläontologische Zeitschrift	169	0.0	0	0
+6	pure	control	86567873	Brittonia	85	1.0	0	85
+6	pure	control	4210203293	Repertorium novarum specierum regni vegetabilis	321	0.0	0	0
+7	pure	treated	18902827	Discrete Mathematics	10945	0.007217907720420283	0	0
+7	pure	control	186126824	Graphs and Combinatorics	1072	0.0	0	0
+7	pure	control	193368155	Journal of Graph Theory	2150	0.002325581395348837	0	0
+7	pure	control	8494942	Journal of Combinatorial Designs	610	0.0	0	0
+7	pure	control	81624066	Journal of Mathematical Chemistry	1498	0.0	0	0
+7	pure	control	23260266	International Journal of Algebra and Computation	784	0.026785714285714284	20	0
+8	pure	treated	71584477	Bulletin of the American Mathematical Society	11090	9.017132551848512e-05	0	0
+8	pure	control	104894821	Mathematische Zeitschrift	9112	0.003292361720807726	0	0
+8	pure	control	92430692	Fundamenta Mathematicae	4384	0.017335766423357664	9	0
+8	pure	control	4210239678	Mathematical Proceedings of the Cambridge Philosophical Society	7893	0.0002533890789306981	0	0
+8	pure	control	177543170	The Michigan Mathematical Journal	2175	0.0004597701149425287	0	0
+8	pure	control	192217950	Mathematische Annalen	9497	0.0017900389596714752	0	0
+9	pure	treated	159544283	Linear Algebra and its Applications	8904	0.0004492362982929021	0	0
+9	pure	control	52430896	Journal of Optimization Theory and Applications	5424	0.0005530973451327434	0	0
+9	pure	control	4210177266	Theory of Computing Systems	1864	0.32457081545064376	513	0
+9	pure	control	27114296	Numerical Functional Analysis and Optimization	1342	0.1572280178837556	29	0
+9	pure	control	4210206003	ACM SIGACT News	852	0.0	0	0
+9	pure	control	30880287	Studia Logica	1744	0.007454128440366973	0	0
+10	pure	treated	67965910	International Journal of Surgery	2164	0.0027726432532347504	0	0
+10	pure	control	160568490	Journal of Hand Surgery (European Volume)	1433	0.23656664340544312	339	0
+10	pure	control	36642063	Journal of Craniofacial Surgery	3900	0.0	0	0
+10	pure	control	134892809	International Journal of Urology	2329	0.004293688278231	0	0
+10	pure	control	91064148	Colorectal Disease	2454	0.05908720456397718	131	0
+10	pure	control	51654951	Knee Surgery Sports Traumatology Arthroscopy	2539	0.0011815675462780622	0	0
+11	pure	treated	165473669	Journal of Computational and Applied Mathematics	7325	0.0023208191126279864	0	0
+11	pure	control	117494069	Numerical Algorithms	1196	0.0008361204013377926	0	0
+11	pure	control	19633754	Numerical Methods for Partial Differential Equations	1096	0.0	0	0
+11	pure	control	77200987	SIAM Journal on Applied Mathematics	3284	0.0006090133982947625	0	0
+11	pure	control	4210205683	Numerische Mathematik	2782	0.0025161754133716753	0	0
+11	pure	control	35593046	Computing	1830	0.004918032786885246	0	0
+12	pure	treated	90727058	Theoretical Computer Science	7822	0.005241626182562005	0	0
+12	pure	control	191798613	Networks	1488	0.004032258064516129	0	0
+12	pure	control	52430896	Journal of Optimization Theory and Applications	4888	0.0006137479541734861	0	0
+12	pure	control	4210177266	Theory of Computing Systems	1586	0.3720050441361917	501	0
+12	pure	control	32326811	The Journal of Supercomputing	847	0.38961038961038963	23	0
+12	pure	control	165512578	SIAM Journal on Scientific Computing	1862	0.004296455424274973	0	0
+13	pure	treated	4210205691	Computers & Mathematics with Applications	6945	0.00043196544276457883	0	0
+13	pure	control	138867346	Numerical Heat Transfer Part B Fundamentals	1457	0.0	0	0
+13	pure	control	155225502	International Journal for Numerical Methods in Fluids	4153	0.0007223693715386468	0	0
+13	pure	control	160934207	Journal of Engineering Mechanics	4137	0.018129079042784626	0	0
+13	pure	control	183886180	Transport in Porous Media	1660	0.004819277108433735	0	0
+13	pure	control	198054453	Journal of Engineering Mathematics	1394	0.0014347202295552368	0	0
+14	other flips	treated	83252788	Progress of Theoretical Physics	16039	0.018330319845376895	14	0
+14	other flips	control	20255291	Physics of Atomic Nuclei	5627	0.398080682424027	554	0
+14	other flips	control	4210174332	Nuclear Physics	5257	0.00038044512079132587	0	0
+14	other flips	control	4210228240	Zeitschrift für Physik A Hadrons and Nuclei	2668	0.0003748125937031484	0	0
+14	other flips	control	4210191612	Nature Physical Science	1656	0.012681159420289856	0	0
+14	other flips	control	4210230229	Proceedings of the Physical Society Section A	1555	0.0012861736334405145	0	0
+15	pure	treated	200871675	Journal of Differential Equations	5544	0.0	0	0
+15	pure	control	74141806	SIAM Journal on Mathematical Analysis	3410	0.0	0	0
+15	pure	control	136982523	Archive for Rational Mechanics and Analysis	2924	0.0010259917920656635	0	0
+15	pure	control	196210972	Indiana University Mathematics Journal	3543	0.005644933672029354	0	0
+15	pure	control	89452420	Mathematical Methods in the Applied Sciences	2078	0.0009624639076034649	0	0
+15	pure	control	34928686	Zeitschrift für angewandte Mathematik und Physik	3976	0.0005030181086519115	0	0
+16	pure	treated	45757444	Neuron	2933	0.0034094783498124785	0	0
+16	pure	control	114530997	Annals of Neurology	2926	0.010252904989747095	0	0
+16	pure	control	2298632	Nature Neuroscience	1402	0.0	0	0
+16	pure	control	4210186231	The Journal of Comparative Neurology	4626	0.0	0	0
+16	pure	control	80334769	Psychopharmacology	3037	0.00032927230819888045	0	0
+16	pure	control	76417895	Journal of Neuroscience Research	3100	0.0003225806451612903	0	0
+17	pure	treated	153281200	Applied Mathematical Modelling	2976	0.0016801075268817205	0	0
+17	pure	control	39260535	Rock Mechanics and Rock Engineering	728	0.0027472527472527475	0	0
+17	pure	control	49789000	Fatigue & Fracture of Engineering Materials & Structures	2600	0.0007692307692307692	0	0
+17	pure	control	187044170	International Journal of Fracture	4810	0.007692307692307693	0	0
+17	pure	control	87240457	Acta Mechanica	3390	0.002064896755162242	0	0
+17	pure	control	10012645	International Journal for Numerical and Analytical Methods in Geomechanics	1807	0.0005534034311012728	0	0
+18	pure	treated	171741597	Discrete Applied Mathematics	4501	0.0013330371028660297	0	0
+18	pure	control	52430896	Journal of Optimization Theory and Applications	4367	0.0006869704602702084	0	0
+18	pure	control	191798613	Networks	1395	0.004301075268817204	0	0
+18	pure	control	4210177266	Theory of Computing Systems	1382	0.3545586107091172	401	0
+18	pure	control	99781599	Journal of Automated Reasoning	722	0.012465373961218837	0	0
+18	pure	control	107925523	Journal of Combinatorial Optimization	501	0.3932135728542914	23	0
+19	pure	treated	122441808	Advances in Mathematics	3676	0.3223612622415669	536	0
+19	pure	control	40212770	The Annals of Probability	3376	0.0005924170616113745	0	0
+19	pure	control	105693234	Probability Theory and Related Fields	3888	0.0	0	0
+19	pure	control	100601982	Communications in Mathematical Physics	7702	0.001428200467411062	0	0
+19	pure	control	185067381	Journal of Statistical Physics	7252	0.0006894649751792609	0	0
+19	pure	control	180803011	Advances in Applied Probability	3403	0.022920952101087275	59	59
+20	pure	treated	54953690	Journal of Functional Analysis	5197	0.00038483740619588223	0	0
+20	pure	control	40212770	The Annals of Probability	3376	0.0005924170616113745	0	0
+20	pure	control	185067381	Journal of Statistical Physics	7252	0.0006894649751792609	0	0
+20	pure	control	105693234	Probability Theory and Related Fields	3696	0.0	0	0
+20	pure	control	14709335	Ergodic Theory and Dynamical Systems	1953	0.0010240655401945725	0	0
+20	pure	control	180803011	Advances in Applied Probability	3403	0.022920952101087275	59	59
+21	pure	treated	102439543	Mathematics of Computation	7432	0.24865446716899892	1827	1827
+21	pure	control	77200987	SIAM Journal on Applied Mathematics	4167	0.00047996160307175426	0	0
+21	pure	control	4210205683	Numerische Mathematik	3471	0.001728608470181504	0	0
+21	pure	control	203348814	SIAM Journal on Numerical Analysis	3561	0.0008424599831508003	0	0
+21	pure	control	193920097	Mathematical Programming	3171	0.10501419110690634	330	0
+21	pure	control	117494069	Numerical Algorithms	949	0.001053740779768177	0	0
+22	pure	treated	156208185	Molecular Cell	1579	0.02026599113362888	0	0
+22	pure	control	43643205	Journal of Cellular Physiology	1948	0.001026694045174538	0	0
+22	pure	control	139253143	Nature Structural & Molecular Biology	478	0.012552301255230125	1	0
+22	pure	control	186451451	Biotechnology Progress	1413	0.0007077140835102619	0	0
+22	pure	control	53807158	Journal of Cellular Biochemistry	2855	0.026619964973730297	70	0
+22	pure	control	171911960	Development Genes and Evolution	711	0.0	0	0
+23	pure	treated	20133105	Topology and its Applications	4098	0.0004880429477794046	0	0
+23	pure	control	40116370	manuscripta mathematica	2731	0.0029293299157817647	0	0
+23	pure	control	201224749	Geometriae Dedicata	2645	0.0	0	0
+23	pure	control	99746170	Letters in Mathematical Physics	2679	0.0011198208286674132	0	0
+23	pure	control	123869642	Czechoslovak Mathematical Journal	2042	0.0009794319294809011	0	0
+23	pure	control	55337115	Journal of Knot Theory and Its Ramifications	1013	0.018756169792694965	19	0
+24	pure	treated	4210212881	Proceedings of the Royal Society of London A Mathematical and Physical Sciences	1297	0.0	0	0
+24	pure	control	4393913120	Journal of the aeronautical sciences. [REQUEST TITLE]	1208	0.0	0	0
+24	pure	control	4210190191	Astronautics	194	0.0	0	0
+25	pure	treated	7571225	Applied Mathematics Letters	3466	0.0008655510675129833	0	0
+25	pure	control	3372071	Acta Applicandae Mathematicae	1504	0.0019946808510638296	0	0
+25	pure	control	89452420	Mathematical Methods in the Applied Sciences	1753	0.0011409013120365088	0	0
+25	pure	control	19392275	Discrete and Continuous Dynamical Systems	1262	0.003961965134706815	0	0
+25	pure	control	108887460	ESAIM Mathematical Modelling and Numerical Analysis	934	0.0	0	0
+25	pure	control	939935174	Results in Mathematics	1183	0.0008453085376162299	0	0
+26	pure	treated	4805881	Journal of Pure and Applied Algebra	4708	0.0	0	0
+26	pure	control	141074886	Acta Arithmetica	3183	0.001885014137606032	0	0
+26	pure	control	53865935	Communications in Algebra	7635	0.0005239030779305828	0	0
+26	pure	control	64527569	Forum Mathematicum	768	0.0078125	0	0
+26	pure	control	169946948	The Ramanujan Journal	467	0.4411134903640257	11	0
+26	pure	control	158116049	Journal of Algebra and Its Applications	297	0.0	0	0
+27	pure	treated	40813394	Journal of Number Theory	3579	0.0	0	0
+27	pure	control	141074886	Acta Arithmetica	3255	0.0018433179723502304	0	0
+27	pure	control	53865935	Communications in Algebra	7635	0.0005239030779305828	0	0
+27	pure	control	4210233340	Proceedings - Mathematical Sciences	544	0.0	0	0
+27	pure	control	158116049	Journal of Algebra and Its Applications	297	0.0	0	0
+27	pure	control	190308653	Glasgow Mathematical Journal	1708	0.000585480093676815	0	0
+28	other flips	treated	117354312	Journal of Biomedical Optics	6167	0.0006486135884546781	0	0
+28	other flips	control	4210187999	Journal of Biomechanical Engineering	3058	0.0016350555918901242	0	0
+28	other flips	control	198061209	Journal of Biomedical Materials Research Part B Applied Biomaterials	3771	0.002386634844868735	0	0
+28	other flips	control	120877133	IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control	5924	0.001012829169480081	0	0
+28	other flips	control	141152059	Annals of Biomedical Engineering	4321	0.04697986577181208	182	0
+28	other flips	control	192539729	Clinical Anatomy	2768	0.010476878612716763	0	0
+29	pure	treated	182710874	Mathematical and Computer Modelling	4889	0.0006136224176723256	0	0
+29	pure	control	204703277	Fractals	1071	0.14939309056956115	130	0
+29	pure	control	39425270	Journal of Biological Systems	556	0.030575539568345324	17	0
+29	pure	control	99091567	Simulation Practice and Theory	320	0.00625	0	0
+29	pure	control	171842551	Journal of Mathematical Biology	1205	0.0	0	0
+29	pure	control	59907824	International Journal of Nonlinear Sciences and Numerical Simulation	613	0.0016313213703099511	0	0
+30	pure	treated	199671312	Immunity	1394	0.0	0	0
+30	pure	control	133112385	Immunological Reviews	904	0.4491150442477876	193	0
+30	pure	control	57504206	Journal of Clinical Immunology	533	0.0	0	0
+30	pure	control	85071590	Journal of Toxicology and Environmental Health	1131	0.0	0	0
+30	pure	control	70378559	Immunologic Research	397	0.0	0	0
+30	pure	control	55943811	Inflammation Research	1450	0.008275862068965517	0	0
+31	pure	treated	7112016	Structure	1519	0.0006583278472679394	0	0
+31	pure	control	4394735520	Nature Structural Biology	1536	0.0006510416666666666	0	0
+31	pure	control	114502960	Acta Crystallographica Section D Biological Crystallography	2798	0.001072194424588992	0	0
+31	pure	control	4306559809	電子顕微鏡	564	0.9219858156028369	520	0
+31	pure	control	135123290	Journal of Structural and Functional Genomics	70	0.0	0	0
+31	pure	control	4210213840	RCSB Protein Data Bank	48	0.0	0	0
+32	pure	treated	182850260	Stochastic Processes and their Applications	3097	0.00032289312237649337	0	0
+32	pure	control	14709335	Ergodic Theory and Dynamical Systems	1953	0.0010240655401945725	0	0
+32	pure	control	105693234	Probability Theory and Related Fields	3184	0.0	0	0
+32	pure	control	180803011	Advances in Applied Probability	3289	0.020066889632107024	48	48
+32	pure	control	40212770	The Annals of Probability	3376	0.0005924170616113745	0	0
+32	pure	control	185067381	Journal of Statistical Physics	7113	0.0007029382820188388	0	0
+33	pure	treated	83804233	Developmental Cell	509	0.0	0	0
+33	pure	control	196724125	Nature Reviews Molecular Cell Biology	901	0.0	0	0
+33	pure	control	174148068	Traffic	423	0.04964539007092199	0	0
+33	pure	control	151741590	Nature Cell Biology	1164	0.003436426116838488	0	0
+33	pure	control	104993753	Developmental Dynamics	1345	0.0	0	0
+33	pure	control	7325069	Cell Biology International	1089	0.020202020202020204	0	0
+34	pure	treated	35093870	Journal of Approximation Theory	4143	0.000724112961622013	0	0
+34	pure	control	125499977	BIT Numerical Mathematics	3475	0.4089208633093525	463	0
+34	pure	control	124867444	International Journal of Computer Mathematics	2968	0.0	0	0
+34	pure	control	35593046	Computing	2211	0.004070556309362279	0	0
+34	pure	control	109208094	Journal of Computational Mathematics	1290	0.053488372093023255	0	0
+34	pure	control	21314667	CALCOLO	888	0.0	0	0
+35	pure	treated	59933527	Information and Computation	3162	0.4765970904490829	1446	0
+35	pure	control	191798613	Networks	1577	0.003804692454026633	0	0
+35	pure	control	165512578	SIAM Journal on Scientific Computing	1862	0.004296455424274973	0	0
+35	pure	control	84409463	Acta Informatica	1306	0.01914241960183767	0	0
+35	pure	control	4210177266	Theory of Computing Systems	1864	0.32457081545064376	513	0
+35	pure	control	4210206003	ACM SIGACT News	852	0.0	0	0
+36	pure	treated	128556326	Journal of Combinatorial Theory Series A	3411	0.015537965406039285	29	0
+36	pure	control	193368155	Journal of Graph Theory	2150	0.002325581395348837	0	0
+36	pure	control	81624066	Journal of Mathematical Chemistry	1498	0.0	0	0
+36	pure	control	23260266	International Journal of Algebra and Computation	784	0.026785714285714284	20	0
+36	pure	control	186126824	Graphs and Combinatorics	1072	0.0	0	0
+36	pure	control	81616010	Designs Codes and Cryptography	1191	0.0041981528127623844	0	0
+37	pure	treated	133905466	Journal of Multivariate Analysis	2668	0.0011244377811094452	0	0
+37	pure	control	190099528	British Journal of Mathematical and Statistical Psychology	867	0.0034602076124567475	0	0
+37	pure	control	167117542	Journal of Applied Statistics	1657	0.0012070006035003018	0	0
+37	pure	control	4210224318	Canadian Journal of Statistics	1342	0.8673621460506706	450	1163
+37	pure	control	17395904	International Statistical Review	1204	0.686046511627907	33	823
+37	pure	control	8500805	Computational Statistics	421	0.052256532066508314	0	0
+38	pure	treated	204851967	European Journal of Combinatorics	2311	0.006057983556901774	0	0
+38	pure	control	193368155	Journal of Graph Theory	2150	0.002325581395348837	0	0
+38	pure	control	23260266	International Journal of Algebra and Computation	784	0.026785714285714284	20	0
+38	pure	control	81624066	Journal of Mathematical Chemistry	1498	0.0	0	0
+38	pure	control	186126824	Graphs and Combinatorics	1072	0.0	0	0
+38	pure	control	8494942	Journal of Combinatorial Designs	610	0.0	0	0
+40	other flips	treated	4210240548	Progress of Theoretical Physics Supplement	4149	0.064352856109906	38	0
+40	other flips	control	4210191612	Nature Physical Science	1656	0.012681159420289856	0	0
+40	other flips	control	4210228240	Zeitschrift für Physik A Hadrons and Nuclei	2620	0.0003816793893129771	0	0
+40	other flips	control	4210174332	Nuclear Physics	5257	0.00038044512079132587	0	0
+40	other flips	control	17775143	Fusion Technology	4433	0.00834649221745996	0	0
+40	other flips	control	7787484	Journal of Physics G Nuclear Physics	2552	0.001567398119122257	0	0
+41	pure	treated	25671836	Cancer Cell	263	0.0	0	0
+41	pure	control	88052261	Antioxidants and Redox Signaling	426	0.0	0	0
+41	pure	control	22382660	Medicinal Research Reviews	241	0.0	0	0
+41	pure	control	120502300	APOPTOSIS	422	0.002369668246445498	0	0
+41	pure	control	152938505	Cell Death and Differentiation	984	0.0010162601626016261	1	0
+41	pure	control	114927911	Cancer and Metastasis Reviews	331	0.0	0	0
+42	other flips	treated	4210200397	Journal of Hygiene	4100	0.0	0	0
+42	other flips	control	135866459	Annals of Tropical Medicine and Parasitology	4111	0.008513743614692289	0	0
+42	other flips	control	64800834	The Journal of Pathology and Bacteriology	5837	0.007366798012677745	0	0
+42	other flips	control	4404676613	The American journal of tropical medicine.	1628	0.0	0	0
+42	other flips	control	2756194055	American Review of Tuberculosis	790	0.8341772151898734	87	0
+42	other flips	control	2756068992	Journal of tropical medicine and hygiene	1116	1.0	0	0
+43	pure	treated	33368595	International Journal of Approximate Reasoning	1011	0.003956478733926805	0	0
+43	pure	control	16958353	SIAM Journal on Matrix Analysis and Applications	1539	0.002599090318388564	0	0
+43	pure	control	142331907	IEEE Transactions on Nanotechnology	672	0.004464285714285714	0	0
+43	pure	control	191798613	Networks	1129	0.005314437555358724	0	0
+43	pure	control	165512578	SIAM Journal on Scientific Computing	1862	0.004296455424274973	0	0
+43	pure	control	99781599	Journal of Automated Reasoning	677	0.007385524372230428	0	0
+44	pure	treated	2939117604	Journal of Combinatorial Theory Series B	2441	0.0008193363375665711	0	0
+44	pure	control	117679221	SIAM Journal on Discrete Mathematics	1202	0.0024958402662229617	0	0
+44	pure	control	81616010	Designs Codes and Cryptography	1191	0.0041981528127623844	0	0
+44	pure	control	193368155	Journal of Graph Theory	2150	0.002325581395348837	0	0
+44	pure	control	181823235	Journal of Algebraic Combinatorics	599	0.001669449081803005	0	0
+44	pure	control	72366220	COMBINATORICA	1114	0.0026929982046678637	0	0
+45	pure	treated	141020589	Journal of Computer and System Sciences	2211	0.0027137042062415195	0	0
+45	pure	control	163326656	ACM Transactions on Mathematical Software	1215	0.0032921810699588477	0	0
+45	pure	control	165512578	SIAM Journal on Scientific Computing	1862	0.004296455424274973	0	0
+45	pure	control	191798613	Networks	1577	0.003804692454026633	0	0
+45	pure	control	84409463	Acta Informatica	1306	0.01914241960183767	0	0
+45	pure	control	4210177266	Theory of Computing Systems	1893	0.3195985208663497	513	0
+46	other flips	treated	184365670	Genetics Selection Evolution	2571	0.029171528588098017	11	0
+46	other flips	control	112923101	Acta Diabetologica	1895	0.02321899736147757	15	0
+46	other flips	control	12146737	Animal Genetics	2643	0.0037835792659856224	0	0
+46	other flips	control	170991295	Genome	3461	0.0008668015024559376	0	0
+46	other flips	control	136352176	Genetic Epidemiology	1972	0.012170385395537525	0	0
+46	other flips	control	31156748	Journal of Human Genetics	1369	0.07669831994156319	48	0
+47	other flips	treated	128470386	Zygon®	2804	0.0021398002853067048	0	0
+47	other flips	control	134345577	The Mathematical Intelligencer	2796	0.01967095851216023	0	0
+47	other flips	control	28937869	Perspectives in biology and medicine	3145	0.0012718600953895071	0	0
+47	other flips	control	144298576	Journal for General Philosophy of Science	1313	0.00913937547600914	0	0
+47	other flips	control	101091692	IEEE Technology and Society Magazine	1837	0.010342950462710943	0	0
+47	other flips	control	21730017	Philosophia Mathematica	715	0.008391608391608392	0	0
+48	pure	treated	85134406	Chemistry & Biology	1323	0.0015117157974300832	0	0
+48	pure	control	206225968	Journal of Fermentation and Bioengineering	1105	0.0009049773755656109	0	0
+48	pure	control	2764483604	Science in China Series C Life Sciences	565	0.008849557522123894	0	0
+48	pure	control	134948390	Zoölogische mededelingen/Zo¨ologische mededelingen	224	1.0	0	0
+48	pure	control	2756350368	Acta Biologiae Experimentalis Sinica	145	0.993103448275862	13	0
+48	pure	control	2915010491	Journal of Pharmaceutical and Biomedical Sciences	82	1.0	0	0
+49	pure	treated	4210188322	Proceedings of the Royal Society of London Series A Containing Papers of a Mathematical and Physical Character	3603	0.0	0	0
+49	pure	control	2764763431	Transactions of the Royal Society of Edinburgh	615	0.0	0	0
+49	pure	control	4210237994	The London Edinburgh and Dublin Philosophical Magazine and Journal of Science	5639	0.0	0	0
+49	pure	control	135067440	Annales de Physique	365	0.0027397260273972603	0	0
+49	pure	control	4210189509	Journal of the Optical Society of America	1561	0.0	0	0
+49	pure	control	5603941	Il Nuovo Cimento	1593	0.0	0	0
+50	pure	treated	91708095	Historia Mathematica	1688	0.002962085308056872	0	0
+50	pure	control	152058026	Chemie in unserer Zeit	2046	0.0024437927663734115	0	0
+50	pure	control	143736624	Archives of Natural History	730	0.0013698630136986301	0	0
+50	pure	control	134345577	The Mathematical Intelligencer	1694	0.03010625737898465	0	0
+50	pure	control	101091692	IEEE Technology and Society Magazine	852	0.008215962441314555	0	0
+50	pure	control	157569785	Berichte zur Wissenschaftsgeschichte	1071	0.0028011204481792717	0	0
+51	pure	treated	172477885	Annals of Pure and Applied Logic	1539	0.005847953216374269	0	0
+51	pure	control	4210177266	Theory of Computing Systems	1193	0.3076278290025147	347	0
+51	pure	control	2734381524	Logic Journal of IGPL	563	0.007104795737122558	0	0
+51	pure	control	158016561	Optimization	1536	0.0032552083333333335	0	0
+51	pure	control	167602672	Journal of Circuits Systems and Computers	782	0.0	0	0
+51	pure	control	99781599	Journal of Automated Reasoning	722	0.012465373961218837	0	0
+52	pure	treated	18904315	Journal of Symbolic Computation	1662	0.00421179302045728	0	0
+52	pure	control	191798613	Networks	1488	0.004032258064516129	0	0
+52	pure	control	128250343	Formal Aspects of Computing	531	0.011299435028248588	0	0
+52	pure	control	60324941	Numerical Linear Algebra with Applications	633	0.00315955766192733	0	0
+52	pure	control	84409463	Acta Informatica	1220	0.018852459016393444	0	0
+52	pure	control	4210177266	Theory of Computing Systems	1586	0.3720050441361917	501	0
+53	pure	treated	21029587	Science of Computer Programming	909	0.0088008800880088	0	0
+53	pure	control	16958353	SIAM Journal on Matrix Analysis and Applications	1539	0.002599090318388564	0	0
+53	pure	control	142331907	IEEE Transactions on Nanotechnology	672	0.004464285714285714	0	0
+53	pure	control	163326656	ACM Transactions on Mathematical Software	931	0.004296455424274973	0	0
+53	pure	control	191798613	Networks	1346	0.004457652303120356	0	0
+53	pure	control	99781599	Journal of Automated Reasoning	722	0.012465373961218837	0	0
+54	pure	treated	4210181956	Philosophical Transactions of the Royal Society of London Series A Mathematical and Physical Sciences	75	0.0	0	0
+54	pure	control	4306518388	Leidse Geologische Mededelingen	39	1.0	0	0
+54	pure	control	4210189259	Jahresberichte und Mitteilungen des Oberrheinischen Geologischen Vereins	72	0.0	0	0
+54	pure	control	4394735499	Geofisica pura e applicata	92	0.0	0	0
+54	pure	control	4210183570	Terrestrial Magnetism and Atmospheric Electricity	794	0.0	0	0
+55	other flips	treated	193587041	IDS Bulletin	1791	0.0072585147962032385	0	0
+55	other flips	control	189728689	Development in Practice	1596	0.011278195488721804	0	0
+55	other flips	control	96563387	Journal of International Development	1830	0.018579234972677595	0	0
+55	other flips	control	4210217403	MF Policy Paper	1124	0.0	0	0
+55	other flips	control	2912707458	Canadian Journal of Development Studies/Revue canadienne d études du développement	1250	0.0048	0	0
+55	other flips	control	4210230910	Proceedings of the Institution of Civil Engineers - Civil Engineering	1323	0.0015117157974300832	0	0
+56	pure	treated	164906323	Advances in Applied Mathematics	1069	0.0	0	0
+56	pure	control	119636414	Experimental Mathematics	586	0.006825938566552901	0	0
+56	pure	control	121479258	Transformation Groups	293	0.0	0	0
+56	pure	control	138567582	Annals of Combinatorics	376	0.0	0	0
+56	pure	control	169946948	The Ramanujan Journal	467	0.4411134903640257	11	0
+56	pure	control	64527569	Forum Mathematicum	768	0.0078125	0	0
+57	Annual Reviews S2O	treated	53860259	Annual Review of Biochemistry	293	0.0	0	0
+57	Annual Reviews S2O	control	196724125	Nature Reviews Molecular Cell Biology	1227	0.0	0	0
+57	Annual Reviews S2O	control	151741590	Nature Cell Biology	1328	0.0007530120481927711	0	0
+57	Annual Reviews S2O	control	109387254	Nature Protocols	1460	0.0006849315068493151	0	0
+57	Annual Reviews S2O	control	174148068	Traffic	610	0.003278688524590164	0	0
+57	Annual Reviews S2O	control	61643540	World Journal of Stem Cells	620	0.0064516129032258064	0	0
+58	pure	treated	4210191701	Philosophical transactions of the Royal Society of London. Series B, Biological sciences	73	0.0	0	0
+58	pure	control	86567873	Brittonia	85	1.0	0	85
+58	pure	control	4210229343	Zeitschrift für Tierpsychologie	62	0.0	0	0
+58	pure	control	4210180489	Mitteilungen aus dem Museum für Naturkunde in Berlin Zoologisches Museum und Institut für Spezielle Zoologie (Berlin)	54	0.037037037037037035	2	0
+58	pure	control	4210203293	Repertorium novarum specierum regni vegetabilis	321	0.0	0	0
+58	pure	control	6145614	Mammalia	114	0.0	0	0
+59	Annual Reviews S2O	treated	196366644	Annual Review of Physiology	218	0.01834862385321101	0	0
+59	Annual Reviews S2O	control	93373720	Nature reviews. Immunology	1462	0.0	0	0
+59	Annual Reviews S2O	control	54848071	Seminars in Immunopathology	495	0.0	0	0
+59	Annual Reviews S2O	control	41063453	Nature Immunology	2013	0.0029806259314456036	0	0
+59	Annual Reviews S2O	control	133112385	Immunological Reviews	904	0.0	0	0
+59	Annual Reviews S2O	control	2764653179	Science Immunology	726	0.0	0	0
+60	Annual Reviews S2O	treated	16909082	Annual Review of Medicine	302	0.0	0	0
+60	Annual Reviews S2O	control	2764420670	Current Obesity Reports	387	0.0	0	0
+60	Annual Reviews S2O	control	145410213	American Journal of Community Psychology	718	0.0	0	0
+60	Annual Reviews S2O	control	4210203454	Pediatric Obesity	843	0.0	0	0
+60	Annual Reviews S2O	control	67377460	Journal of Intellectual Disability Research	905	0.12375690607734807	97	0
+60	Annual Reviews S2O	control	46899502	Zoonoses and Public Health	835	0.0011976047904191617	0	0
+61	pure	treated	925225069	Finite Fields and Their Applications	603	0.0	0	0
+61	pure	control	23260266	International Journal of Algebra and Computation	692	0.030346820809248554	20	0
+61	pure	control	8494942	Journal of Combinatorial Designs	579	0.0	0	0
+61	pure	control	181823235	Journal of Algebraic Combinatorics	553	0.0018083182640144665	0	0
+61	pure	control	81624066	Journal of Mathematical Chemistry	1147	0.0	0	0
+61	pure	control	193368155	Journal of Graph Theory	1216	0.003289473684210526	0	0
+62	pure	treated	61246407	Journal de Mathématiques Pures et Appliquées	599	0.06176961602671119	0	0
+62	pure	control	136982523	Archive for Rational Mechanics and Analysis	3386	0.0008860011813349084	0	0
+62	pure	control	185232611	Communications in Partial Differential Equations	2060	0.0004854368932038835	0	0
+62	pure	control	45789726	Population Ecology	1327	0.0	0	0
+62	pure	control	134818455	Communications on Pure and Applied Mathematics	2312	0.0	0	0
+62	pure	control	196210972	Indiana University Mathematics Journal	4596	0.004351610095735422	0	0
+63	other flips	treated	72880728	The Journal of Economic Perspectives	618	0.061488673139158574	0	0
+63	other flips	control	124549413	Journal of Economic Surveys	306	0.05228758169934641	7	0
+63	other flips	control	85739584	Journal of Applied Econometrics	554	0.010830324909747292	0	0
+63	other flips	control	18095783	Journal of Business and Economic Statistics	552	0.057971014492753624	13	0
+63	other flips	control	41869786	Small Business Economics	693	0.008658008658008658	0	0
+63	other flips	control	127060114	NBER Macroeconomics Annual	265	0.23018867924528302	59	19
+64	pure	treated	4386621717	Indagationes Mathematicae (Proceedings)	2340	0.0008547008547008547	0	0
+64	pure	control	10721641	MATHEMATICA SCANDINAVICA	1608	0.00808457711442786	0	0
+64	pure	control	111346810	Colloquium Mathematicum	2174	0.0018399264029438822	0	0
+64	pure	control	131268793	Canadian Journal of Mathematics	3604	0.0	0	0
+64	pure	control	2764976035	Banach Center Publications	745	0.010738255033557046	0	0
+64	pure	control	102629317	Journal of Physics A Mathematical Nuclear and General	490	0.0	0	0
+65	pure	treated	100028386	Differential Geometry and its Applications	712	0.0014044943820224719	0	0
+65	pure	control	198157528	Annals of Global Analysis and Geometry	645	0.0	0	0
+65	pure	control	16719124	Topological Methods in Nonlinear Analysis	556	0.0017985611510791368	0	0
+65	pure	control	75938328	Algebras and Representation Theory	300	0.0	0	0
+65	pure	control	105014038	International Journal of Mathematics	968	0.04855371900826446	40	0
+65	pure	control	55337115	Journal of Knot Theory and Its Ramifications	1013	0.018756169792694965	19	0
+66	other flips	treated	4210184459	Geographica Helvetica	1584	0.0025252525252525255	0	0
+66	other flips	control	4210167809	L Information géographique	1484	0.012803234501347708	0	0
+66	other flips	control	104593340	Geography	1679	0.05717689100655152	75	0
+66	other flips	control	90392387	South African Journal of Economics	2643	0.006053726825576996	0	0
+66	other flips	control	56020007	Norsk Geografisk Tidsskrift - Norwegian Journal of Geography	1448	0.0006906077348066298	0	0
+66	other flips	control	57293400	South African Geographical Journal	835	0.0023952095808383233	0	0
+67	pure	treated	59378048	Notes and Records the Royal Society Journal of the History of Science	66	0.0	0	0
+67	pure	control	4210175519	Journal of the Society for the Bibliography of Natural History	45	0.0	0	0
+67	pure	control	4210235182	Transactions of the Newcomen Society	76	0.0	0	0
+67	pure	control	63151042	Erkenntnis	33	0.0	0	0
+67	pure	control	70236976	Annals of Science	35	0.0	0	0
+67	pure	control	191833357	The American Biology Teacher	267	1.0	0	267
+68	other flips	treated	113542759	Acta Mathematica	2106	0.0	0	0
+68	other flips	control	136982523	Archive for Rational Mechanics and Analysis	4238	0.0007078810759792355	0	0
+68	other flips	control	134818455	Communications on Pure and Applied Mathematics	2696	0.0	0	0
+68	other flips	control	160107561	SIAM Review	5885	0.004587935429056924	0	0
+68	other flips	control	24332595	Mathematical Models and Methods in Applied Sciences	1849	0.03407247160627366	61	0
+68	other flips	control	45789726	Population Ecology	1753	0.0	0	0
+70	pure	treated	4210174540	Indagationes Mathematicae	826	0.007263922518159807	0	0
+70	pure	control	192619637	Bulletin of the Belgian Mathematical Society - Simon Stevin	855	0.023391812865497075	0	0
+70	pure	control	148906134	Applied Categorical Structures	690	0.2072463768115942	105	0
+70	pure	control	10721641	MATHEMATICA SCANDINAVICA	2353	0.0055248618784530384	0	0
+70	pure	control	132681663	Russian Mathematical Surveys	4419	0.007241457343290337	0	0
+70	pure	control	131268793	Canadian Journal of Mathematics	4853	0.0	0	0
+71	pure	treated	143014084	Topology	1972	0.0	0	0
+71	pure	control	153451912	K-Theory	661	0.0015128593040847202	0	0
+71	pure	control	4210167992	Journal of Physics A Mathematical and General	21352	0.0006556762832521544	5	0
+71	pure	control	10721641	MATHEMATICA SCANDINAVICA	2079	0.0	0	0
+71	pure	control	192619637	Bulletin of the Belgian Mathematical Society - Simon Stevin	855	0.023391812865497075	0	0
+71	pure	control	148906134	Applied Categorical Structures	690	0.2072463768115942	105	0
+72	Annual Reviews S2O	treated	82779230	Annual Review of Microbiology	284	0.0	0	0
+72	Annual Reviews S2O	control	143701222	Angiogenesis	431	0.04176334106728538	12	0
+72	Annual Reviews S2O	control	152938505	Cell Death and Differentiation	1708	0.0	0	0
+72	Annual Reviews S2O	control	114927911	Cancer and Metastasis Reviews	535	0.0	0	0
+72	Annual Reviews S2O	control	22382660	Medicinal Research Reviews	498	0.0	0	0
+72	Annual Reviews S2O	control	205083708	Functional & Integrative Genomics	564	0.0017730496453900709	0	0
+73	pure	treated	42286584	Journal of Complexity	869	0.0023014959723820483	0	0
+73	pure	control	35440848	Constructive Approximation	726	0.0027548209366391185	0	0
+73	pure	control	19633754	Numerical Methods for Partial Differential Equations	1096	0.0	0	0
+73	pure	control	117494069	Numerical Algorithms	1196	0.0008361204013377926	0	0
+73	pure	control	57050787	Advances in Computational Mathematics	653	0.0	0	0
+73	pure	control	103047102	Optimization methods & software	645	0.0015503875968992248	0	0
+74	pure	treated	4210192454	Information and Control	1664	0.0	0	0
+74	pure	control	4210181992	SIAM Journal on Scientific and Statistical Computing	389	0.0	0	0
+74	pure	control	172998616	IRE Transactions on Electronic Computers	163	0.0	0	0
+74	pure	control	60436882	IEEE Transactions on Electronic Computers	1471	0.004078857919782461	0	0
+74	pure	control	4210226623	ACM SIGSAM Bulletin	339	0.0	0	0
+74	pure	control	2764572581	CTIT technical reports series	191	1.0	0	0
+75	pure	treated	106596053	Bulletin des Sciences Mathématiques	496	0.028225806451612902	0	0
+75	pure	control	55280684	Bulletin de la Société mathématique de France	2386	0.0012573344509639564	0	0
+75	pure	control	177543170	The Michigan Mathematical Journal	2329	0.00042936882782310007	0	0
+75	pure	control	67718071	Journal d Analyse Mathématique	1499	0.00066711140760507	0	0
+75	pure	control	45079764	Asian Journal of Mathematics	437	0.004576659038901602	0	0
+75	pure	control	4210239678	Mathematical Proceedings of the Cambridge Philosophical Society	8159	0.0003676921191322466	0	0
+76	pure	treated	2898435970	Annales de l Institut Henri Poincaré C Analyse Non Linéaire	844	0.0	0	0
+76	pure	control	138240904	Calculus of Variations and Partial Differential Equations	748	0.001336898395721925	0	0
+76	pure	control	179905963	Journal of Fourier Analysis and Applications	505	0.0	0	0
+76	pure	control	131276044	Journal of Nonlinear Science	365	0.0	0	0
+76	pure	control	108887460	ESAIM Mathematical Modelling and Numerical Analysis	1015	0.0	0	0
+76	pure	control	84214272	Geometric and Functional Analysis	672	0.002976190476190476	0	0
+77	pure	treated	71199174	Applied and Computational Harmonic Analysis	504	0.0	0	0
+77	pure	control	120977877	IEEE Signal Processing Magazine	1037	0.01446480231436837	0	0
+77	pure	control	115173108	IEEE Transactions on Circuits and Systems for Video Technology	1921	0.0015616866215512754	0	0
+77	pure	control	102275153	Journal of New Music Research	389	0.015424164524421594	0	0
+77	pure	control	120629676	IEEE Signal Processing Letters	2076	0.0004816955684007707	0	0
+77	pure	control	81140365	IEEE Transactions on Circuits and Systems II Analog and Digital Signal Processing	2311	0.00043271311120726956	0	0
+78	Annual Reviews S2O	treated	136526455	Annual Review of Physical Chemistry	208	0.0	0	0
+78	Annual Reviews S2O	control	161902083	Contemporary Physics	186	0.0	0	0
+78	Annual Reviews S2O	control	1244823	Plasma Chemistry and Plasma Processing	766	0.0	0	0
+78	Annual Reviews S2O	control	2764698263	Photonics Research	1717	0.0	0	0
+78	Annual Reviews S2O	control	118523878	Frontiers of Physics	782	0.0012787723785166241	0	0
+78	Annual Reviews S2O	control	16904162	Foundations of Physics	847	0.004722550177095631	0	0
+79	pure	treated	165542689	Computational Geometry	726	0.006887052341597796	0	0
+79	pure	control	103671469	Discrete & Computational Geometry	1423	0.0021082220660576245	0	0
+79	pure	control	73060445	The Visual Computer	1236	0.003236245954692557	0	0
+79	pure	control	105380075	IEEE Computer Graphics and Applications	2416	0.015728476821192054	0	0
+79	pure	control	131921510	ACM SIGGRAPH Computer Graphics	1239	0.03389830508474576	33	0
+79	pure	control	67831204	Computer Graphics Forum	1918	0.005213764337851929	0	0
+80	Annual Reviews S2O	treated	90670110	Annual Review of Psychology	250	0.0	0	0
+80	Annual Reviews S2O	control	130623406	Wiley Interdisciplinary Reviews Cognitive Science	297	0.0	0	0
+80	Annual Reviews S2O	control	36339387	British Journal of Clinical Psychology	318	0.0031446540880503146	0	0
+80	Annual Reviews S2O	control	22283869	Topics in Cognitive Science	508	0.001968503937007874	0	0
+80	Annual Reviews S2O	control	15160710	Reviews in the Neurosciences	521	0.0	0	0
+80	Annual Reviews S2O	control	201609156	Brain Topography	562	0.0	0	0
+81	Annual Reviews S2O	treated	92576693	Annual Review of Entomology	236	0.0	0	0
+81	Annual Reviews S2O	control	126796143	Apidologie	696	0.0	0	0
+81	Annual Reviews S2O	control	97758720	Microbial Ecology	1757	0.001707455890722823	0	0
+81	Annual Reviews S2O	control	141531615	BioControl	593	0.0	0	0
+81	Annual Reviews S2O	control	100662317	Physiological Entomology	319	0.003134796238244514	0	0
+81	Annual Reviews S2O	control	118045308	Journal of Apicultural Research	896	0.0	0	0
+83	other flips	treated	107749620	Daedalus	963	0.014537902388369679	4	0
+83	other flips	control	75346102	Biology & Philosophy	800	0.0025	0	0
+83	other flips	control	4210167823	Science & Education	1004	0.0	0	0
+83	other flips	control	4210179293	Metamedicine	493	0.0	0	0
+83	other flips	control	107049385	The British Journal for the Philosophy of Science	759	0.003952569169960474	0	0
+83	other flips	control	205537954	Minerva	482	0.0	0	0
+84	Annual Reviews S2O	treated	165675472	Annual Review of Phytopathology	207	0.0	0	0
+84	Annual Reviews S2O	control	85888571	Critical Reviews in Plant Sciences	171	0.0	0	0
+84	Annual Reviews S2O	control	74970393	Global Change Biology	3819	0.003142183817753339	0	0
+84	Annual Reviews S2O	control	2764671299	Nature Plants	1437	0.0027835768963117608	0	0
+84	Annual Reviews S2O	control	81373472	Mycotoxin Research	276	0.0	0	0
+84	Annual Reviews S2O	control	42419699	Precision Agriculture	608	0.0	0	0
+85	Annual Reviews S2O	treated	163849586	The Annual Review of Pharmacology and Toxicology	287	0.0	0	0
+85	Annual Reviews S2O	control	55210418	Critical Reviews in Biochemistry and Molecular Biology	273	0.0	0	0
+85	Annual Reviews S2O	control	143701222	Angiogenesis	431	0.04176334106728538	12	0
+85	Annual Reviews S2O	control	6081579	Critical Reviews in Microbiology	380	0.0	0	0
+85	Annual Reviews S2O	control	114927911	Cancer and Metastasis Reviews	535	0.0	0	0
+85	Annual Reviews S2O	control	22382660	Medicinal Research Reviews	498	0.0	0	0
+86	Annual Reviews S2O	treated	195167216	Annual Review of Anthropology	267	0.0	0	0
+86	Annual Reviews S2O	control	82712235	Human Ecology	661	0.09531013615733737	43	0
+86	Annual Reviews S2O	control	43131466	Ethnos	437	0.002288329519450801	0	0
+86	Annual Reviews S2O	control	100638937	Human Organization	312	0.0	0	0
+86	Annual Reviews S2O	control	92835259	Anthropological Forum	206	0.009708737864077669	0	0
+86	Annual Reviews S2O	control	57846568	Journal of Community Genetics	419	0.0	0	0
+87	Annual Reviews S2O	treated	92134727	Annual Review of Genetics	224	0.004464285714285714	0	0
+87	Annual Reviews S2O	control	8553189	Nature Reviews Genetics	1239	0.0008071025020177562	0	0
+87	Annual Reviews S2O	control	71149355	Molecular Psychiatry	2517	0.001986491855383393	0	0
+87	Annual Reviews S2O	control	64961995	Molecular Ecology Resources	1368	0.0014619883040935672	0	0
+87	Annual Reviews S2O	control	92651206	Current Diabetes Reports	1016	0.007874015748031496	0	0
+87	Annual Reviews S2O	control	83251063	Diabetes/Metabolism Research and Reviews	1033	0.000968054211035818	0	0
+88	pure	treated	130224168	Journal of the American Mathematical Society	556	0.0017985611510791368	1	1
+88	pure	control	98347115	Inventiones mathematicae	1615	0.0006191950464396285	0	0
+88	pure	control	119636414	Experimental Mathematics	470	0.006382978723404255	0	0
+88	pure	control	121479258	Transformation Groups	182	0.0	0	0
+88	pure	control	138567582	Annals of Combinatorics	291	0.0	0	0
+88	pure	control	64527569	Forum Mathematicum	622	0.00964630225080386	0	0
+89	Annual Reviews S2O	treated	61274580	Annual Review of Sociology	244	0.0	0	0
+89	Annual Reviews S2O	control	36547454	International Entrepreneurship and Management Journal	497	0.004024144869215292	0	0
+89	Annual Reviews S2O	control	25250876	Economy and Society	245	0.004081632653061225	0	0
+89	Annual Reviews S2O	control	3354691	Journal of Small Business and Enterprise Development	482	0.002074688796680498	0	0
+89	Annual Reviews S2O	control	175747132	New Technology Work and Employment	199	0.010050251256281407	0	0
+89	Annual Reviews S2O	control	131032111	Population and Environment	196	0.00510204081632653	0	0
+90	Annual Reviews S2O	treated	113591250	Annual Review of Public Health	892	0.0	0	0
+90	Annual Reviews S2O	control	96923654	Journal of Toxicology and Environmental Health Part B	318	0.0	0	0
+90	Annual Reviews S2O	control	79420083	Environmental Reviews	403	0.007444168734491315	0	0
+90	Annual Reviews S2O	control	87749278	Journal of Exposure Science & Environmental Epidemiology	1295	0.0015444015444015444	0	0
+90	Annual Reviews S2O	control	71291874	Ecotoxicology	2167	0.14028610982925704	45	0
+90	Annual Reviews S2O	control	172436580	Environmental Toxicology	1713	0.002918855808523059	0	0
+91	Annual Reviews S2O	treated	169493037	Annual Review of Fluid Mechanics	199	0.0	0	0
+91	Annual Reviews S2O	control	123027071	Theoretical and Computational Fluid Dynamics	308	0.0	0	0
+91	Annual Reviews S2O	control	192049192	Granular Matter	808	0.009900990099009901	0	0
+91	Annual Reviews S2O	control	193263997	Journal of Manufacturing Science and Engineering	1588	0.001889168765743073	0	0
+91	Annual Reviews S2O	control	60483245	Journal of Numerical Mathematics	153	0.0	0	0
+91	Annual Reviews S2O	control	149305196	Journal of Hydrodynamics	1002	0.001996007984031936	0	0
+92	Annual Reviews S2O	treated	109088427	Annual Review of Immunology	227	0.0	0	0
+92	Annual Reviews S2O	control	93373720	Nature reviews. Immunology	1462	0.0	0	0
+92	Annual Reviews S2O	control	41063453	Nature Immunology	2013	0.0029806259314456036	0	0
+92	Annual Reviews S2O	control	133112385	Immunological Reviews	904	0.0	0	0
+92	Annual Reviews S2O	control	54848071	Seminars in Immunopathology	495	0.0	0	0
+92	Annual Reviews S2O	control	19733918	International Reviews of Immunology	263	0.0	0	0
+93	Annual Reviews S2O	treated	135981667	Annual Review of Earth and Planetary Sciences	231	0.0	0	0
+93	Annual Reviews S2O	control	4210187442	Reviews in Mineralogy and Geochemistry	187	0.0053475935828877	0	0
+93	Annual Reviews S2O	control	129102366	Reviews of Geophysics	226	0.004424778761061947	0	0
+93	Annual Reviews S2O	control	194739432	Surveys in Geophysics	430	0.0	0	0
+93	Annual Reviews S2O	control	204672714	Journal of Metamorphic Geology	465	0.002150537634408602	0	0
+93	Annual Reviews S2O	control	6410836	Tectonics	1482	0.0033738191632928477	0	0
+94	Annual Reviews S2O	treated	29882555	Annual Review of Astronomy and Astrophysics	138	0.0	0	0
+94	Annual Reviews S2O	control	4210174246	Nature Reviews Chemistry	550	0.0	0	0
+94	Annual Reviews S2O	control	41078117	Geobiology	409	0.0	0	0
+94	Annual Reviews S2O	control	2764494557	Nature Astronomy	1367	0.000731528895391368	0	0
+94	Annual Reviews S2O	control	170977379	Experimental Astronomy	490	0.0	0	0
+94	Annual Reviews S2O	control	144184862	Journal of Molecular Evolution	446	0.0	0	0
+95	Annual Reviews S2O	treated	131371711	Annual Review of Neuroscience	217	0.0	0	0
+95	Annual Reviews S2O	control	26843219	Nature reviews. Neuroscience	1399	0.0	0	0
+95	Annual Reviews S2O	control	175030738	Neuropsychopharmacology	2507	0.011168727562824093	0	0
+95	Annual Reviews S2O	control	85312528	Biogerontology	487	0.002053388090349076	0	0
+95	Annual Reviews S2O	control	188438558	Current Alzheimer Research	1003	0.0009970089730807576	0	0
+95	Annual Reviews S2O	control	185726200	Neurogenetics	279	0.0	0	0
+96	Annual Reviews S2O	treated	160110530	Annual Review of Nutrition	178	0.0	0	0
+96	Annual Reviews S2O	control	18747983	Comprehensive physiology	458	0.0	0	0
+96	Annual Reviews S2O	control	101036573	Exercise and Sport Sciences Reviews	269	0.0	0	0
+96	Annual Reviews S2O	control	116269268	Nature Reviews Endocrinology	1549	0.0071013557133634605	0	0
+96	Annual Reviews S2O	control	140848990	Pain	2798	0.009292351679771264	0	0
+96	Annual Reviews S2O	control	68195922	Journal of Physiology and Biochemistry	599	0.0	0	0
+97	other flips	treated	37732689	Internet Archaeology	199	0.0	0	0
+97	other flips	control	60080701	International Journal of Image and Graphics	395	0.002531645569620253	0	0
+97	other flips	control	142907639	International Journal of Intelligent Systems Technologies and Applications	264	0.0	0	0
+97	other flips	control	13557859	Pattern Recognition and Image Analysis	602	0.024916943521594685	0	0
+97	other flips	control	61063144	Optica Applicata	936	1.0	0	0
+97	other flips	control	2738140022	Archives of Photogrammetry Cartography and Remote Sensing	357	1.0	0	0
+99	other flips	treated	2764541242	Neurophotonics	268	0.0	0	0
+99	other flips	control	78155443	Magnetic Resonance Materials in Physics Biology and Medicine	298	0.026845637583892617	0	0
+99	other flips	control	2764895717	Clinical and Translational Imaging	212	0.009433962264150943	0	0
+99	other flips	control	201806951	Nuclear Medicine and Molecular Imaging	279	0.0	0	0
+99	other flips	control	90952882	Topics in Magnetic Resonance Imaging	168	0.0	0	0
+99	other flips	control	163723688	The Quarterly Journal of Nuclear Medicine and Molecular Imaging	75	0.0	0	0
+100	pure	treated	117734409	Expositiones Mathematicae	198	0.030303030303030304	0	0
+100	pure	control	195495005	Dynamical Systems	178	0.0056179775280898875	0	0
+100	pure	control	2501765825	Theory and applications of categories	410	0.2780487804878049	103	0
+100	pure	control	121350373	Russian Journal of Mathematical Physics	173	0.1676300578034682	0	0
+100	pure	control	59725656	Homology Homotopy and Applications	255	0.0	0	0
+100	pure	control	15530466	Stochastics and Dynamics	241	0.004149377593360996	0	0
+101	Annual Reviews S2O	treated	112282628	Annual Review of Nuclear and Particle Science	664	0.007530120481927711	0	0
+101	Annual Reviews S2O	control	207372152	Advances in Theoretical and Mathematical Physics	752	0.005319148936170213	0	0
+101	Annual Reviews S2O	control	4210238095	Fortschritte der Physik	1715	0.0	0	0
+101	Annual Reviews S2O	control	63240003	International Journal of Modern Physics D	4318	0.010884668828161186	43	0
+101	Annual Reviews S2O	control	134651815	Physics of Particles and Nuclei	1243	0.07320997586484312	0	0
+101	Annual Reviews S2O	control	10599296	International Journal of Modern Physics E	3319	0.006628502561012353	21	0
+102	Annual Reviews S2O	treated	93285647	Annual Review of Cell and Developmental Biology	237	0.0	0	0
+102	Annual Reviews S2O	control	109387254	Nature Protocols	1460	0.0006849315068493151	0	0
+102	Annual Reviews S2O	control	196724125	Nature Reviews Molecular Cell Biology	1227	0.0	0	0
+102	Annual Reviews S2O	control	174148068	Traffic	610	0.003278688524590164	0	0
+102	Annual Reviews S2O	control	61643540	World Journal of Stem Cells	620	0.0064516129032258064	0	0
+102	Annual Reviews S2O	control	171625771	Rejuvenation Research	467	0.0	0	0
+103	pure	treated	203549655	Discrete Optimization	184	0.0	0	0
+103	pure	control	4210191715	4OR	156	0.0	0	0
+103	pure	control	128799162	Machining Science and Technology	296	0.0	0	0
+103	pure	control	107631664	Integrated Computer-Aided Engineering	405	0.0049382716049382715	0	0
+103	pure	control	105779745	Journal of Advanced Manufacturing Systems	139	0.007194244604316547	0	0
+103	pure	control	137964361	International Journal of Manufacturing Technology and Management	456	0.0021929824561403508	0	0
+104	pure	treated	163424111	Journal of Discrete Algorithms	258	0.0	0	0
+104	pure	control	7851167	Genetic Testing	431	0.0	0	0
+104	pure	control	136641558	Cloning and Stem Cells	309	0.003236245954692557	0	0
+104	pure	control	2764932843	Current Protocols in Human Genetics	157	0.006369426751592357	0	0
+104	pure	control	2764941672	Chromosome science	176	1.0	0	0
+104	pure	control	70403827	Fitness & Performance Journal	817	0.03916768665850673	0	0
+105	pure	treated	158411110	Mathematical Modelling	591	0.0	0	0
+105	pure	control	171842551	Journal of Mathematical Biology	454	0.0	0	0
+105	pure	control	68550293	Mathematics and computer education	115	1.0	0	0
+106	Annual Reviews S2O	treated	8194976	Annual Review of Political Science	520	0.0038461538461538464	0	0
+106	Annual Reviews S2O	control	55069968	International Political Sociology	428	0.007009345794392523	0	0
+106	Annual Reviews S2O	control	63571029	International Public Management Journal	435	0.12873563218390804	0	0
+106	Annual Reviews S2O	control	71858213	The Review of International Organizations	303	0.006600660066006601	0	0
+106	Annual Reviews S2O	control	2764374723	Information Polity	426	0.03990610328638498	0	0
+106	Annual Reviews S2O	control	124304160	International Studies Perspectives	638	0.004702194357366771	0	0
+107	Annual Reviews S2O	treated	176558078	Annual Review of Plant Biology	246	0.0	0	0
+107	Annual Reviews S2O	control	85888571	Critical Reviews in Plant Sciences	171	0.0	0	0
+107	Annual Reviews S2O	control	2764671299	Nature Plants	1437	0.0027835768963117608	0	0
+107	Annual Reviews S2O	control	81373472	Mycotoxin Research	276	0.0	0	0
+107	Annual Reviews S2O	control	42419699	Precision Agriculture	608	0.0	0	0
+107	Annual Reviews S2O	control	192372812	Journal of International Food & Agribusiness Marketing	253	0.0	0	0
+108	pure	treated	86488779	The Journal of Logic Programming	521	0.0019193857965451055	0	0
+108	pure	control	4210194503	IEEE Expert	633	0.0	0	0
+108	pure	control	134649062	Artificial Intelligence in Engineering	440	0.004545454545454545	0	0
+108	pure	control	95210917	Machine Translation	296	0.006756756756756757	0	0
+108	pure	control	181362308	Systems Research	438	0.0	0	0
+108	pure	control	158189712	Procesamiento del lenguaje natural	353	0.9971671388101983	6	0
+109	Annual Reviews S2O	treated	119405978	Annual Review of Ecology Evolution and Systematics	227	0.0	0	0
+109	Annual Reviews S2O	control	92651206	Current Diabetes Reports	1016	0.007874015748031496	0	0
+109	Annual Reviews S2O	control	141144868	Chromosome Research	306	0.0718954248366013	0	0
+109	Annual Reviews S2O	control	134433296	Genes Brain & Behavior	618	0.0	0	0
+109	Annual Reviews S2O	control	2765064044	Current Nutrition Reports	366	0.0	0	0
+109	Annual Reviews S2O	control	99309566	Sexual Development	336	0.0	0	0
+110	pure	treated	70478294	The Journal of Logic and Algebraic Programming	207	0.00966183574879227	0	0
+110	pure	control	4210181992	SIAM Journal on Scientific and Statistical Computing	861	0.0011614401858304297	0	0
+110	pure	control	4210191297	SIAM Journal on Algebraic and Discrete Methods	477	0.0	0	0
+110	pure	control	64721560	Reliable Computing	465	0.0	0	0
+110	pure	control	166129268	ACM SIGNUM Newsletter	305	0.0	0	0
+110	pure	control	109144305	Bulletin of the European Association for Theoretical Computer Science	530	1.0	0	0
+111	Annual Reviews S2O	treated	5491134	Annual Review of Environment and Resources	332	0.0030120481927710845	0	0
+111	Annual Reviews S2O	control	140842003	Review of Environmental Economics and Policy	283	0.0176678445229682	0	0
+111	Annual Reviews S2O	control	48977010	Nature Geoscience	2911	0.0027481964960494676	0	0
+111	Annual Reviews S2O	control	205538080	Wiley Interdisciplinary Reviews Climate Change	573	0.010471204188481676	0	0
+111	Annual Reviews S2O	control	44419007	Environmental Policy and Governance	382	0.015706806282722512	0	0
+111	Annual Reviews S2O	control	114851709	Mitigation and Adaptation Strategies for Global Change	986	0.0030425963488843813	0	0
+112	Annual Reviews S2O	treated	8095556	Annual Review of Genomics and Human Genetics	405	0.0024691358024691358	0	0
+112	Annual Reviews S2O	control	134433296	Genes Brain & Behavior	1481	0.054692775151924375	44	0
+112	Annual Reviews S2O	control	99309566	Sexual Development	524	0.0057251908396946565	0	0
+112	Annual Reviews S2O	control	91707882	Tree Genetics & Genomes	1452	0.002066115702479339	0	0
+112	Annual Reviews S2O	control	92651206	Current Diabetes Reports	1937	0.004130098089829634	0	0
+112	Annual Reviews S2O	control	37779577	Systematics and Biodiversity	667	0.0029985007496251873	0	0
+113	pure	treated	164898596	Journal of Applied Logic	170	0.0	0	0
+113	pure	control	71252645	Frontiers of Electrical and Electronic Engineering in China	282	0.0	0	0
+113	pure	control	4306514648	İTÜDERGİSİ/d	108	1.0	0	0
+113	pure	control	176772315	Review of intellectual property law	143	1.0	0	0
+113	pure	control	4306542404	中國機械工程學刊	109	0.28440366972477066	0	0
+113	pure	control	4306496619	한국지능시스템학회 국제학술대회 발표논문집	542	1.0	0	0
+114	Annual Reviews S2O	treated	171268996	Annual Review of Biomedical Engineering	400	0.0	0	0
+114	Annual Reviews S2O	control	72003023	Critical reviews in solid state and materials sciences/CRC critical reviews in solid state and materials sciences	229	0.0	0	0
+114	Annual Reviews S2O	control	132212666	Wiley Interdisciplinary Reviews Nanomedicine and Nanobiotechnology	610	0.003278688524590164	0	0
+114	Annual Reviews S2O	control	144620930	IEEE Transactions on Robotics	2195	0.0018223234624145787	0	0
+114	Annual Reviews S2O	control	203619773	IEEE Reviews in Biomedical Engineering	269	0.0037174721189591076	0	0
+114	Annual Reviews S2O	control	126682488	Mechanics of Time-Dependent Materials	593	0.0016863406408094434	0	0
+115	pure	treated	4210229272	Philosophical Transactions of the Royal Society of London Series A Containing Papers of a Mathematical or Physical Character	522	0.0	0	0
+115	pure	control	4210176233	Canadian Journal of Research	583	0.0017152658662092624	0	0
+115	pure	control	164507617	Transactions of the Faraday Society	2456	0.0	0	0
+115	pure	control	4210221062	Journal of the Chemical Society Transactions	6307	0.0	0	0
+115	pure	control	4210236156	Berichte der deutschen chemischen Gesellschaft (A and B Series)	7234	0.0	0	0
+115	pure	control	204931651	Recueil des Travaux Chimiques des Pays-Bas	1795	0.0	0	0
+116	Annual Reviews S2O	treated	59069355	Annual Review of Law and Social Science	215	0.0	0	0
+116	Annual Reviews S2O	control	2736259308	International Data Privacy Law	230	0.008695652173913044	0	0
+116	Annual Reviews S2O	control	87646409	Journal of Immigrant & Refugee Studies	341	0.002932551319648094	0	0
+116	Annual Reviews S2O	control	144709864	Information & Communications Technology Law	157	0.006369426751592357	0	0
+116	Annual Reviews S2O	control	159153988	Hague Journal on the Rule of Law	187	0.0053475935828877	0	0
+116	Annual Reviews S2O	control	2764586361	Journal of Nursing Regulation	453	0.0	0	0
+117	Annual Reviews S2O	treated	165210498	Annual Review of Materials Research	167	0.0	0	0
+117	Annual Reviews S2O	control	7822423	Nature Nanotechnology	2045	0.0019559902200488996	0	0
+117	Annual Reviews S2O	control	55806205	MRS Bulletin	1480	0.004054054054054054	0	0
+117	Annual Reviews S2O	control	4210168442	The Journal of Adhesion	687	0.0	0	0
+117	Annual Reviews S2O	control	171866559	Recent Patents on Nanotechnology	295	0.0	0	0
+117	Annual Reviews S2O	control	20355562	Journal of Adhesion Science and Technology	1624	0.0	0	0
+118	Annual Reviews S2O	treated	196715598	Annual Review of Economics	253	0.007905138339920948	0	0
+118	Annual Reviews S2O	control	48690275	European Journal of Epidemiology	995	0.005025125628140704	0	0
+118	Annual Reviews S2O	control	119757635	The Annals of Statistics	1049	0.0009532888465204957	0	0
+118	Annual Reviews S2O	control	12967704	Statistical Science	434	0.002304147465437788	0	0
+118	Annual Reviews S2O	control	93986401	Fuzzy Optimization and Decision Making	225	0.0	0	0
+118	Annual Reviews S2O	control	190099528	British Journal of Mathematical and Statistical Psychology	229	0.0	0	0
+119	Annual Reviews S2O	treated	87014875	Annual Review of Clinical Psychology	189	0.0	0	0
+119	Annual Reviews S2O	control	187318745	Educational Psychology Review	426	0.0	0	0
+119	Annual Reviews S2O	control	143778727	Instructional Science	294	0.0	0	0
+119	Annual Reviews S2O	control	64250036	Multivariate Behavioral Research	569	0.0	0	0
+119	Annual Reviews S2O	control	108832698	Zeitschrift für Psychologie	294	0.0	0	0
+119	Annual Reviews S2O	control	96095673	British Journal of Educational Psychology	500	0.002	0	0
+120	pure	treated	4210183271	Obituary Notices of Fellows of the Royal Society	212	0.0	0	0
+120	pure	control	4210175519	Journal of the Society for the Bibliography of Natural History	64	0.0	0	0
+120	pure	control	4210235182	Transactions of the Newcomen Society	197	0.0	0	0
+120	pure	control	4306529355	SciMo	356	1.0	0	0
+120	pure	control	4210211710	Journal of the Royal Aeronautical Society	555	0.0	0	0
+120	pure	control	4210235826	Archeion	287	0.0	0	0
+121	Annual Reviews S2O	treated	4157722	Annual Review of Biophysics	192	0.005208333333333333	0	0
+121	Annual Reviews S2O	control	55210418	Critical Reviews in Biochemistry and Molecular Biology	273	0.0	0	0
+121	Annual Reviews S2O	control	122939334	Wiley Interdisciplinary Reviews - RNA	468	0.002136752136752137	0	0
+121	Annual Reviews S2O	control	6081579	Critical Reviews in Microbiology	380	0.0	0	0
+121	Annual Reviews S2O	control	4210194613	Plant Reproduction	204	0.0	0	0
+121	Annual Reviews S2O	control	2489440031	Nucleic Acid Therapeutics	358	0.0	0	0
+122	Annual Reviews S2O	treated	76844451	Annual Review of Resource Economics	227	0.0	0	0
+122	Annual Reviews S2O	control	170166683	American Economic Journal Macroeconomics	362	0.019337016574585635	0	0
+122	Annual Reviews S2O	control	4210215109	American Society of Clinical Oncology Educational Book	811	0.0	0	0
+122	Annual Reviews S2O	control	42260610	African Journal of Economic and Management Studies	306	0.0	0	0
+122	Annual Reviews S2O	control	4210169982	Eurasian economic review :	417	0.0	0	0
+122	Annual Reviews S2O	control	4210204299	Sport Business and Management An International Journal	286	0.01048951048951049	0	0
+123	Annual Reviews S2O	treated	188288600	Annual Review of Pathology Mechanisms of Disease	182	0.0	0	0
+123	Annual Reviews S2O	control	6081579	Critical Reviews in Microbiology	380	0.0	0	0
+123	Annual Reviews S2O	control	55210418	Critical Reviews in Biochemistry and Molecular Biology	273	0.0	0	0
+123	Annual Reviews S2O	control	125094086	Phytochemistry Reviews	490	0.0	0	0
+123	Annual Reviews S2O	control	122939334	Wiley Interdisciplinary Reviews - RNA	468	0.002136752136752137	0	0
+123	Annual Reviews S2O	control	2489440031	Nucleic Acid Therapeutics	358	0.0	0	0
+124	pure	treated	4210194216	Journal of Combinatorial Theory	416	0.0	0	0
+124	pure	control	4210182236	Journal of the Australian Mathematical Society	277	0.0	0	0
+124	pure	control	77748030	Archiv der Mathematik	516	0.0	0	0
+124	pure	control	199276155	Journal of the Australian Mathematical Society	123	0.0	0	0
+125	Annual Reviews S2O	treated	43203325	Annual Review of Marine Science	199	0.0	0	0
+125	Annual Reviews S2O	control	106377154	Limnology and Oceanography Methods	583	0.003430531732418525	0	0
+125	Annual Reviews S2O	control	162372621	Journal of Physical Oceanography	1721	0.0011621150493898896	0	0
+125	Annual Reviews S2O	control	82978933	Marine Geophysical Research	277	0.007220216606498195	0	0
+125	Annual Reviews S2O	control	124393830	Phycological Research	323	0.0	0	0
+125	Annual Reviews S2O	control	55118949	Acta Oceanologica Sinica	1612	0.0037220843672456576	0	0
+126	Annual Reviews S2O	treated	171259723	Annual Review of Analytical Chemistry	193	0.0	0	0
+126	Annual Reviews S2O	control	69764086	Mass Spectrometry Reviews	350	0.022857142857142857	8	0
+126	Annual Reviews S2O	control	49415658	Applied Magnetic Resonance	955	0.0010471204188481676	0	0
+126	Annual Reviews S2O	control	8355228	Biomolecular NMR Assignments	566	0.0017667844522968198	0	0
+126	Annual Reviews S2O	control	180224076	Current Proteomics	386	0.0	0	0
+126	Annual Reviews S2O	control	4210198164	Chinese Journal of Chemical Physics	1120	0.01875	0	0
+127	Annual Reviews S2O	treated	4210185937	Annual Review of Food Science and Technology	207	0.0	0	0
+127	Annual Reviews S2O	control	336866	Comprehensive Reviews in Food Science and Food Safety	960	0.0010416666666666667	0	0
+127	Annual Reviews S2O	control	4210174131	Reviews in Fisheries Science & Aquaculture	224	0.0	0	0
+127	Annual Reviews S2O	control	4210219320	Journal of Environmental Science and Health Part C	145	0.0	0	0
+127	Annual Reviews S2O	control	181365921	Food and Bioprocess Technology	1704	0.0	0	0
+127	Annual Reviews S2O	control	161704871	Food Biophysics	444	0.0045045045045045045	0	0
+128	Annual Reviews S2O	treated	161759566	Annual Review of Chemical and Biomolecular Engineering	209	0.0	0	0
+128	Annual Reviews S2O	control	195102351	Biogeochemistry	1012	0.003952569169960474	0	0
+128	Annual Reviews S2O	control	31549366	Aquatic Microbial Ecology	313	0.0	0	0
+128	Annual Reviews S2O	control	4210194204	Exposure and Health	341	0.0	0	0
+128	Annual Reviews S2O	control	43369960	Geo-Marine Letters	373	0.005361930294906166	0	0
+128	Annual Reviews S2O	control	121195568	African Journal of Marine Science	425	0.0	0	0
+129	Annual Reviews S2O	treated	2764917282	Annual Review of Virology	204	0.0	0	0
+129	Annual Reviews S2O	control	2764926557	Nature Microbiology	955	0.0010471204188481676	0	0
+129	Annual Reviews S2O	control	4210179082	VirusDisease	455	0.0	0	0
+129	Annual Reviews S2O	control	106953758	Current Opinion in HIV and AIDS	1159	0.0	0	0
+129	Annual Reviews S2O	control	2486125978	Scientific and Technical Review (World Organisation for Animal Health)	1548	0.0	0	0
+129	Annual Reviews S2O	control	24448233	Australasian Plant Disease Notes	652	0.0015337423312883436	0	0
+130	Annual Reviews S2O	treated	4210170931	Annual Review of Financial Economics	159	0.012578616352201259	0	0
+130	Annual Reviews S2O	control	21260181	IMF Economic Review	241	0.024896265560165973	0	0
+130	Annual Reviews S2O	control	31690342	Strategic Entrepreneurship Journal	245	0.024489795918367346	0	0
+130	Annual Reviews S2O	control	68817889	Social enterprise journal	217	0.009216589861751152	0	0
+130	Annual Reviews S2O	control	124851215	Journal of Social Entrepreneurship	233	0.0	0	0
+130	Annual Reviews S2O	control	4210228250	AHURI Final Report	141	0.04964539007092199	4	0
+131	pure	treated	4210238644	Philosophical Transactions of the Royal Society of London Series B Containing Papers of a Biological Character	358	0.0	0	0
+131	pure	control	69635808	American Journal of Anatomy	857	0.0	0	0
+131	pure	control	144479944	Acta Zoologica	122	0.0	0	0
+131	pure	control	4210224303	The Transactions of the Zoological Society of London	122	0.01639344262295082	1	0
+131	pure	control	4210173425	Journal of the Linnean Society of London Zoology	366	0.00819672131147541	0	0
+131	pure	control	173450624	Journal of Morphology	704	0.002840909090909091	0	0
+132	Annual Reviews S2O	treated	185750702	Annual Review of Condensed Matter Physics	181	0.0	0	0
+132	Annual Reviews S2O	control	4210198591	physica status solidi (RRL) - Rapid Research Letters	1751	0.0028555111364934323	0	0
+132	Annual Reviews S2O	control	25422132	Journal of Solid State Electrochemistry	2907	0.002407980736154111	0	0
+132	Annual Reviews S2O	control	4210171645	SPIN	285	0.0035087719298245615	0	0
+132	Annual Reviews S2O	control	2764701082	IEEE Power Electronics Magazine	847	0.0011806375442739079	0	0
+132	Annual Reviews S2O	control	4210207107	Advanced Composites and Hybrid Materials	589	0.0	0	0
+133	pure	treated	4210190781	General Topology and its Applications	299	0.0	0	0
+133	pure	control	4210173502	Bulletin of the Brazilian Mathematical Society New Series	137	0.0	0	0
+133	pure	control	67922921	Algebra and Logic	427	0.0	0	0
+133	pure	control	4210239563	Annales Academiae Scientiarum Fennicae Series A I Mathematica	224	0.0	0	0
+133	pure	control	112412400	Osaka Journal of Mathematics	394	0.01015228426395939	0	0
+133	pure	control	2764668381	Journal of the Faculty of Science, the University of Tokyo. Sect. 1 A, Mathematics	154	0.0	0	0
+134	Annual Reviews S2O	treated	2491293328	Annual Review of Animal Biosciences	177	0.0	0	0
+134	Annual Reviews S2O	control	2764409288	Advances in Wound Care	463	0.0	0	0
+134	Annual Reviews S2O	control	110410232	HSS Journal® The Musculoskeletal Journal of Hospital for Special Surgery	536	0.0	0	0
+134	Annual Reviews S2O	control	4210182388	JSLS Journal of the Society of Laparoscopic & Robotic Surgeons	638	0.0	0	0
+134	Annual Reviews S2O	control	2764658079	Current Surgery Reports	293	0.010238907849829351	0	0
+134	Annual Reviews S2O	control	2764474443	Current Otorhinolaryngology Reports	396	0.0	0	0
+135	Annual Reviews S2O	treated	4210217375	Annual Review of Statistics and Its Application	188	0.0	0	0
+135	Annual Reviews S2O	control	2764691048	Current Epidemiology Reports	305	0.0	0	0
+135	Annual Reviews S2O	control	88220793	The Stata Journal Promoting communications on statistics and Stata	578	0.005190311418685121	0	0
+135	Annual Reviews S2O	control	12967704	Statistical Science	434	0.002304147465437788	0	0
+135	Annual Reviews S2O	control	93986401	Fuzzy Optimization and Decision Making	225	0.0	0	0
+135	Annual Reviews S2O	control	163858705	Journal of Research on Educational Effectiveness	303	0.006600660066006601	0	0
+136	Annual Reviews S2O	treated	4210222997	Annual Review of Vision Science	184	0.0	0	0
+136	Annual Reviews S2O	control	130623406	Wiley Interdisciplinary Reviews Cognitive Science	297	0.0	0	0
+136	Annual Reviews S2O	control	15160710	Reviews in the Neurosciences	521	0.0	0	0
+136	Annual Reviews S2O	control	177321595	Thinking & Reasoning	201	0.0	0	0
+136	Annual Reviews S2O	control	22283869	Topics in Cognitive Science	508	0.001968503937007874	0	0
+136	Annual Reviews S2O	control	160466889	Minds and Machines	234	0.01282051282051282	0	0
+137	Annual Reviews S2O	treated	4210200923	Annual Review of Organizational Psychology and Organizational Behavior	193	0.0	0	0
+137	Annual Reviews S2O	control	153849593	Baltic Journal of Management	295	0.0	0	0
+137	Annual Reviews S2O	control	141599056	Journal of LGBT Youth	233	0.0	0	0
+137	Annual Reviews S2O	control	139488499	Journal of School Violence	296	0.0033783783783783786	0	0
+137	Annual Reviews S2O	control	4210180154	Transgender Health	334	0.0	0	0
+137	Annual Reviews S2O	control	29210485	Journal of Personnel Psychology	205	0.00975609756097561	0	0
+138	Annual Reviews S2O	treated	4210191548	Annual Review of Linguistics	202	0.0	0	0
+138	Annual Reviews S2O	control	2764400943	Journal of Global Fashion Marketing	223	0.0	0	0
+138	Annual Reviews S2O	control	43373604	Journal of Heritage Tourism	326	0.0	0	0
+138	Annual Reviews S2O	control	131583313	Biological Theory	221	0.0	0	0
+138	Annual Reviews S2O	control	160156518	International Journal of Fashion Design Technology and Education	322	0.0	0	0
+138	Annual Reviews S2O	control	2764562404	Heritage & Society	110	0.01818181818181818	0	0
+139	pure	treated	79679061	Annals of Mathematical Logic	224	0.0	0	0
+139	pure	control	4210226623	ACM SIGSAM Bulletin	237	0.0	0	0
+139	pure	control	2764572581	CTIT technical reports series	113	1.0	0	0
+139	pure	control	166129268	ACM SIGNUM Newsletter	179	0.0	0	0
+139	pure	control	4210211129	Mathematische Operationsforschung und Statistik Series Optimization	310	0.0	0	0
+139	pure	control	174019123	IEEE Transactions on Engineering Writing and Speech	46	0.0	0	0
+140	Annual Reviews S2O	treated	4210178937	Annual Review of Cancer Biology	90	0.0	0	0
+140	Annual Reviews S2O	control	4210190239	3 Biotech	1934	0.0077559462254395035	0	0
+140	Annual Reviews S2O	control	2764476047	Brain Tumor Research and Treatment	181	0.03867403314917127	0	0
+140	Annual Reviews S2O	control	4210177422	Frontiers of Medicine	911	0.003293084522502744	0	0
+140	Annual Reviews S2O	control	71887004	Immunotherapy	1278	0.001564945226917058	0	0
+140	Annual Reviews S2O	control	131025427	Cancer Cytopathology	1052	0.0009505703422053232	0	0
+141	Annual Reviews S2O	treated	4210217772	Annual Review of Criminology	99	0.0	0	0
+141	Annual Reviews S2O	control	4162551	International Journal of Gender and Entrepreneurship	104	0.0	0	0
+141	Annual Reviews S2O	control	4210189436	Communication Research and Practice	114	0.0	0	0
+141	Annual Reviews S2O	control	4210177552	Journal of Developmental and Life-Course Criminology	130	0.046153846153846156	0	0
+141	Annual Reviews S2O	control	2764875035	Journal of Entrepreneurship and Public Policy	130	0.0	0	0
+141	Annual Reviews S2O	control	4210228993	Curriculum Perspectives	120	0.0	0	0
+142	Annual Reviews S2O	treated	4210232080	Annual Review of Biomedical Data Science	83	0.0	0	0
+142	Annual Reviews S2O	control	4210229561	SIAM Journal on Mathematics of Data Science	187	0.0	0	0
+142	Annual Reviews S2O	control	118988714	Journal of Machine Learning Research	162	0.8148148148148148	57	0
+142	Annual Reviews S2O	control	160628929	User Modeling and User-Adapted Interaction	137	0.0072992700729927005	0	0
+142	Annual Reviews S2O	control	4210173818	ACM Transactions on Interactive Intelligent Systems	146	0.0	0	0
+142	Annual Reviews S2O	control	4210178793	Health Information Science and Systems	153	0.0	0	0
+143	Annual Reviews S2O	treated	4210209873	Annual Review of Developmental Psychology	78	0.0	0	0
+143	Annual Reviews S2O	control	115649667	International Review of Sport and Exercise Psychology	109	0.0	0	0
+143	Annual Reviews S2O	control	4210199884	International Journal of Applied Positive Psychology	70	0.0	0	0
+143	Annual Reviews S2O	control	198862774	Language Assessment Quarterly	111	0.018018018018018018	0	0
+143	Annual Reviews S2O	control	4210205499	Sports Coaching Review	77	0.0	0	0
+143	Annual Reviews S2O	control	13069421	Metacognition and Learning	132	0.007575757575757576	0	0
+146	pure	treated	6147291	Virology	9222	0.00043374539145521576	0	0
+146	pure	control	126191069	European Journal of Immunology	7332	0.0005455537370430987	0	0
+146	pure	control	85071590	Journal of Toxicology and Environmental Health	2427	0.0	0	0
+146	pure	control	174819509	Shock	5438	0.03622655388010298	0	0
+146	pure	control	70378559	Immunologic Research	933	0.0	0	0
+146	pure	control	41617351	Immunology and Cell Biology	1655	0.3039274924471299	174	0
+147	pure	treated	47506589	Annals of Physical and Rehabilitation Medicine	1136	0.00528169014084507	0	0
+147	pure	control	13475779	Neurology India	1242	0.013687600644122383	0	0
+147	pure	control	22232893	Nature Reviews Neurology	655	0.0	0	0
+147	pure	control	96672897	British Journal of Neurosurgery	2087	0.008624820316243412	0	0
+147	pure	control	162735375	European Neurology	4309	0.00023207240659085636	0	0
+147	pure	control	111042112	Psychiatry and Clinical Neurosciences	2262	0.005747126436781609	0	0
+148	pure	treated	174489444	Archives of cardiovascular diseases	566	0.0	0	0
+148	pure	control	90613825	Journal of Cardiovascular Medicine	959	0.0010427528675703858	0	0
+148	pure	control	8999885	ASAIO Journal	440	0.004545454545454545	0	0
+148	pure	control	132854162	The Journal of Cardiovascular Nursing	336	0.0	0	0
+148	pure	control	31433238	Coronary Artery Disease	354	0.002824858757062147	0	0
+148	pure	control	2754203519	Journal of Perioperative Practice	283	0.01060070671378092	0	0
+149	pure	treated	147586446	Archives of Cardiovascular Diseases Supplements	218	0.009174311926605505	2	0
+149	pure	control	143526275	Sang thrombose vaisseaux	238	0.0	0	0
+149	pure	control	4210187039	Medicine - Programa de Formación Médica Continuada Acreditado	764	0.0	0	0
+149	pure	control	4393917769	Giornale Ialiano di Cardiologia	572	0.02972027972027972	0	0
+149	pure	control	2765062696	Zhongguo bingli shengli zazhi	1491	0.9490274983232729	383	0
+149	pure	control	2764924667	Di-Si Junyi Daxue xuebao	570	1.0	0	0
+150	pure	treated	4210237460	Biochimica et Biophysica Acta (BBA) - Bioenergetics	3364	0.00029726516052318666	0	0
+150	pure	control	117498271	Cancer Chemotherapy and Pharmacology	3594	0.0002782415136338342	0	0
+150	pure	control	80252601	Yeast	2337	0.050492083868207104	46	0
+150	pure	control	203723150	IUBMB Life	2946	0.0013577732518669382	0	0
+150	pure	control	91329243	Biology of the Cell	1661	0.0006020469596628537	0	0
+150	pure	control	130927242	American Journal of Clinical Oncology	2398	0.0004170141784820684	0	0
+151	pure	treated	4210187475	Biochimica et Biophysica Acta (BBA) - Biomembranes	4496	0.0	0	0
+151	pure	control	151564723	Biotechnology and Bioengineering	6705	0.0008948545861297539	0	0
+151	pure	control	121161810	Proteins Structure Function and Bioinformatics	5290	0.0003780718336483932	0	0
+151	pure	control	88471346	Photosynthesis Research	1924	0.016112266112266113	0	0
+151	pure	control	27819959	BioEssays	2765	0.0014466546112115732	0	0
+151	pure	control	117498271	Cancer Chemotherapy and Pharmacology	3594	0.0002782415136338342	0	0
+152	pure	treated	4210173099	Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease	2024	0.0	0	0
+152	pure	control	104414929	Plant Biology	1309	0.006111535523300229	0	0
+152	pure	control	121161810	Proteins Structure Function and Bioinformatics	5290	0.0003780718336483932	0	0
+152	pure	control	75531928	BioFactors	1213	0.0008244023083264633	0	0
+152	pure	control	88052261	Antioxidants and Redox Signaling	2097	0.0	0	0
+152	pure	control	27819959	BioEssays	2765	0.0014466546112115732	0	0
+153	pure	treated	4210226410	Biochimica et Biophysica Acta (BBA) - Molecular Cell Research	2906	0.0	0	0
+153	pure	control	188633547	Fish Physiology and Biochemistry	1379	0.002175489485134155	0	0
+153	pure	control	111106147	Purinergic Signalling	318	0.03459119496855346	0	0
+153	pure	control	26306840	Drug Development Research	1570	0.008280254777070064	0	0
+153	pure	control	27192023	Invertebrate Reproduction & Development	823	0.0	0	0
+153	pure	control	4404663171	The biomedical & life sciences collection.	1404	0.024216524216524215	0	0
+154	pure	treated	195556561	JACC. Cardiovascular imaging	504	0.01984126984126984	0	0
+154	pure	control	191349260	European Journal of Nuclear Medicine and Molecular Imaging	1160	0.06465517241379311	0	0
+154	pure	control	4819472	European Radiology	1417	0.007057163020465773	0	0
+154	pure	control	155721155	Lasers in Surgery and Medicine	536	0.1417910447761194	70	0
+154	pure	control	200465866	Molecular Imaging and Biology	382	0.002617801047120419	0	0
+154	pure	control	44383424	International Journal of Radiation Biology	486	0.0	0	0
+155	pure	treated	117995063	JACC: Cardiovascular Interventions	556	0.0	0	0
+155	pure	control	133907260	Basic Research in Cardiology	299	0.0	0	0
+155	pure	control	153084679	European Journal of Clinical Investigation	689	0.023222060957910014	0	0
+155	pure	control	173369630	Cardiology in Review	187	0.0855614973262032	13	0
+155	pure	control	66479284	Heart and Vessels	434	0.0	0	0
+155	pure	control	143832381	Journal of Cardiovascular Electrophysiology	1035	0.005797101449275362	0	0
+156	pure	treated	147774598	Journal of Cystic Fibrosis	3349	0.001492982979994028	0	0
+156	pure	control	4210221960	PULMONOLOGIYA	545	0.0	0	0
+156	pure	control	70002872	Pathology International	1273	0.0	0	0
+156	pure	control	125119059	Respirology	1471	0.11896668932698844	165	0
+156	pure	control	111957458	Pneumologie	4775	0.0006282722513089005	0	0
+156	pure	control	196536799	Seminars in Interventional Radiology	477	0.0	0	0
+157	pure	treated	106450229	Microbiological Research	704	0.19886363636363635	97	0
+157	pure	control	56137335	Journal of Agronomy and Crop Science	627	0.0	0	0
+157	pure	control	42419699	Precision Agriculture	367	0.0	0	0
+157	pure	control	3204633	Plant Growth Regulation	1095	0.0	0	0
+157	pure	control	129665955	Journal of Plant Growth Regulation	463	0.0	0	0
+157	pure	control	114992436	Molecular Breeding	1038	0.0009633911368015414	0	0
+158	pure	treated	678965	Value in Health	7482	0.18323977546110665	601	0
+158	pure	control	4210215105	Marketing i Rynek	840	1.0	0	0
+158	pure	control	64218087	Entreprises et histoire	697	0.058823529411764705	0	0
+158	pure	control	4210189896	Revue internationale et stratégique	1190	0.005042016806722689	0	0
+158	pure	control	4210170078	Oncology Times	6065	0.0	0	0
+158	pure	control	87561820	Environmental Science and Pollution Research	1408	0.28267045454545453	234	0
+159	pure	treated	68719679	Vision Research	6589	0.001669449081803005	0	0
+159	pure	control	45281609	Experimental Brain Research	6146	0.0011389521640091116	0	0
+159	pure	control	59628311	Behavioral and Brain Sciences	5920	0.004391891891891892	0	0
+159	pure	control	143044361	Journal of Motor Behavior	637	0.0015698587127158557	0	0
+159	pure	control	35341196	Psychopathology	1449	0.0013802622498274672	0	0
+159	pure	control	105662685	European Archives of Psychiatry and Clinical Neuroscience	1145	0.00960698689956332	0	0
+160	pure	treated	138569045	European Journal of Vascular and Endovascular Surgery	4930	0.22454361054766733	576	0
+160	pure	control	168193669	Clinical and Experimental Pharmacology and Physiology	3730	0.012332439678284183	0	0
+160	pure	control	13860802	Journal of Surgical Oncology	3584	0.0	0	0
+160	pure	control	126530969	Hernia	1499	0.0	0	0
+160	pure	control	91064148	Colorectal Disease	2888	0.18213296398891968	229	0
+160	pure	control	134892809	International Journal of Urology	3406	0.003816793893129771	0	0
+161	pure	treated	76729639	Journal of Cardiology	884	0.11538461538461539	0	0
+161	pure	control	130557755	Biomarkers in Medicine	540	0.0	0	0
+161	pure	control	108504264	Expert Review of Cardiovascular Therapy	1339	0.0	0	0
+161	pure	control	132854162	The Journal of Cardiovascular Nursing	826	0.0	0	0
+161	pure	control	31433238	Coronary Artery Disease	813	0.0012300123001230013	0	0
+161	pure	control	154908413	Herz	984	0.006097560975609756	0	0
+162	pure	treated	2764700489	Oral Science International	152	0.006578947368421052	0	0
+162	pure	control	4306528101	Rev. Salusvita (Online)	48	1.0	0	0
+162	pure	control	2764402793	International Journal of Orofacial Myology	62	0.016129032258064516	0	0
+162	pure	control	4210227048	Médecine Buccale Chirurgie Buccale	304	0.0	0	0
+162	pure	control	181117821	Australian Endodontic Journal	521	0.0	0	0
+162	pure	control	60118956	Endodontic Topics	465	0.002150537634408602	0	0
+163	pure	treated	113287398	Journal of Cardiology Cases	523	0.0019120458891013384	0	0
+163	pure	control	83245930	British Journal of Cardiac Nursing	1171	0.0008539709649871904	0	0
+163	pure	control	115697578	Herzschrittmachertherapie + Elektrophysiologie	394	0.005076142131979695	0	0
+163	pure	control	95587881	Surgery (Oxford)	1235	0.03724696356275304	46	0
+163	pure	control	4394735472	Acta cardiologica. Supplementum	513	0.0	0	0
+163	pure	control	2754203519	Journal of Perioperative Practice	637	0.009419152276295133	0	0
+164	pure	treated	14279969	Polar Science	190	0.0	0	0
+164	pure	control	148760032	Limnology	229	0.0	0	0
+164	pure	control	2764633697	Biodiversity	219	0.0	0	0
+164	pure	control	134949215	Marine Biodiversity	184	0.0	0	0
+164	pure	control	27810548	Agricultural and Forest Entomology	326	0.006134969325153374	0	0
+164	pure	control	169546945	African Journal of Aquatic Science	277	0.007220216606498195	0	0
+166	pure	treated	2764583368	Diagnostic and Interventional Imaging	492	0.0	0	0
+166	pure	control	75759149	Korean Journal of Radiology	369	0.0	0	0
+166	pure	control	44383424	International Journal of Radiation Biology	396	0.0	0	0
+166	pure	control	202179756	Journal of Medical Imaging and Radiation Oncology	381	0.0	0	0
+166	pure	control	124030303	Lasers in Medical Science	649	0.0	0	0
+166	pure	control	200465866	Molecular Imaging and Biology	252	0.0	0	0
+167	pure	treated	2898168182	JACC. Clinical electrophysiology	224	0.0	0	0
+167	pure	control	57372075	Current Opinion in Cardiology	188	0.0	0	0
+167	pure	control	203964698	Current Opinion in Lipidology	161	0.006211180124223602	0	0
+167	pure	control	86924810	JAMA Surgery	700	0.0	0	0
+167	pure	control	131791641	Cardiovascular Drugs and Therapy	122	0.0	0	0
+167	pure	control	2765015654	JAMA Cardiology	280	0.0	0	0
+168	pure	treated	2764825379	JACC Heart Failure	329	0.0	0	0
+168	pure	control	203964698	Current Opinion in Lipidology	291	0.003436426116838488	0	0
+168	pure	control	208090617	Current Treatment Options in Oncology	219	0.0	0	0
+168	pure	control	83206718	Current Oncology Reports	261	0.0	0	0
+168	pure	control	129765729	Current Atherosclerosis Reports	333	0.0	0	0
+168	pure	control	131791641	Cardiovascular Drugs and Therapy	228	0.0	0	0
+169	pure	treated	185605772	HPB	3998	0.40145072536268134	130	0
+169	pure	control	36642063	Journal of Craniofacial Surgery	8162	0.00012251899044351874	0	0
+169	pure	control	21837735	Journal of Laparoendoscopic & Advanced Surgical Techniques	2751	0.0003635041802980734	0	0
+169	pure	control	134892809	International Journal of Urology	3650	0.00410958904109589	0	0
+169	pure	control	57131103	Journal of Burn Care & Research	1787	0.0005595970900951316	0	0
+169	pure	control	91064148	Colorectal Disease	4122	0.12760795730228044	229	0
+170	pure	treated	13054843	Osteoarthritis and Cartilage	10522	0.045808781600456185	361	0
+170	pure	control	44888363	Clinical Rheumatology	5049	0.0029708853238265003	0	0
+170	pure	control	53533005	International Journal of Impotence Research	1587	0.005040957781978576	0	0
+170	pure	control	169069398	International Journal of Rheumatic Diseases	1385	0.001444043321299639	0	0
+170	pure	control	31702427	Current Opinion in Rheumatology	2383	0.005035669324381032	0	0
+170	pure	control	129376536	JCR Journal of Clinical Rheumatology	2663	0.003379647014645137	0	0
+171	pure	treated	71995303	Respiratory Medicine	4846	0.15146512587701197	712	0
+171	pure	control	125119059	Respirology	3211	0.17408906882591094	443	0
+171	pure	control	188383068	Current Opinion in Pulmonary Medicine	1607	0.0	0	0
+171	pure	control	170712534	CardioVascular and Interventional Radiology	3762	0.002126528442317916	0	0
+171	pure	control	193428046	Seminars in Respiratory and Critical Care Medicine	1480	0.0013513513513513514	0	0
+171	pure	control	70002872	Pathology International	2974	0.006388702084734364	0	0
+172	pure	treated	4210231961	Cell chemical biology	200	0.0	0	0
+172	pure	control	18736814	Biophysical Reviews	226	0.0	0	0
+172	pure	control	70127540	Human Cell	406	0.017241379310344827	0	0
+172	pure	control	188962457	Interdisciplinary Sciences Computational Life Sciences	427	0.0	0	0
+172	pure	control	25854515	Current Bioinformatics	497	0.0	0	0
+172	pure	control	31257671	Cell Biology and Toxicology	900	0.0033333333333333335	0	0
+173	pure	treated	2764739556	Cell Systems	200	0.0	0	0
+173	pure	control	120502300	APOPTOSIS	252	0.0	0	0
+173	pure	control	6081579	Critical Reviews in Microbiology	55	0.0	0	0
+173	pure	control	125094086	Phytochemistry Reviews	92	0.0	0	0
+173	pure	control	143701222	Angiogenesis	78	0.02564102564102564	0	0
+173	pure	control	82228219	Metabolomics	268	0.0	0	0
+174	pure	treated	2898106599	Chem	109	0.01834862385321101	0	0
+174	pure	control	4210168380	BioNanoScience	383	0.0	0	0
+174	pure	control	2765060811	Carbon letters	574	0.2979094076655052	0	0
+174	pure	control	19938693	Journal of Porous Materials	1828	0.0005470459518599562	0	0
+174	pure	control	131385101	New Carbon Materials	881	0.6390465380249716	185	0
+174	pure	control	146449914	Journal of Sol-Gel Science and Technology	4633	0.0002158428663932657	0	0
+181	pure	treated	135898356	Journal of Pain and Symptom Management	6205	0.0006446414182111201	0	0
+181	pure	control	60318618	World Journal of Surgery	7385	0.0008124576844955991	0	0
+181	pure	control	173554290	Journal of Community Health	1663	0.15754660252555622	22	0
+181	pure	control	4210187764	Proceedings of The Nutrition Society	4728	0.013747884940778343	0	0
+181	pure	control	58099514	Journal of School Health	2298	0.005657093124456049	0	0
+181	pure	control	99400149	Journal of Health Care for the Poor and Underserved	2143	0.0013999066728884741	0	0
+182	pure	treated	90745127	Journal of Thoracic Oncology	11385	0.027492314448836187	0	0
+182	pure	control	125119059	Respirology	3473	0.054419809962568386	0	0
+182	pure	control	70002872	Pathology International	1582	0.0	0	0
+182	pure	control	196536799	Seminars in Interventional Radiology	775	0.0	0	0
+182	pure	control	193428046	Seminars in Respiratory and Critical Care Medicine	996	0.0	0	0
+182	pure	control	188383068	Current Opinion in Pulmonary Medicine	1138	0.0	0	0
+183	pure	treated	97400022	Limnologica	695	0.0	0	0
+183	pure	control	51065943	Forest Pathology	710	0.22253521126760564	70	0
+183	pure	control	2497724177	Revista Brasileira de Botânica	942	0.0	0	0
+183	pure	control	99248529	Bulletin of Marine Science	571	0.4868651488616462	24	0
+183	pure	control	199296737	Bird Study	830	0.0024096385542168677	0	0
+183	pure	control	170816358	Marine Ecology	869	0.1334867663981588	22	0
+184	pure	treated	2764833115	Value in Health Regional Issues	398	0.0	0	0
+184	pure	control	98984247	Computational Economics	553	0.007233273056057866	0	0
+184	pure	control	3416249	Review of Industrial Organization	339	0.0058997050147492625	0	0
+184	pure	control	50561683	International Review of Applied Economics	294	0.003401360544217687	0	0
+184	pure	control	180723199	Agribusiness	288	0.0	0	0
+184	pure	control	579031	Economic Theory	493	0.016227180527383367	0	0
+185	pure	treated	72188638	Experimental Hematology	5577	0.01595840057378519	0	0
+185	pure	control	15952725	Journal of Pediatric Hematology/Oncology	4711	0.0027594990447887924	0	0
+185	pure	control	27064115	Leukemia & lymphoma/Leukemia and lymphoma	8396	0.002739399714149595	0	0
+185	pure	control	45192162	International Journal of Hematology	3915	0.004086845466155811	0	0
+185	pure	control	67118044	American Journal of Therapeutics	2504	0.0	0	0
+185	pure	control	56953219	Vox Sanguinis	3012	0.25697211155378485	709	0
+186	pure	treated	45445671	Fertility and Sterility	6158	0.0	0	0
+186	pure	control	99576920	Zygote	283	0.0	0	0
+186	pure	control	125242520	Molecular Reproduction and Development	528	0.0	0	0
+186	pure	control	203280300	Current Opinion in Obstetrics & Gynecology	271	0.0	0	0
+186	pure	control	171426405	Systems Biology in Reproductive Medicine	193	0.0	0	0
+186	pure	control	90729755	Andrology	594	0.0016835016835016834	0	0
+187	pure	treated	56361996	Microbes and Infection	3446	0.0011607661056297156	0	0
+187	pure	control	41617351	Immunology and Cell Biology	3086	0.1662346079066753	174	0
+187	pure	control	57504206	Journal of Clinical Immunology	3300	0.019393939393939394	0	0
+187	pure	control	70378559	Immunologic Research	2174	0.0	0	0
+187	pure	control	85071590	Journal of Toxicology and Environmental Health	4147	0.00024113817217265494	0	0
+187	pure	control	27230875	Advances in Therapy	3172	0.009773013871374527	0	0
+188	pure	treated	37853641	Research in Microbiology	3092	0.00129366106080207	0	0
+188	pure	control	67737920	Current Protein and Peptide Science	1427	0.001401541695865452	0	0
+188	pure	control	170339494	Sexually Transmitted Diseases	4561	0.0021925016443762333	0	0
+188	pure	control	26519103	Mycological Progress	1339	0.0022404779686333084	0	0
+188	pure	control	148105046	Persoonia - Molecular Phylogeny and Evolution of Fungi	561	0.4741532976827095	36	0
+188	pure	control	197593595	International Journal of Peptide Research and Therapeutics	1656	0.0006038647342995169	0	0

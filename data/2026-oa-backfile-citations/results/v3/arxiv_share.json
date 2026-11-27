@@ -1,0 +1,33 @@
+{
+ "openings": 113,
+ "papers_q10": 352540,
+ "arxiv_before_T": 8783,
+ "share_arxiv_before_T": 0.02491348499461054,
+ "by_program": {
+  "Elsevier maths open archive 2012": {
+   "papers": 161397,
+   "arxiv_before_T": 7476
+  },
+  "AMS back file 2010": {
+   "papers": 56319,
+   "arxiv_before_T": 1289
+  },
+  "Cell Press archive 2005": {
+   "papers": 18339,
+   "arxiv_before_T": 1
+  },
+  "Royal Society archive 2011": {
+   "papers": 6650,
+   "arxiv_before_T": 0
+  },
+  "single-journal opening": {
+   "papers": 2164,
+   "arxiv_before_T": 0
+  },
+  "Elsevier open archive join": {
+   "papers": 107671,
+   "arxiv_before_T": 17
+  }
+ },
+ "rule": "arXiv posting year (from the arXiv id) earlier than the opening year T; copies posted in or after T count as none"
+}

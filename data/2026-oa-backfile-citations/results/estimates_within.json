@@ -1,0 +1,22 @@
+[
+ {
+  "label": "WITHIN: Annual Reviews 2023, opened nine volumes vs older closed volumes",
+  "pct": -1.2781642928137549,
+  "lo95": -4.432867582129907,
+  "hi95": 1.9806768166067412,
+  "journals": 37,
+  "placebo_pct": 1.9591140701662235,
+  "placebo_lo95": -0.545201934533901,
+  "placebo_hi95": 4.526489864573713
+ },
+ {
+  "label": "WITHIN: Royal Society 2011, pre-1942 papers vs 1960-1985 papers",
+  "pct": 22.70494184774645,
+  "lo95": 5.1647071949304735,
+  "hi95": 43.17068107222048,
+  "journals": 5,
+  "placebo_pct": 5.274613893151825,
+  "placebo_lo95": -8.645713337296101,
+  "placebo_hi95": 21.316084173166814
+ }
+]

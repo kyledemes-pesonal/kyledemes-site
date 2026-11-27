@@ -1,0 +1,152 @@
+{
+ "Annual Reviews S2O 2023": {
+  "events": 42,
+  "papers_opened": 8697,
+  "events_with_age1_2": 42,
+  "papers_age1": 973,
+  "papers_age2": 1053,
+  "papers_age1_2": 2026,
+  "share_of_opened": 0.23295389214671725,
+  "program_date_clusters_age1_2": 1,
+  "by_program": {
+   "Annual Reviews S2O 2023 (previous nine volumes)": {
+    "events": 42,
+    "papers_age1": 973,
+    "papers_age2": 1053
+   }
+  },
+  "ext_age1_wall12_events": 0,
+  "ext_age1_wall12_papers": 0
+ },
+ "Annual Reviews S2O pilots": {
+  "events": 8,
+  "papers_opened": 3507,
+  "events_with_age1_2": 8,
+  "papers_age1": 167,
+  "papers_age2": 225,
+  "papers_age1_2": 392,
+  "share_of_opened": 0.11177644710578842,
+  "program_date_clusters_age1_2": 3,
+  "by_program": {
+   "Annual Reviews S2O pilot (all back volumes)": {
+    "events": 8,
+    "papers_age1": 167,
+    "papers_age2": 225
+   }
+  },
+  "ext_age1_wall12_events": 0,
+  "ext_age1_wall12_papers": 0
+ },
+ "other flips (platform move at T)": {
+  "events": 5,
+  "papers_opened": 10845,
+  "events_with_age1_2": 4,
+  "papers_age1": 192,
+  "papers_age2": 195,
+  "papers_age1_2": 387,
+  "share_of_opened": 0.03568464730290456,
+  "program_date_clusters_age1_2": 4,
+  "by_program": {
+   "single-journal opening": {
+    "events": 1,
+    "papers_age1": 77,
+    "papers_age2": 55
+   },
+   "single-journal opening (flip)": {
+    "events": 3,
+    "papers_age1": 115,
+    "papers_age2": 140
+   }
+  },
+  "ext_age1_wall12_events": 0,
+  "ext_age1_wall12_papers": 0
+ },
+ "other flips / front list (no platform move)": {
+  "events": 8,
+  "papers_opened": 32447,
+  "events_with_age1_2": 7,
+  "papers_age1": 816,
+  "papers_age2": 857,
+  "papers_age1_2": 1673,
+  "share_of_opened": 0.051561007180941226,
+  "program_date_clusters_age1_2": 7,
+  "by_program": {
+   "single-journal opening": {
+    "events": 4,
+    "papers_age1": 395,
+    "papers_age2": 320
+   },
+   "single-journal opening (flip)": {
+    "events": 3,
+    "papers_age1": 421,
+    "papers_age2": 537
+   }
+  },
+  "ext_age1_wall12_events": 0,
+  "ext_age1_wall12_papers": 0
+ },
+ "pure": {
+  "events": 113,
+  "papers_opened": 346011,
+  "events_with_age1_2": 39,
+  "papers_age1": 0,
+  "papers_age2": 16044,
+  "papers_age1_2": 16044,
+  "share_of_opened": 0.046368468054483816,
+  "program_date_clusters_age1_2": 11,
+  "by_program": {
+   "Cell Press archive 2005": {
+    "events": 9,
+    "papers_age1": 0,
+    "papers_age2": 2759
+   },
+   "Elsevier open archive join": {
+    "events": 29,
+    "papers_age1": 0,
+    "papers_age2": 12553
+   },
+   "single-journal opening": {
+    "events": 1,
+    "papers_age1": 0,
+    "papers_age2": 732
+   }
+  },
+  "ext_age1_wall12_events": 38,
+  "ext_age1_wall12_papers": 14524
+ },
+ "all flips and S2O": {
+  "events": 63,
+  "papers_opened": 55496,
+  "events_with_age1_2": 61,
+  "papers_age1": 2148,
+  "papers_age2": 2330,
+  "papers_age1_2": 4478,
+  "share_of_opened": 0.0806905002162318,
+  "program_date_clusters_age1_2": 15,
+  "by_program": {
+   "Annual Reviews S2O 2023 (previous nine volumes)": {
+    "events": 42,
+    "papers_age1": 973,
+    "papers_age2": 1053
+   },
+   "Annual Reviews S2O pilot (all back volumes)": {
+    "events": 8,
+    "papers_age1": 167,
+    "papers_age2": 225
+   },
+   "single-journal opening": {
+    "events": 5,
+    "papers_age1": 472,
+    "papers_age2": 375
+   },
+   "single-journal opening (flip)": {
+    "events": 6,
+    "papers_age1": 536,
+    "papers_age2": 677
+   }
+  },
+  "ext_age1_wall12_events": 0,
+  "ext_age1_wall12_papers": 0
+ },
+ "note": "v3 stacks (176 matched openings; 4 non-dropped v3 events without 2 matched controls hold no 1-2 year-old papers). Papers = articles+reviews in the cleaned Q12 panel (v3 fix 3). Age = T - publication year."
+}

@@ -1,0 +1,1119 @@
+{
+ "canada_side": {
+  "canadian_articles_2025": 112768,
+  "with_nordic_2025": 5678,
+  "nordic_share_2000": 1.53,
+  "nordic_share_2025": 5.04,
+  "nordic_x_since_2000": 3.29,
+  "partners_2025_top10": [
+   [
+    "US",
+    24.56
+   ],
+   [
+    "CN",
+    10.13
+   ],
+   [
+    "GB",
+    9.48
+   ],
+   [
+    "DE",
+    6.26
+   ],
+   [
+    "FR",
+    5.96
+   ],
+   [
+    "AU",
+    5.44
+   ],
+   [
+    "NORDIC",
+    5.04
+   ],
+   [
+    "IT",
+    4.38
+   ],
+   [
+    "ES",
+    3.82
+   ],
+   [
+    "NL",
+    3.44
+   ]
+  ],
+  "nordic_rank_2025": 7,
+  "nordic_countries_2025": {
+   "SE": 2.27,
+   "DK": 1.85,
+   "NO": 1.33,
+   "FI": 1.0,
+   "IS": 0.13,
+   "GL": 0.04,
+   "FO": 0.01
+  },
+  "x_since_2000": {
+   "NORDIC": 3.29,
+   "GB": 2.86,
+   "DE": 2.93,
+   "FR": 2.29,
+   "AU": 3.78,
+   "NL": 4.59
+  },
+  "international_share": {
+   "2000": 30.22,
+   "2025": 56.14
+  }
+ },
+ "nordic_side": {
+  "2000": {
+   "nordic_articles": 34605,
+   "with_canada": 563,
+   "canada_share": 1.63,
+   "canada_rank": 8,
+   "top12": [
+    [
+     "US",
+     9.7
+    ],
+    [
+     "GB",
+     5.3
+    ],
+    [
+     "DE",
+     4.7
+    ],
+    [
+     "FR",
+     2.9
+    ],
+    [
+     "IT",
+     2.1
+    ],
+    [
+     "NL",
+     2.0
+    ],
+    [
+     "RU",
+     2.0
+    ],
+    [
+     "CA",
+     1.6
+    ],
+    [
+     "JP",
+     1.6
+    ],
+    [
+     "CH",
+     1.4
+    ],
+    [
+     "ES",
+     1.2
+    ],
+    [
+     "BE",
+     1.1
+    ]
+   ]
+  },
+  "2025": {
+   "nordic_articles": 114299,
+   "with_canada": 5678,
+   "canada_share": 4.97,
+   "canada_rank": 11,
+   "top12": [
+    [
+     "US",
+     16.2
+    ],
+    [
+     "GB",
+     14.3
+    ],
+    [
+     "DE",
+     12.2
+    ],
+    [
+     "CN",
+     8.6
+    ],
+    [
+     "IT",
+     7.8
+    ],
+    [
+     "FR",
+     7.0
+    ],
+    [
+     "NL",
+     6.9
+    ],
+    [
+     "ES",
+     6.8
+    ],
+    [
+     "AU",
+     5.1
+    ],
+    [
+     "CH",
+     5.1
+    ],
+    [
+     "CA",
+     5.0
+    ],
+    [
+     "BE",
+     3.8
+    ]
+   ]
+  }
+ },
+ "greenland_2021_2025": {
+  "articles": 836,
+  "with_canada": 217,
+  "canada_share": 25.96,
+  "top_partners": [
+   [
+    "DK",
+    588
+   ],
+   [
+    "CA",
+    217
+   ],
+   [
+    "NO",
+    199
+   ],
+   [
+    "US",
+    196
+   ]
+  ]
+ },
+ "consortia": {
+  "joint_2021_2025_all": 25973,
+  "joint_2021_2025_le10": 20973,
+  "share_with_11plus_countries": 19.2,
+  "le10_x_since_2000": {
+   "NORDIC": 2.64,
+   "GB": 2.51,
+   "DE": 2.44
+  },
+  "le10_share": {
+   "NORDIC": [
+    1.53,
+    4.04
+   ],
+   "GB": [
+    3.27,
+    8.2
+   ],
+   "DE": [
+    2.1,
+    5.12
+   ]
+  }
+ },
+ "arctic_canada": {
+  "2000": {
+   "articles": 378,
+   "with_nordic": 34,
+   "nordic_share": 8.99,
+   "US_share": 21.43,
+   "GB_share": 4.76,
+   "DE_share": 1.85,
+   "FR_share": 2.12
+  },
+  "2016": {
+   "articles": 1116,
+   "with_nordic": 188,
+   "nordic_share": 16.85,
+   "US_share": 24.01,
+   "GB_share": 9.32,
+   "DE_share": 7.71,
+   "FR_share": 6.9
+  },
+  "2017": {
+   "articles": 1029,
+   "with_nordic": 168,
+   "nordic_share": 16.33,
+   "US_share": 24.68,
+   "GB_share": 10.5,
+   "DE_share": 7.77,
+   "FR_share": 6.22
+  },
+  "2018": {
+   "articles": 1155,
+   "with_nordic": 203,
+   "nordic_share": 17.58,
+   "US_share": 24.07,
+   "GB_share": 9.52,
+   "DE_share": 7.53,
+   "FR_share": 7.53
+  },
+  "2019": {
+   "articles": 1177,
+   "with_nordic": 198,
+   "nordic_share": 16.82,
+   "US_share": 25.74,
+   "GB_share": 10.45,
+   "DE_share": 8.84,
+   "FR_share": 7.39
+  },
+  "2020": {
+   "articles": 1250,
+   "with_nordic": 244,
+   "nordic_share": 19.52,
+   "US_share": 25.84,
+   "GB_share": 11.44,
+   "DE_share": 9.68,
+   "FR_share": 9.04
+  },
+  "2021": {
+   "articles": 1347,
+   "with_nordic": 255,
+   "nordic_share": 18.93,
+   "US_share": 28.21,
+   "GB_share": 11.73,
+   "DE_share": 9.35,
+   "FR_share": 7.8
+  },
+  "2022": {
+   "articles": 1209,
+   "with_nordic": 223,
+   "nordic_share": 18.44,
+   "US_share": 28.87,
+   "GB_share": 11.08,
+   "DE_share": 9.43,
+   "FR_share": 7.28
+  },
+  "2023": {
+   "articles": 1126,
+   "with_nordic": 210,
+   "nordic_share": 18.65,
+   "US_share": 24.25,
+   "GB_share": 11.55,
+   "DE_share": 8.7,
+   "FR_share": 9.33
+  },
+  "2024": {
+   "articles": 1114,
+   "with_nordic": 203,
+   "nordic_share": 18.22,
+   "US_share": 24.78,
+   "GB_share": 9.16,
+   "DE_share": 7.18,
+   "FR_share": 7.81
+  },
+  "2025": {
+   "articles": 1259,
+   "with_nordic": 207,
+   "nordic_share": 16.44,
+   "US_share": 24.86,
+   "GB_share": 10.88,
+   "DE_share": 8.82,
+   "FR_share": 6.59
+  }
+ },
+ "arctic_vs_all_2025_ratio": 3.26,
+ "arctic_nordic_side": {
+  "2021": {
+   "articles": 1941,
+   "RU_share": 9.17,
+   "CA_share": 13.14,
+   "DE_share": 14.06,
+   "CN_share": 5.51
+  },
+  "2025": {
+   "articles": 1705,
+   "RU_share": 3.58,
+   "CA_share": 12.14,
+   "DE_share": 17.36,
+   "CN_share": 7.62
+  }
+ },
+ "nordic_share_of_world_arctic": {
+  "2021-2025": 16.85,
+  "2016-2025": 17.56
+ },
+ "fields_le10": [
+  [
+   "Earth and Planetary Sciences",
+   8.13,
+   1213,
+   14919
+  ],
+  [
+   "Physics and Astronomy",
+   5.93,
+   1100,
+   18538
+  ],
+  [
+   "Environmental Science",
+   5.85,
+   1836,
+   31394
+  ],
+  [
+   "Biochemistry, Genetics and Molecular Biology",
+   5.58,
+   1341,
+   24041
+  ],
+  [
+   "Immunology and Microbiology",
+   4.93,
+   347,
+   7044
+  ],
+  [
+   "Medicine",
+   4.83,
+   6862,
+   142198
+  ],
+  [
+   "Agricultural and Biological Sciences",
+   4.23,
+   969,
+   22903
+  ],
+  [
+   "Neuroscience",
+   4.16,
+   573,
+   13789
+  ],
+  [
+   "Health Professions",
+   4.12,
+   439,
+   10653
+  ],
+  [
+   "Veterinary",
+   4.03,
+   44,
+   1091
+  ],
+  [
+   "Nursing",
+   3.79,
+   161,
+   4253
+  ],
+  [
+   "Decision Sciences",
+   3.75,
+   199,
+   5300
+  ],
+  [
+   "Business, Management and Accounting",
+   3.67,
+   357,
+   9737
+  ],
+  [
+   "Dentistry",
+   3.3,
+   76,
+   2303
+  ],
+  [
+   "Materials Science",
+   3.16,
+   416,
+   13181
+  ],
+  [
+   "Computer Science",
+   3.09,
+   664,
+   21457
+  ],
+  [
+   "Psychology",
+   2.98,
+   698,
+   23459
+  ],
+  [
+   "Pharmacology, Toxicology and Pharmaceutics",
+   2.97,
+   56,
+   1883
+  ],
+  [
+   "Chemical Engineering",
+   2.71,
+   85,
+   3141
+  ],
+  [
+   "Energy",
+   2.49,
+   186,
+   7468
+  ],
+  [
+   "Mathematics",
+   2.45,
+   283,
+   11563
+  ],
+  [
+   "Chemistry",
+   2.35,
+   176,
+   7481
+  ],
+  [
+   "Social Sciences",
+   2.27,
+   1396,
+   61406
+  ],
+  [
+   "Economics, Econometrics and Finance",
+   2.27,
+   192,
+   8452
+  ],
+  [
+   "Engineering",
+   2.2,
+   1100,
+   50022
+  ],
+  [
+   "Arts and Humanities",
+   1.15,
+   179,
+   15593
+  ]
+ ],
+ "fields_all_papers": [
+  [
+   "Physics and Astronomy",
+   11.17,
+   2251,
+   20150
+  ],
+  [
+   "Earth and Planetary Sciences",
+   9.11,
+   1377,
+   15117
+  ],
+  [
+   "Environmental Science",
+   7.17,
+   2293,
+   32000
+  ],
+  [
+   "Biochemistry, Genetics and Molecular Biology",
+   6.84,
+   1675,
+   24473
+  ],
+  [
+   "Medicine",
+   6.03,
+   8783,
+   145629
+  ],
+  [
+   "Immunology and Microbiology",
+   5.64,
+   402,
+   7127
+  ],
+  [
+   "Agricultural and Biological Sciences",
+   4.86,
+   1125,
+   23131
+  ],
+  [
+   "Neuroscience",
+   4.6,
+   638,
+   13871
+  ],
+  [
+   "Nursing",
+   4.54,
+   195,
+   4297
+  ],
+  [
+   "Health Professions",
+   4.51,
+   483,
+   10714
+  ],
+  [
+   "Decision Sciences",
+   4.41,
+   236,
+   5352
+  ],
+  [
+   "Veterinary",
+   4.38,
+   48,
+   1097
+  ],
+  [
+   "Dentistry",
+   4.17,
+   97,
+   2327
+  ],
+  [
+   "Business, Management and Accounting",
+   3.94,
+   385,
+   9775
+  ],
+  [
+   "Pharmacology, Toxicology and Pharmaceutics",
+   3.84,
+   73,
+   1902
+  ],
+  [
+   "Psychology",
+   3.61,
+   855,
+   23699
+  ],
+  [
+   "Computer Science",
+   3.36,
+   724,
+   21539
+  ],
+  [
+   "Materials Science",
+   3.22,
+   425,
+   13193
+  ],
+  [
+   "Chemical Engineering",
+   2.71,
+   85,
+   3141
+  ],
+  [
+   "Mathematics",
+   2.61,
+   302,
+   11590
+  ],
+  [
+   "Energy",
+   2.61,
+   195,
+   7479
+  ],
+  [
+   "Social Sciences",
+   2.54,
+   1568,
+   61674
+  ],
+  [
+   "Economics, Econometrics and Finance",
+   2.5,
+   212,
+   8488
+  ],
+  [
+   "Chemistry",
+   2.43,
+   182,
+   7488
+  ],
+  [
+   "Engineering",
+   2.27,
+   1136,
+   50074
+  ],
+  [
+   "Arts and Humanities",
+   1.25,
+   195,
+   15614
+  ]
+ ],
+ "institutions_top3": {
+  "all": {
+   "CA": [
+    [
+     "University of Toronto",
+     5131
+    ],
+    [
+     "University of British Columbia",
+     3646
+    ],
+    [
+     "McGill University",
+     3015
+    ],
+    [
+     "University of Alberta",
+     2104
+    ]
+   ],
+   "DK": [
+    [
+     "University of Copenhagen",
+     3270
+    ],
+    [
+     "Aarhus University",
+     1852
+    ],
+    [
+     "Rigshospitalet",
+     1259
+    ],
+    [
+     "University of Southern Denmark",
+     1170
+    ]
+   ],
+   "SE": [
+    [
+     "Karolinska Institutet",
+     2614
+    ],
+    [
+     "Uppsala University",
+     1866
+    ],
+    [
+     "Lund University",
+     1831
+    ],
+    [
+     "University of Gothenburg",
+     1594
+    ]
+   ],
+   "NO": [
+    [
+     "University of Oslo",
+     2159
+    ],
+    [
+     "University of Bergen",
+     1154
+    ],
+    [
+     "Oslo University Hospital",
+     970
+    ],
+    [
+     "Norwegian University of Science and Technology",
+     868
+    ]
+   ],
+   "GL": [
+    [
+     "Grønlands Naturinstitut",
+     181
+    ],
+    [
+     "Ilisimatusarfik",
+     28
+    ],
+    [
+     "Greenland Government",
+     5
+    ],
+    [
+     "Queen Ingrid's Hospital",
+     4
+    ]
+   ]
+  },
+  "arctic": {
+   "CA": [
+    [
+     "Environment and Climate Change Canada",
+     164
+    ],
+    [
+     "University of Manitoba",
+     156
+    ],
+    [
+     "Fisheries and Oceans Canada",
+     141
+    ],
+    [
+     "Centre for Earth Observation Science",
+     121
+    ]
+   ],
+   "DK": [
+    [
+     "Aarhus University",
+     233
+    ],
+    [
+     "University of Copenhagen",
+     160
+    ],
+    [
+     "Geological Survey of Denmark and Greenland",
+     62
+    ],
+    [
+     "Technical University of Denmark",
+     49
+    ]
+   ],
+   "SE": [
+    [
+     "Stockholm University",
+     78
+    ],
+    [
+     "Swedish University of Agricultural Sciences",
+     55
+    ],
+    [
+     "Uppsala University",
+     45
+    ],
+    [
+     "University of Gothenburg",
+     45
+    ]
+   ],
+   "NO": [
+    [
+     "UiT The Arctic University of Norway",
+     189
+    ],
+    [
+     "Norwegian Polar Institute",
+     107
+    ],
+    [
+     "University of Oslo",
+     106
+    ],
+    [
+     "Norwegian Institute for Nature Research",
+     73
+    ]
+   ],
+   "GL": [
+    [
+     "Grønlands Naturinstitut",
+     147
+    ],
+    [
+     "Ilisimatusarfik",
+     25
+    ],
+    [
+     "Greenland Government",
+     5
+    ],
+    [
+     "Queen Ingrid's Hospital",
+     3
+    ]
+   ]
+  }
+ },
+ "priority_areas_2021_2025": {
+  "all": {
+   "name": "All articles",
+   "canada_side_le10": 3.9,
+   "nordic_side_le10": 3.8,
+   "joint_le10": 20973,
+   "joint_all_2016_2020": 19428,
+   "joint_all_2021_2025": 25973,
+   "canada_growth": 1.1,
+   "canada_share_of_world": 1.8,
+   "nordic_side_all": 4.7,
+   "x_overall_rate": 1.0
+  },
+  "arctic": {
+   "name": "The Arctic and the North",
+   "canada_side_le10": 17.1,
+   "nordic_side_le10": 11.9,
+   "joint_le10": 1024,
+   "joint_all_2016_2020": 1001,
+   "joint_all_2021_2025": 1098,
+   "canada_growth": 1.06,
+   "canada_share_of_world": 11.7,
+   "nordic_side_all": 12.6,
+   "x_overall_rate": 4.36
+  },
+  "climate": {
+   "name": "Climate and atmosphere",
+   "canada_side_le10": 9.4,
+   "nordic_side_le10": 7.0,
+   "joint_le10": 778,
+   "joint_all_2016_2020": 882,
+   "joint_all_2021_2025": 1012,
+   "canada_growth": 1.11,
+   "canada_share_of_world": 3.5,
+   "nordic_side_all": 8.8,
+   "x_overall_rate": 2.39
+  },
+  "oceans": {
+   "name": "Oceans and fisheries",
+   "canada_side_le10": 10.2,
+   "nordic_side_le10": 6.5,
+   "joint_le10": 350,
+   "joint_all_2016_2020": 395,
+   "joint_all_2021_2025": 404,
+   "canada_growth": 0.98,
+   "canada_share_of_world": 2.8,
+   "nordic_side_all": 7.4,
+   "x_overall_rate": 2.6
+  },
+  "wildfire": {
+   "name": "Wildfire",
+   "canada_side_le10": 7.9,
+   "nordic_side_le10": 17.5,
+   "joint_le10": 45,
+   "joint_all_2016_2020": 31,
+   "joint_all_2021_2025": 53,
+   "canada_growth": 1.2,
+   "canada_share_of_world": 4.9,
+   "nordic_side_all": 19.8,
+   "x_overall_rate": 2.01
+  },
+  "indigenous": {
+   "name": "Indigenous health and communities",
+   "canada_side_le10": 2.1,
+   "nordic_side_le10": 15.3,
+   "joint_le10": 57,
+   "joint_all_2016_2020": 29,
+   "joint_all_2021_2025": 57,
+   "canada_growth": 1.38,
+   "canada_share_of_world": 18.6,
+   "nordic_side_all": 15.2,
+   "x_overall_rate": 0.55
+  },
+  "mining": {
+   "name": "Mining and mineral processing",
+   "canada_side_le10": 3.9,
+   "nordic_side_le10": 4.3,
+   "joint_le10": 45,
+   "joint_all_2016_2020": 20,
+   "joint_all_2021_2025": 46,
+   "canada_growth": 1.22,
+   "canada_share_of_world": 2.3,
+   "nordic_side_all": 4.4,
+   "x_overall_rate": 0.98
+  },
+  "mingeo": {
+   "name": "Mineral geology and geochemistry",
+   "canada_side_le10": 5.2,
+   "nordic_side_le10": 9.4,
+   "joint_le10": 22,
+   "joint_all_2016_2020": 13,
+   "joint_all_2021_2025": 22,
+   "canada_growth": 1.21,
+   "canada_share_of_world": 3.7,
+   "nordic_side_all": 9.4,
+   "x_overall_rate": 1.33
+  },
+  "energy": {
+   "name": "Clean energy (incl. nuclear)",
+   "canada_side_le10": 3.0,
+   "nordic_side_le10": 2.5,
+   "joint_le10": 139,
+   "joint_all_2016_2020": 89,
+   "joint_all_2021_2025": 147,
+   "canada_growth": 1.27,
+   "canada_share_of_world": 1.6,
+   "nordic_side_all": 2.6,
+   "x_overall_rate": 0.77
+  },
+  "quantum": {
+   "name": "Quantum technologies",
+   "canada_side_le10": 2.6,
+   "nordic_side_le10": 3.4,
+   "joint_le10": 36,
+   "joint_all_2016_2020": 34,
+   "joint_all_2021_2025": 36,
+   "canada_growth": 1.27,
+   "canada_share_of_world": 3.7,
+   "nordic_side_all": 3.4,
+   "x_overall_rate": 0.65
+  },
+  "ai": {
+   "name": "Artificial intelligence",
+   "canada_side_le10": 2.8,
+   "nordic_side_le10": 3.1,
+   "joint_le10": 174,
+   "joint_all_2016_2020": 73,
+   "joint_all_2021_2025": 190,
+   "canada_growth": 2.07,
+   "canada_share_of_world": 2.0,
+   "nordic_side_all": 3.4,
+   "x_overall_rate": 0.72
+  },
+  "connectivity": {
+   "name": "Networks and connectivity",
+   "canada_side_le10": 2.6,
+   "nordic_side_le10": 3.5,
+   "joint_le10": 74,
+   "joint_all_2016_2020": 84,
+   "joint_all_2021_2025": 77,
+   "canada_growth": 1.03,
+   "canada_share_of_world": 2.2,
+   "nordic_side_all": 3.7,
+   "x_overall_rate": 0.66
+  },
+  "spacesci": {
+   "name": "Space science (ionosphere and magnetosphere)",
+   "canada_side_le10": 17.5,
+   "nordic_side_le10": 7.9,
+   "joint_le10": 87,
+   "joint_all_2016_2020": 70,
+   "joint_all_2021_2025": 97,
+   "canada_growth": 1.12,
+   "canada_share_of_world": 3.7,
+   "nordic_side_all": 8.7,
+   "x_overall_rate": 4.45
+  },
+  "spacetech": {
+   "name": "Space and satellite technology",
+   "canada_side_le10": 2.0,
+   "nordic_side_le10": 4.5,
+   "joint_le10": 10,
+   "joint_all_2016_2020": 23,
+   "joint_all_2021_2025": 11,
+   "canada_growth": 1.48,
+   "canada_share_of_world": 2.7,
+   "nordic_side_all": 4.9,
+   "x_overall_rate": 0.51
+  },
+  "security": {
+   "name": "Security and defence studies",
+   "canada_side_le10": 8.2,
+   "nordic_side_le10": 2.8,
+   "joint_le10": 23,
+   "joint_all_2016_2020": 21,
+   "joint_all_2021_2025": 24,
+   "canada_growth": 1.04,
+   "canada_share_of_world": 0.7,
+   "nordic_side_all": 2.9,
+   "x_overall_rate": 2.1
+  },
+  "health": {
+   "name": "Medicine (all)",
+   "canada_side_le10": 4.8,
+   "nordic_side_le10": 5.2,
+   "joint_le10": 6856,
+   "joint_all_2016_2020": 6145,
+   "joint_all_2021_2025": 8776,
+   "canada_growth": 1.14,
+   "canada_share_of_world": 2.5,
+   "nordic_side_all": 6.5,
+   "x_overall_rate": 1.23
+  }
+ },
+ "nordforsk_on_joint_2016_2025": {
+  "NordForsk": 138
+ },
+ "funders_on_joint_2021_2025_le10_top6": [
+  [
+   "Natural Sciences and Engineering Research Council of Canada",
+   2648
+  ],
+  [
+   "European Commission",
+   2077
+  ],
+  [
+   "Canadian Institutes of Health Research",
+   1595
+  ],
+  [
+   "Vetenskapsrådet",
+   1520
+  ],
+  [
+   "National Institutes of Health",
+   1458
+  ],
+  [
+   "National Science Foundation",
+   1357
+  ]
+ ],
+ "free_to_read_2024": {
+  "CA": {
+   "articles": 106535,
+   "free_to_read": 74.31,
+   "at_publisher": 64.96,
+   "green_only": 9.35
+  },
+  "DK": {
+   "articles": 31890,
+   "free_to_read": 83.85,
+   "at_publisher": 71.12,
+   "green_only": 12.73
+  },
+  "FI": {
+   "articles": 22295,
+   "free_to_read": 91.6,
+   "at_publisher": 82.54,
+   "green_only": 9.06
+  },
+  "IS": {
+   "articles": 1855,
+   "free_to_read": 80.65,
+   "at_publisher": 71.37,
+   "green_only": 9.27
+  },
+  "NO": {
+   "articles": 25246,
+   "free_to_read": 89.9,
+   "at_publisher": 82.06,
+   "green_only": 7.83
+  },
+  "SE": {
+   "articles": 42024,
+   "free_to_read": 89.07,
+   "at_publisher": 82.72,
+   "green_only": 6.35
+  }
+ }
+}
